@@ -1,6 +1,6 @@
 # Milton Keynes Christian Foundation Limited
 
-**🟠 HIGH** · score **75** · urgency 51 · pipeline 76
+**🟠 HIGH** · score **75** · urgency 55 · pipeline 76
 
 ## Identity
 
@@ -11,12 +11,12 @@
 
 ## Lead-with curriculum
 
-**Confidence & Resilience** (sub-score 51)
+**Employability Skills** (sub-score 55)
 
-- Financial Literacy: 0
-- Employability Skills: 35
-- Confidence & Resilience: 51
-- Online Safety: 27
+- Financial Literacy: 9
+- Employability Skills: 55
+- Confidence & Resilience: 55
+- Online Safety: 46
 
 ## Why this is on the list
 
@@ -41,70 +41,49 @@
 
 _+ 5 earlier inspections in the database._
 
-## Verbatim from the inspector
+## Verbatim from the latest inspection report
 
-Direct quotes from the latest published report. Use these in outreach without paraphrasing.
+Inspection of Milton Keynes Christian Foundation Limited · 2023-10-27 · grade: **🔵 good**.
+[Full report](https://files.ofsted.gov.uk/v1/file/50231591)
 
-### What this school needs to improve
+Direct quotes from the report. Use these in outreach without paraphrasing — they're exactly what the inspector wrote.
 
-> What does the provider need to do to improve further?
->  Improve outcomes for learners by ensuring tutors use a wider range of effective teaching,
-> learning and assessment strategies that raise the quality of training. Improve the performance
-> management of all tutors by setting ambitious targets that are rigorously monitored and secure
-> swift and sustainable improvement to taught sessions. Share existing good practice more
-> systematically to improve quality across the provision.
->  Improve the effectiveness of progress reviews by ensuring all learners are set precise,
-> measureable and time-bound targets which are rigorously monitored, and inform them clearly
-> about their progress and what improvement actions are needed to enhance further their skills
-> and knowledge. Ensure tutors set targets that significantly raise learners’ ambition, improve
-> attendance and support their progress to further education, training and employment
-> opportunities.
->  Further develop the effectiveness of leaders and managers by their better use of the selfassessment process and users’ views to identify and set more challenging operational objectives
-> which include specific, time constrained actions that are systematically monitored. Take timely
-> and speedy remedial action where targets are not achieved within the agreed timescale to
-> improve significantly the pace of improvement.
->  Better promote equality and diversity by providing appropriate update training for staff and
-> ensuring learners’ understanding is effectively raised during taught sessions. Further focus on
-> the introduction of effective improvement initiatives to narrow the achievement gap between
-> males and females.
+### What this provider needs to improve
+
+> What does the provider need to do to improve?
 >
-> Inspection judgements
-> Outcomes for learners
-> Requires improvement
->  Outcomes for learners are satisfactory but require improvement. Pass rates for the health and
-> safety programme are very high and the rate for vocational courses is good. However, learners’
-> achievement of English, mathematics and ICT funct…
+>  Ensure that staff provide sufficient opportunity for level 2 learners to develop their
+> writing skills to support transition to further education.
+>  Ensure that leaders help staff to develop their teaching skills and practice to
+> further develop the quality of education.
+>  Enable learners to reflect on and evidence the wide range of transferrable skills
+> they are developing while working in the social enterprises.
 
-### Areas for improvement
+### Safeguarding
 
-> areas for improvement clearly and reflects
-> inspection judgements. As identified by the provider, the process of using the views of staff and
-> learners to inform the process and contribute effectively to quality improvement is not rigorous
-> or formal enough. The draft self-assessment report does not include sufficient information on
-> the quality of teaching, learning and assessment to inform an evaluation leading to rapid
-> improvement.
->  Good, productive partnership working with the local authority, employers, colleges, schools and
-> agencies has resulted in a curriculum that very effectively meets users’ needs. Building on this,
-> Milton Keynes Christian Foundation has developed appropriate programmes that successfully
-> engage vulnerable learners and those excluded previously or disengaged from education and
-> training. Many of these projects are appropriate first steps into learning, such as those offered
-> by the recycling, construction and social care programmes.
->  Promotion of equality and diversity is satisfactory but too variable and requires improvement.
-> Managers suitably use equality and diversity data as a monitoring tool and deal sensitively and
+> Safeguarding
 >
+> The arrangements for safeguarding are effective.
+
+### What is it like to be a learner here / What does the provider do well
+
+> What is it like to be a learner with this provider?
 >
-> Inspection report: Milton Keynes Christian Foundation Ltd, 11-13 December 2012
-> 5 of 9
+> Learners, many of whom have previously had negative or unsuccessful experiences
+> of education, feel very positive about their time at MKCF. They speak highly of the
+> positive and inclusive community at the provider. They value the staff, who make
+> them feel safe and part of a community that they feel does not judge or stereotype
+> people.
 >
-> promptly with instances of inappropriate behaviour by learners. As identified by the provider, the
-> gap in performance between males and females is too wide, despite the use of various
-> improvement strategies and the concerted efforts of leaders and managers to tackle the
-> shortfall. Checking of learners’ understanding and reinforcement by tutors in learning
-> programmes are not consistently effective and tutors have not received recent updating training
-> to help them develop a deeper appreciation of equality and diversity.
->  Milton Keynes Christian Foundation meets its statutory requirements for safeguarding trainees
-> and its safer recruitment practices are good. Risk management is good and health and safety
-> practices a…
+> Learners benefit from a carefully planned curriculum that motivates them and swiftly
+> re-engages them in learning. They study vocational pathways that provide
+> substantial experience in real-life commercial settings such as farms, nurseries or
+> kitchens. Learners quickly develop the life skills and sector-based knowledge that
+> employers value. Learners following the childcare pathway confidently run activities
+> with children after only a few weeks in the nursery. Learners on the horticulture
+> pathway harvest crops carefully. Learners in the kitchen produce high-quality food
+> orders that reflect customers’ wishes. As a result, they quickly grow in confidence
+> and demonstrate their learning well.
 
 ## Compliance signals
 
@@ -118,23 +97,23 @@ _No high-trigger news matched in the last extraction pass._
 
 Quotes you can drop directly into outreach. Severity drives the score.
 
-- **emp.itp_assessment_weak** (severity 4.0, what_school_needs_to_improve)
+- **emp.itp_assessment_weak** (severity 4.0, what_provider_needs_to_improve)
   >  Leaders and managers monitor targets from appraisals and reviews well, but do not hold all staff to account with sufficient rigour. Targets are helpfully linked to the quality improvement plan; however, individual targets are not always challenging enough to secure improvement at an appropriately timely pace.  Self-assessment is accurate, identifies stren
 
-- **emp.work_experience** (severity 4.0, what_school_needs_to_improve)
+- **emp.work_experience** (severity 4.0, what_provider_needs_to_improve)
   >  Learners’ progress following completion of the programme requires improvement to ensure learners can all fully participate in the available education, employment and training opportunities. The proportion of learners who enter apprenticeship training is improving but is still too low. Learners can gain access to a good range of qualifications and work expe
+
+- **emp.work_experience** (severity 4.0, what_provider_needs_to_improve)
+  > Work experience in the wide range of social enterprise projects provides good opportunities for learners to develop their employability skills, as well as their personal skills and confidence. However, MKCF is aware of the need to develop further links with additional employers to provide wider work experience and progression opportunities.  MKCF provides l
+
+- **emp.work_experience** (severity 4.0, what_provider_needs_to_improve)
+  > They give careful consideration to the needs and interests of learners, local and national priorities and related employment and training opportunities. Productive partnership working enhances and extends opportunities for learners. Work experience in the wide range of social enterprise projects provides good opportunities for learners to develop their emplo
 
 - **cr.disengaged** (severity 3.0, areas_for_improvement)
   >  Good, productive partnership working with the local authority, employers, colleges, schools and agencies has resulted in a curriculum that very effectively meets users’ needs. Building on this, Milton Keynes Christian Foundation has developed appropriate programmes that successfully engage vulnerable learners and those excluded previously or disengaged fro
 
-- **shared.diversity** (severity 2.0, what_school_needs_to_improve)
+- **shared.diversity** (severity 2.0, what_provider_needs_to_improve)
   > The provider addresses harassment and bullying well through a programme of behaviour support that effectively develops learners’ strategies to manage successfully their anger and emotions. However, not all learners have a satisfactory appreciation of diversity. The effectiveness of leadership and management Requires improvement  Milton Keynes Christian Foun
-
-- **shared.diversity** (severity 2.0, what_school_needs_to_improve)
-  > The initial IAG is satisfactory and ensures learners have a good understanding of the requirements of their programme. However, not all learners benefit from effective planning of possible progression opportunities during and prior to leaving their programme.  The promotion of equality and diversity is adequate but requires improvement. The provider address
-
-- **shared.diversity** (severity 2.0, what_school_needs_to_improve)
-  >  Further develop the effectiveness of leaders and managers by their better use of the selfassessment process and users’ views to identify and set more challenging operational objectives which include specific, time constrained actions that are systematically monitored. Take timely and speedy remedial action where targets are not achieved within the agreed t
 
 ---
 

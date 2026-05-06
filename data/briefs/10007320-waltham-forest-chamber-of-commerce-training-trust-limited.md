@@ -13,12 +13,12 @@
 
 ## Lead-with curriculum
 
-**Confidence & Resilience** (sub-score 55)
+**Employability Skills** (sub-score 55)
 
 - Financial Literacy: 0
-- Employability Skills: 44
+- Employability Skills: 55
 - Confidence & Resilience: 55
-- Online Safety: 46
+- Online Safety: 55
 
 ## Why this is on the list
 
@@ -47,82 +47,102 @@
 
 _+ 6 earlier inspections in the database._
 
-## Verbatim from the inspector
+## Verbatim from the latest inspection report
 
-Direct quotes from the latest published report. Use these in outreach without paraphrasing.
+Inspection of Waltham Forest Chamber of Commerce Training Trust Limited · 2022-03-01 · grade: **🔵 good**.
+[Full report](https://files.ofsted.gov.uk/v1/file/50178401)
 
-### What this school needs to improve
+Direct quotes from the report. Use these in outreach without paraphrasing — they're exactly what the inspector wrote.
 
-> What does the provider need to do to improve further?
+### What this provider needs to improve
+
+> What does the provider need to do to improve?
 >
->  Leaders and managers should monitor the quality of teaching and learning at all sites.
-> They should ensure that staff have actions to improve and that they closely monitor these
-> to raise the standard of teaching, learning and assessment.
->  Use the information that staff have on apprentices’ prior experiences and skills to plan
-> and teach activities that support apprentices to achieve. For the most able apprentices,
-> staff should plan activities that challenge them to make more rapid progress.
->  Leaders and managers should ensure that apprentice assessments take place more
-> frequently, in order for apprentices to achieve their qualification within their planned time.
->  Make sure that apprentices attend frequently and on time.
->  Trustees, leaders and managers should set and monitor targets on key areas of
-> performance, including the progress of current apprentices, the proportion of apprentices
-> who complete their qualification within their planned time, and the number of apprentices
-> who achieve qualifications in English and mathematics.
->  Trustees should maintain an overview of the provision and ensure that they support and
-> challenge leaders and managers on the achievement of agreed targets.
->
->
->
->
->
->
->
->
-> Inspection report: Waltham Forest Chamber of Commerce Training Trust Limited, 4–7
-> June 2019
->
-> Page 3 of 9
->
->
->
->
-> Inspection judgements
->
-> Effectiveness of leadership and management Requires improvement
->
->  Since the previous inspection, leaders and managers have not maintained the quality of
-> provision. Performance in all areas inspected has declined. Leaders and managers have
-> not addressed the
+>  Leaders should ensure that apprentices on all programmes are taught a
+> curriculum that extends beyond the requirements of their qualifications, including
+> impartial careers information, advice and guidance.
+>  Staff should provide detailed feedback to apprentices on what they need to
+> improve to ensure that the quality of apprentices’ coursework is consistently high.
+>  Leaders should ensure that apprentices on all programmes receive timely
+> teaching support and their full entitlement to training time to make expected
+> progress.
 
 ### Areas for improvement
 
-> areas for improvement, identified at the previous inspection,
-> sufficiently. They have not maintained all of the strengths identified at the previous
-> inspection.
->  Leaders and managers have a secure understanding of the strengths and weaknesses of
-> the provision. However, strategies to address weaknesses and to develop the provision
-> are not always clear. For example, leaders and managers know that the attendance of
-> apprentices is not high enough, but they do not set out the strategies to address this
-> clearly. As a result, leaders’ and managers’ actions to make improvements have not been
-> rapid enough.
->  Leaders’ and managers’ actions to improve the quality of teaching, learning and
-> assessment are not effective enough. Managers accurately evaluate the quality of training
-> through observations, and tutors have action plans that highlight areas for improvement.
-> However, managers do not follow up on these actions to ensure that tutors make
-> improvements. Managers do not have a good enough overview of the quality of training
-> at their subcontractors. Managers are overly reliant on subcontractors’ own evaluations of
-> the quality of their provision.
->  Leaders and managers do not use data to analyse performance and respond to areas of
-> concern well enough. They pay insufficient detail to apprentices’ progress, and to the
-> quality of teaching, learning and assessment. Leaders and managers do not analyse data
-> by curriculum areas to identify, and take action on, areas of underperformance.
->  Leaders and managers carry out appropriate checks on subcontractors to assess their
-> suitability to deliver the training required. They ceased working with subcontractors when
-> they identified concerns over their performance. Managers use a range of strategies,
-> including audits and reviews, to ensure that subcontractors provide effective support to
-> apprentices.
->  Leaders and managers have established a positive culture in which all staff care for their
-> apprentices. They are c…
+> areas for improvement, such as attendance. Consequently,
+> overall attendance and punctuality are now high. However, they recognise that too
+> many apprentices on electrical apprenticeships do not achieve on time due to high
+> staff turnover. They are taking effective remedial action to address this issue.
+
+### Safeguarding
+
+> Safeguarding
+>
+> The arrangements for safeguarding are effective.
+>
+> Leaders have provided their staff with appropriate training, which includes annual
+> updates on safeguarding and the ‘Prevent’ duty. Leaders have established suitable
+> links with external agencies, such as the local safeguarding partnership and the
+> London ‘Prevent’ duty coordinator, to ensure that they stay up to date with current
+> local and regional risks that their learners may face.
+>
+> Leaders have put in place appropriate safeguarding policies and procedures to
+> ensure the safety and well-being of their apprentices. Staff deal with safeguarding
+> concerns appropriately. They provide effective support to apprentices on issues such
+> as domestic violence and mental health. They share with employers helpful
+> information on different support agencies, such as women’s support groups, to
+> ensure that support is available for apprentices in the workplace.
+>
+> Apprentices have a thorough understanding of health and safety specific to their
+> industries. They demonstrate safe working practices when working with different
+> tools and equipment. For example, apprentices check that they are using the right
+> drill for a particular material, to ensure that it has the correct degree of sharpness
+> and speed before starting to work.
+
+### What is it like to be a learner here / What does the provider do well
+
+> What is it like to be a learner with this provider?
+>
+> Apprentices benefit from studying in a supportive environment in which they feel
+> welcomed and valued. Male and female learners studying apprenticeships in
+> childcare and construction respectively feel included and confident to be themselves
+> in sectors traditionally dominated by the opposite sex.
+>
+> Apprentices feel safe. They trust that staff would not tolerate sexual harassment or
+> homophobic bullying and that they would take effective actions to ensure their
+> safety and well-being. As a result, apprentices have complete confidence to raise
+> any concerns they have with staff.
+>
+> Staff set clear standards and expectations for apprentices’ behaviours at the start of
+> the course. In carpentry and joinery, staff teach apprentices how to work safely and
+> in a way that is considerate of others. As a result, apprentices keep their
+> workstations neat and behave professionally when working on site.
+>
+> In theory lessons, apprentices take useful notes, and are attentive and participate
+> enthusiastically. Staff run practical workshops in a calm and orderly manner.
+> Apprentices go about their tasks efficiently, and they work well independently with
+> precision and skill.
+>
+> Apprentices are respectful, highly motivated and positive. They demonstrate respect
+> for the equipment, machinery and materials they use and are conscious of their
+> colleagues’ time and work. They display good professional behaviours, such as being
+> courteous to customers.
+>
+> What does the provider do well and what does it need to do
+> better?
+>
+> Since the previous inspection, leaders have made notable improvements in how they
+> monitor the performance of their staff, including the quality of their teaching.
+> Leaders have carried out regular reviews with staff, including those at
+> subcontractors, to monitor apprentices’ progress and achievement. As a result, the
+> timely achievements of apprentices across most programmes have improved, as
+> have first-time pass rates in English and mathematics.
+>
+> Staff work effectively with employers to ensure that the training they provide helps
+> apprentices develop the skills, knowledge and behaviours they need to be
+> competent in their job roles. Staff communicate well with employers and adapt the
+> curriculum to meet their needs. For example, they have restructured the electrical
+> installation and maintenance te…
 
 ## Compliance signals
 
@@ -136,23 +156,23 @@ _No high-trigger news matched in the last extraction pass._
 
 Quotes you can drop directly into outreach. Severity drives the score.
 
-- **emp.itp_apprentices_progress_slow** (severity 3.0, safeguarding)
-  >  Leaders and managers have been slow in tackling the gap in achievement between male and female apprentices. The small number of apprentices who have a declared learning difficulty or disability achieve better than those without. Too many apprentices make slow progress. Leaders and managers are not aware, in sufficient detail, of the progress that apprentic
+- **emp.itp_assessment_weak** (severity 4.0, what_provider_needs_to_improve)
+  >  Tutors are appropriately qualified, motivated and have good industry experience which they use well to enhance apprentices’ learning and skills development and develop their professional insight about their work.  Assessment is accurate, reliable and fair; assessments are carefully planned and thorough. Tutors and assessors set targets for apprentices whi
 
-- **emp.itp_apprentices_progress_slow** (severity 3.0, safeguarding)
-  > Quality of teaching, learning and assessment Requires improvement  Staff do not use effective teaching and assessment strategies to enable apprentices to achieve their qualifications within the planned timescales. Staff’s assessment of apprentices, both at the provider and in the workplace, is too infrequent. As a result, too many apprentices make slow prog
+- **os.extremism** (severity 4.0, what_provider_needs_to_improve)
+  > They maintain a supportive environment for all; learners demonstrate respect for each other and their behaviour is good.  Staff have received effective training to ensure they are well aware of the dangers of radicalisation and extremism. This enables them to fulfil their obligations under the ‘Prevent’ duty and to promote learners’ understanding of British
 
-- **cr.attendance_poor** (severity 3.0, safeguarding)
-  > Personal development, behaviour and welfare Requires improvement  Apprentices’ attendance and punctuality at off-the-job training sessions are poor and need improving. Leaders’ and managers’ target for attendance is too low. They do not have a strategy to improve apprentices’ attendance.  Apprentices do not have access to a sufficient range of support to m
+- **os.radicalisation** (severity 4.0, what_provider_needs_to_improve)
+  > They maintain a supportive environment for all; learners demonstrate respect for each other and their behaviour is good.  Staff have received effective training to ensure they are well aware of the dangers of radicalisation and extremism. This enables them to fulfil their obligations under the ‘Prevent’ duty and to promote learners’ understanding of British
 
-- **emp.careers_guidance** (severity 3.0, areas_for_improvement)
-  > They have adapted the curriculum well to respond to local employers’ needs. For example, they developed a new apprenticeship in security installation that directly responds to the needs of employers.  Apprentices benefit from effective careers advice and guidance provided by tutors, liaison officers and employers. As a result, most apprentices remain with t
+- **emp.itp_assessment_weak** (severity 4.0, what_provider_needs_to_improve)
+  > What does the provider need to do to improve further?  Ensure that the quality of teaching, learning and assessment is consistently good across the whole provision by: making sure that all staff provide learners with sufficiently challenging individual learning targets, which not only focus on achievement but are aimed specifically at helping learners to im
 
-- **os.extremism** (severity 2.0, safeguarding)
-  > As a result, they work safely and, when necessary, wear appropriate protective clothing.  Leaders and managers have ensured that apprentices have a good understanding of how to keep themselves safe, including from the risks posed by extremism and radicalisation. Apprentices and staff have received training on the risks posed by gangs, drug trafficking, knif
+- **emp.itp_off_the_job** (severity 4.0, what_provider_needs_to_improve)
+  > Staff and employers plan well for learners’ next step in training and employment. As a result, the majority of learners have a good understanding to the career options available to them and a high number gain employment.  Learners’ attendance at off-the-job training is good and they develop a good awareness of the importance of punctuality and reliability, 
 
-- **os.radicalisation** (severity 2.0, safeguarding)
-  > As a result, they work safely and, when necessary, wear appropriate protective clothing.  Leaders and managers have ensured that apprentices have a good understanding of how to keep themselves safe, including from the risks posed by extremism and radicalisation. Apprentices and staff have received training on the risks posed by gangs, drug trafficking, knif
+- **emp.careers_guidance** (severity 4.0, what_provider_needs_to_improve)
+  > Inspection Report: Waltham Forest Chamber of Commerce Training Trust, 12-15 April 2016 Page 5 of 8 Personal development, behaviour and welfare are good  Staff coordinate information and careers guidance for learners and for those who leave for employment well. Staff and employers plan well for learners’ next step in training and employment. As a result, the
 
 ---
 

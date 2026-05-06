@@ -15,9 +15,9 @@
 
 **Employability Skills** (sub-score 55)
 
-- Financial Literacy: 19
+- Financial Literacy: 21
 - Employability Skills: 55
-- Confidence & Resilience: 52
+- Confidence & Resilience: 55
 - Online Safety: 55
 
 ## Why this is on the list
@@ -46,64 +46,84 @@
 
 _+ 5 earlier inspections in the database._
 
-## Verbatim from the inspector
+## Verbatim from the latest inspection report
 
-Direct quotes from the latest published report. Use these in outreach without paraphrasing.
+Inspection of LAGAT Limited · 2023-07-03 · grade: **🔵 good**.
+[Full report](https://files.ofsted.gov.uk/v1/file/50222028)
 
-### What this school needs to improve
+Direct quotes from the report. Use these in outreach without paraphrasing — they're exactly what the inspector wrote.
 
-> What does the provider need to do to improve further?
->  Ensure that all the actions, including improvements identified at the last inspection, are fully implemented
-> for the benefit of learners by completing a full review. In particular, ensure individual needs of learners
-> are identified and met appropriately during learning sessions.
->  Provide well-planned, good-quality off-the-job training for apprentices to further develop their skills and
-> knowledge and provide adult learners with employment taster sessions to prepare them well for their
-> next steps. Ensure that online resources are up to date and are available to apprentices to develop their
-> skills and knowledge and prepare them well for external tests and assessment.
->  Improve self-assessment and the quality of teaching, learning and assessment by ensuring that all
-> observers of training activities focus and report on the quality of learning as well as teaching. Ensure the
-> records of observations include accurate and evaluative judgements and the action plans following each
-> observation are detailed and implemented well.
->  Ensure that planned improvements in the quality of provision and outcomes for learners are implemented
-> quickly and effectively by:
-> – improving the level of detail and making better use of data and performance reports to monitor the
-> quality of provision
-> – ensuring that targets for improvement are sufficiently challenging, including eliminating gaps in
-> performance between different groups of apprentices and learners.
->  Ensure that the board of directors, as part of its strategic business planning arrangements, swiftly
-> establishes precise and challenging business targets that have a clear focus on standards, performance
-> and quality of the learner experience. Review these challenging targets frequently and take swift action
-> where performance is not improving in line with expectations.
+### What this provider needs to improve
+
+> What does the provider need to do to improve?
 >
->
->
-> Inspection Report: LAGAT Limited, 2–5 February 2016 Page 3 of 11
->
-> Inspection judgements …
+>  Leaders should use apprentices’ starting points effectively, to design training that
+> helps apprentices build on what they already know.
+>  Leaders should review how they monitor attendance, to identify trends and take
+> swift action when issues arise.
+>  Leaders should provide opportunities for all apprentices to access a wellstructured careers education programme so they are aware of the full range of
+> careers available to them.
 
-### Areas for improvement
+### Safeguarding
 
-> Areas for improvement identified at the previous inspection have not been fully rectified. LAGAT has
-> experienced a period of significant change and has implemented a number of actions including the
-> establishment of a new management structure to improve the quality of provision and to strengthen the
-> range of services it offers to learners and employers alike. The new management team work well
-> together, developing a strong culture of teamwork, and they have introduced much-needed changes to
-> strengthen internal systems and processes. For example, leaders and managers have an ambitious vision
-> that all learners and apprentices will complete their qualifications to a high standard. This is
-> communicated well to staff, but they do not have sufficiently challenging and specific targets set to
-> ensure the high standards achieved at the previous inspection have been maintained.
->  Managers and staff have not maintained the standard of quality of teaching, learning and assessment or
-> high level of outcomes for apprentices and their performance has declined over time. Newly appointed
-> managers have begun a more systematic approach to conducting and monitoring observations of
-> teaching, learning and assessment and carrying out checks on the quality of individual learning plans and
-> progress reviews. However, the observation of teaching, learning and assessment is not sufficiently
-> rigorous or evaluative; the system does not focus on learning and learners’ progress sufficiently or record
-> clearly what actions need to be taken to improve teaching and learning. The assessment of the quality of
-> teaching and training sessions is not always accurate.
->  The self-assessment process requires improvement. Managers have not evaluated the quality of the
-> provision accurately and, consequently, the self-assessment report is not sufficiently accurate. For
-> example, while the self-assessment report has benefited from the involvement of staff and uses the views
-> of learners, it does not…
+> Safeguarding
+>
+> The arrangements for safeguarding are effective.
+>
+> Leaders have suitable safeguarding policies and procedures in place. They undertake
+> appropriate pre-employment checks. The designated safeguarding lead, deputies
+> and staff complete relevant training at induction and receive useful annual updates.
+> They use the information from regional ‘Prevent’ coordinators to understand local
+> risk, and use this to inform their work.
+>
+> Apprentices and trainees receive suitable training on safeguarding in induction. They
+> have access to a range of useful resources in newsletters and masterclasses on
+> topics including forced marriage, healthy sexual relationships, knife crime and wellbeing. This supports their understanding of potential risks and how to seek help.
+
+### What is it like to be a learner here / What does the provider do well
+
+> What is it like to be a learner with this provider?
+>
+> Apprentices enjoy their experience with LAGAT. They quickly learn new knowledge,
+> skills and behaviours, which they use well in their roles. Their employers recognise
+> the positive impact the training has on their contribution to the workplace. For
+> example, level 3 business administration apprentices are taught how to use their
+> organisation’s branding to create professionally written reports.
+>
+> Trainees are taught a broad range of employability and life skills, including
+> teamworking, customer services, personal safety, money management and mental
+> health awareness. They take part in useful and relevant activities, for example
+> volunteering at the local food bank and visiting the local magistrates’ court. These
+> activities prepare them well for their work experience placement.
+>
+> Apprentices and trainees benefit from learning in a calm and professional
+> environment. Their trainers and tutors know them well. They understand their
+> support needs and are keen to help them learn.
+>
+> Apprentices and trainees behave well and work hard to achieve good outcomes.
+> They participate well in lessons and complete the work quickly and willingly. They
+> show high levels of dedication and commitment to their course and within the
+> workplace. For example, level 3 business administration apprentices develop their
+> professionalism while on reception duties, firstly by following scripted responses to
+> queries and observing more experienced colleagues. They then become independent
+> with these tasks, and undertake them with the level of professionalism expected by
+> their employer.
+>
+> Staff support apprentices and trainees well to stay safe in work, training and in their
+> personal lives. For example, they learn how to work safely online by reporting or
+> blocking concerning activities on social media. They feel safe at work and during
+> learning sessions.
+>
+> What does the provider do well and what does it need to do
+> better?
+>
+> Managers work well with local employers to design courses that equip apprentices
+> and trainees with the skills and knowledge they need. For example, the level 3 early
+> years educator course includes a license to practise element. This helps to address
+> the recruitment crisis facing the industry.
+>
+> The apprenticeship curriculum is well planned and logically sequenced to enable
+> apprentices to build thei…
 
 ## Compliance signals
 
@@ -117,23 +137,23 @@ _No high-trigger news matched in the last extraction pass._
 
 Quotes you can drop directly into outreach. Severity drives the score.
 
-- **emp.itp_off_the_job** (severity 4.0, what_school_needs_to_improve)
+- **emp.itp_skills_knowledge_gaps** (severity 4.5, apprenticeships)
+  >  Off-the-job training is not well planned and online resources are not used to their full potential to better prepare apprentices and learners for external tests and assessments.  Productive collaboration with the local enterprise partnership (LEP), local authorities and Jobcentre Plus has ensured the provision meets the skills gaps and employment potentia
+
+- **emp.itp_off_the_job** (severity 4.0, what_provider_needs_to_improve)
   >  Ensure that all the actions, including improvements identified at the last inspection, are fully implemented for the benefit of learners by completing a full review. In particular, ensure individual needs of learners are identified and met appropriately during learning sessions.  Provide well-planned, good-quality off-the-job training for apprentices to f
 
-- **os.online_grooming** (severity 3.0, areas_for_improvement)
-  > – Managers and staff take effective actions to counter incidents of bullying and harassment. Learners are vigilant as to how they can protect themselves while online from the dangers of cyber bullying, online grooming and access to inappropriate materials. – Inspectors identified an incident where the organisation did not follow its own procedures with regar
+- **os.extremism** (severity 4.0, what_provider_needs_to_improve)
+  >  Reinforce staff training on British values so that they are able to incorporate discussion of these topics within lessons. Help them to plan teaching and learning activities that make clear the links between these themes and the dangers of radicalisation and extremism.  Increase expectations relating to trainees’ attendance at taught sessions. Monitor the
 
-- **os.cyber_bullying** (severity 3.0, areas_for_improvement)
-  > – Staff are aware of the need to protect learners against radicalisation and have received ‘Prevent’ training and professional development relating to safeguarding. – Managers and staff take effective actions to counter incidents of bullying and harassment. Learners are vigilant as to how they can protect themselves while online from the dangers of cyber bul
+- **os.radicalisation** (severity 4.0, what_provider_needs_to_improve)
+  >  Reinforce staff training on British values so that they are able to incorporate discussion of these topics within lessons. Help them to plan teaching and learning activities that make clear the links between these themes and the dangers of radicalisation and extremism.  Increase expectations relating to trainees’ attendance at taught sessions. Monitor the
 
-- **os.extremism** (severity 3.0, areas_for_improvement)
-  > The majority of apprentices do not have a clear understanding of British values and equality and diversity as these themes are not promoted regularly during reviews.  Apprentices feel safe, are generally aware of their rights and responsibilities and know what to do if they experience any problems. They know how to report incidents of radicalisation or extr
+- **emp.careers_guidance** (severity 4.0, what_provider_needs_to_improve)
+  > The provision of traineeships, apprenticeships and programmes for unemployed adults ensures that LAGAT offers a coherent framework of provision that helps individuals secure and sustain employment, and develop the skills they need to advance in their careers.  Managers have ensured that the careers advice and guidance offered to learners and apprentices are
 
-- **os.extremism** (severity 3.0, areas_for_improvement)
-  > Managers and staff closely monitor employers’ approach to health and safety. Suitable safeguarding policies and procedures are in place and have been updated to include reference to radicalisation and extremism. The designated safeguarding officer is appropriately trained and experienced. – Staff are aware of the need to protect learners against radicalisati
-
-- **os.radicalisation** (severity 3.0, areas_for_improvement)
-  > The majority of apprentices do not have a clear understanding of British values and equality and diversity as these themes are not promoted regularly during reviews.  Apprentices feel safe, are generally aware of their rights and responsibilities and know what to do if they experience any problems. They know how to report incidents of radicalisation or extr
+- **emp.careers_education** (severity 4.0, what_provider_needs_to_improve)
+  >  Leaders should review how they monitor attendance, to identify trends and take swift action when issues arise.  Leaders should provide opportunities for all apprentices to access a wellstructured careers education programme so they are aware of the full range of careers available to them. Inspection report: LAGAT Limited 16 to 18 May 2023 6
 
 ---
 

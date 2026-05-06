@@ -48,11 +48,68 @@
 
 _+ 1 earlier inspection in the database._
 
-## Verbatim from the inspector
+## Verbatim from the latest inspection report
 
-Direct quotes from the latest published report. Use these in outreach without paraphrasing.
+Inspection of Resources (NE) Limited · 2025-08-14 · grade: **🔴 inadequate**.
+[Full report](https://files.ofsted.gov.uk/v1/file/50284648)
 
-### Main findings
+Direct quotes from the report. Use these in outreach without paraphrasing — they're exactly what the inspector wrote.
+
+### What this provider needs to improve
+
+> What does the provider need to do to improve?
+>
+>  Make sure that staff follow safeguarding policies and procedures and complete
+> safeguarding training as a matter of urgency, so that they can be assured that
+> learners and apprentices are safe.
+>  Identify accurately the strengths and weaknesses in the quality of provision and
+> swiftly tackle the latter.
+>  Provide high-quality careers advice and guidance, so that a higher proportion of
+> adult learners progress to employment on completion of their programmes.
+>  Increase the proportion of apprentices who complete their apprenticeships.
+>  Develop tutors’ teaching skills and, where needed, subject knowledge.
+>  Provide effective support for apprentices who have SEND.
+>  Provide well-designed curriculums in all subjects, including English, and in
+> personal development.
+>  Increase attendance on apprenticeships.
+>  Provide appropriate learning environments for learners and apprentices.
+
+### Areas for improvement
+
+> areas for improvement,
+> such as declining achievement rates in English. They been distracted from quality
+> improvement due to prolonged organisational change and financial instability. Many
+> lack a secure grasp of operational issues such as learner numbers, achievement
+> rates and line management responsibilities.
+>
+> Managers at the Newcastle centre have a more accurate view of strengths and
+> weaknesses. They have rightly prioritised increasing the proportion of apprentices
+> who complete their apprenticeships and are taking appropriate action. The new
+> managing director has set out plans for improvement across the wider provision, but
+> these have yet to be implemented.
+
+### Safeguarding
+
+> Safeguarding
+>
+> The arrangements for safeguarding are ineffective.
+>
+> There are systemic weaknesses in safeguarding practice. Staff at the Newcastle site
+> do not follow the provider’s safeguarding policies and procedures. They lack
+> confidence that designated safeguarding leads will take appropriate action and, as a
+> result, they respond inappropriately to serious concerns. Staff at this site also ignore
+> key communications from senior leaders regarding safeguarding training. Inspectors
+> were not assured that learners and apprentices at this site are safe.
+>
+> Safeguarding records are incomplete, disorganised and difficult to access. Leaders
+> struggle to locate critical safeguarding information when key staff are absent.
+> Records relating to staff qualifications are inaccurate.
+>
+> Although leaders and managers provide opportunities for appropriate safeguarding
+> training, including in relation to the risks of radicalisation and extremism, too few
+> staff remember undertaking the training.
+
+### What is it like to be a learner here / What does the provider do well
 
 > What is it like to be a learner with this provider?
 >
@@ -91,128 +148,7 @@ Direct quotes from the latest published report. Use these in outreach without pa
 > What does the provider do well and what does it need to do
 > better?
 >
-> Leaders and managers have not identifi…
-
-### Areas for improvement
-
-> areas for improvement,
-> such as declining achievement rates in English. They been distracted from quality
-> improvement due to prolonged organisational change and financial instability. Many
-> lack a secure grasp of operational issues such as learner numbers, achievement
-> rates and line management responsibilities.
->
-> Managers at the Newcastle centre have a more accurate view of strengths and
-> weaknesses. They have rightly prioritised increasing the proportion of apprentices
-> who complete their apprenticeships and are taking appropriate action. The new
-> managing director has set out plans for improvement across the wider provision, but
-> these have yet to be implemented.
->
->
->
->
->
->
-> Inspection report: Resources (NE) Limited
-> 3 to 6 June 2025
-> 3
->
->
->
-> In too many cases, leaders do not ensure that learners and apprentices study
-> ambitious curriculums. For example, painting and decorating apprentices are not
-> taught about different wallpaper hanging techniques in enough depth and have too
-> few opportunities to practise these skills. Adult learners in beauty therapy are
-> required to complete level 1 courses, even when these are insufficiently challenging.
-> There is no planned curriculum for English. However, hairdressing apprentices
-> benefit from an ambitious, well-tailored curriculum that reflects employers’ needs,
-> including current trends such as perming.
->
-> Leaders and managers do not ensure that the curriculum for construction
-> apprenticeships is planned effectively to allow apprentices to consolidate their
-> learning through practice at work. Employers are not routinely involved in
-> apprentices’ progress reviews, which limits the progress that apprentices make.
->
-> Leaders and managers do not demonstrate a secure understanding of effective
-> teaching. They do not recognise the importance of approaches that help to embed
-> learning in long-term memory. When apprentices struggle to recall learning, leaders
-> typically extend the duration of training rather than improving t…
-
-### What this school needs to improve
-
-> What does the provider need to do to improve?
->
->  Make sure that staff follow safeguarding policies and procedures and complete
-> safeguarding training as a matter of urgency, so that they can be assured that
-> learners and apprentices are safe.
->  Identify accurately the strengths and weaknesses in the quality of provision and
-> swiftly tackle the latter.
->  Provide high-quality careers advice and guidance, so that a higher proportion of
-> adult learners progress to employment on completion of their programmes.
->  Increase the proportion of apprentices who complete their apprenticeships.
->  Develop tutors’ teaching skills and, where needed, subject knowledge.
->  Provide effective support for apprentices who have SEND.
->  Provide well-designed curriculums in all subjects, including English, and in
-> personal development.
->  Increase attendance on apprenticeships.
->  Provide appropriate learning environments for learners and apprentices.
->
->
->
->
->
->
->
->
-> Inspection report: Resources (NE) Limited
-> 3 to 6 June 2025
-> 5
->
->
->
-> Provider details
->
-> Unique reference number 58800
->
-> Address 4th Floor
-> Suite 2
-> CAI Building, Cobalt House
-> North Shields
-> Tyne and Wear
-> NE29 6DE
->
-> Contact number 01915366867
->
-> Website www.resourcesnortheast.co.uk
->
-> Principal, CEO or equivalent Tom Doyle
->
-> Provider type Independent learning provider
->
-> Date of previous inspection 3 to 6 November 2015
->
-> Main subcontractors None
->
->
->
->
->
->
->
-> Inspection report: Resources (NE) Limited
-> 3 to 6 June 2025
-> 6
->
->
->
->
-> Information about this inspection
->
-> The inspection team was assisted by the managing director, as nominee. Inspectors
-> took account of the provider’s most recent self-assessment report and development
-> plans, and the previous inspection report. The inspection was carried out using the
-> further education and skills inspection handbook and took into account all relevant
-> provision at the provider. Inspectors collected a wide range of evidence to inform
-> judgements, including visiting l…
+> Leaders and managers have not identified or tackled key
 
 ## Compliance signals
 
@@ -226,23 +162,23 @@ _No high-trigger news matched in the last extraction pass._
 
 Quotes you can drop directly into outreach. Severity drives the score.
 
-- **emp.careers_guidance** (severity 4.0, what_school_needs_to_improve)
+- **emp.work_experience** (severity 4.0, what_provider_needs_to_improve)
+  > They have very effective employer partnerships and adapt training as necessary, for example by adding a retail unit to the security course to prepare learners well for work as loss prevention officers. Learners can take additional units to supplement their main programme, while apprentices can undertake work experience with another employer to broaden their 
+
+- **emp.itp_off_the_job** (severity 4.0, what_provider_needs_to_improve)
+  >  Leaders and managers should improve the way in which they identify training needs so that all tutors receive the necessary guidance to improve their teaching practice.  Tutors must improve the planning of off-the-job training for construction apprentices so that individuals receive a suitably ambitious curriculum.  Tutors should make better use of the in
+
+- **emp.careers_guidance** (severity 4.0, what_provider_needs_to_improve)
   >  Make sure that staff follow safeguarding policies and procedures and complete safeguarding training as a matter of urgency, so that they can be assured that learners and apprentices are safe.  Identify accurately the strengths and weaknesses in the quality of provision and swiftly tackle the latter.  Provide high-quality careers advice and guidance, so t
 
 - **cr.attendance_poor** (severity 3.0, main_findings)
   > As such, leaders and managers are not meeting their stated aim of helping unemployed or low-skilled adults into work. Apprentices in hairdressing and most adult learners attend well. In contrast, construction apprentices’ attendance is too low. Leaders do not ensure that employers release these apprentices from work to attend training, which hinders their pr
 
-- **cr.personal_development_strengthen** (severity 3.0, personal_development)
-  > Personal development Requires improvement Leadership and management Inadequate Adult learning programmes Requires improvement Apprenticeships Inadequate Overall effectiveness at previous inspection Good
+- **shared.diversity** (severity 2.0, what_provider_needs_to_improve)
+  >  Develop staff capability in English and mathematics so that they are able to challenge learners and apprentices effectively to apply the highest standards in these subjects to their excellent vocational work.  Develop resources for the promotion of equality, diversity and fundamental British values that enable learners and apprentices to challenge their t
 
-- **cr.personal_development** (severity 2.0, what_school_needs_to_improve)
-  >  Develop tutors’ teaching skills and, where needed, subject knowledge.  Provide effective support for apprentices who have SEND.  Provide well-designed curriculums in all subjects, including English, and in personal development.  Increase attendance on apprenticeships.  Provide appropriate learning environments for learners and apprentices. Inspection r
-
-- **os.extremism** (severity 2.0, safeguarding)
-  > Records relating to staff qualifications are inaccurate. Although leaders and managers provide opportunities for appropriate safeguarding training, including in relation to the risks of radicalisation and extremism, too few staff remember undertaking the training.
-
-- **os.radicalisation** (severity 2.0, safeguarding)
-  > Leaders struggle to locate critical safeguarding information when key staff are absent. Records relating to staff qualifications are inaccurate. Although leaders and managers provide opportunities for appropriate safeguarding training, including in relation to the risks of radicalisation and extremism, too few staff remember undertaking the training.
+- **shared.rshe_curriculum** (severity 2.0, what_provider_needs_to_improve)
+  >  Senior leaders work with employers well so that courses meet local employment needs. They have very effective employer partnerships and adapt training as necessary, for example by adding a retail unit to the security course to prepare learners well for work as loss prevention officers. Learners can take additional units to supplement their main programme, 
 
 ---
 

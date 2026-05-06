@@ -1,6 +1,6 @@
 # Avant Partnership Limited
 
-**🟠 HIGH** · score **75** · urgency 30 · pipeline 100
+**🟠 HIGH** · score **75** · urgency 55 · pipeline 100
 
 ## Identity
 
@@ -13,12 +13,12 @@
 
 ## Lead-with curriculum
 
-**Confidence & Resilience** (sub-score 30)
+**Employability Skills** (sub-score 55)
 
 - Financial Literacy: 0
-- Employability Skills: 26
-- Confidence & Resilience: 30
-- Online Safety: 21
+- Employability Skills: 55
+- Confidence & Resilience: 55
+- Online Safety: 55
 
 ## Why this is on the list
 
@@ -47,152 +47,78 @@
 
 _+ 2 earlier inspections in the database._
 
-## Verbatim from the inspector
+## Verbatim from the latest inspection report
 
-Direct quotes from the latest published report. Use these in outreach without paraphrasing.
+Inspection of Avant Partnership Limited · 2023-07-26 · grade: **🔵 good**.
+[Full report](https://files.ofsted.gov.uk/v1/file/50224439)
 
-### Main findings
+Direct quotes from the report. Use these in outreach without paraphrasing — they're exactly what the inspector wrote.
 
-> What is it like to be a learner with this provider?
->
-> Leaders do not have effective arrangements in place to ensure that all apprentices
-> and trainees are safe when at the training provider, in their workplaces and on work
-> experience placements. Although apprentices and trainees report that they feel safe,
-> this is due to the support provided by tutors and not as a result of stringent or wellmanaged processes. Inspectors found an instance where an individual was at
-> serious risk and leaders had not taken appropriate action.
->
-> Apprentices and trainees benefit from extensive opportunities to extend their
-> knowledge, skills and behaviours beyond the planned curriculum. For example, they
-> undertake additional training in relation to their job roles, including courses in first
-> aid, mental health awareness, data protection and specialist software.
->
-> Apprentices and trainees are polite and respectful in learning sessions, and they
-> work well with their peers. They respond positively to work set by tutors and apply
-> themselves with focus when completing activities. For example, plastering
-> apprentices share their knowledge and expertise of working in different settings and
-> provide examples to their peers of best practice in their workplace.
->
-> Most apprentices and trainees attend well and are punctual. They understand that
-> by demonstrating good timekeeping and attendance, they are more likely to succeed
-> at work.
->
-> Staff select and work with employers who they know will support and nurture
-> apprentices and trainees. They facilitate work experience placements for trainees by
-> identifying which employer would suit them best. As a result, trainees enjoy and
-> benefit from their work placements and work well with team members in supportive
-> environments.
->
-> Tutors create an inclusive learning environment in which differences are respected
-> and equality of opportunity is promoted. Construction apprentices understand when
-> ‘banter’ might cross the line and can explain how …
-
-### What this school needs to improve
+### What this provider needs to improve
 
 > What does the provider need to do to improve?
 >
->  Ensure that safeguarding arrangements are effective and that all apprentices and
-> trainees are safe.
->  Monitor the provision at the subcontractor and ensure that the quality of the
-> provision is maintained at all times.
->  Ensure that practical facilities for hairdressing are provided in the Hull area.
+>  Ensure that all apprentices are given suitable careers advice and guidance which
+> supports them in relation to their long-term careers.
+>  Ensure that all apprentices understand the grade outcomes they can achieve as
+> part of their programme.
+>  Ensure that leaders and managers have oversight of all aspects of the quality of
+> provision, in particular the quality of assessment and feedback in all areas of the
+> curriculum.
+
+### Safeguarding
+
+> safeguarding. They know who to report any concerns to and are confident that
+> concerns will be dealt with quickly and appropriately.
 >
+> What does the provider do well and what does it need to do
+> better?
 >
+> Leaders and managers have clear intent for the courses that they offer. They have
+> designed a sensible curriculum to meet the skills needs of the local area, which they
+> review frequently to ensure that it continues to meet needs. They offer a range of
+> programmes and apprenticeships to provide young people, many of whom have
+> previously been disengaged from education, with a much-needed alternative
+> provision where they can progress and flourish. They provide a range of curriculum
+
+### What is it like to be a learner here / What does the provider do well
+
+> What is it like to be a learner with this provider?
 >
+> Learners and apprentices demonstrate high levels of respect for each other and
+> towards staff at the provider and fellow employees in their workplace. They are well
+> behaved in practical and theory lessons, demonstrate positive attitudes and are keen
+> to learn. Learners and apprentices show regard for each other’s opinions and
+> questions.
 >
+> Learners and apprentices are clear about the high expectations set by staff at the
+> provider. They are encouraged to demonstrate professional behaviours, both in the
+> classroom and in their work environment. Learners and apprentices are enthusiastic
+> about their learning. They value the knowledge and skills that they develop and
+> understand that their learning helps to prepare them for work placements and their
+> next steps.
 >
+> Tutors support learners and apprentices effectively to develop their character and
+> confidence. On the level 2 hairdressing programme, apprentices learn how to ask
+> questions of their clients confidently when conducting consultations and completing
+> hairdressing services. Business administration apprentices develop good
+> communication skills and talk confidently to customers. Employers say that
+> apprentices and traineeship learners become valuable members of their team.
 >
+> Learners develop essential personal and social skills as part of the traineeship
+> programme. Leaders and managers target effectively the hardest-to-reach learners
+> and equip them with key attributes needed to be successful. Learners develop their
+> ability to communicate efficiently in the workplace, turn up on time and work as
+> effective team members. They develop the skills to manage their own stress and
+> feelings of self-worth through effective pastoral support.
 >
+> Apprentices develop new knowledge, skills and professional behaviours that help
+> them make a positive contribution in the workplace and fulfil their career aims. They
+> attend well, take pride in their work and conduct themselves in an orderly and
+> professional manner. As a result, apprentices develop the theoretical knowledge and
+> practical skills needed to be successful.
 >
-> Inspection report: Avant Partnership Limited
-> 17 to 20 October 2022
-> 6
->
->
->
-> Provider details
->
-> Unique reference number 58550
->
-> Address Pearl Assurance House
-> George Street
-> Grimsby
-> DN31 1HB
->
-> Contact number 01472 426624
->
-> Website www.avant.ac.uk
->
-> Principal, CEO or equivalent Steve Roe
->
-> Provider type Independent learning provider
->
-> Date of previous inspection 26 and 27 April 2016
->
-> Main subcontractor Orchard Training and Education Limited
->
->
->
->
->
->
->
-> Inspection report: Avant Partnership Limited
-> 17 to 20 October 2022
-> 7
->
->
->
->
-> Information about this inspection
->
-> The inspection team was assisted by the chief executive, as nominee. Inspectors
-> took account of the provider’s most recent self-assessment report and development
-> plans, and the previous inspection report. The inspection was carried out using the
-> further education and skills inspection handbook and took into account all relevant
-> provision at the provider. Inspectors collected a wide range of evidence to inform
-> judgements, including visiting learning sessions, scrutinising learners’ work, seeking
-> the views of learners, staff and other stakeholders, and examining the provider’s
-> documentation and records.
->
-> Inspection team
->
-> Glenise Burrell, lead inspector His Majesty’s Inspector
-> Sarah Lonsdale His Majesty’s Inspector
-> Philippa Firth His Majesty’s Inspector
-> Chloe Rendall His Majesty’s Inspector
-> Anne Tyrell Ofsted Inspector
->
->
->
->
->
->
->
->
-> Inspection report: Avant Partnership Limited
-> 17 to 20 October 2022
-> 8
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
-> The Office for Standards in Education, Children’s Services and Skill…
+> Learners and apprentices feel safe and demonstrate a sound understanding of
 
 ## Compliance signals
 
@@ -206,23 +132,23 @@ _No high-trigger news matched in the last extraction pass._
 
 Quotes you can drop directly into outreach. Severity drives the score.
 
-- **os.radicalisation** (severity 2.0, main_findings)
-  > Leaders recruit staff who have extensive technical knowledge and expertise. They ensure that staff are sufficiently qualified to carry out their role. All staff complete mandatory training on topics that include safeguarding, the risks of sexual abuse and preventing radicalisation. Staff also participate in training related to their specific sectors. For exa
+- **emp.careers_guidance** (severity 4.0, what_provider_needs_to_improve)
+  > What does the provider need to do to improve?  Ensure that all apprentices are given suitable careers advice and guidance which supports them in relation to their long-term careers.  Ensure that all apprentices understand the grade outcomes they can achieve as part of their programme.  Ensure that leaders and managers have oversight of all aspects of the 
 
-- **emp.work_experience** (severity 2.0, main_findings)
-  > For Inspection report: Avant Partnership Limited 17 to 20 October 2022 4 example, apprentices in a social enterprise company take on new roles, leading in areas such as social media, marketing and data protection. Most trainees make good progress during their traineeships. They acquire the basic skills and knowledge that they need to be able to undertake wor
+- **emp.itp_off_the_job** (severity 3.0, areas_for_improvement)
+  > Learners that have progressed from foundation courses enter apprenticeships with a strong sense of community following engagement in a range of charitable projects. Learners have a broad, satisfactory understanding of equality, diversity and safeguarding.  Teaching, learning and assessment are good. Off-the-job training sessions are carefully planned to mee
 
-- **emp.work_experience** (severity 2.0, main_findings)
-  > They understand that by demonstrating good timekeeping and attendance, they are more likely to succeed at work. Staff select and work with employers who they know will support and nurture apprentices and trainees. They facilitate work experience placements for trainees by identifying which employer would suit them best. As a result, trainees enjoy and benefi
+- **emp.itp_off_the_job** (severity 3.0, areas_for_improvement)
+  > Ten per cent of learners are adults following NVQ-only routes. Most learners are apprentices completing certificates and diplomas. All learners are in a work placement or are employed in a diverse range of businesses. Off-the-job training is available as an option. However, most learning and assessment take place in the workplace. Key findings  Outcomes for
 
-- **emp.work_experience** (severity 2.0, main_findings)
-  > What is it like to be a learner with this provider? Leaders do not have effective arrangements in place to ensure that all apprentices and trainees are safe when at the training provider, in their workplaces and on work experience placements. Although apprentices and trainees report that they feel safe, this is due to the support provided by tutors and not a
+- **emp.itp_off_the_job** (severity 3.0, areas_for_improvement)
+  > However, it is currently not in place while the provider re-evaluates the provision. What does Avant need to do to improve further?  Develop a better planning system that ensures learners have a coherent programme including both on- and off-the-job learning, and increase the participation of employers.  Develop a broader range of enrichment activities to e
 
-- **emp.careers_guidance** (severity 2.0, main_findings)
-  > As a result, apprentices and trainees feel confident when taking examinations, and most go on to pass first time. Most construction apprentices are successful at their end-point assessment and gain their construction skills certification scheme cards. Apprentices receive useful careers advice and guidance that helps them to plan their next steps. Most contin
+- **emp.itp_off_the_job** (severity 3.0, areas_for_improvement)
+  > However, some taught sessions seen by inspectors were rather dull and uninspiring and ILT was used insufficiently to promote learning.  Assessment is fair, reliable and timely. Reviews are satisfactory and enable learners to reflect appropriately on their progress. However, the delivery partner is not planning on- and off-the-job training sufficiently to ma
 
-- **cr.resilience** (severity 2.0, main_findings)
-  > For example, they understand that if colleagues on a building site ‘wolf whistle’ at people passing by, this is not acceptable, and they would report it to a supervisor. Apprentices and trainees are supported by their tutors to develop their confidence, character and resilience, which ensures that they are well prepared for employment and their work placemen
+- **cr.self_esteem** (severity 3.0, areas_for_improvement)
+  > Learners also develop good independent thinking and communication skills as well as effective reflective practice. This supports them in evaluating their own progress and making decisions about their futures.  Learners develop in confidence and self-esteem and are able to make informed choices about their learning and employment. They interact fully in sess
 
 ---
 

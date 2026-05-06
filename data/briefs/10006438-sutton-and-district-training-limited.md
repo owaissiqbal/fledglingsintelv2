@@ -1,6 +1,6 @@
 # Sutton and District Training Limited
 
-**🟠 HIGH** · score **95** · urgency 55 · pipeline 99
+**🔴 CRITICAL** · score **95** · urgency 70 · pipeline 99
 
 ## Identity
 
@@ -13,12 +13,12 @@
 
 ## Lead-with curriculum
 
-**Financial Literacy** (sub-score 55)
+**Employability Skills** (sub-score 70)
 
 - Financial Literacy: 55
-- Employability Skills: 55
-- Confidence & Resilience: 55
-- Online Safety: 55
+- Employability Skills: 70
+- Confidence & Resilience: 65
+- Online Safety: 63
 
 ## Why this is on the list
 
@@ -47,11 +47,35 @@
 
 _+ 4 earlier inspections in the database._
 
-## Verbatim from the inspector
+## Verbatim from the latest inspection report
 
-Direct quotes from the latest published report. Use these in outreach without paraphrasing.
+Inspection of Sutton and District Training Limited · 2023-12-14 · grade: **🟠 requires improvement**.
+[Full report](https://files.ofsted.gov.uk/v1/file/50235567)
 
-### Main findings
+Direct quotes from the report. Use these in outreach without paraphrasing — they're exactly what the inspector wrote.
+
+### What this provider needs to improve
+
+> What does the provider need to do to improve?
+>
+>  Make sure that tutors complete professional development that helps them to
+> improve their teaching practice so that learners, including those with SEND,
+> experience high-quality teaching.
+>  Identify learners’ prior knowledge, skills and experience accurately at the start of
+> their courses. Tutors should use this information to adjust their planning and
+> teaching to make certain that learners know and remember more of what they
+> are taught.
+>  Improve the quality of English and mathematics teaching so that learners and
+> apprentices achieve the qualifications they need to complete their programmes or
+> enter into their next steps in education or employment.
+
+### Safeguarding
+
+> Safeguarding
+>
+> The arrangements for safeguarding are effective.
+
+### What is it like to be a learner here / What does the provider do well
 
 > What is it like to be a learner with this provider?
 >
@@ -84,90 +108,13 @@ Direct quotes from the latest published report. Use these in outreach without pa
 > learners have a learning experience that is too variable. For example, staffing
 > disruption has negatively affected the quality of teaching in a minority of creative
 > media and multiskills courses. Not all tutors in these subjects have suitable subject
-> knowledge and teachi…
-
-### What this school needs to improve
-
-> What does the provider need to do to improve?
+> knowledge and teaching expertise.
 >
->  Make sure that tutors complete professional development that helps them to
-> improve their teaching practice so that learners, including those with SEND,
-> experience high-quality teaching.
->  Identify learners’ prior knowledge, skills and experience accurately at the start of
-> their courses. Tutors should use this information to adjust their planning and
-> teaching to make certain that learners know and remember more of what they
-> are taught.
->  Improve the quality of English and mathematics teaching so that learners and
-> apprentices achieve the qualifications they need to complete their programmes or
-> enter into their next steps in education or employment.
->
->
->
->
->
->
-> Inspection report: Sutton and District Training Limited
-> 17 to 20 October 2023
-> 5
->
->
->  Make sure that staff develop clear targets for learners with high needs who have
-> EHC plans, ensuring that tutors can plan effectively for learners to achieve their
-> EHC plan outcomes.
->
->
->
->
->
->
->
-> Inspection report: Sutton and District Training Limited
-> 17 to 20 October 2023
-> 6
->
->
->
-> Provider details
->
-> Unique reference number 54698
->
-> Address Lawn View
-> Grove Park
-> Carshalton High Street
-> Carshalton
-> SM5 3BB
->
-> Contact number 020 8687 5225
->
-> Website suttondistrict.co.uk
->
-> Principal, CEO or equivalent Julie Ingleton
->
-> Provider type Independent learning provider
->
-> Date of previous inspection 21 to 24 February 2017
->
-> Main subcontractors Enemy of Boredom Academy
->
->
->
->
->
->
->
-> Inspection report: Sutton and District Training Limited
-> 17 to 20 October 2023
-> 7
->
->
->
-> Information about this inspection
->
-> The inspection team was assisted by the centre manager, as nominee. Inspectors
-> took account of the provider’s most recent self-assessment report and development
-> plans, and the previous inspection report. The inspection was carried out using the
-> further education and skills inspection handbook and took into account all relevant
-> provision at the provider. Insp…
+> Too many apprentices do not complete their training. Apprentices who stay on their
+> programmes enjoy developing new knowledge and skills that they can subsequently
+> use at work. For example, early years practitioner apprentices learn about planning
+> and preparing healthy meals for children. Employers then give apprentices
+> opportunities to discuss dietary needs and allergies with …
 
 ## Compliance signals
 
@@ -181,23 +128,23 @@ _No high-trigger news matched in the last extraction pass._
 
 Quotes you can drop directly into outreach. Severity drives the score.
 
-- **shared.rshe_curriculum** (severity 2.0, what_school_needs_to_improve)
-  >  Make sure that tutors complete professional development that helps them to improve their teaching practice so that learners, including those with SEND, experience high-quality teaching.  Identify learners’ prior knowledge, skills and experience accurately at the start of their courses. Tutors should use this information to adjust their planning and teachi
+- **emp.itp_completion_below_target** (severity 6.0, what_provider_needs_to_improve)
+  > SDT’s progression routes enable a good number of learners to progress to higher level programmes, including the apprenticeship they deliver on a partner’s behalf. The quality of teaching, learning and assessment Good  Although learners’ historical achievement is low, tutors have improved the quality of teaching, which is generally good. As a result of this,
 
-- **emp.next_steps** (severity 2.0, what_school_needs_to_improve)
-  > Tutors should use this information to adjust their planning and teaching to make certain that learners know and remember more of what they are taught.  Improve the quality of English and mathematics teaching so that learners and apprentices achieve the qualifications they need to complete their programmes or enter into their next steps in education or emplo
+- **emp.work_experience** (severity 4.0, what_provider_needs_to_improve)
+  >  SDT’s programmes are well managed and the transition from foundation learning to study programmes was smooth and successful. Changes made to the structure of the week, subjects being offered, functional skills delivery and increased work experience all meet learners’ and partners’ needs well. Managers and tutors plan quality improvement arrangements cohere
 
-- **emp.work_experience** (severity 2.0, main_findings)
-  > They concentrate on their studies in a calm and purposeful environment. Learners benefit from the close relationship that staff have with community groups and outside agencies. For example, staff arrange visits and relevant work experience for learners at local non-profit cafés and community projects. As a result, learners develop their competence in communi
+- **emp.work_experience** (severity 4.0, what_provider_needs_to_improve)
+  > In a health and social care lesson, for example, learners created good, informative posters on human rights and care legislation which they used to good effect in a whole group discussion.  Learners benefit from a good range of work experience placements that help them develop skills and make informed choices for future employment. SDT’s hairdressing salon 
 
-- **emp.careers_guidance** (severity 2.0, main_findings)
-  > Employers say that apprentices in all subjects become valued members of the workforce as a result of improvements in their confidence, resilience and well-being. Tutors include relevant careers and employability training in the curriculum. Sector specialists and key support workers arrange for learners and apprentices to receive suitable careers advice and g
+- **emp.work_experience** (severity 4.0, what_provider_needs_to_improve)
+  > In SDT’s hairdressing salon, learners respond very well to the high expectations set by tutors and work to professional standards, demonstrating good customer service skills.  Most learners participate in high quality work experience as part of their learning programme where they develop rapidly a range of skills required by employers. They gain good timeke
 
-- **cr.resilience** (severity 2.0, main_findings)
-  > For example, assessors and staff provide opportunities for early years practitioner apprentices to shadow experienced colleagues and undertake supervised interactions with parents. Employers say that apprentices in all subjects become valued members of the workforce as a result of improvements in their confidence, resilience and well-being. Tutors include re
+- **cr.self_esteem** (severity 4.0, what_provider_needs_to_improve)
+  > In many lessons they develop confidence in using and applying the skills they acquire by working in small groups in vocational practical areas. In a building services lesson, for example, learners measured and fixed copper piping accurately and to industrial standards.  Learners, many of whom have low self-esteem or few previous qualifications, develop good
 
-- **shared.rshe_curriculum** (severity 1.0, main_findings)
-  > As a result, learners and apprentices, including those with SEND, can explain their intended destinations, what is available to them and what they need to do to secure those destinations. The majority of learners who complete their courses go on to educational and local employment destinations that meet their interests and aspirations. Governors, who are wel
+- **cr.confidence** (severity 4.0, what_provider_needs_to_improve)
+  > They gain good timekeeping, communication, team working and industry-specific skills which increase their confidence. Learners apply these skills well in a range of personal, social and work contexts.  Many learners begin their course with low confidence and skills in English and mathematics and those that complete functional skills achieve well. The small 
 
 ---
 

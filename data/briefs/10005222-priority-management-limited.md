@@ -1,6 +1,6 @@
 # Priority Management Limited
 
-**🟠 HIGH** · score **78** · urgency 55 · pipeline 78
+**🟠 HIGH** · score **78** · urgency 65 · pipeline 78
 
 ## Identity
 
@@ -11,12 +11,12 @@
 
 ## Lead-with curriculum
 
-**Financial Literacy** (sub-score 55)
+**Confidence & Resilience** (sub-score 65)
 
 - Financial Literacy: 55
 - Employability Skills: 55
-- Confidence & Resilience: 55
-- Online Safety: 55
+- Confidence & Resilience: 65
+- Online Safety: 63
 
 ## Why this is on the list
 
@@ -43,11 +43,33 @@
 
 _+ 1 earlier inspection in the database._
 
-## Verbatim from the inspector
+## Verbatim from the latest inspection report
 
-Direct quotes from the latest published report. Use these in outreach without paraphrasing.
+Inspection of Priority Management Limited · 2025-04-10 · grade: **🟠 requires improvement**.
+[Full report](https://files.ofsted.gov.uk/v1/file/50274400)
 
-### Main findings
+Direct quotes from the report. Use these in outreach without paraphrasing — they're exactly what the inspector wrote.
+
+### What this provider needs to improve
+
+> What does the provider need to do to improve?
+>
+>  Make sure that staff receive sufficient support and pedagogical training to plan,
+> teach and assess learners through an effective curriculum.
+>  Plan and teach an ambitious curriculum that takes account of learners’ prior
+> knowledge and skills.
+>  Improve the oversight and governance of the quality of education and training to
+> take timely and appropriate improvement actions, where needed.
+>  Develop learners’ understanding of the risks associated with radicalisation and
+> extremism where they live and work.
+
+### Safeguarding
+
+> Safeguarding
+>
+> The arrangements for safeguarding are effective.
+
+### What is it like to be a learner here / What does the provider do well
 
 > What is it like to be a learner with this provider?
 >
@@ -85,128 +107,12 @@ Direct quotes from the latest published report. Use these in outreach without pa
 > early years nursery and primary school settings as teaching assistants and
 > educators.
 >
-> Tutors do not use informat…
-
-### What this school needs to improve
-
-> What does the provider need to do to improve?
->
->  Make sure that staff receive sufficient support and pedagogical training to plan,
-> teach and assess learners through an effective curriculum.
->  Plan and teach an ambitious curriculum that takes account of learners’ prior
-> knowledge and skills.
->  Improve the oversight and governance of the quality of education and training to
-> take timely and appropriate improvement actions, where needed.
->  Develop learners’ understanding of the risks associated with radicalisation and
-> extremism where they live and work.
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
-> Inspection report: Priority Management Limited
-> 26 to 27 February and 4 March 2025
-> 5
->
->
-> Provider details
->
-> Unique reference number 54525
->
-> Address
-> Riverside Learning and Education Centre,
-> Hyslop Street
-> Liverpool
-> L8 5UA
->
-> Contact number 01517093637
->
-> Website www.riversidelec.org
->
-> Principal, CEO or equivalent Paul Feaver
->
-> Provider type Independent learning provider
->
-> Date of previous inspection 16 to 18 July 2019
->
-> Main subcontractors NA
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
-> Inspection report: Priority Management Limited
-> 26 to 27 February and 4 March 2025
-> 6
->
->
-> Information about this inspection
->
-> The inspection team was assisted by the centre coordinator, as nominee. Inspectors
-> took account of the provider’s most recent self-assessment report and development
-> plans, and the previous inspection report. The inspection was carried out using the
-> further education and skills inspection handbook and took into account all relevant
-> provision at the provider. Inspectors collected a wide range of evidence to inform
-> judgements including visiting learning sessions, scrutinising learners’ work, seeking
-> the views of learners, staff and other stakeholders, and examining the provider’s
-> documentation and records.
->
-> Inspection team
->
-> Alison Humphreys, lead inspector His Majesty’s Inspector
-> Bev Ramsell His Majesty’s I…
+> Tutors do not use information about learners’ prior knowledge and skills to recognise
+> and take account of their individual starting points. They do not tailor learning well
+> enough when planning the curriculum to meet the needs of learners. For example,
+> learners who have worked in a school or early years setting for a significant period
+> of time before starting their courses, study all aspects of each curriculum unit
+> de…
 
 ## Compliance signals
 
@@ -220,23 +126,23 @@ _No high-trigger news matched in the last extraction pass._
 
 Quotes you can drop directly into outreach. Severity drives the score.
 
-- **os.extremism** (severity 4.0, what_school_needs_to_improve)
-  >  Improve the oversight and governance of the quality of education and training to take timely and appropriate improvement actions, where needed.  Develop learners’ understanding of the risks associated with radicalisation and extremism where they live and work. Inspection report: Priority Management Limited 26 to 27 February and 4 March 2025 5 Provider det
+- **emp.careers_guidance** (severity 4.0, what_provider_needs_to_improve)
+  > They successfully help people into meaningful jobs. As a result of their course, students overcome barriers to employment and are more independent in their communities. Students have access to impartial careers guidance, which enables them to develop clear and realistic plans for their future.  Leaders and managers develop very effective relationships with 
 
-- **os.radicalisation** (severity 4.0, what_school_needs_to_improve)
-  >  Improve the oversight and governance of the quality of education and training to take timely and appropriate improvement actions, where needed.  Develop learners’ understanding of the risks associated with radicalisation and extremism where they live and work. Inspection report: Priority Management Limited 26 to 27 February and 4 March 2025 5 Provider det
+- **cr.disengaged** (severity 4.0, what_provider_needs_to_improve)
+  > Inspection report: Priority Management Limited, 16 to 18 July 2019 Page 3 of 9 Inspection judgements Effectiveness of leadership and management Good  Leaders and trustees aim to support disadvantaged, disengaged and demotivated students in Liverpool. Their vision focuses on providing accessible and inclusive vocational learning programmes. The mission and v
+
+- **cr.self_esteem** (severity 4.0, what_provider_needs_to_improve)
+  >  Trustees and leaders set ambitious targets to achieve the charity’s core objectives. They successfully encourage students, including those from minority groups, from some of the most deprived local areas to participate in education and develop their self-esteem. Students engage in learning and, as a result, can pursue their ambitions and goals.  Equality 
+
+- **os.extremism** (severity 4.0, what_provider_needs_to_improve)
+  >  Improve the oversight and governance of the quality of education and training to take timely and appropriate improvement actions, where needed.  Develop learners’ understanding of the risks associated with radicalisation and extremism where they live and work. Inspection report: Priority Management Limited 26 to 27 February and 4 March 2025 5
+
+- **os.radicalisation** (severity 4.0, what_provider_needs_to_improve)
+  >  Improve the oversight and governance of the quality of education and training to take timely and appropriate improvement actions, where needed.  Develop learners’ understanding of the risks associated with radicalisation and extremism where they live and work. Inspection report: Priority Management Limited 26 to 27 February and 4 March 2025 5
 
 - **emp.itp_curriculum_not_ambitious** (severity 3.0, main_findings)
   > For example, tutors concentrate on whether learners have gathered enough evidence to achieve the qualification as opposed to how successfully they have retained new knowledge and skills and whether they can apply this in their workplace. As a result, the curriculum is not sufficiently ambitious and does not help learners to further extend their knowledge. Tu
-
-- **cr.personal_development_strengthen** (severity 3.0, personal_development)
-  > Personal development Requires improvement Leadership and management Requires improvement Adult learning programmes Requires improvement Overall effectiveness at previous inspection Good
-
-- **os.extremism** (severity 2.0, main_findings)
-  > When learners fall behind, tutors provide suitable support to help them to attend alternative training sessions. Too many learners have a limited understanding of the risks of radicalisation and extremism and how these risks could relate to their lives and the world around them, including when at work. This is because they are not provided with sufficient tr
-
-- **os.radicalisation** (severity 2.0, main_findings)
-  > They appreciate the care that tutors provide when they face personal difficulties that impact on their learning. When learners fall behind, tutors provide suitable support to help them to attend alternative training sessions. Too many learners have a limited understanding of the risks of radicalisation and extremism and how these risks could relate to their 
 
 ---
 

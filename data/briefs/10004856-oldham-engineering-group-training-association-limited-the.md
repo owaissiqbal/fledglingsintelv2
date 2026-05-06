@@ -1,6 +1,6 @@
 # Oldham Engineering Group Training Association Limited (The)
 
-**🟠 HIGH** · score **75** · urgency 42 · pipeline 100
+**🟠 HIGH** · score **75** · urgency 55 · pipeline 100
 
 ## Identity
 
@@ -13,12 +13,12 @@
 
 ## Lead-with curriculum
 
-**Employability Skills** (sub-score 42)
+**Employability Skills** (sub-score 55)
 
 - Financial Literacy: 0
-- Employability Skills: 42
-- Confidence & Resilience: 42
-- Online Safety: 29
+- Employability Skills: 55
+- Confidence & Resilience: 55
+- Online Safety: 55
 
 ## Why this is on the list
 
@@ -46,51 +46,73 @@
 
 _+ 5 earlier inspections in the database._
 
-## Verbatim from the inspector
+## Verbatim from the latest inspection report
 
-Direct quotes from the latest published report. Use these in outreach without paraphrasing.
+Inspection of Oldham Engineering Group Training Association Limited (The) · 2024-10-09 · grade: **🔵 good**.
+[Full report](https://files.ofsted.gov.uk/v1/file/50258933)
 
-### Main findings
+Direct quotes from the report. Use these in outreach without paraphrasing — they're exactly what the inspector wrote.
 
-> What is it like to be a learner with this provider?
->
-> Apprentices improve their confidence and resilience as a direct result of their
-> apprenticeship. They make a positive contribution in the workplace as they
-> confidently and professionally complete tasks with increasing independence. Level 3
-> engineering apprentices skilfully maintain machinery by accurately identifying and
-> correcting faults. Level 3 business administrator apprentices confidently speak to
-> difficult customers by remaining calm and professional.
->
-> Most apprentices incrementally develop the appropriate knowledge, skills and
-> behaviours they need to be successful in their roles. Level 3 maintenance and
-> operations engineering technician apprentices skilfully change machine blades, and
-> grease and tension machines. This results in a significant number of apprentices
-> gaining additional duties or promotion, or progressing to higher learning. Conversely,
-> level 3 business administrator apprentices do not always develop the substantial
-> new knowledge, skills and behaviours they need to make the required progress to
-> complete their apprenticeship.
->
-> Apprentices have a very positive attitude to learning. They are motivated to learn
-> and see the benefit of their apprenticeship. Apprentices recognise how the
-> apprenticeship helps with their career progression at work. Apprentices attend well
-> and are punctual for their planned training.
->
-> Apprentices develop their English and mathematical skills as a result of their
-> apprenticeships. They use these skills proficiently to communicate with colleagues
-> and customers with an increasing level of professionalism. For example, level 3
-> business administrator apprentices write business communications and calculate
-> annual expenditure costs.
->
-> Apprentices feel safe and are safe. They have a good understanding of health and
-> safety and know how to work safely at work. Apprentices know who to contact and
-> how to report concerns they may have. While most apprentic…
-
-### What this school needs to improve
+### What this provider needs to improve
 
 > What does the provider need to do to improve?
 >
->  Leaders and managers should ensure that they prioritise the implementation of
-> effective quality assurance processes so that they can accurately identify the
+>  Ensure that machining technician apprentices, who have made slow progress,
+> catch up quickly.
+>  Ensure that tutors consistently provide developmental feedback on apprentices’
+> written work so that apprentices improve their written English skills.
+>  Ensure that all apprentices benefit from effective careers advice and guidance.
+>  Increase the number of apprentices who remain and achieve their apprenticeship
+> on time.
+
+### Safeguarding
+
+> Safeguarding
+>
+> The arrangements for safeguarding are effective.
+
+### What is it like to be a learner here / What does the provider do well
+
+> What is it like to be a learner with this provider?
+>
+> Apprentices develop substantial new knowledge, skills and behaviours because of
+> their apprenticeship training, enabling them to make good progress in the
+> workplace. MOET apprentices interpret wiring diagrams and explain their
+> understanding of 3-phase motor systems. This has increased their confidence in
+> working on motors in the workplace. Engineering fitter apprentices build and
+> maintain vacuum metallisers that are used to print currency. They complete
+> maintenance on aircraft doors, rudders and components.
+>
+> Apprentices develop their character, confidence and competence as early career
+> engineers. They complete tasks independently, plan their own work schedules and
+> work as part of a team in the workplace. Apprentices develop their knowledge of
+> health and safety and apply appropriate behaviours in training and at work. They
+> learn advanced skills in electrical fault finding, such as half-splitting circuits to
+> narrow down the location of the fault. Apprentices become valued employees.
+>
+> Most apprentices are proud of their work and produce showcase portfolios of a high
+> standard. They enjoy their training and demonstrate positive attitudes to learning.
+> Apprentices’ attendance at work and in training is high.
+>
+> Apprentices learn in an inclusive and positive environment. There is a culture of
+> mutual respect between tutors and apprentices. Apprentices learn how to keep
+> themselves safe at work, online and socially. They know who to contact with any
+> concerns about their safety and welfare.
+>
+>
+> What does the provider do well and what does it need to do
+> better?
+>
+> Leaders set high expectations and articulate a clear vision to provide high-quality
+> training for their apprentices. They have made significant changes to staffing and
+> have used performance management effectively to increase the pace of
+> improvement to the quality of training since the previous inspection and monitoring
+> visit. Staff unwilling, or unable, to improve have exited the organisation. Leaders
+> now ensure that they offer ambitious curriculums to meet the skills needs of
+> employers and apprentices in the engineering sector.
+>
+> Leaders and managers have strengthened and implemented effective quality
+> assurance and improvement processes to secure an improving oversight of the
 
 ## Compliance signals
 
@@ -104,23 +126,23 @@ _No high-trigger news matched in the last extraction pass._
 
 Quotes you can drop directly into outreach. Severity drives the score.
 
-- **emp.itp_curriculum_not_ambitious** (severity 3.0, safeguarding)
-  > Leaders and managers have not ensured that all apprentices receive a consistently high-quality education. There are too many inconsistencies within the different engineering pathways, such as electrical and manufacturing. The non-engineering curriculum is not ambitious enough to enable apprentices to achieve their full potential. Inspection report: Oldham En
+- **emp.careers_guidance** (severity 4.0, what_provider_needs_to_improve)
+  >  Ensure that tutors consistently provide developmental feedback on apprentices’ written work so that apprentices improve their written English skills.  Ensure that all apprentices benefit from effective careers advice and guidance.  Increase the number of apprentices who remain and achieve their apprenticeship on time. Inspection report: Oldham Engineerin
 
-- **os.extremism** (severity 2.0, safeguarding)
-  > safeguarding and the ‘Prevent’ duty, staff do not routinely reinforce apprentices’ understanding of British values, the ‘Prevent’ duty and the risks relating to radicalisation and extremism. What does the provider do well and what does it need to do better? Leaders and managers have a clear rationale to provide apprenticeships for the employers that they ser
+- **emp.itp_off_the_job** (severity 3.0, apprenticeships)
+  > There is no visual display of progress against time to help learners understand their overall progress. Progress reviews rarely mention actual skills achieved by learners at work. Aspects of personal development, and achievements from the off-the-job training, are not referred to during progress reviews. Aspects of this weakness were identified at the previo
 
-- **os.radicalisation** (severity 2.0, safeguarding)
-  > safeguarding and the ‘Prevent’ duty, staff do not routinely reinforce apprentices’ understanding of British values, the ‘Prevent’ duty and the risks relating to radicalisation and extremism. What does the provider do well and what does it need to do better? Leaders and managers have a clear rationale to provide apprenticeships for the employers that they ser
+- **emp.itp_off_the_job** (severity 3.0, apprenticeships)
+  > Where necessary, OTC has helped learners to move to different companies to help them achieve their apprenticeships. Formal additional learning support is particularly good. Currently, nine learners have been identified with additional learning needs. These learners are very well supported during off-the-job training by the essential skills tutor, and in the 
 
-- **emp.itp_assessment_weak** (severity 2.0, safeguarding)
-  > Inspection report: Oldham Engineering Group Training Association Limited (The) 23 to 26 August 2022 3 Leaders ensure that tutors are well qualified to teach their subjects. They have extensive experience in their industries. Tutors use their expertise to deliver learning that enhances apprentices’ knowledge and skills. They use assessment effectively to iden
+- **emp.itp_off_the_job** (severity 3.0, apprenticeships)
+  > Tutors are appropriately qualified and occupationally competent. 60. There is particularly effective employer support for the provision. Employers support and encourage learners by giving them time to attend off-the-job training sessions. Most employers play an important part in the training process by adjusting work schedules to ensure that learners complet
 
-- **emp.itp_off_the_job** (severity 2.0, safeguarding)
-  > On- and off-the-job training is not consistently planned and coordinated for all engineering apprentices. Training advisers do not always work with apprentices’ employers to plan how apprentices can swiftly practise and hone their skills at work. Training advisers do not plan and coordinate on- and off-the-job training for any business administrator apprenti
+- **emp.itp_off_the_job** (severity 3.0, apprenticeships)
+  > 00 0.00 Page 18 of 21 18© 2006 ADULT LEARNING INSPECTORATE OLDHAM ENGINEERING GROUP TRAINING ASSOCIATION workshop and to take external tests online. OTC has a wide range of good resources to support off-the-job training including textbooks and other paper-based resources. The training rooms are well equipped with computers to provide learners with access to 
 
-- **emp.itp_off_the_job** (severity 2.0, safeguarding)
-  > They do not routinely monitor the quality of teaching and assessment practice that staff provide for apprentices. This means that leaders and managers do not know where the weaknesses lie in the quality of education that they provide for apprentices. On- and off-the-job training is not consistently planned and coordinated for all engineering apprentices. Tra
+- **emp.itp_off_the_job** (severity 3.0, apprenticeships)
+  > 00 Business administration and law No, of learners Success Rate Provider framework rate National NVQ Rate Provider NVQ Rate ProgrammeEnd Year National framework rate Advanced Apprenticeships 2 46 2003-04 overall timely 1040 25 0 0 28 1830 8 47 2004-05 overall timely 1553 21 33 14 31 2335 14 Apprenticeships 2 51 2003-04 overall timely 683 50 67 50 37 1825 6 5
 
 ---
 

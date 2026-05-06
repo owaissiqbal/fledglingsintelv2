@@ -16,8 +16,8 @@
 **Online Safety** (sub-score 55)
 
 - Financial Literacy: 0
-- Employability Skills: 32
-- Confidence & Resilience: 53
+- Employability Skills: 35
+- Confidence & Resilience: 49
 - Online Safety: 55
 
 ## Why this is on the list
@@ -44,133 +44,67 @@
 
 - [Report](https://files.ofsted.gov.uk/v1/file/50065332)
 
-## Verbatim from the inspector
+## Verbatim from the latest inspection report
 
-Direct quotes from the latest published report. Use these in outreach without paraphrasing.
+Inspection of Aspect Training Ltd · 2024-01-16 · grade: **🔵 good**.
+[Full report](https://files.ofsted.gov.uk/v1/file/50237345)
 
-### Main findings
+Direct quotes from the report. Use these in outreach without paraphrasing — they're exactly what the inspector wrote.
 
-> What is it like to be a learner with this provider?
->
-> Tutors do not have high enough expectations of learners. Too many learners do not
-> experience consequences when work is not completed on time. Tutors do not do
-> enough to motivate learners to achieve the highest standards possible. Despite this,
-> learners are positive about their programme. They have very good relationships with
-> their tutors and value the support that their tutors give them.
->
-> Too many learners do not receive useful careers information from tutors to help
-> them consider their next steps. Tutors provide helpful information about career
-> options to a few learners during training sessions, but do not ensure that all learners
-> receive this information.
->
-> Learners develop confidence and become more assertive at work and in their
-> personal lives. For example, they are able to support their children to write and
-> deliver presentations and speeches at school as a result of the training that they
-> receive in communicating effectively.
->
-> Learners benefit from useful information which signposts them to external agencies
-> and organisations if they need support. This includes information on topics such as
-> mental health, alcohol, drugs and dealing with debt. A number of learners have used
-> this information to access helpful support.
->
-> Learners feel safe during training and in the workplace. They feel comfortable to
-> report concerns and are confident that tutors will deal with any concerns quickly.
->
-> What does the provider do well and what does it need to do
-> better?
->
-> Leaders do not have effective oversight of the quality of training delivered to
-> learners or of learners’ progress. They do not check that training is of a high enough
-> standard. They do not assure themselves that learners make expected progress in
-> developing knowledge, skills and behaviours, and they do not know if tutors
-> intervene quickly enough to support learners who fall behind. As a result, the quality
-> of provision is not consis…
-
-### What this school needs to improve
+### What this provider needs to improve
 
 > What does the provider need to do to improve?
 >
->  Ensure that leaders have effective oversight of the quality of programmes and the
-> progress of learners.
->  Increase the expectations that tutors have of learners and ensure that tutors
-> motivate learners to achieve at the highest standard.
->  Ensure that tutors support learners to catch up sufficiently with their learning
-> since returning to study following the COVID-19 restrictions.
->  Ensure that tutors use information on learners’ starting points to plan
-> programmes that meet learners’ individual needs and aspirations.
->  Ensure that tutors provide helpful careers information to all learners to use when
-> they are considering their next steps.
->  Ensure that tutors deliver effective support to improve learners’ mathematics skills
-> that will benefit them in the workplace.
->  Ensure that learners have a good understanding of the risks of radicalisation and
-> extremism in the workplace and the communities in which they live.
+>  Ensure that tutors attend training to develop their teaching skills further.
+>  Enhance the development of learners’ mathematical skills within the context of
+> the workplace.
+>  Ensure that all learners receive information about the full range of careers
+> opportunities related to the course that they are studying.
+
+### Safeguarding
+
+> Safeguarding
 >
+> The arrangements for safeguarding are effective.
+
+### What is it like to be a learner here / What does the provider do well
+
+> What is it like to be a learner with this provider?
 >
+> Learners benefit from the expertise of their tutors who use a range of effective
+> teaching strategies to help them learn. Tutors use their experience in the sector well
+> to illustrate learning and to hold professional discussions. They link what they teach
+> to learners’ workplaces, which helps learners to understand the topic. For example,
+> when teaching learners about confidentiality, tutors discuss the employer’s policy
+> and protocol. Tutors recap on previous learning to check learners’ understanding
+> and to check that they remember what they have been taught.
 >
+> Learners respond well to the high expectations set by tutors. They demonstrate
+> professional behaviours during training and in the workplace. Learners treat clients,
+> peers and tutors with respect and appreciate the different backgrounds, religions
+> and cultures that people have. Learners work in a range of care settings with clients
+> who are elderly, have autism and who have been released from prison. They
+> understand the importance of treating everyone equally and with dignity and
+> tolerance.
 >
+> Learners attend their planned sessions well. Tutors provide training to learners on a
+> one-to-one basis through a combination of remote and face-to-face delivery. In a
+> few instances, where learners cannot attend training due to shift patterns changing
+> or work demands, tutors swiftly make alternative arrangements to ensure that
+> learners do not miss planned learning. Tutors monitor attendance closely and keep
+> employers informed about learner participation and any required interventions.
 >
+> Learners have a positive attitude to their learning. They value the training and
+> support that they receive from their tutors and the opportunity to put taught
+> theories into practice in their workplace. Employers value the contribution that
+> learners make to their organisation. For example, learners organise staff rotas and
+> find cover for colleagues who are off sick.
 >
->
->
->
->
->
->
->
->
-> Inspection report: Aspect Training Limited
-> 3–5 November 2021
-> 5
->
->
-> Provider details
->
-> Unique reference number 50537
->
-> Address
-> Eckington Business Centre
-> 62 Market Street
-> Eckington
-> Sheffield
-> S21 4JH
->
->
->
-> Contact number 0114 247 2772
->
-> Website www.aspect-training.co.uk
->
-> Principal/CEO David Shaw
->
-> Provider type Independent learning provider
->
-> Date of previous inspection 13 February 2019
->
-> Main subcontractors N/A
->
->
->
->
->
->
->
->
->
-> Inspection report: Aspect Training Limited
-> 3–5 November 2021
-> 6
->
->
->
->
->
-> Information about this inspection
->
-> The inspection team was assisted by the adult learning tutor, as nominee. Inspectors
-> took account of the provider’s most recent self-assessment report and development
-> plans, and the previous inspection report. The inspection was carried out using the
-> further education and skills inspection handbook and took into account all relevant
-> provision at the provider. Inspectors collected a wide range of evidence to inform …
+> Learners feel safe. They know to whom they should report any concerns. Learners
+> benefit from valuable training from tutors who teach them about online safety,
+> scams, domestic violence, bullying and harassment in the workplace, and sexual
+> harassment and violence. Most learners have a good understanding of local risks
+> and how to take steps to stay safe when working alone. However, in a few cas…
 
 ## Compliance signals
 
@@ -184,23 +118,23 @@ _No high-trigger news matched in the last extraction pass._
 
 Quotes you can drop directly into outreach. Severity drives the score.
 
-- **emp.itp_skills_knowledge_gaps** (severity 6.0, what_school_needs_to_improve)
+- **emp.itp_skills_knowledge_gaps** (severity 6.0, what_provider_needs_to_improve)
   > Leaders’ priority for improvement has been to address the low number of learners who achieve their qualification before the planned end date. They have focused on ensuring that programme design and delivery meet awarding organisation scrutiny. However, learners who require support to improve their writing skills do not develop these skills sufficiently to en
 
-- **os.extremism** (severity 4.0, what_school_needs_to_improve)
-  >  Ensure that tutors deliver effective support to improve learners’ mathematics skills that will benefit them in the workplace.  Ensure that learners have a good understanding of the risks of radicalisation and extremism in the workplace and the communities in which they live. Inspection report: Aspect Training Limited 3–5 November 2021 5 Provider details U
+- **os.extremism** (severity 4.0, what_provider_needs_to_improve)
+  >  Ensure that tutors deliver effective support to improve learners’ mathematics skills that will benefit them in the workplace.  Ensure that learners have a good understanding of the risks of radicalisation and extremism in the workplace and the communities in which they live. Inspection report: Aspect Training Limited 3–5 November 2021 5
 
-- **os.radicalisation** (severity 4.0, what_school_needs_to_improve)
+- **os.radicalisation** (severity 4.0, what_provider_needs_to_improve)
   >  Ensure that tutors provide helpful careers information to all learners to use when they are considering their next steps.  Ensure that tutors deliver effective support to improve learners’ mathematics skills that will benefit them in the workplace.  Ensure that learners have a good understanding of the risks of radicalisation and extremism in the workpla
-
-- **cr.personal_development_strengthen** (severity 3.0, personal_development)
-  > Personal development Requires improvement Leadership and management Requires improvement Adult learning programmes Requires improvement Overall effectiveness at previous inspection Requires improvement
-
-- **cr.behaviour_attitudes_concern** (severity 3.0, behaviour_attitudes)
-  > Behaviour and attitudes Requires improvement
 
 - **os.extremism** (severity 2.0, safeguarding)
   > Leaders and staff follow appropriate safeguarding and safe recruitment practice.  Leaders implement the requirements of the ‘Prevent’ duty and ensure that learners receive information at the start of their programme about the dangers of radicalisation and extremism. However, they do not develop this work further to ensure that learners develop a sufficient 
+
+- **os.radicalisation** (severity 2.0, safeguarding)
+  > Leaders and staff follow appropriate safeguarding and safe recruitment practice.  Leaders implement the requirements of the ‘Prevent’ duty and ensure that learners receive information at the start of their programme about the dangers of radicalisation and extremism. However, they do not develop this work further to ensure that learners develop a sufficient 
+
+- **shared.rshe_curriculum** (severity 2.0, what_provider_needs_to_improve)
+  >  Leaders and staff ensure that initial information, advice and guidance result in a clear match between learners’ job roles, employers’ future business needs and the programme of study. Learners understand that they are taking out a loan to fund their course. Inspection report: Aspect Training Ltd, 11–13 February 2019 Page 4 of 9 The governance of the provi
 
 ---
 

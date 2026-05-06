@@ -1,6 +1,6 @@
 # Appris Charity Limited
 
-**🟠 HIGH** · score **75** · urgency 39 · pipeline 100
+**🟠 HIGH** · score **75** · urgency 55 · pipeline 100
 
 ## Identity
 
@@ -13,12 +13,12 @@
 
 ## Lead-with curriculum
 
-**Confidence & Resilience** (sub-score 39)
+**Employability Skills** (sub-score 55)
 
 - Financial Literacy: 0
-- Employability Skills: 31
-- Confidence & Resilience: 39
-- Online Safety: 37
+- Employability Skills: 55
+- Confidence & Resilience: 55
+- Online Safety: 55
 
 ## Why this is on the list
 
@@ -47,36 +47,77 @@
 
 _+ 4 earlier inspections in the database._
 
-## Verbatim from the inspector
+## Verbatim from the latest inspection report
 
-Direct quotes from the latest published report. Use these in outreach without paraphrasing.
+Inspection of Appris Charity Limited · 2024-01-15 · grade: **🔵 good**.
+[Full report](https://files.ofsted.gov.uk/v1/file/50237146)
 
-### What this school needs to improve
+Direct quotes from the report. Use these in outreach without paraphrasing — they're exactly what the inspector wrote.
 
-> What does the provider need to do to improve further?
->  Improve the consistency and quality of teaching and learning by:
-> improving the quality of action planning following observations of teaching and learning to ensure that
-> identified
+### What this provider needs to improve
 
-### Areas for improvement
+> What does the provider need to do to improve?
+>
+>  Ensure that apprentices receive effective careers advice and guidance which is
+> specific to their aspirations and empowers them to understand their opportunities
+> beyond their apprenticeship.
+>  Provide opportunities for tutors and training advisors to develop their craft of
+> teaching, including through access to current research in teaching methods.
+>  Ensure that tutors consistently check apprentices’ understanding effectively
+> before they move on in their teaching.
+>  Ensure that apprentices understand what they need to do to achieve high grades
+> in their end-point assessments where they are available.
 
-> areas for improvement are swiftly acted on to improve the quality of provision
-> improving the target setting for skills development in progress reviews to ensure that apprentices
-> have challenging targets to achieve, which are specific and time bound
-> ensuring that targets set are regularly monitored and accurately recorded, and that interventions are
-> rapidly put in place where progress is slow
-> providing high-quality written feedback on apprentices’ work to allow apprentices to reflect on how
-> they can further improve the standard of their work and achieve higher grades.
->  Ensure that trustees receive, scrutinise, monitor and evaluate data on the performance of apprentices at
-> Appris. Hold senior managers to account for the quality of teaching, learning and assessment in order to
-> improve the proportion of apprentices completing within their planned time.
->  Ensure that apprentices receive challenge and support to develop higher levels of English skills in their
-> work to support them in their career development and enable them to take on more demanding job
-> roles.
->  Ensure that managers plan the accurate and systematic collection of apprentices’ progress data to ensure
-> that any variations in progress are identified quickly, and that robust action plans are put in place to
-> improve individual apprentices’ performance.
->  Ensure that self-assessment and associated development plans are inclusive and accurately identify the
+### Safeguarding
+
+> Safeguarding
+>
+> The arrangements for safeguarding are effective.
+
+### What is it like to be a learner here / What does the provider do well
+
+> What is it like to be a learner with this provider?
+>
+> Apprentices benefit from industry-standard facilities that replicate a professional
+> engineering environment. They quickly develop competent practical skills which they
+> apply in their workplaces. For example, they use specialised computer numerical
+> control milling machines and lathes, and learn how to carry out fault-finding.
+>
+> Apprentices value being treated as individuals as part of a friendly, safe
+> environment. Tutors and training advisors build supportive relationships with
+> apprentices and set high expectations of professionalism. The behaviour of the vast
+> majority of apprentices is exemplary, demonstrating courtesy and respect.
+>
+> Apprentices are motivated to learn and keen to ask questions to deepen their
+> understanding. They grow in maturity during their programmes, many being at the
+> start of their careers when they enrol. Apprentices contribute new ideas in the
+> workplace, which are valued by employers.
+>
+> Tutors provide apprentices with opportunities to take part in projects that support
+> the community, such as making metal lanterns for the Worth Valley Steam
+> Railway. Apprentices are invited to speak at the secondary schools that they
+> attended about their experience as apprentices, and a few have become STEM
+> ambassadors. Those involved in these activities enhance their confidence and
+> broaden their talents.
+>
+> Apprentices are suitably prepared for their next steps, and most have a clear plan
+> for what they will do immediately after their apprenticeship, including progressing to
+> the next level of training or achieving additional accreditation such as a crane
+> licence. However, apprentices often do not recall having received careers guidance
+> and are, therefore, not aware of the wide range of opportunities available to them
+> for their long-term careers.
+>
+>
+> What does the provider do well and what does it need to do
+> better?
+>
+> Leaders have a clear rationale to specialise in engineering apprenticeships, using
+> their skills, experience and passion. This aligns well to the local skills improvement
+> plan and regional skills priorities. Leaders match the needs of employers carefully
+> with the most appropriate programme for each apprentice.
+>
+> Leaders build strong relationships with their employers. They work with them
+> effectively to design a curriculum for each apprentice, often including …
 
 ## Compliance signals
 
@@ -90,23 +131,23 @@ _No high-trigger news matched in the last extraction pass._
 
 Quotes you can drop directly into outreach. Severity drives the score.
 
-- **shared.british_values_weak** (severity 3.0, personal_development)
+- **shared.british_values_weak** (severity 4.5, apprenticeships)
   >  Training advisers place too much attention on the requirements of the apprenticeship framework rather than the development of skills to a higher level.  Punctuality is not yet good enough for apprentices attending off-the-job training.  British values are insufficiently promoted throughout the curriculum.  Written feedback to learners does not focus on 
 
-- **os.extremism** (severity 2.0, safeguarding)
-  > On the very rare occasions when concerns are disclosed to safeguarding officers, they support apprentices with care, compassion and respect and, where appropriate, work with other agencies very effectively to assist apprentices. Leaders have made a significant investment in IT infrastructure to protect learners from the risks associated with cyberbullying, r
+- **emp.itp_off_the_job** (severity 4.0, what_provider_needs_to_improve)
+  > They do not provide leaders and managers with enough clarity about progress in bringing about improvements. Very recently, leaders have recognised this and are in the process of designing a more focused improvement plan.  Leaders and managers take effective steps to ensure that the off-the-job training for fabrication and welding apprentices delivered by tw
 
-- **os.radicalisation** (severity 2.0, safeguarding)
-  > On the very rare occasions when concerns are disclosed to safeguarding officers, they support apprentices with care, compassion and respect and, where appropriate, work with other agencies very effectively to assist apprentices. Leaders have made a significant investment in IT infrastructure to protect learners from the risks associated with cyberbullying, r
+- **emp.careers_guidance** (severity 4.0, what_provider_needs_to_improve)
+  >  Leaders and managers ensure that prospective apprentices receive helpful advice and guidance before they start their programmes. This enables prospective apprentices to make informed and realistic choices about apprenticeship options. Managers ensure that apprentices receive good ongoing careers advice throughout their apprenticeship. They provide very eff
 
-- **emp.destinations_data** (severity 2.0, safeguarding)
-  > This has led to only a very small minority of apprentices taking qualifications or developing skills at a higher level, to enable them to take on more demanding roles.  Managers’ collection and analysis of destination data require improvement. Leaders have not fully implemented a systematic collection of data to inform them of the impact that an apprentices
+- **emp.careers_guidance** (severity 4.0, what_provider_needs_to_improve)
+  > What does the provider need to do to improve?  Ensure that apprentices receive effective careers advice and guidance which is specific to their aspirations and empowers them to understand their opportunities beyond their apprenticeship.  Provide opportunities for tutors and training advisors to develop their craft of teaching, including through access to c
 
-- **emp.itp_off_the_job** (severity 2.0, personal_development)
+- **emp.itp_off_the_job** (severity 3.0, apprenticeships)
+  > 46. Training resources are appropriate. There is a suitable number of advisers to carry out planned reviews and assessments. Resources in the workplace are good and meet current industrial standards. Off-the-job training and resources are satisfactory. 0.00 0.00 Page 12 of 14 12© 2006 ADULT LEARNING INSPECTORATE BTAL (UK) LIMITED 47. On-the-job training is n
+
+- **emp.itp_off_the_job** (severity 3.0, apprenticeships)
   >  Training advisers place too much attention on the requirements of the apprenticeship framework rather than the development of skills to a higher level.  Punctuality is not yet good enough for apprentices attending off-the-job training.  British values are insufficiently promoted throughout the curriculum.  Written feedback to learners does not focus on 
-
-- **shared.rshe_curriculum** (severity 1.0, safeguarding)
-  > Inspection report: Appris Charity Limited, 7–10 December 2015 Page 7 of 9 Provider details Type of provider Independent learning provider Age range of learners 16+ Approximate number of all learners over the previous full contract year 635 Managing Director Mr John Igoe Website address www.appris.co.uk Provider information at the time of the inspection Main 
 
 ---
 

@@ -1,6 +1,6 @@
 # Chiltern Training Limited
 
-**🟠 HIGH** · score **75** · urgency 41 · pipeline 100
+**🟠 HIGH** · score **75** · urgency 55 · pipeline 100
 
 ## Identity
 
@@ -13,12 +13,12 @@
 
 ## Lead-with curriculum
 
-**Employability Skills** (sub-score 41)
+**Employability Skills** (sub-score 55)
 
 - Financial Literacy: 0
-- Employability Skills: 41
-- Confidence & Resilience: 37
-- Online Safety: 20
+- Employability Skills: 55
+- Confidence & Resilience: 55
+- Online Safety: 55
 
 ## Why this is on the list
 
@@ -47,117 +47,73 @@
 
 _+ 4 earlier inspections in the database._
 
-## Verbatim from the inspector
+## Verbatim from the latest inspection report
 
-Direct quotes from the latest published report. Use these in outreach without paraphrasing.
+Inspection of Chiltern Training Limited · 2025-02-10 · grade: **🔵 good**.
+[Full report](https://files.ofsted.gov.uk/v1/file/50268765)
 
-### Main findings
+Direct quotes from the report. Use these in outreach without paraphrasing — they're exactly what the inspector wrote.
 
-> What is it like to be a learner with this provider?
->
-> Learners and apprentices participate effectively in the classroom. They enjoy sharing
-> experiences from their early years setting through group discussions and effective
-> questioning. They do not benefit sufficiently well from interactive activities online. As
-> a result, when learning online, learners and apprentices are gaining the knowledge
-> required to complete assignments, but they are not able to develop skills beyond the
-> qualification criteria. Too many apprentices do not achieve their apprenticeship within
-> the planned time.
->
-> Learners and apprentices have positive attitudes towards learning, attend well and
-> are respectful in the classroom and work environment. For example, early years
-> apprentices feel inspired when working with children, as they quickly see the positive
-> impact they have on children’s development. As a result, employers value how
-> quickly learners and apprentices make a positive contribution in the workplace.
->
-> Learners and apprentices benefit from working alongside skilled practitioners. For
-> example, workplace mentors support apprentices to interact positively with the
-> children they care for and become more confident to liaise with parents about their
-> child’s development. As a result, effective role models share their expertise and
-> develop learners’ and apprentices’ skills well in the workplace.
->
-> Learners completing traineeships benefit from a curriculum that supports swift and
-> positive progression. For example, trainees learn about childcare practices and
-
-### What this school needs to improve
+### What this provider needs to improve
 
 > What does the provider need to do to improve?
 >
->  Leaders must ensure that all those involved are better able to implement all
-> elements of the apprenticeship standards.
->  Leaders and managers need to support teaching staff to improve their pedagogical
-> skills, particularly in relation to the quality of online learning.
->  Leaders need to provide all apprentices and learners with a comprehensive
-> personal development curriculum that includes effective careers advice and
-> guidance.
->  Leaders need to continue to improve the support and teaching of the functional
-> skills elements of the apprenticeship.
->  Leaders need to ensure apprentices are prepared well for their end-point
-> assessment.
+>  Record progress review meetings so apprentices and employers can reflect fully
+> on apprentices’ progress.
+>  Correct the errors learners and apprentices make in their spelling, punctuation
+> and grammar.
+>  Manage apprentices’ progress closely so that apprentices complete their training
+> in the time planned.
+
+### Safeguarding
+
+> Safeguarding
 >
+> The arrangements for safeguarding are effective.
+
+### What is it like to be a learner here / What does the provider do well
+
+> What is it like to be a learner with this provider?
 >
+> Learners and apprentices are professional and reliable. They are respectful and
+> sensitive towards others. Early years lead practitioner apprentices adapt their
+> language skilfully when they speak to parents of children with learning needs.
+> Learners and apprentices know and promote the values important in modern Britain.
+> Adult learners design and use activities for children to share how they celebrate their
+> faith. Their attendance is high at college and at work. Employers value highly the
+> contributions learners and apprentices make.
 >
+> Learners and apprentices are confident to use the knowledge and skills they have
+> learned at work. Apprentices training to be team leaders use strategies that promote
+> positive mental health in their staff. Early years educator apprentices are key
+> workers for children in their settings. Learners and apprentices perform their jobs to
+> a high standard.
 >
+> Learners and apprentices benefit from the work staff do with employers. In response
+> to employer needs, early years educator apprentices and learners are taught about
+> food allergies so that they can keep children safe. Learners and apprentices value
+> the opportunities to contribute to their communities. They volunteer to work with
+> children with disabilities and provide useful feedback to staff in student council
+> meetings.
 >
+> Learners and apprentices feel safe, including when online. They have a deep
+> understanding of how to keep the children they work with safe and know how this
+> applies to themselves.
 >
+> What does the provider do well and what does it need to do
+> better?
 >
+> Leaders and managers offer high-quality training that aligns well with local and
+> regional skills shortages. Staff design programmes of learning logically so that
+> learners and apprentices build their knowledge, skills and behaviours securely. Level
+> 2 early years practitioner apprentices are taught child health, safety and
+> development units so that they have the foundational knowledge to work with
+> children. Level 3 early years educator apprentices build on the units taught at level 2
+> to acquire the knowledge and skills to be a room leader. Learners and apprentices
+> are prepared well for the jobs they are training for.
 >
->
-> Inspection report: Chiltern Training Limited
-> 8 to 11 November 2022
-> 6
->
->
->
-> Provider details
->
-> Unique reference number 51149
->
-> Address 15 Station Road
-> Reading
-> RG1 1LG
->
-> Contact number 01189566995
->
-> Website www.chilterntraining.co.uk
->
-> Principal, CEO or equivalent Katy Edwards
->
-> Provider type Independent learning provider
->
-> Date of previous inspection 6 to 7 December 2016
->
-> Subcontractors None
->
->
->
->
->
->
->
-> Inspection report: Chiltern Training Limited
-> 8 to 11 November 2022
-> 7
->
->
->
->
-> Information about this inspection
->
-> The inspection team was assisted by the managing director, as nominee. Inspectors
-> took account of the provider’s most recent self-assessment report and the previous
-> inspection report. The inspection was carried out using the further education and
-> skills inspection handbook and took into account all relevant provision at the
-> provider. Inspectors collected a wide range of evidence to inform judgements,
-> including visiting learning sessions, scrutinising learners’ work, seeking the views of
-> learners, staff and other stakeholders, and examining the provider’s documentation
-> and records.
->
-> Inspection team
->
-> Richard Kirkham, lead inspector His Majesty’s Inspector
-> Tricia Collis Ofsted Inspector
-> Gail Shenton Ofsted Inspector
-> Danie…
+> Expert staff use their extensive experience to teach effectively. Early years educator
+> apprentices discuss behaviour mana…
 
 ## Compliance signals
 
@@ -171,23 +127,23 @@ _No high-trigger news matched in the last extraction pass._
 
 Quotes you can drop directly into outreach. Severity drives the score.
 
-- **emp.careers_guidance** (severity 4.0, what_school_needs_to_improve)
+- **emp.careers_guidance** (severity 4.0, what_provider_needs_to_improve)
   >  Leaders and managers need to support teaching staff to improve their pedagogical skills, particularly in relation to the quality of online learning.  Leaders need to provide all apprentices and learners with a comprehensive personal development curriculum that includes effective careers advice and guidance.  Leaders need to continue to improve the suppor
 
-- **cr.personal_development_strengthen** (severity 3.0, personal_development)
-  > Personal development Requires improvement Leadership and management Requires improvement Education programmes for young people Good Adult learning programmes Good Apprenticeships Requires improvement Overall effectiveness at previous inspection Not previously inspected
+- **emp.itp_off_the_job** (severity 3.0, apprenticeships)
+  > Supportive tutors are appreciated by learners. A flexible approach to learning ensures that learners have access to support in the evenings, at weekends and by telephone or e-mail. Learners are positive about the arrangements for on-and-off-the-job training. CTL offers weekly training in the centre for the technical certificate and to support learners with t
 
-- **cr.personal_development** (severity 2.0, what_school_needs_to_improve)
-  >  Leaders and managers need to support teaching staff to improve their pedagogical skills, particularly in relation to the quality of online learning.  Leaders need to provide all apprentices and learners with a comprehensive personal development curriculum that includes effective careers advice and guidance.  Leaders need to continue to improve the suppor
+- **emp.cv_interview_skills** (severity 3.0, apprenticeships)
+  > In the better learning sessions, learners are encouraged to review their learning and are closely involved throughout. Careful consideration is given to learners’ individual needs and tutors adapt their teaching methods to accommodate different learning styles. A session on interview techniques and curriculum vitae writing used role-play with two teams actin
 
-- **os.radicalisation** (severity 2.0, safeguarding)
-  > The vast majority of learners and apprentices recall useful learning about safeguarding and British values, which teachers introduce at induction and reinforce Inspection report: Chiltern Training Limited 8 to 11 November 2022 5 through their learning. Learners do not as consistently recall learning about radicalisation but recognise the risks following ‘Pre
+- **emp.cv_interview_skills** (severity 3.0, apprenticeships)
+  > In the better learning sessions, learners are encouraged to review their learning and are closely involved throughout. Careful consideration is given to learners’ individual needs and tutors adapt their teaching methods to accommodate different learning styles. A session on interview techniques and curriculum vitae writing used role-play with two teams actin
 
-- **emp.itp_assessment_weak** (severity 2.0, safeguarding)
-  > As a result, employers value their relationship with leaders and assessors and the positive impact the programmes have on the childcare sector. Leaders positively promote and encourage new entrants into the early years sector. For example, leaders interview learners carefully and use assessment effectively to ensure they are directed to the most suitable pro
+- **emp.itp_off_the_job** (severity 3.0, recommendations)
+  > All learners receive an induction from CTL and a separate induction from their employer or work-placement provider. All learners complete an initial assessment which includes literacy and numeracy screening. Off-the-job training takes place at CTL’s training centre in Reading. Other training is delivered at nursery facilities in the region. All learners are 
 
-- **emp.itp_off_the_job** (severity 2.0, safeguarding)
-  > They do not routinely concentrate on the wider knowledge, skills and behaviours the apprenticeship standards demand. As a result, employers and apprentices do not fully recognise the knowledge, skills and behaviours apprentices are required to develop. Consequently, off-the-job training completed in the workplace does not always relate directly to the appren
+- **emp.employer_engagement** (severity 3.0, recommendations)
+  > 00 0 Early years Early years Strengths good achievement of national vocational qualifications (NVQs) by advanced apprentices 1.00 • good target-setting 1.00 • good resources to support learning 1.00 • very good employer engagement to support learners 1.00 • good progression for learners 1.00 • Weaknesses insufficiently focused support for learners with addit
 
 ---
 

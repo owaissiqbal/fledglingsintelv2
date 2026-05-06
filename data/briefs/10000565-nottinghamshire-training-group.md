@@ -1,6 +1,6 @@
 # Nottinghamshire Training Group
 
-**🟠 HIGH** · score **75** · urgency 45 · pipeline 100
+**🟠 HIGH** · score **75** · urgency 55 · pipeline 100
 
 ## Identity
 
@@ -13,12 +13,12 @@
 
 ## Lead-with curriculum
 
-**Confidence & Resilience** (sub-score 45)
+**Employability Skills** (sub-score 55)
 
 - Financial Literacy: 9
-- Employability Skills: 34
-- Confidence & Resilience: 45
-- Online Safety: 39
+- Employability Skills: 55
+- Confidence & Resilience: 55
+- Online Safety: 54
 
 ## Why this is on the list
 
@@ -47,118 +47,75 @@
 
 _+ 7 earlier inspections in the database._
 
-## Verbatim from the inspector
+## Verbatim from the latest inspection report
 
-Direct quotes from the latest published report. Use these in outreach without paraphrasing.
+Inspection of Nottinghamshire Training Group · 2025-05-14 · grade: **🔵 good**.
+[Full report](https://files.ofsted.gov.uk/v1/file/50277087)
 
-### Main findings
+Direct quotes from the report. Use these in outreach without paraphrasing — they're exactly what the inspector wrote.
+
+### What this provider needs to improve
+
+> What does the provider need to do to improve?
+>
+>  Improve apprentices’ review meetings by including employers and setting precise
+> targets to help apprentices to make even better progress.
+>  Improve learners’ attendance in English and mathematics functional skills lessons.
+>  Further support young learners to complete their full work experience
+> placements.
+>  Identify and implement suitable training for staff that helps them to develop their
+> teaching craft.
+
+### Safeguarding
+
+> safeguarding, fundamental British values, finance and healthy lifestyles. Expert guest
+> speakers bring to life valuable topics, such as phone hacking and cyber security, that
+> learners and apprentices find helpful for their daily lives and work.
+
+### What is it like to be a learner here / What does the provider do well
 
 > What is it like to be a learner with this provider?
 >
-> Most apprentices and students enjoy their learning at NTG. Students who take part
-> in work experience develop confidence and professional behaviours expected in the
-> workplace. Most students who remain on their course successfully secure
-> employment or progress to further study.
+> Apprentices and learners have positive attitudes and enjoy their studies. They
+> participate fully in lessons. They answer questions well, make useful contributions to
+> discussions and participate in individual activities with enthusiasm. Learners and
+> apprentices appreciate how staff go above and beyond to support them.
 >
-> Apprentices and students value the course they study and benefit from studying in a
-> calm and safe learning environment. They value the opportunity to study in smaller
-> class sizes, where they gain personal support from their tutors.
+> Staff treat learners and apprentices fairly and take account of their different needs,
+> including those with SEND. Apprentices and learners benefit from small group sizes
+> and individual support in lessons that helps them to make swift progress.
+> Apprentices are very positive about the time and help that they get from their
+> teachers to help them achieve their English and mathematics functional skills
+> qualifications.
 >
-> Apprentices and students feel that the quality of education and training they receive
-> meets their needs and aspirations. Students on study programmes do not receive an
-> ambitious, well-planned curriculum. Students are not challenged to expand their
-> knowledge and skills beyond their main vocational qualification. However,
-> apprentices benefit from well-planned training in the hairdressing curriculum.
+> Learners benefit from valuable work placements. Their teachers prepare them well,
+> so learners know how to find suitable placements and how to approach potential
+> employers. A small number of learners, however, do not complete the full number of
+> planned hours for their work placements. This means that they do not develop their
+> skills to the same level as their peers.
 >
-> Apprentices and students feel safe. Tutors provide effective guidance and support to
-> enable them to understand safeguarding topics. Apprentices and students have
-> positive relationships with their tutors and know whom to speak to if they have
-> particular concerns. They are confident that staff will deal with their concerns
-> promptly and effectively.
+> Learners and apprentices become more confident and resilient and develop the
+> knowledge, skills and behaviours that they need for their future careers. Level 2
+> hairdressing apprentices learn how to provide useful advice to customers and how to
+> respond to more challenging clients. They demonstrate an awareness of topics to
+> avoid in conversation, such as politics and religion. Through the care and support of
+> their teachers, business administrator apprentices grow in their confidence to work
+> with others and lead improvement projects, which is something they never thought
+> they would be able do.
+>
+> Apprentices and learners feel safe, both at the provider and in the workplace. They
+> feel welcome and will talk to staff if they have any concerns.
 >
 > What does the provider do well and what does it need to do
 > better?
 >
-> Since the previous inspection, leaders and managers have not implemented
-> sufficient actions to rectify all the weaknesses in the curriculum. Consequently, the
-> quality of education and training is not consistently good. For example, hairdressing
-> apprentices benefit from a well-planned, coherent curriculum with a high level of
-> employer involvement. However, students on study programmes and apprenticeships
-> such as childcare do not benefit from an appropriately designed curriculum that
-> gives them a rich experience to gain essential knowledge, skills and behaviours.
+> Leaders provide study programmes for young people and apprenticeships in subjects
+> in which they have long-standing experience and for which there is local and
+> regional demand. They are passionate about helping the hardest-to-reach young
+> people in their community.
 >
-> Most tutors n…
-
-### What this school needs to improve
-
-> What does the provider need to do to improve?
->
->  Leaders must ensure that students on study programmes receive a broad and rich
-> curriculum that develops their knowledge, skills and behaviours beyond the main
-> vocational qualification.
->  Leaders must ensure that tutors receive appropriate, specialist training on how to
-> support apprentices and students with special educational needs and/or
-> disabilities so that tutors can adapt the curriculum to meet their individual needs.
->  Leaders must improve their oversight and management of their performance data
-> to ensure that they can accurately evaluate the effectiveness of the provision in
-> order to support improvements.
->  Leaders must implement an effective careers programme to enable all students
-> and apprentices to receive appropriate guidance and support about the wide
-> range of opportunities available to them after completing their qualifications.
->
->
->
->
->
->
->
-> Inspection report: Nottinghamshire Training Group
-> 8 to 10 February 2023
-> 5
->
->
->
-> Provider details
->
-> Unique reference number 54810
->
-> Address Cheapside
-> Worksop
-> Nottinghamshire
-> S80 2HX
->
-> Contact number 01909 477669
->
-> Website https://nottstraining.co.uk
->
-> Principal, CEO or equivalent Alex Lilley
->
-> Provider type Independent learning provider
->
-> Date of previous inspection 15 and 16 June 2022
->
-> Main subcontractors None
->
->
->
->
->
->
->
-> Inspection report: Nottinghamshire Training Group
-> 8 to 10 February 2023
-> 6
->
->
->
-> Information about this inspection
->
-> The inspection team was assisted by the managing director, as nominee. Inspectors
-> took account of the provider’s most recent self-assessment report and development
-> plans and the previous inspection report. The inspection was carried out using the
-> further education and skills inspection handbook and took into account all relevant
-> provision at the provider. Inspectors collected a wide range of evidence to inform
-> judgements, including visiting learning sessions, scrutinising learners’ work, seeking…
+> Leaders are committed to continuous improvement and have made significant
+> progress in tackling previous areas for develo…
 
 ## Compliance signals
 
@@ -172,23 +129,23 @@ _No high-trigger news matched in the last extraction pass._
 
 Quotes you can drop directly into outreach. Severity drives the score.
 
-- **cr.personal_development_strengthen** (severity 3.0, personal_development)
-  > Personal development Requires improvement Leadership and management Requires improvement Education programmes for young people Requires improvement Apprenticeships Requires improvement Overall effectiveness at previous inspection Requires improvement
+- **emp.work_experience** (severity 4.0, what_provider_needs_to_improve)
+  > The well-planned curriculum focuses on extensive work experience with appropriate attention to functional skills and opportunities to pursue vocational qualifications as well as overcoming barriers to progression. The provider maintains links with over 500 local employers to ensure that learners can benefit from work experience placements best suited to thei
 
-- **cr.behaviour_attitudes_concern** (severity 3.0, behaviour_attitudes)
-  > Behaviour and attitudes Requires improvement
+- **emp.work_experience** (severity 4.0, what_provider_needs_to_improve)
+  >  The new observation of teaching and learning arrangements, which form part of the quality improvement arrangements above, include a greater focus on learning, joint observations and regular moderation between organisations to standardise grading judgments and post- observation action planning.  Curriculum management is good. The well-planned curriculum fo
 
-- **emp.work_experience** (severity 2.0, main_findings)
-  > A guidance officer ensures that learners enrol on courses that match their career aspirations and provides useful ongoing guidance. Teachers provide vocationally specific advice during lessons and in separate sessions that focus on career planning. All learners benefit from extremely useful work experience placements. These placements often make up the core 
+- **emp.work_experience** (severity 4.0, what_provider_needs_to_improve)
+  > Good associations are made to relevant work placements to reinforce key objectives. Learners receive regular praise and feedback in sessions.  The provider uses an extensive range of employers across a wide spectrum of vocational activity to provide learners with valuable work experience. Learners are carefully matched to appropriate placements to meet thei
 
-- **emp.work_experience** (severity 2.0, main_findings)
-  > In these subjects, staff do not have high enough expectations of learners and do not always challenge them to reach their full potential. Learners develop their confidence and work-readiness well. This is because they participate in extensive and useful work experience placements and in a range of additional activities that focus on themes outside of their v
+- **cr.mental_health** (severity 4.0, what_provider_needs_to_improve)
+  > They show ambition to improve and change their circumstances often against a family and community culture of benefit dependency. Tutors skilfully break down barriers to attainment and work responsively with partners to provide services to support mental health and counselling needs.  The development of functional skills is satisfactory. Learners start their
 
-- **emp.careers_guidance** (severity 2.0, main_findings)
-  > They have provided effective electronic systems that help staff to coordinate their responses to poor behaviour and low attendance. As a result, learners consistently conduct themselves well. Staff provide learners with effective careers guidance. A guidance officer ensures that learners enrol on courses that match their career aspirations and provides usefu
+- **emp.work_experience** (severity 4.0, what_provider_needs_to_improve)
+  >  Improve apprentices’ review meetings by including employers and setting precise targets to help apprentices to make even better progress.  Improve learners’ attendance in English and mathematics functional skills lessons.  Further support young learners to complete their full work experience placements.  Identify and implement suitable training for staf
 
-- **os.extremism** (severity 2.0, safeguarding)
-  > Tutors ensure that apprentices and students are clear about the type of safeguarding and welfare support available to them. Consequently, apprentices and students are clear about how to ask for help should they need it. They have a good understanding of radicalisation and extremism. However, their understanding of local issues, such as county lines and white
+- **shared.diversity** (severity 2.0, what_provider_needs_to_improve)
+  > BTA’s management information system was designed for apprenticeship programmes and does not readily produce data in the most useful format for the management of the Foundation Learning programme.  The promotion of equality and diversity is good. Policies are comprehensive and up to date and implemented well. BTA’s Foundation Learning programme caters for yo
 
 ---
 

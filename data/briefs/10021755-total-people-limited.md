@@ -1,6 +1,6 @@
 # Total People Limited
 
-**🟠 HIGH** · score **75** · urgency 43 · pipeline 100
+**🟠 HIGH** · score **75** · urgency 55 · pipeline 100
 
 ## Identity
 
@@ -13,12 +13,12 @@
 
 ## Lead-with curriculum
 
-**Employability Skills** (sub-score 43)
+**Employability Skills** (sub-score 55)
 
-- Financial Literacy: 0
-- Employability Skills: 43
-- Confidence & Resilience: 41
-- Online Safety: 25
+- Financial Literacy: 22
+- Employability Skills: 55
+- Confidence & Resilience: 55
+- Online Safety: 55
 
 ## Why this is on the list
 
@@ -47,125 +47,80 @@
 
 _+ 4 earlier inspections in the database._
 
-## Verbatim from the inspector
+## Verbatim from the latest inspection report
 
-Direct quotes from the latest published report. Use these in outreach without paraphrasing.
+Inspection of Total People Limited · 2024-10-15 · grade: **🔵 good**.
+[Full report](https://files.ofsted.gov.uk/v1/file/50259358)
 
-### Main findings
+Direct quotes from the report. Use these in outreach without paraphrasing — they're exactly what the inspector wrote.
 
-> What is it like to be a learner with this provider?
->
-> Most learners and apprentices, display positive attitudes to their learning. They
-> enjoy their courses and feel valued by staff. Most learners and apprentices routinely
-> attend their training. This is because they are motivated to achieve. Consequently,
-> most move on to the next steps in their learning or their careers.
->
-> Most learners and apprentices value the support they receive from staff. They know
-> that their learning coaches want them to succeed. This helps learners and
-> apprentices to effectively build their confidence and self-esteem. For example, adult
-> learners who speak English as an additional language confidently and proudly read
-> bedtime stories to their children and ask for items in shops. However, not all
-> learners or apprentices feel that their course meets their needs, or that they get the
-> support they require.
->
-> Young people on employability programmes develop job application and interview
-> skills, as well as vital work behaviours such as effective team working and time
-> management. However, leaders have not yet arranged work experience for a small
-> number of learners. As a result, they have not been able to develop their work skills
-> as much as those who have already had work experience. The large majority of
-> young people progress into employment or further education.
->
-> Adult learners quickly improve their lives as a result of their courses. They increase
-> their self-belief and become self-sufficient. This helps them to be successful,
-> whether it is in the job market or in their personal lives. Learners fulfil their goals to
-> improve their communication with their families and communities, gain employment
-> or move on to further learning.
->
-> Most apprentices develop the knowledge, skills and behaviours they need to be
-> successful at work. Level 3 bus and coach technicians accurately diagnose and
-> repair engine faults on work vehicles. Level 5 HR consultant partner apprentices
-> swiftly an…
-
-### What this school needs to improve
+### What this provider needs to improve
 
 > What does the provider need to do to improve?
 >
->  Leaders should ensure that learning coaches and staff receive appropriate training
-> and subsequent support to enable them to successfully provide consistent and
-> effective feedback to young learners and apprentices so that they know what they
-> have done well and what they need to do to improve their knowledge, skills and
-> behaviours, as well as their English and mathematics.
->  Learning coaches should plan and coordinate on- and off-the-job training
-> effectively with employers so that apprentices can practise, improve and master
-> their knowledge, skills and behaviours at work.
->  Leaders should rapidly improve the use of assessments completed at the start of
-> the programme to develop an ambitious curriculum that challenges all apprentices
-> to achieve their potential.
->  Leaders should ensure that their careers guidance helps learners and apprentices
-> to understand the full range of next steps and career options available to them.
->  Leaders should continue to rapidly improve the governance arrangements to
-> ensure they are held to account for the quality of learners’ and apprentices’
-> education and training.
+>  Improve the numbers of learners and apprentices that remain on programme and
+> achieve.
+>  Improve feedback following assessment on programmes for young people and
+> learners with high needs so that learners know what they need to do to improve
+> their work.
+>  Improve the use of target setting for young people and learners with high needs
+> so that they know the progress that they are making.
+
+### Areas for improvement
+
+> areas for improvement. Board
+> members receive detailed reports that enable them to provide effective scrutiny and
+> challenge to make improvements swiftly.
+
+### Safeguarding
+
+> Safeguarding
 >
+> The arrangements for safeguarding are effective.
+
+### What is it like to be a learner here / What does the provider do well
+
+> What is it like to be a learner with this provider?
 >
+> Learners and apprentices enjoy their courses. They have positive attitudes to their
+> studies and are motivated to achieve their qualifications. Learning coaches have high
+> expectations, and learners and apprentices benefit from learning in calm purposeful
+> environments. Attendance is high. In the few instances where learners are absent,
+> they are supported to catch up.
 >
+> Young people and learners with high needs benefit from an effective introduction to
+> the provider. They visit TPL to familiarise themselves with the surroundings and
+> meet with their learning coaches before starting their course. This means that they
+> settle in quickly. Learners and apprentices work effectively with their peers. They are
+> respectful of each other and listen carefully to their opinions.
 >
+> Learners and apprentices develop their confidence and resilience because of the
+> training that they receive. Early years educator apprentices talk confidently with
+> parents and carers about their child’s development. Young people and learners with
+> high needs learn how to make eye contact and communicate clearly with their
+> peers.
 >
+> Learners and apprentices benefit from useful guidance that helps them stay mentally
+> and physically healthy. Scaffolding apprentices learn the importance of eating a
+> healthy diet and of exercise to keep fit in their job roles. Young people and learners
+> with high needs learn about healthy and unhealthy foods to improve their food
+> choices.
 >
+> Learners and apprentices feel safe. They know who to contact with any concerns for
+> their safety or their peers. Young people and those with high needs appreciate the
+> ‘check-ins’ that learning coaches carry out over the summer holidays. Scaffolding
+> and refrigeration, air conditioning and heat pump engineer (RAC) apprentices have a
+> high regard for safe working practices when carrying out practical activities. For
+> example, scaffolding apprentices work safely at height and install relevant safety
+> barriers correctly on tower scaffolds.
 >
-> Inspection report: Total People Limited
-> 10 to 13 May 2022
-> 6
+> What does the provider do well and what does it need to do
+> better?
 >
->
->
-> Provider details
->
-> Unique reference number 55022
->
-> Address Ashton Old Rd
-> Openshaw
-> Manchester
-> M11 2WH
->
-> Contact number 0161 674 6220
->
-> Website www.totalpeople.co.uk
->
-> Principal/CEO Melanie Nicholson
->
-> Provider type Independent learning provider
->
-> Date of previous inspection 8 to 11 May 2017
->
-> Main subcontractors Apprentify Limited
-> Build Skill – Plus Ltd
-> Cheshire College South & West
-> Clifford College Ltd
-> G4S Plc
-> Genesis Training Group Ltd
-> LSL (Your Move) Property Services Plc
-> Parallel Parents
-> Plato Training UK Ltd
-> Power in Partnership
-> Rebus Training Ltd
->
->
->
->
->
->
->
-> Inspection report: Total People Limited
-> 10 to 13 May 2022
-> 7
->
->
->
->
-> Information about this inspection
->
-> The inspection team was assisted by t…
+> Leaders plan curriculums carefully. Learners and apprentices incrementally develop
+> their knowledge, skills and behaviours over time. Learning coaches teach adult
+> learners how to use grammar correctly such as verbs and past tense in their writing.
+> They then pr…
 
 ## Compliance signals
 
@@ -179,23 +134,23 @@ _No high-trigger news matched in the last extraction pass._
 
 Quotes you can drop directly into outreach. Severity drives the score.
 
-- **emp.itp_off_the_job** (severity 4.0, what_school_needs_to_improve)
+- **emp.careers_provision_weak** (severity 4.5, young_peoples_provision)
+  >  Feedback to learners following assessment is not sufficiently specific to help learners improve their work. Feedback confirms that work meets criteria but does not systematically challenge learners to develop their skills to a higher level.  Careers guidance is not consistently good across all subject areas to enable all learners to make fully informed de
+
+- **fin_lit.budgeting** (severity 4.0, what_provider_needs_to_improve)
+  > During teaching activities, trainers link theory to real life situations to enable learners to gain good understanding. For example, foundation learners develop their skills in money management and budgeting through planning party activities for children.  The quality of teaching, learning and assessment for learners in subcontracted provision, is good.  T
+
+- **cr.self_esteem** (severity 4.0, what_provider_needs_to_improve)
+  >  The standard of most learners’ portfolios of evidence is good. Learners develop good practical skills such as in machine maintenance, hairstyling and in dealing effectively with customers. They enhance their confidence and self-esteem significantly. Early years and playwork learners develop a good range of skills enabling them to deal constructively with y
+
+- **os.extremism** (severity 4.0, what_provider_needs_to_improve)
+  >  Increase the proportion of learners on 16 to 19 study programmes who stay until the end of their programme and achieve their qualifications.  Develop learners’ and apprentices’ understanding of living in a modern society and the threats of radicalisation and extremism and enable them to have a full and active role in society and enable them to protect the
+
+- **os.radicalisation** (severity 4.0, what_provider_needs_to_improve)
+  >  Increase the proportion of learners on 16 to 19 study programmes who stay until the end of their programme and achieve their qualifications.  Develop learners’ and apprentices’ understanding of living in a modern society and the threats of radicalisation and extremism and enable them to have a full and active role in society and enable them to protect the
+
+- **emp.itp_off_the_job** (severity 4.0, what_provider_needs_to_improve)
   >  Leaders should ensure that learning coaches and staff receive appropriate training and subsequent support to enable them to successfully provide consistent and effective feedback to young learners and apprentices so that they know what they have done well and what they need to do to improve their knowledge, skills and behaviours, as well as their English a
-
-- **emp.careers_guidance** (severity 4.0, what_school_needs_to_improve)
-  >  Leaders should rapidly improve the use of assessments completed at the start of the programme to develop an ambitious curriculum that challenges all apprentices to achieve their potential.  Leaders should ensure that their careers guidance helps learners and apprentices to understand the full range of next steps and career options available to them.  Lea
-
-- **cr.personal_development_strengthen** (severity 3.0, personal_development)
-  > Personal development Requires improvement Leadership and management Requires improvement Education programmes for young people Good Adult learning programmes Good Apprenticeships Requires improvement Provision for learners with high needs Good Overall effectiveness at previous inspection Good
-
-- **emp.itp_off_the_job** (severity 2.0, main_findings)
-  > As a result, learners and apprentices, including those with an education, health and care plan, do not know what they specifically need to do to improve. In apprenticeships, managers and learning coaches do not sufficiently plan and coordinate on- and off-the-job training for most apprentices. They do not routinely plan the development of apprentices’ skills
-
-- **emp.cv_interview_skills** (severity 2.0, main_findings)
-  > However, not all learners or apprentices feel that their course meets their needs, or that they get the support they require. Young people on employability programmes develop job application and interview skills, as well as vital work behaviours such as effective team working and time management. However, leaders have not yet arranged work experience for a s
-
-- **emp.work_experience** (severity 2.0, main_findings)
-  > Young people on employability programmes develop job application and interview skills, as well as vital work behaviours such as effective team working and time management. However, leaders have not yet arranged work experience for a small number of learners. As a result, they have not been able to develop their work skills as much as those who have already h
 
 ---
 

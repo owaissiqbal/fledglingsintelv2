@@ -1,6 +1,6 @@
 # Poultec Training Limited
 
-**🟠 HIGH** · score **95** · urgency 60 · pipeline 100
+**🔴 CRITICAL** · score **95** · urgency 70 · pipeline 100
 
 ## Identity
 
@@ -13,12 +13,12 @@
 
 ## Lead-with curriculum
 
-**Confidence & Resilience** (sub-score 60)
+**Employability Skills** (sub-score 70)
 
 - Financial Literacy: 55
-- Employability Skills: 55
-- Confidence & Resilience: 60
-- Online Safety: 56
+- Employability Skills: 70
+- Confidence & Resilience: 65
+- Online Safety: 63
 
 ## Why this is on the list
 
@@ -49,11 +49,49 @@
 
 _+ 2 earlier inspections in the database._
 
-## Verbatim from the inspector
+## Verbatim from the latest inspection report
 
-Direct quotes from the latest published report. Use these in outreach without paraphrasing.
+Inspection of Poultec Training Limited · 2023-10-04 · grade: **🟠 requires improvement**.
+[Full report](https://files.ofsted.gov.uk/v1/file/50229866)
 
-### Main findings
+Direct quotes from the report. Use these in outreach without paraphrasing — they're exactly what the inspector wrote.
+
+### What this provider needs to improve
+
+> What does the provider need to do to improve?
+>
+>  Leaders must improve the proportion of learners on study programmes who
+> attend well, remain in learning and achieve their qualifications.
+>  Leaders and managers must ensure that tutors improve learners’ and apprentices’
+> English and mathematics skills so that they gain their qualifications and are wellprepared for future study and employment.
+>  Leaders must establish effective mechanisms to ensure that they have good
+> oversight of the quality of training and use management information systems
+> effectively to target their interventions, improve attendance and bring about
+> improvements to the quality of education.
+>  Leaders must implement an effective personal development curriculum for
+> apprentices. Specifically, leaders must ensure that learners and apprentices
+> understand the broader risks of radicalisation and extremism.
+>  Leaders must ensure that apprentices receive planned, ongoing impartial careers
+> advice and guidance so that apprentices know the wide range of career options
+> available to them.
+>  Leaders need to ensure that there are effective governance arrangements in place
+> to support and hold leaders to account for the improvement of the quality and
+> effectiveness of the provision and embed the statutory requirements for
+> safeguarding.
+
+### Safeguarding
+
+> Safeguarding
+>
+> The arrangements for safeguarding are effective.
+>
+> Tutors provide learners and apprentices with the training they need to work safely in
+> the work and learning environments. Learners and apprentices quickly develop their
+> knowledge of health and safety in the sectors they work. Apprentices studying the
+> butcher standard are trained to have the correct knife skills to avoid injuring
+> themselves when trimming a joint of beef.
+
+### What is it like to be a learner here / What does the provider do well
 
 > What is it like to be a learner with this provider?
 >
@@ -88,86 +126,14 @@ Direct quotes from the latest published report. Use these in outreach without pa
 >
 > Too few learners on study programmes progress in their training or work in their
 > chosen sector area. Leaders have developed effective partnerships with local
-> stakeholders to develop a skills-based curriculu…
-
-### What this school needs to improve
-
-> What does the provider need to do to improve?
+> stakeholders to develop a skills-based curriculum to support the needs of learners
+> who have previously been NEET. However, too few learners remain in learning and
+> achieve their qualifications.
 >
->  Leaders must improve the proportion of learners on study programmes who
-> attend well, remain in learning and achieve their qualifications.
->  Leaders and managers must ensure that tutors improve learners’ and apprentices’
-> English and mathematics skills so that they gain their qualifications and are wellprepared for future study and employment.
->  Leaders must establish effective mechanisms to ensure that they have good
-> oversight of the quality of training and use management information systems
-> effectively to target their interventions, improve attendance and bring about
-> improvements to the quality of education.
->  Leaders must implement an effective personal development curriculum for
-> apprentices. Specifically, leaders must ensure that learners and apprentices
-> understand the broader risks of radicalisation and extremism.
->  Leaders must ensure that apprentices receive planned, ongoing impartial careers
-> advice and guidance so that apprentices know the wide range of career options
-> available to them.
->  Leaders need to ensure that there are effective governance arrangements in place
-> to support and hold leaders to account for the improvement of the quality and
-> effectiveness of the provision and embed the statutory requirements for
-> safeguarding.
->
->
->
->
->
->
->
->
->
->
->
->
->
-> Inspection report: Poultec Training Limited
-> 27 to 30 June 2023
-> 6
->
->
-> Provider details
->
-> Unique reference number 53951
->
-> Address South Green Park Enterprise Centre
-> Mattishall
-> Dereham
-> NR20 3JY
->
-> Contact number 01362 850 983
->
-> Website www.poultec.co.uk
->
-> Principal, CEO or equivalent Edward Bales
->
-> Provider type Independent learning provider
->
-> Date of previous inspection 17 January 2017
->
-> Main subcontractors N/A
->
->
->
->
->
->
->
-> Inspection report: Poultec Training Limited
-> 27 to 30 June 2023
-> 7
->
->
->
->
-> Information about this inspection
->
-> The inspection team was assisted by the director, as nominee. Inspectors took
-> account of the p…
+> Leaders have not ensured that teaching is consistently good. Tutors of apprentices
+> frequently use questioning to check apprentices’ knowledge. Questions often lack
+> depth because too few tutors challenge apprentices to provide more detail to
+> deepen…
 
 ## Compliance signals
 
@@ -181,23 +147,23 @@ _No high-trigger news matched in the last extraction pass._
 
 Quotes you can drop directly into outreach. Severity drives the score.
 
-- **os.extremism** (severity 4.0, what_school_needs_to_improve)
+- **os.extremism** (severity 4.0, what_provider_needs_to_improve)
   >  Leaders must implement an effective personal development curriculum for apprentices. Specifically, leaders must ensure that learners and apprentices understand the broader risks of radicalisation and extremism.  Leaders must ensure that apprentices receive planned, ongoing impartial careers advice and guidance so that apprentices know the wide range of ca
 
-- **os.radicalisation** (severity 4.0, what_school_needs_to_improve)
+- **os.radicalisation** (severity 4.0, what_provider_needs_to_improve)
   >  Leaders must establish effective mechanisms to ensure that they have good oversight of the quality of training and use management information systems effectively to target their interventions, improve attendance and bring about improvements to the quality of education.  Leaders must implement an effective personal development curriculum for apprentices. S
 
-- **emp.careers_guidance** (severity 4.0, what_school_needs_to_improve)
+- **emp.careers_guidance** (severity 4.0, what_provider_needs_to_improve)
   > Specifically, leaders must ensure that learners and apprentices understand the broader risks of radicalisation and extremism.  Leaders must ensure that apprentices receive planned, ongoing impartial careers advice and guidance so that apprentices know the wide range of career options available to them.  Leaders need to ensure that there are effective gover
 
-- **cr.personal_development_strengthen** (severity 3.0, personal_development)
-  > Personal development Requires improvement Leadership and management Requires improvement Education programmes for young people Requires improvement Apprenticeships Requires improvement Overall effectiveness at previous inspection Good
+- **emp.itp_off_the_job** (severity 3.0, apprenticeships)
+  > Initial assessment identifies learners with additional learning needs. Very good levels of support are provided to learners with poor literacy and numeracy skills, and they have individual support in off-the-job training sessions. Good use is made of laptop computers and colour printers to support learning. Assessment documents and question sheets are explai
 
-- **cr.behaviour_attitudes_concern** (severity 3.0, behaviour_attitudes)
-  > Behaviour and attitudes Requires improvement
+- **emp.itp_off_the_job** (severity 3.0, areas_for_improvement)
+  > Learners are employed by five companies in Norfolk. 35. Most of the training and assessment for the NVQ and key skills is carried out on the job. There is a team of three full-time assessors and two work-based assessors. Off-the-job training includes a foundation certificate in food hygiene, a foundation certificate in health and safety, and other appropriat
 
-- **cr.personal_development** (severity 2.0, what_school_needs_to_improve)
-  >  Leaders must establish effective mechanisms to ensure that they have good oversight of the quality of training and use management information systems effectively to target their interventions, improve attendance and bring about improvements to the quality of education.  Leaders must implement an effective personal development curriculum for apprentices. S
+- **emp.itp_initial_assessment** (severity 3.0, safeguarding)
+  > Learners are routinely supported well, to help them achieve more quickly or where they need additional help to overcome difficulties. Good communication and emphasis on progress ensures appropriate support is provided promptly.  Initial assessment is not used effectively to inform individual targets for learners. The analysis of a learner’s occupational rol
 
 ---
 

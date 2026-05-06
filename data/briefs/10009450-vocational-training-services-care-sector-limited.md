@@ -16,7 +16,7 @@
 **Confidence & Resilience** (sub-score 55)
 
 - Financial Literacy: 0
-- Employability Skills: 31
+- Employability Skills: 38
 - Confidence & Resilience: 55
 - Online Safety: 55
 
@@ -47,11 +47,49 @@
 
 _+ 3 earlier inspections in the database._
 
-## Verbatim from the inspector
+## Verbatim from the latest inspection report
 
-Direct quotes from the latest published report. Use these in outreach without paraphrasing.
+Inspection of Vocational Training Services Care Sector Limited · 2025-09-04 · grade: **🔵 good**.
+[Full report](https://files.ofsted.gov.uk/v1/file/50285937)
 
-### Main findings
+Direct quotes from the report. Use these in outreach without paraphrasing — they're exactly what the inspector wrote.
+
+### What this provider needs to improve
+
+> What does the provider need to do to improve?
+>
+>  Make sure that apprentices and learners continue to develop their mathematic
+> skills and more apprentices achieve their functional skills level 2 mathematics.
+>  Make sure that apprentices and learners receive prompt developmental feedback
+> and targets that are individualised to their development needs, to ensure they
+> continue to improve their work.
+
+### Safeguarding
+
+> safeguarding concerns to. They have a good understanding of how to keep safe
+> online, including the risks of peer-on-peer abuse.
+>
+>
+> What does the provider do well and what does it need to do
+> better?
+>
+> Leaders have a clear strategic focus to provide training courses to meet skills
+> shortages in early years, education and care. They have a good understanding of
+> the sector and the challenges that employers face. Leaders offer level 2
+> apprenticeships for younger apprentices to build workplace skills and foundational
+> knowledge in early years. The level 3 early years educator course meets the needs
+> of smaller independent nurseries to provide qualified staff ratios for safe practice.
+> The level 4 lead practitioner in adult care meets employers’ needs for management
+> positions and senior roles in a care setting. Leaders offer the adult learning courses
+> as an alternative to the apprenticeship routes for those who have more experience
+> in the sector.
+>
+> Leaders and managers plan the curriculum to gradually build and develop
+> apprentices’ and learners’ knowledge and skills. Apprentices and learners begin with
+> study skills development to help them to research and write assignments. Tutors
+> then introduce sector specific topics, such as safeguarding. They then move on to
+
+### What is it like to be a learner here / What does the provider do well
 
 > What is it like to be a learner with this provider?
 >
@@ -79,97 +117,6 @@ Direct quotes from the latest published report. Use these in outreach without pa
 >
 > Apprentices and learners feel safe. They understand when and who to report
 
-### What this school needs to improve
-
-> What does the provider need to do to improve?
->
->  Make sure that apprentices and learners continue to develop their mathematic
-> skills and more apprentices achieve their functional skills level 2 mathematics.
->  Make sure that apprentices and learners receive prompt developmental feedback
-> and targets that are individualised to their development needs, to ensure they
-> continue to improve their work.
->
->
->
->
->
->
->
-> Inspection report: Vocational Training Services Care Sector Limited
-> 15 to 18 July 2025
-> 5
->
->
->
-> Provider details
->
-> Unique reference number 55230
->
-> Address Suite 4, Chalkwell Lawns
-> 648-656 London Road
-> Westcliff-On-Sea
-> Essex
-> SS0 9HR
->
-> Contact number 01702353557
->
-> Website www.vts.ac.uk
->
-> Principal, CEO or equivalent Emma Henigan
->
-> Provider type Independent learning provider
->
-> Date of previous inspection 21 to 24 February 2023
->
-> Main subcontractors None
->
->
->
->
->
->
->
-> Inspection report: Vocational Training Services Care Sector Limited
-> 15 to 18 July 2025
-> 6
->
->
->
->
-> Information about this inspection
->
-> The inspection team was assisted by the managing director, as nominee. Inspectors
-> took account of the provider’s most recent self-assessment report and development
-> plans, and the previous inspection report. The inspection was carried out using the
-> further education and skills inspection handbook and took into account all relevant
-> provision at the provider. Inspectors collected a wide range of evidence to inform
-> judgements including visiting learning sessions, scrutinising learners’ work, seeking
-> the views of learners, staff and other stakeholders, and examining the provider’s
-> documentation and records.
->
-> Inspection team
->
-> Penny Fawcus, lead inspector His Majesty’s Inspector
-> Rochelle Saneria His Majesty’s Inspector
-> Georgina Ager His Majesty’s Inspector
-> Sabrina Ahmed-Qureshi Ofsted Inspector
-> Sarah Wilding Ofsted Inspector
->
->
->
->
->
->
->
->
-> Inspection report: Vocational Training Services Care Sector Limited
-> 15 to 18 July 2025
-> 7
->
->
->
-> …
-
 ## Compliance signals
 
 _No public regulatory or financial-health notices on file._
@@ -182,23 +129,23 @@ _No high-trigger news matched in the last extraction pass._
 
 Quotes you can drop directly into outreach. Severity drives the score.
 
-- **emp.careers_guidance** (severity 4.0, what_school_needs_to_improve)
+- **os.extremism** (severity 4.0, what_provider_needs_to_improve)
+  >  Assessors should improve their use of target-setting to enable apprentices to make more rapid progress and excel.  Assessors should promote successfully apprentices’ understanding of British values and the dangers of extremism and radicalisation. Inspection report: VOCATIONAL TRAINING SERVICES CARE SECTOR LIMITED, 1–4 November 2016 Page 3 of 11 Inspection
+
+- **os.radicalisation** (severity 4.0, what_provider_needs_to_improve)
+  >  Assessors should improve their use of target-setting to enable apprentices to make more rapid progress and excel.  Assessors should promote successfully apprentices’ understanding of British values and the dangers of extremism and radicalisation. Inspection report: VOCATIONAL TRAINING SERVICES CARE SECTOR LIMITED, 1–4 November 2016 Page 3 of 11 Inspection
+
+- **emp.work_experience** (severity 4.0, what_provider_needs_to_improve)
+  >  Leaders and managers maintain strong collaborative links with employers, external agencies and other stakeholders. As a result, they develop programmes to meet local and regional skills needs. Employers provide good-quality work experience and workplace staff serve as inspirational role models for apprentices, including those who have previously been appre
+
+- **emp.careers_guidance** (severity 4.0, what_provider_needs_to_improve)
   >  Governors must provide effective scrutiny. They must hold leaders to account to quickly improve the quality and effectiveness of education.  Leaders must ensure that learners and apprentices receive ongoing, high-quality and impartial careers guidance so that they know how to identify and access the choices available to them and achieve their aspirations 
 
-- **cr.personal_development_strengthen** (severity 3.0, personal_development)
-  > Personal development Requires improvement Leadership and management Requires improvement Adult learning courses Good Apprenticeships Good Overall effectiveness at previous inspection Good
+- **os.extremism** (severity 2.0, safeguarding)
+  > However, apprentices have insufficient understanding of British values; assessors do not raise apprentices’ awareness of the importance of tolerance, the rule of law and democracy. Consequently, apprentices develop a very rudimentary awareness of how to protect themselves and others from the dangers of extremism and radicalisation. Outcomes for learners Good
 
-- **shared.rshe_curriculum** (severity 2.0, what_school_needs_to_improve)
-  >  Leaders and governors must ensure that they embed statutory requirements for safeguarding and the safer recruitment of staff and assess the impact on apprentices and learners.  Leaders must ensure that the starting points of adult learners are used to plan and sequence courses so that learners gain substantial new knowledge.  Governors must provide effec
-
-- **emp.careers_guidance** (severity 2.0, safeguarding)
-  > However, tutors do not consistently support adult learners so that they achieve their qualifications on time. Leaders have not ensured that learners and apprentices benefit from well-planned, impartial careers advice and guidance. While most are clear about their next steps and long-term career goals, they are not always clear on how to achieve their ambitio
-
-- **os.extremism** (severity 2.0, main_findings)
-  > They know who to report any concerns to. They are confident that staff will take the appropriate action. However, learners and apprentices do not always have a sufficient understanding of the local risks of radicalisation and extremism. They are not aware of how to keep themselves safe from associated risks in their personal and professional lives. What does
-
-- **os.radicalisation** (severity 2.0, main_findings)
-  > They know who to report any concerns to. They are confident that staff will take the appropriate action. However, learners and apprentices do not always have a sufficient understanding of the local risks of radicalisation and extremism. They are not aware of how to keep themselves safe from associated risks in their personal and professional lives. What does
+- **os.extremism** (severity 2.0, safeguarding)
+  > Inspection report: VOCATIONAL TRAINING SERVICES CARE SECTOR LIMITED, 1–4 November 2016 Page 5 of 11  Leaders and managers have responded to the ‘Prevent’ duty well and provide relevant training for staff. However, leaders have yet to ensure that apprentices have a good understanding of the importance of British values and the risks posed by extremism and ra
 
 ---
 

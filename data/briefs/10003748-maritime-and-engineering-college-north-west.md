@@ -1,6 +1,6 @@
 # Maritime and Engineering College North West
 
-**🟠 HIGH** · score **75** · urgency 36 · pipeline 100
+**🟠 HIGH** · score **75** · urgency 55 · pipeline 100
 
 ## Identity
 
@@ -13,12 +13,12 @@
 
 ## Lead-with curriculum
 
-**Employability Skills** (sub-score 36)
+**Confidence & Resilience** (sub-score 55)
 
 - Financial Literacy: 0
-- Employability Skills: 36
-- Confidence & Resilience: 27
-- Online Safety: 31
+- Employability Skills: 45
+- Confidence & Resilience: 55
+- Online Safety: 55
 
 ## Why this is on the list
 
@@ -47,112 +47,97 @@
 
 _+ 7 earlier inspections in the database._
 
-## Verbatim from the inspector
+## Verbatim from the latest inspection report
 
-Direct quotes from the latest published report. Use these in outreach without paraphrasing.
+Inspection of Maritime and Engineering College North West · 2025-07-14 · grade: **🔵 good**.
+[Full report](https://files.ofsted.gov.uk/v1/file/50282081)
 
-### Main findings
+Direct quotes from the report. Use these in outreach without paraphrasing — they're exactly what the inspector wrote.
 
-> What is it like to be a learner with this provider?
->
-> Apprentices and learners are motivated and enthusiastic to learn. Attendance is
-> high. Learners benefit from the industry expertise of their tutors, who support them
-> to develop new knowledge and skills. Most apprentices and learners speak highly of
-> their tutors. During classroom and workshop sessions, they demonstrate high levels
-> of respect.
->
-> A few apprentices and learners benefit from participating in themed events
-> throughout the year to promote health and well-being. For example, they listen to
-> guest speakers, such as the police, about the dangers of taking drugs and drink
-> driving. A local gym provides free day passes to promote health and fitness.
-> However, not all apprentices and learners can participate due to their timetables and
-> work commitments.
->
-> Most apprentices and learners gain new skills as a result of their training
-> programme. Marine fabricator apprentices learn how to diagnose faults accurately.
-> Plate welder apprentices learn different welding techniques. They develop these
-> skills in workshops and progress to more complex tasks.
->
-> Learners on traineeships develop skills that prepare them well for employment. They
-> learn how to carry out job searches and write formal letters of application. Learners
-> develop their practical skills across several disciplines, such as electrical, pipefitting
-> and welding. Most learners move into apprenticeships or employment.
->
-> Most apprentices do not receive effective ongoing careers advice and guidance to
-> help them make informed decisions about their next steps. They do not know the
-> career paths open to them upon completion of their apprenticeship. A few
-> apprentices benefit from informal discussions with training officers and tutors on
-> working abroad, working offshore and moving on to study higher national certificate
-> qualifications.
->
-> Apprentices and learners feel safe. They value the support given by tutors and
-> training officers to help them…
-
-### What this school needs to improve
+### What this provider needs to improve
 
 > What does the provider need to do to improve?
 >
->  Leaders should implement an effective careers programme, so that apprentices
-> and trainees can make informed choices about their next steps.
->  Leaders should ensure that employers are routinely involved in the planning and
-> coordination of on- and-off-the-job training to support apprentices to practise the
-> skills they have developed in the workplace.
->  Leaders should ensure that tutors and training officers use information on what
-> apprentices and learners on traineeships already know and can do at the start of
-> their programme, so that all apprentices and learners achieve their potential.
+>  Increase training for tutors and training officers, particularly those new to the
+> teaching profession, to improve their teaching, assessment, and feedback skills.
+>  Provide appropriate information to apprentices about their final assessments,
+> including the grades available and what they need to do to achieve the highest
+> grades.
+>  Revisit personal development topics more often so that apprentices are secure in
+> what they have been taught.
+
+### Areas for improvement
+
+> areas for improvement from the previous
+> inspection. Apprentices now access a broad personal development curriculum
+> including online modules and ‘toolbox talks.’ They are secure in their understanding
+> of the fundamental British Values. Apprentices know the importance of treating
+> others with respect. However, leaders recognise that they need to improve how the
+> curriculum is taught so that more apprentices can remember the content of the
+> topics they have studied.
+>
+> Since the previous inspection, leaders have taken steps to remedy challenges in
+> recruiting and retaining staff. They recruit tutors and training officers with
+> engineering expertise and industry experience and provide training designed to
+> improve their teaching skills. However, leaders rightly recognise the need to advance
+> tutors’ and training officers’ teaching skills, particularly assessment and feedback, so
+> that apprentices receive consistently high-quality training.
+>
+> Trustees bring a range of expertise including related industry, local authority, and
+> education. They use their expertise well to support leaders to make continued
+> improvements to the quality of training that apprentices receive.
+
+### Safeguarding
+
+> Safeguarding
+>
+> The arrangements for safeguarding are effective.
+
+### What is it like to be a learner here / What does the provider do well
+
+> What is it like to be a learner with this provider?
+>
+> Apprentices are respectful and professional at college and in the workplace. This is
+> because staff set clear expectations for behaviour. Apprentices adhere closely to the
+> college code of conduct. They are punctual and the attendance for most apprentices
+> is high.
+>
+> Apprentices take pride in their work. Industry-experienced tutors teach apprentices
+> how to produce work to the exacting standards required in the engineering sector.
+> Apprentices hone their skills to achieve these standards. Engineering construction
+> pipefitter apprentices create professional production reports and accurate technical
+> drawings.
+>
+> Apprentices value the positive and inclusive college culture. They participate in
+> charity events and contribute to a student council where they share their views with
+> staff. Apprentices appreciate that their feedback to staff leads to improvements.
+>
+> Apprentices are taught how to maintain their mental and physical well-being. They
+> know the risks associated with gambling and how to access support services.
+> Apprentices can articulate the importance of maintaining regular sleep schedules,
+> the dangers of drug and alcohol use, and how these can impair focus in the
+> workplace.
+>
+> Apprentices feel safe in college and in the workplace. They follow safe working
+> practices diligently, wear appropriate protective equipment, and abide by safety
+> regulations such as the appropriate use of mobile phones.
 >
 >
+> What does the provider do well and what does it need to do
+> better?
 >
+> Leaders have a clear intent to provide training opportunities to meet skills shortages
+> in heavy engineering and construction such as plate welders, riggers, and
+> shipwrights. They work closely with employers to plan ambitious curriculums that
+> extend beyond the apprenticeship standard. Leaders ensure that apprentices benefit
+> from additional training that prepares them well for employment. Plate welder
+> apprentices complete coding tests at the end of their first year of training. This
+> means that they are approved to carry out work to industry standards early in the
+> apprenticeship.
 >
->
->
-> Inspection report: Maritime and Engineering College North West
-> 24 to 27 January 2023
-> 5
->
->
->  Leaders should quickly establish robust quality assurance processes, so that they
-> make swift progress to improve apprentices’ and learners’ learning experience.
->  Leaders and managers should ensure that apprentices have a deep understanding
-> of the risks associated with extremist views, so they are prepared for life in modern Britain.
->  Leaders should ensure that tutors prepare apprentices for their final assessments,
-> so they can achieve the grades they are capable.
->  Leaders should ensure that tutors on traineeships improve the use of assessments
-> and feedback, so that learners know how to improve their work and achieve their
-> potential.
->  Leaders should ensure that tutors and training officers prepare apprentices for
-> their final assessments, so they achieve the grades of which they are capable.
->
->
->
->
->
->
->
-> Inspection report: Maritime and Engineering College North West
-> 24 to 27 January 2023
-> 6
->
->
->
-> Provider details
->
-> Unique reference number 54873
->
-> Address Monks Ferry
-> CH41 5LH
->
-> Contact number 0151 666 1028
->
-> Website www.theengineeringcollege.co.uk
->
-> CEO Terry Weston
->
-> Provider type Independent Learning Provider
->
-> Date of previous inspection 14 and 15 June 2017
->
-> Main subcontractors Derwent Training…
+> Tutors teach topics in a well-considered, logical order. Engineering construction
+> erector rigger apprentices are first taught how to prepare work areas. They are then
+> taught how to determine the technical and resource requirements for lifting, m…
 
 ## Compliance signals
 
@@ -166,23 +151,23 @@ _No high-trigger news matched in the last extraction pass._
 
 Quotes you can drop directly into outreach. Severity drives the score.
 
-- **emp.itp_off_the_job** (severity 4.0, what_school_needs_to_improve)
+- **emp.itp_off_the_job** (severity 4.0, what_provider_needs_to_improve)
   >  Leaders should implement an effective careers programme, so that apprentices and trainees can make informed choices about their next steps.  Leaders should ensure that employers are routinely involved in the planning and coordination of on- and-off-the-job training to support apprentices to practise the skills they have developed in the workplace.  Leade
 
 - **emp.itp_skills_knowledge_gaps** (severity 3.0, main_findings)
   > For example, tutors ensure that the metal fabricator apprenticeship includes how to produce pipework fabrications to support future skills needs. The marine fabricator apprenticeship pathway was selected to meet the skills gaps of local employers. Leaders do not design an ambitious curriculum for most apprentices and learners. Tutors and training officers do
 
-- **cr.personal_development_strengthen** (severity 3.0, personal_development)
-  > Personal development Requires improvement Leadership and management Requires improvement Education programmes for young people Requires improvement Apprenticeships Requires improvement Overall effectiveness at previous inspection Good
+- **emp.itp_off_the_job** (severity 2.0, leadership_management)
+  > Observations of teaching have been carried out for the previous two years and have clearly identified actions for improvement for individual trainers. They have not been moderated or used systematically to drive improvement in off-the-job training. Self-assessment is good and leads to effective planning for improvement. Inspection report:The Laird Foundation
 
-- **os.extremism** (severity 2.0, safeguarding)
-  > Leaders liaise effectively with external agencies and put appropriate support plans in place swiftly. Leaders provide apprentices with information during their induction about safeguarding, online safety and the dangers of radicalisation and extremism. However, tutors and training officers do not revisit these topics throughout the apprenticeship. Too many a
+- **emp.itp_off_the_job** (severity 2.0, leadership_management)
+  > A strategy is in place to ensure all new staff receive instruction in teaching techniques in the first few weeks of appointment but this has not yet been implemented. Some learners experience a delay between the completion of their off-the-job training and being offered a work placement which affects their motivation and commitment. Key skills training is go
 
-- **os.radicalisation** (severity 2.0, safeguarding)
-  > Leaders liaise effectively with external agencies and put appropriate support plans in place swiftly. Leaders provide apprentices with information during their induction about safeguarding, online safety and the dangers of radicalisation and extremism. However, tutors and training officers do not revisit these topics throughout the apprenticeship. Too many a
+- **emp.itp_off_the_job** (severity 2.0, leadership_management)
+  > Key strengths Good success rates for advanced apprenticeships Very good overall success rates in Train to Gain Inspection report:The Laird Foundation, 25 October 20077 of 13 Learners’ high level of practical skills Very good engineering resources Good on-the-job training Good management of change Very effective collaborative links with schools and emp
 
-- **emp.itp_off_the_job** (severity 2.0, main_findings)
-  > They move on to tensile testing on treated and untreated materials. Apprentices use this knowledge at work when carrying out testing to accurately interpret the data. Training officers do not effectively coordinate on- and off-the-job training with employers. They do not ensure that all employers are involved in planning apprentices’ training in the workplac
+- **shared.diversity** (severity 2.0, what_provider_needs_to_improve)
+  >  Apprentices generally understand the issues surrounding equality and diversity and some are able to put this into context in their workplaces. However, in taught sessions and workplace reviews equality and diversity are insufficiently reinforced. During progress reviews the inclusion of equality and diversity is not always formally recorded. The effectiven
 
 ---
 

@@ -1,6 +1,6 @@
 # ITEC North East Limited
 
-**🟠 HIGH** · score **95** · urgency 55 · pipeline 100
+**🟠 HIGH** · score **95** · urgency 65 · pipeline 100
 
 ## Identity
 
@@ -13,12 +13,12 @@
 
 ## Lead-with curriculum
 
-**Financial Literacy** (sub-score 55)
+**Confidence & Resilience** (sub-score 65)
 
 - Financial Literacy: 55
 - Employability Skills: 55
-- Confidence & Resilience: 55
-- Online Safety: 55
+- Confidence & Resilience: 65
+- Online Safety: 63
 
 ## Why this is on the list
 
@@ -48,11 +48,39 @@
 
 _+ 2 earlier inspections in the database._
 
-## Verbatim from the inspector
+## Verbatim from the latest inspection report
 
-Direct quotes from the latest published report. Use these in outreach without paraphrasing.
+Inspection of ITEC North East Limited · 2023-09-27 · grade: **🟠 requires improvement**.
+[Full report](https://files.ofsted.gov.uk/v1/file/50229454)
 
-### Main findings
+Direct quotes from the report. Use these in outreach without paraphrasing — they're exactly what the inspector wrote.
+
+### What this provider needs to improve
+
+> What does the provider need to do to improve?
+>
+>  Improve the oversight of adult learning programmes, including those delivered by
+> the subcontractor, so that leaders have an accurate overview of the quality of the
+> programmes and can tackle weaknesses.
+>  Ensure that adult learners follow programmes that take into account their starting
+> points and enable them to develop new knowledge and skills.
+>  Ensure that tutors assess adult learners’ work accurately so that learners are
+> aware of the progress that they are making and what they need to do to improve.
+
+### Safeguarding
+
+> Safeguarding
+>
+> The arrangements for safeguarding are effective.
+>
+> Leaders and managers recruit staff who are safe to work with young people and
+> vulnerable adults. They use safer recruitment practices including checking the right
+> to work in the UK, Disclosure and Barring Service checks, references and
+> qualification checks. Once recruited, staff adhere to a six-month probation
+> programme which includes mandatory training on safeguarding and preventing
+> radicalisation.
+
+### What is it like to be a learner here / What does the provider do well
 
 > What is it like to be a learner with this provider?
 >
@@ -85,92 +113,16 @@ Direct quotes from the latest published report. Use these in outreach without pa
 >
 > Most apprentices develop a good understanding of how to apply fundamental British
 > values in the workplace and at home. Staff help apprentices to understand the
-> importance of respect and tolerance and the qualities and behaviours expect…
-
-### What this school needs to improve
-
-> What does the provider need to do to improve?
+> importance of respect and tolerance and the qualities and behaviours expected by
+> their employers. However, too many adult learners are not able to identify how they
+> put British values into action at work.
 >
->  Improve the oversight of adult learning programmes, including those delivered by
-> the subcontractor, so that leaders have an accurate overview of the quality of the
-> programmes and can tackle weaknesses.
->  Ensure that adult learners follow programmes that take into account their starting
-> points and enable them to develop new knowledge and skills.
->  Ensure that tutors assess adult learners’ work accurately so that learners are
-> aware of the progress that they are making and what they need to do to improve.
+> What does the provider do well and what does it need to do
+> better?
 >
->
->
->
->
->
->
->
->
-> Inspection report: ITEC North East Limited
-> 15 to 18 August 2023
-> 6
->
->
->
-> Provider details
->
-> Unique reference number 52563
->
-> Address ITEC House
-> Hilton Road
-> Aycliffe Business Park
-> Newton Aycliffe
-> DL5 6EN
->
-> Contact number 01325 320052
->
-> Website www.itecne.co.uk
->
-> Principal, CEO or equivalent Tracy Wilson
->
-> Provider type Independent learning provider
->
-> Date of previous inspection 15 November 2016
->
-> Main subcontractors Trade Techs Northern Limited
->
->
->
->
->
->
->
-> Inspection report: ITEC North East Limited
-> 15 to 18 August 2023
-> 7
->
->
->
->
-> Information about this inspection
->
-> The inspection team was assisted by the head of operations, as nominee. Inspectors
-> took account of the provider’s most recent self-assessment report and development
-> plans, and the previous inspection report. The inspection was carried out using the
-> further education and skills inspection handbook and took into account all relevant
-> provision at the provider. Inspectors collected a wide range of evidence to inform
-> judgements, including visiting learning sessions, scrutinising learners’ work, seeking
-> the views of learners, staff and other stakeholders, and examining the provider’s
-> documentation and records.
->
-> Inspection team
->
-> Glenise Burrell, lead inspector His Majesty’s Inspector
-> Sarah Seaman His Majesty’s Inspector
-> Jonny Wright His Majesty’s Inspector
-> Philippa Firth His Majesty’s Inspector
->
->
->
->
->
-> …
+> In too many cases, managers do not enrol learners onto adult learning programmes
+> with integrity. Too often, learners’ prior knowledge, skills and experience are not
+> considered well enough, and…
 
 ## Compliance signals
 
@@ -184,23 +136,23 @@ _No high-trigger news matched in the last extraction pass._
 
 Quotes you can drop directly into outreach. Severity drives the score.
 
-- **os.radicalisation** (severity 2.0, safeguarding)
-  > They use safer recruitment practices including checking the right to work in the UK, Disclosure and Barring Service checks, references and qualification checks. Once recruited, staff adhere to a six-month probation programme which includes mandatory training on safeguarding and preventing radicalisation. Inspection report: ITEC North East Limited 15 to 18 Au
+- **shared.wider_personal_development** (severity 4.0, what_provider_needs_to_improve)
+  >  Learners’ starting points are clearly determined through initial and diagnostic assessments but insufficient importance is given to identifying and addressing learners’ additional learning needs. Business, administration and law learners are set challenging tasks and progress monitoring is good although progress reviews do not focus sufficiently on learner
 
-- **os.social_media** (severity 1.0, safeguarding)
-  > All staff are trained annually in safeguarding. Leaders and managers have in place useful policies to ensure that the organisation is compliant with safeguarding legislation and that learners are kept safe. These include social media policies, bullying and harassment and a ‘Prevent’ duty risk assessment and action plan.
+- **emp.itp_off_the_job** (severity 3.0, apprenticeships)
+  > Assessors are well qualified and use their good understanding of the organisations in which learners work to plan relevant assessment activities and to develop learners’ occupational skills. The majority of learners are on target to achieve by, or before, their planned end date.  Off-the-job learning includes a range of interactive activities that encourage
 
-- **shared.rshe_curriculum** (severity 1.0, main_findings)
-  > As a result, they are not aware of weaknesses in this provision. Too often, tutors at the subcontractor do not successfully develop adult learners’ written English skills throughout their time on the course, and, in a few cases, learners’ work does not meet the required standard. Apprentices who need to gain qualifications in English and mathematics as part 
+- **os.radicalisation** (severity 3.0, areas_for_improvement)
+  > Next steps for the provider Leaders and those responsible for governance should ensure that:  the proportion of apprentices who achieve their qualification within their planned time is increased, particularly for learners aged 16 to 18  the proportion of adults who progress to employment is increased  apprentices and learners develop a broader understandi
 
-- **shared.rshe_curriculum** (severity 1.0, main_findings)
-  > Too often, learners’ prior knowledge, skills and experience are not considered well enough, and learners are enrolled on courses at a level much lower than their ability. For example, learners with high levels of industry experience and strong results at initial assessment are enrolled on level 1 courses which they find too basic. As a result, they do not ga
+- **shared.diversity** (severity 2.0, what_provider_needs_to_improve)
+  >  While learners have a basic understanding of equality and diversity, their knowledge is insufficiently extended during progress reviews. Although learners are treated fairly, equitably, courteously and with respect, equality and diversity are not promoted during, and integrated into, teaching and learning activities. Information and Communication Technolog
 
-- **shared.rshe_curriculum** (severity 1.0, main_findings)
-  > In too many cases, managers do not enrol learners onto adult learning programmes with integrity. Too often, learners’ prior knowledge, skills and experience are not considered well enough, and learners are enrolled on courses at a level much lower than their ability. For example, learners with high levels of industry experience and strong results at initial 
+- **shared.diversity** (severity 2.0, what_provider_needs_to_improve)
+  > Information, advice and guidance for some ICT learners, however, need to be improved so that they are specifically focused on their learning and career-development needs.  While learners have a basic understanding of equality and diversity, their knowledge is insufficiently extended during progress reviews. Although learners are treated fairly, equitably, c
 
-- **shared.rshe_curriculum** (severity 1.0, main_findings)
-  > Most apprentices aim for high grades at end-point assessment. However, adult learners on short employability courses are often not sufficiently motivated because they already have the knowledge, skills and experience that their course covers before they start. Apprentices produce a high standard of work of which they are proud. They complete comprehensive as
+- **shared.diversity** (severity 2.0, what_provider_needs_to_improve)
+  >  Ensure that the quality-assurance processes deliver outstanding provision for learners, particularly for the new subcontracted providers.  Ensure that all relevant staff receive training and achieve qualifications in equality and diversity so that they are then able to promote equality and diversity more effectively to learners. Inspection judgements Outc
 
 ---
 

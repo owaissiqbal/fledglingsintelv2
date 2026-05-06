@@ -1,6 +1,6 @@
 # Anderson Stockley Accredited Training Ltd
 
-**🟠 HIGH** · score **75** · urgency 40 · pipeline 100
+**🟠 HIGH** · score **75** · urgency 55 · pipeline 100
 
 ## Identity
 
@@ -13,12 +13,12 @@
 
 ## Lead-with curriculum
 
-**Confidence & Resilience** (sub-score 40)
+**Confidence & Resilience** (sub-score 55)
 
 - Financial Literacy: 0
-- Employability Skills: 15
-- Confidence & Resilience: 40
-- Online Safety: 37
+- Employability Skills: 40
+- Confidence & Resilience: 55
+- Online Safety: 55
 
 ## Why this is on the list
 
@@ -47,29 +47,90 @@
 
 _+ 3 earlier inspections in the database._
 
-## Verbatim from the inspector
+## Verbatim from the latest inspection report
 
-Direct quotes from the latest published report. Use these in outreach without paraphrasing.
+Inspection of Anderson Stockley Accredited Training Ltd · 2023-07-26 · grade: **🔵 good**.
+[Full report](https://files.ofsted.gov.uk/v1/file/50224526)
 
-### What this school needs to improve
+Direct quotes from the report. Use these in outreach without paraphrasing — they're exactly what the inspector wrote.
 
-> What does the provider need to do to improve further?
->  Improve the observation of training and assessment by focusing it on what apprentices are
-> learning, how well this learning is checked and reinforced, how well they are being challenged to
-> achieve their full potential and whether they are making good progress against their starting
-> points.
->  Ensure that observation reports give all assessors a clear action plan to help them develop and
-> improve their training and assessing skills; monitor the outcomes of this plan at the next
-> observation. Share the good practice observed with other assessors.
->  Analyse and evaluate data, including information from initial assessments and apprentices’
-> progress and success through their qualifications, so that managers identify trends, and use the
-> findings to monitor and evaluate the impact of strategies to improve progress and outcomes for
-> apprentices.
->  Train assessors to write specific and time-bound targets that focus on the skills apprentices
-> need to develop in order to complete units and assignments to the highest standard of which
-> they are capable. In particular, include targets to develop further their English and mathematical
-> skills to prepare them well for further study at higher levels or the careers to which they aspire.
->  Ensure that assessors consistently monitor apprentices’ adherence to all health and safety and
+### What this provider needs to improve
+
+> What does the provider need to do to improve?
+>
+>  Leaders and managers should review the English, mathematics and work
+> preparation skills they expect trainees to gain and plan sufficient, good-quality
+> training to enable them to do so.
+>  Leaders and managers should develop formal procedures for assessing the special
+> educational needs of apprentices and trainees, and for developing and reviewing
+> support plans.
+>  Leaders and managers should review the arrangements for teaching mathematics
+> to apprentices and ensure that those who need to gain a functional skills
+> qualification receive enough good-quality training to do so.
+>  Leaders and managers should ensure that all EPs receive suitable training to
+> develop their pedagogical skills so that they are able to provide consistently good
+> teaching.
+
+### Safeguarding
+
+> Safeguarding
+>
+> The arrangements for safeguarding are effective.
+>
+> The designated safeguarding lead and deputies are experienced and suitably
+> trained. They have established appropriate safeguarding policies and procedures.
+> They deal effectively with any safeguarding concerns that arise and keep suitable
+> records of their actions. They liaise with external agencies to help apprentices and
+> trainees access such things as mental health support. They complete comprehensive
+> pre-employment checks on staff. They ensure that all staff undertake relevant
+> training. They use the information from regional ‘Prevent’ coordinators to produce a
+> suitable ‘Prevent’ risk assessment. They ensure that apprentices and trainees
+> understand safeguarding procedures.
+
+### What is it like to be a learner here / What does the provider do well
+
+> What is it like to be a learner with this provider?
+>
+> Most trainees and apprentices are highly motivated, enjoy their courses and are very
+> satisfied with the training they receive.
+>
+> Apprentices develop a good range of new skills and knowledge, which they can
+> confidently apply in their jobs. They receive good tuition and complete a range of
+> well-planned learning activities, which helps them to consolidate their
+> understanding. Workplace mentors take a real interest in the progress of apprentices
+> and support them well to practise their skills and develop their understanding.
+>
+> Trainees spend most of their time in work placements, and these placements help
+> them to develop their knowledge and their understanding of employer expectations.
+> However, they receive little actual training and consequently do not develop their
+> English, mathematical and wider employability skills enough.
+>
+> Apprentices and trainees benefit substantially from the good links that managers
+> forge with employers. For apprentices, these relationships result in an effective
+> programme of on- and off-the-job learning. For trainees, these relationships help to
+> ensure that work placements lead to a real job opportunity. As a result, all those
+> who recently completed their course secured an apprenticeship or other job.
+>
+> Mentors and employers help apprentices and trainees to develop their personal
+> attributes, such as assertiveness and confidence. Many, for example, become much
+> more confident in talking with clients, customers and colleagues, which is often a
+> particular challenge for them.
+>
+> Staff show genuine concern for the safety and well-being of their apprentices and
+> trainees. Consequently, learners feel safe, both at work and during training. They
+> receive suitable guidance on a range of safeguarding topics, know to whom they
+> should report concerns and are confident that any matters they raise will be dealt
+> with promptly and effectively.
+>
+> What does the provider do well and what does it need to do
+> better?
+>
+> Managers have developed apprenticeships in childcare and dental nursing in
+> response to requests from employers. They ensure that apprentices study suitable
+> topics that match the training requirements of employers and, for dental nurses, the
+> demands of the General Dental Council. Staff provide training through a combination
+> of face-to-face and online activities.
+> …
 
 ## Compliance signals
 
@@ -83,23 +144,23 @@ _No high-trigger news matched in the last extraction pass._
 
 Quotes you can drop directly into outreach. Severity drives the score.
 
-- **shared.diversity** (severity 1.0, safeguarding)
-  > Mentors support apprentices in their dental practice very effectively, and managers and assessors give them detailed information about qualification requirements.  Arrangements to promote equality and diversity are good. Staff throughout the organisation promote a strong sense of respect for one another, for apprentices and for others with whom they work. A
+- **emp.itp_skills_knowledge_gaps** (severity 6.0, what_provider_needs_to_improve)
+  > They have a good understanding of the local and regional skills priorities, particularly those aligned to the local enterprise partnership. Planning assessment visits to meet employers’ and apprentices’ work commitments is strong as is partnership working to meet local skills gaps.  Staff benefit from focused staff development activities that help consolida
 
-- **shared.diversity** (severity 1.0, safeguarding)
-  > Apprentices who are already competent in the use of technology use it well to improve the presentation of their work and to research areas relating to dental nurse practice and developments in the field on the General Dental Council and awarding body websites.  Both equality and diversity are well understood by apprentices and promoted well by assessors. Ap
+- **os.extremism** (severity 2.0, safeguarding)
+  >  Assessors promote equality and diversity well and have raised effectively apprentices’ awareness of the dangers associated with radicalisation and extremism and the dangers and benefits associated with using the internet. All apprentices take an online course that reinforces the issues around radicalisation and extremism and obtain an additional useful cer
 
-- **shared.rshe_curriculum** (severity 1.0, safeguarding)
-  > Inspection report: Anderson Stockley Accredited Training Ltd, 03–05 February 2015 6 of 10 Record of Main Findings (RMF) Anderson Stockley Accredited Training Ltd Inspection grades are based on a provider’s performance: 1: Outstanding 2: Good 3: Requires improvement 4: Inadequate Overall 14 - 16 part time provision 14 - 16 full time provision 16 - 19 study pr
+- **os.extremism** (severity 2.0, safeguarding)
+  > Employers value this and the thorough feedback they receive with their apprentices at the end of every visit.  Assessors promote equality and diversity well and have raised effectively apprentices’ awareness of the dangers associated with radicalisation and extremism and the dangers and benefits associated with using the internet. All apprentices take an on
 
-- **shared.rshe_curriculum** (severity 1.0, safeguarding)
-  > They also enable adults already working in dental surgeries to gain their qualification entirely within the workplace which minimises disruption for surgery staff and patients.  All apprentices have a mentor in their workplace who is a licensed dental nurse or dentist. Mentors support apprentices in their dental practice very effectively, and managers and a
+- **os.extremism** (severity 2.0, safeguarding)
+  > Members of staff carry out risk assessments with employers in all workplaces. Managers and staff closely monitor employers’ approach to health and safety.  Suitable safeguarding policies and procedures are in place and include reference to radicalisation and extremism. An appropriately trained and experienced safeguarding officer is in place.  Staff are aw
 
-- **shared.rshe_curriculum** (severity 1.0, safeguarding)
-  >  Managers carefully recruit assessors with good vocational experience to support apprentices well in their jobs. All have regular professional updating relevant to dental nursing in order to maintain their licence as dental nurses. They are either completing or about to enrol on an introductory teaching qualification, and all take part in regular standardis
+- **os.radicalisation** (severity 2.0, safeguarding)
+  >  Assessors promote equality and diversity well and have raised effectively apprentices’ awareness of the dangers associated with radicalisation and extremism and the dangers and benefits associated with using the internet. All apprentices take an online course that reinforces the issues around radicalisation and extremism and obtain an additional useful cer
 
-- **shared.rshe_curriculum** (severity 1.0, safeguarding)
-  > However, this initiative is quite new and it is not yet possible to judge the impact on apprentices’ progress and independent learning opportunities. Apprentices who are already competent in the use of technology use it well to improve the presentation of their work and to research areas relating to dental nurse practice and developments in the field on the 
+- **os.radicalisation** (severity 2.0, safeguarding)
+  > Employers value this and the thorough feedback they receive with their apprentices at the end of every visit.  Assessors promote equality and diversity well and have raised effectively apprentices’ awareness of the dangers associated with radicalisation and extremism and the dangers and benefits associated with using the internet. All apprentices take an on
 
 ---
 

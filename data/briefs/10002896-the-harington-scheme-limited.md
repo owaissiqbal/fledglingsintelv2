@@ -1,6 +1,6 @@
 # The Harington Scheme Limited
 
-**🟠 HIGH** · score **75** · urgency 52 · pipeline 82
+**🟠 HIGH** · score **75** · urgency 55 · pipeline 82
 
 ## Identity
 
@@ -11,12 +11,12 @@
 
 ## Lead-with curriculum
 
-**Online Safety** (sub-score 52)
+**Employability Skills** (sub-score 55)
 
-- Financial Literacy: 19
-- Employability Skills: 44
-- Confidence & Resilience: 48
-- Online Safety: 52
+- Financial Literacy: 30
+- Employability Skills: 55
+- Confidence & Resilience: 55
+- Online Safety: 55
 
 ## Why this is on the list
 
@@ -41,43 +41,45 @@
 
 _+ 4 earlier inspections in the database._
 
-## Verbatim from the inspector
+## Verbatim from the latest inspection report
 
-Direct quotes from the latest published report. Use these in outreach without paraphrasing.
+Inspection of The Harington Scheme Limited · 2024-07-15 · grade: **🔵 good**.
+[Full report](https://files.ofsted.gov.uk/v1/file/50252539)
 
-### What this school needs to improve
+Direct quotes from the report. Use these in outreach without paraphrasing — they're exactly what the inspector wrote.
 
-> What does the provider need to do to improve further?
->  Ensure that managers identify those learners at risk of not achieving and improve the planning
-> and coordination of the support provided by learning support assistants so that all learners
-> receive appropriate and timely individual support. Teachers and support staff should be made
-> more accountable for learners’ rates of progress.
->  Use the results of initial assessments to plan learning and ensure that learners have detailed,
-> and clear short- and medium-term learning targets, so that they are aware of the progress they
-> are making and can plan their work.
->  Ensure that the development of learners’ English and mathematics skills is well planned to meet
-> their individual needs by using the results from initial assessment better to match learners with
-> an appropriate level of qualification that meets their needs and ability.
->  Ensure that all teachers regularly test and confirm learners’ knowledge and understanding in
-> both theory and practical sessions by encouraging less-confident learners to contribute more
-> fully to planned activities and respond more frequently to questions raised by staff.
->  Ensure that the self-assessment report accurately identifies all key strengths and areas for
-> improvement and leads to a detailed quality improvement plan with clear actions to rapidly
-> improve the quality of teaching, learning, assessment and learner achievements. The selfassessment report and the improvement plan should be subject to robust challenge and regular
-> oversight by the board of trustees.
->  Ensure that trustees, leaders and managers have access to timely, robust and accurate
-> management information in order to:
-> − accurately identify how well learners are achieving and progressing over time
-> − monitor any variations in the performance of different groups of learners
-> − enable swift and timely management intervention to improve the quality of provision for all
-> learners.
+### What this provider needs to improve
+
+> What does the provider need to do to improve?
 >
+>  Improve the provision of careers advice and guidance so that students and
+> supported interns know about long-term career options and experience work in
+> different sectors.
+>  Increase the proportion of supported interns who move on to purposeful
+> employment after their internship.
+
+### Safeguarding
+
+> Safeguarding
 >
+> The arrangements for safeguarding are effective.
+
+### What is it like to be a learner here / What does the provider do well
+
+> What is it like to be a learner with this provider?
 >
+> Students love studying at Harington where they feel safe and welcome. They enjoy
+> learning in the beautiful gardens in Highgate and the well-equipped training centre
+> in Hornsey. The vast majority of students and supported interns complete their
+> courses and achieve their qualifications.
 >
->
->
-> Inspection Report:…
+> Leaders and managers arrange highly effective work experience placements for
+> students. The placements are carefully planned so that students can apply the skills
+> and knowledge they learn in training when they are ready. For example, horticulture
+> students work in the Harington gardening business to build gardening skills and
+> customer service skills. As they become more knowledgeable and confident, they
+> move on to external work placements at employers such as Highgate Cemetery.
+> Employers value the skills that students bring to their workplaces.
 
 ## Compliance signals
 
@@ -91,23 +93,23 @@ _No high-trigger news matched in the last extraction pass._
 
 Quotes you can drop directly into outreach. Severity drives the score.
 
-- **os.cyber_bullying** (severity 2.0, safeguarding)
-  > safeguarding, including raising learners’ awareness of the dangers associated with being online, including cyber bullying and friendship groups accessed through social media. However, the learner handbook does not give sufficient emphasis to e-safety. – Learners feel physically and emotionally safe, and arrangements for keeping them safe when attending the c
+- **emp.work_experience** (severity 4.0, what_provider_needs_to_improve)
+  > They have a clear vision for their learners and have established a curriculum which, alongside highly effective work experience, prepares learners well for the future.  Through their effective partnerships with local institutions, managers have ensured that learners have access to good work experience, which ensures that they develop the skills that they wi
 
-- **os.extremism** (severity 2.0, safeguarding)
-  > – Staff receive compulsory training in safeguarding and their knowledge has been extended through the completion of approved online radicalisation and extremism training to ensure that they have confidence and are alert to any changes in learners’ behaviour that may give early cause for concern. However, the safeguarding policy has not been updated to reflec
+- **emp.work_experience** (severity 4.0, what_provider_needs_to_improve)
+  > Inspection report: The Harington Scheme, 6–8 June 2017 Page 3 of 11 Inspection judgements Effectiveness of leadership and management Good  Since the previous inspection, leaders, managers and trustees have been successful in improving the quality of most teaching, which has led to much improved outcomes for learners. They have a clear vision for their learn
 
-- **os.extremism** (severity 2.0, safeguarding)
-  > – Appropriate policies are in place covering safer recruitment practices and appropriate checks are made on all staff, volunteers and trustees, including the accurate recording of all Disclosure Barring Service checks undertaken. – Staff receive compulsory training in safeguarding and their knowledge has been extended through the completion of approved onlin
+- **emp.careers_guidance** (severity 4.0, what_provider_needs_to_improve)
+  > What does the provider need to do to improve?  Improve the provision of careers advice and guidance so that students and supported interns know about long-term career options and experience work in different sectors.  Increase the proportion of supported interns who move on to purposeful employment after their internship.
 
-- **os.radicalisation** (severity 2.0, safeguarding)
-  > – Staff receive compulsory training in safeguarding and their knowledge has been extended through the completion of approved online radicalisation and extremism training to ensure that they have confidence and are alert to any changes in learners’ behaviour that may give early cause for concern. However, the safeguarding policy has not been updated to reflec
+- **emp.work_experience** (severity 3.0, high_needs_provision)
+  >  Initial advice and guidance is very effective and motivates learners with high needs to participate in education and training.  Learners receive very good specialist care and support from a range of appropriately qualified and experienced staff and volunteers.  Work experience is well organised and helps learners develop good skills for employment.  Lea
 
-- **os.radicalisation** (severity 2.0, safeguarding)
-  > – Appropriate policies are in place covering safer recruitment practices and appropriate checks are made on all staff, volunteers and trustees, including the accurate recording of all Disclosure Barring Service checks undertaken. – Staff receive compulsory training in safeguarding and their knowledge has been extended through the completion of approved onlin
+- **cr.mental_health** (severity 3.0, high_needs_provision)
+  > It was established in 1980 by local people to advance the education, training and social development of young people with learning difficulties, learning disabilities, behavioural difficulties or mental health needs by providing employability, life skills, horticultural and retail training. The scheme currently has 37 learners, of whom 29 are adult learners 
 
-- **emp.work_experience** (severity 2.0, safeguarding)
-  > Learners quickly learn the importance of self-respect and tolerance from the positive examples set by teachers and as a result they develop valuable personal and social skills that help them to grow in confidence. Work experience is incorporated well into programmes for all learners and they have a good range of opportunities to learn and develop highly rele
+- **emp.work_experience** (severity 3.0, high_needs_provision)
+  > Provision for learners with high needs Good Quality of teaching, learning and assessment Good Personal development, behaviour and welfare Good Outcomes for learners Good Overall effectiveness at previous inspection Requires improvement Summary of key findings This is a good provider  Highly effective and personalised work experience helps learners develop g
 
 ---
 

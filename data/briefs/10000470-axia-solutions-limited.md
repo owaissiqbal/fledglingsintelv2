@@ -1,6 +1,6 @@
 # Axia Solutions Limited
 
-**🟠 HIGH** · score **60** · urgency 42 · pipeline 100
+**🟠 HIGH** · score **60** · urgency 45 · pipeline 100
 
 ## Identity
 
@@ -13,12 +13,12 @@
 
 ## Lead-with curriculum
 
-**Confidence & Resilience** (sub-score 42)
+**Confidence & Resilience** (sub-score 45)
 
 - Financial Literacy: 0
 - Employability Skills: 21
-- Confidence & Resilience: 42
-- Online Safety: 25
+- Confidence & Resilience: 45
+- Online Safety: 39
 
 ## Why this is on the list
 
@@ -47,11 +47,72 @@
 
 _+ 4 earlier inspections in the database._
 
-## Verbatim from the inspector
+## Verbatim from the latest inspection report
 
-Direct quotes from the latest published report. Use these in outreach without paraphrasing.
+Inspection of Axia Solutions Limited · 2023-03-23 · grade: **🟠 requires improvement**.
+[Full report](https://files.ofsted.gov.uk/v1/file/50212195)
 
-### Main findings
+Direct quotes from the report. Use these in outreach without paraphrasing — they're exactly what the inspector wrote.
+
+### What this provider needs to improve
+
+> What does the provider need to do to improve?
+>
+>  Leaders should ensure that the curriculum that all adult learners follow is
+> sufficiently well planned so that all learners develop substantial new knowledge,
+> skills and behaviours which prepares them well for their next steps.
+>  Leaders should ensure that the starting points of all learners are used to plan
+> learning to ensure that that gaps in their knowledge are filled and all are
+> challenged to meet their potential.
+>  Leaders should ensure that all apprentices receive support to develop their
+> English and mathematics skills throughout their apprenticeship, including those
+> who already have the required qualifications.
+>  Leaders should ensure that all learners and apprentices are supported to develop
+> their understanding of healthy relationships.
+
+### Areas for improvement
+
+> areas for improvement and have led to several recent actions to improve
+> apprentices’ learning experience, such as improvements in target setting and the
+> quality of feedback that apprentices receive. However, leaders have not placed a
+> sharp enough focus on improving the quality of adult learning programmes and have
+> failed to identify the weaknesses that exist. As a result, leaders have not taken
+> effective steps to rectify these weaknesses.
+>
+> Leaders and tutors have planned the apprenticeship curriculums so that apprentices
+> develop their knowledge, skills and behaviours incrementally over time. For
+> example, apprentices on the level 3 business administrator apprenticeship learn
+> about time management, health and safety, and project management. They then
+> progress to more advanced content where they apply this knowledge to projects in
+> areas such as sustainability or reducing company expenditure. As a result,
+> apprentices build their knowledge and skills over time and understand new more
+> complex content as they progress.
+>
+> In most cases, apprentices and adult learners undertaking programmes for teaching
+> assistants benefit from tutors who have specialist knowledge and subject expertise.
+> Where this is the case, tutors use this knowledge well to present new information to
+> learners clearly. For example, on level 3 print technician apprenticeships, tutors use
+> their industry knowledge of different printing equipment such as laser printers to
+> support learners to develop new knowledge and skills. However, learners on
+> construction programmes are not taught by tutors who have high levels of
+> vocational expertise and consequently they do not benefit from this specialist
+> vocational knowledge in their learning.
+
+### Safeguarding
+
+> Safeguarding
+>
+> The arrangements for safeguarding are effective.
+>
+> Leaders have appointed an appropriately qualified and experienced designated
+> safeguarding lead (DSL). The DSL oversees safeguarding arrangements for the
+> provider, and effectively monitor safeguarding arrangements within the
+> subcontractor.
+>
+> The DSL has appropriate policies and procedures in place to safeguard learners,
+> including an appropriate policy for the safer recruitment of staff, and has put in
+
+### What is it like to be a learner here / What does the provider do well
 
 > What is it like to be a learner with this provider?
 >
@@ -88,123 +149,13 @@ Direct quotes from the latest published report. Use these in outreach without pa
 > better?
 >
 > Leaders and managers articulate a clear strategic vision for both apprenticeships and
-> adult learning programmes tha…
-
-### Areas for improvement
-
-> areas for improvement and have led to several recent actions to improve
-> apprentices’ learning experience, such as improvements in target setting and the
-> quality of feedback that apprentices receive. However, leaders have not placed a
-> sharp enough focus on improving the quality of adult learning programmes and have
-> failed to identify the weaknesses that exist. As a result, leaders have not taken
-> effective steps to rectify these weaknesses.
+> adult learning programmes that they offer. The curriculum they offer focuses on the
+> needs of the region and is aligned with local skills priorities.
 >
-> Leaders and tutors have planned the apprenticeship curriculums so that apprentices
-> develop their knowledge, skills and behaviours incrementally over time. For
-> example, apprentices on the level 3 business administrator apprenticeship learn
-> about time management, health and safety, and project management. They then
-> progress to more advanced content where they apply this knowledge to projects in
-> areas such as sustainability or reducing company expenditure. As a result,
-> apprentices build their knowledge and skills over time and understand new more
-> complex content as they progress.
->
-> In most cases, apprentices and adult learners undertaking programmes for teaching
-> assistants benefit from tutors who have specialist knowledge and subject expertise.
-> Where this is the case, tutors use this knowledge well to present new information to
-> learners clearly. For example, on level 3 print technician apprenticeships, tutors use
-> their industry knowledge of different printing equipment such as laser printers to
-> support learners to develop new knowledge and skills. However, learners on
-> construction programmes are not taught by tutors who have high levels of
-> vocational expertise and consequently they do not benefit from this specialist
-> vocational knowledge in their learning.
->
->
->
->
->
->
->
-> Inspection report: Axia Solutions Limited
-> 7 to 10 February 2023
-> 4
->
->
-> In most cases, leaders and tutors take steps to clearly identify apprentices’
-> vocational starting points. Apprentices undertake detailed skills scans at the start of
-> the …
-
-### What this school needs to improve
-
-> What does the provider need to do to improve?
->
->  Leaders should ensure that the curriculum that all adult learners follow is
-> sufficiently well planned so that all learners develop substantial new knowledge,
-> skills and behaviours which prepares them well for their next steps.
->  Leaders should ensure that the starting points of all learners are used to plan
-> learning to ensure that that gaps in their knowledge are filled and all are
-> challenged to meet their potential.
->  Leaders should ensure that all apprentices receive support to develop their
-> English and mathematics skills throughout their apprenticeship, including those
-> who already have the required qualifications.
->  Leaders should ensure that all learners and apprentices are supported to develop
-> their understanding of healthy relationships.
->
->
->
->
->
->
->
-> Inspection report: Axia Solutions Limited
-> 7 to 10 February 2023
-> 7
->
->
->
-> Provider details
->
-> Unique reference number 50579
->
-> Address Unit 1, Riverside
-> 2 Campbell Road
-> Stoke-On-Trent
-> ST4 4RJ
->
-> Contact number 01782 572777
->
-> Website ww.axia-solutions.com
->
-> Principal, CEO or equivalent Victoria Harte
->
-> Provider type Independent Learning Provider
->
-> Date of previous inspection 6 December 2011
->
-> Main subcontractors Learn 2 Print
->
->
->
->
->
->
->
-> Inspection report: Axia Solutions Limited
-> 7 to 10 February 2023
-> 8
->
->
->
->
-> Information about this inspection
->
-> The inspection team was assisted by the Managing Director, as nominee. Inspectors
-> took account of the provider’s most recent self-assessment report and development
-> plans, and the previous inspection report. The inspection was carried out using the
-> further education and skills inspection handbook and took into account all relevant
-> provision at the provider. Inspectors collected a wide range of evidence to inform
-> judgements, including visiting learning sessions, scrutinising learners’ work, seeking
-> the views of learners, staff and other stakeholders, and examining the provider’s
-> documentati…
+> Leaders have developed links with external agencies, such as Jobcentre Plus, to
+> offer SWAPs to those seeking employment in construction and as a teaching
+> assistant. However, while these programmes have been designed to meet the needs
+> of these partners, the curriculum that …
 
 ## Compliance signals
 
@@ -221,20 +172,20 @@ Quotes you can drop directly into outreach. Severity drives the score.
 - **emp.itp_off_the_job** (severity 3.0, areas_for_improvement)
   > However, on adult learning programmes, feedback is not developmental and does not always encourage learners to improve the quality of their work beyond the required knowledge, skills and behaviours needed to pass the qualification. Tutors ensure that apprentices benefit from opportunities to apply theory to practice. They collaborate with employers to effect
 
-- **cr.personal_development_strengthen** (severity 3.0, personal_development)
-  > Personal development Requires improvement Leadership and management Requires improvement Adult learning programmes Requires improvement Apprenticeships Good Overall effectiveness at previous inspection Outstanding
-
-- **shared.healthy_relationships** (severity 2.0, what_school_needs_to_improve)
+- **shared.healthy_relationships** (severity 2.0, what_provider_needs_to_improve)
   >  Leaders should ensure that all apprentices receive support to develop their English and mathematics skills throughout their apprenticeship, including those who already have the required qualifications.  Leaders should ensure that all learners and apprentices are supported to develop their understanding of healthy relationships. Inspection report: Axia Sol
 
-- **shared.rshe_curriculum** (severity 1.5, areas_for_improvement)
-  > However, on adult learning programmes, particularly in construction, tutors do not use assessment well enough to check that learners’ knowledge is secure before moving on. As a result, tutors cannot be sure that learners on construction programmes develop and secure new knowledge throughout their course. In most cases, tutors provide apprentices with useful 
+- **shared.diversity** (severity 1.5, apprenticeships)
+  > Employers and learners see these targets as more relevant. Axia’s staff are not vocationally experienced in engineering, and during their reviews they focus on generic aspects of monitoring progress. Coverage of equality and diversity is generally satisfactory. Learners are issued with a comprehensive guide to equality of opportunity, and reviewers have a li
 
-- **shared.healthy_relationships** (severity 1.0, safeguarding)
-  > The DSL ensures that all staff are appropriately trained on topics related to safeguarding and shares regular updates from the links they have developed with regional safeguarding and prevent information sources to share with learners and apprentices. Leaders have begun to introduce topics associated with healthy relationships. However, apprentices do not ha
+- **shared.rshe_curriculum** (severity 1.5, apprenticeships)
+  > Managers have developed particularly good partnerships with the National Probation Service and with local employers. They use these links well to begin to develop learning programmes for employees new to learning. Axia’s staff are developing courses in isolation. However, it will take time to involve employers to develop established learning materials and de
 
-- **shared.rshe_curriculum** (severity 1.0, safeguarding)
-  > Safeguarding The arrangements for safeguarding are effective. Leaders have appointed an appropriately qualified and experienced designated safeguarding lead (DSL). The DSL oversees safeguarding arrangements for the provider, and effectively monitor safeguarding arrangements within the subcontractor. The DSL has appropriate policies and procedures in place to
+- **shared.rshe_curriculum** (severity 1.5, apprenticeships)
+  > They are particularly sensitive as they follow up poor attendance and many learners are successfully encouraged to continue their programme. 46. Lessons are not sufficiently planned to meet learners’ identified individual learning priorities. Lessons are currently planned against the course criteria and are not linked to individual learning plans. Targets wi
+
+- **shared.rshe_curriculum** (severity 1.5, apprenticeships)
+  > Learners on essential skills programmes benefit from individual support, receiving information about the skills they need for work and pastoral support. Teaching staff have made monitoring learners’ attendance on all courses a priority. They are particularly sensitive as they follow up poor attendance and many learners are successfully encouraged to continue
 
 ---
 

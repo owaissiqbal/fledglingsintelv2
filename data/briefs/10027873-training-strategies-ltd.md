@@ -1,6 +1,6 @@
 # Training Strategies Ltd
 
-**🟠 HIGH** · score **75** · urgency 49 · pipeline 100
+**🟠 HIGH** · score **75** · urgency 55 · pipeline 100
 
 ## Identity
 
@@ -13,12 +13,12 @@
 
 ## Lead-with curriculum
 
-**Confidence & Resilience** (sub-score 49)
+**Employability Skills** (sub-score 55)
 
 - Financial Literacy: 0
-- Employability Skills: 13
-- Confidence & Resilience: 49
-- Online Safety: 30
+- Employability Skills: 55
+- Confidence & Resilience: 55
+- Online Safety: 55
 
 ## Why this is on the list
 
@@ -46,72 +46,68 @@
 
 _+ 1 earlier inspection in the database._
 
-## Verbatim from the inspector
+## Verbatim from the latest inspection report
 
-Direct quotes from the latest published report. Use these in outreach without paraphrasing.
+Inspection of Training Strategies Ltd · 2025-07-08 · grade: **🔵 good**.
+[Full report](https://files.ofsted.gov.uk/v1/file/50281495)
 
-### What this school needs to improve
+Direct quotes from the report. Use these in outreach without paraphrasing — they're exactly what the inspector wrote.
 
-> What does the provider need to do to improve further?
->  Improve the quality assurance arrangements for subcontractors, including the rigour and
-> frequency of observations of teaching, learning and assessment, to ensure they deliver high
-> standards of provision.
->  Improve the quality of teaching, learning and assessment to ensure all apprentices benefit from
-> high quality provision. Fully integrate functional skills within all aspects of apprenticeships and
-> ensure all learners improve their skills and knowledge at an early stage.
->  Improve outcomes by continuing to monitor apprentices’ progress rigorously to ensure they
-> achieve their qualification within the planned time. Where apprentices are identified as being at
-> risk of falling behind, or where their progress slows, ensure swift action is taken to support
-> them.
->  Make sure the results of initial assessment are used fully to plan individual learning programmes
-> (ILPs) for every learner. Ensure written learning targets are sufficiently detailed. Record relevant
-> training provided by employers in the ILP.
->  Increase the involvement of employers in planning high quality learning experiences for
-> apprentices and ensure they are given every opportunity to attend and contribute to progress
-> reviews. Provide employers with a written record of apprentices’ progress and targets for
-> learning.
->  Develop a good variety of interesting and challenging activities that stretch and engage all
-> apprentices. Encourage apprentices to take more responsibility for their learning and ensure
-> they have ready access to their portfolios. Increase the use of information and learning
-> technology in teaching, learning and assessment by encouraging more staff and learners to
-> become confident in its use.
->  Improve the standard of written feedback on apprentices’ work so that errors in spelling,
-> punctuation and grammar are identified and corrected. Ensure all apprentices fully understand
-> what they need to do to improve their work.…
+### What this provider needs to improve
 
-### Areas for improvement
+> What does the provider need to do to improve?
+>
+>  Provide training to develop tutors’ teaching skills further.
+>  Provide information to the board on the quality of education that learners receive
+> to ensure effective scrutiny and challenge.
 
-> areas for improvement and
-> informs challenging targets to drive improvement.
+### Safeguarding
+
+> Safeguarding
+>
+> The arrangements for safeguarding are effective.
+
+### What is it like to be a learner here / What does the provider do well
+
+> What is it like to be a learner with this provider?
+>
+> Learners enjoy their studies and are motivated to achieve their qualifications. They
+> are keen to improve their lives and those of their families. Leaders support learners
+> to remove any barriers to learning by providing financial support for the costs of
+> travel, disclosure and barring service checks and the security industry authority
+> license. Learners talk highly about the support that they receive from their tutors.
+> They value the industry experience of their tutors which brings learning to life and
+> inspires them to work in security.
+>
+> Learners benefit from a welcoming and respectful learning environment. They
+> quickly feel comfortable collaborating in small groups. Learners work respectfully
+> with each other and explain how they feel heard. They have an excellent
+> understanding of fundamental British values and apply this learning skilfully to
+> activities they carry out in the workplace. For instance, when carrying out searches,
+> learners know how to adapt search techniques to take account of an individual’s
+> religious beliefs and their gender.
+>
+> Learners increase in confidence because of their studies. They participate in role
+> plays and group discussions early in their training. Learners demonstrate the skills of
+> active listening and empathy. They use these skills to support individuals that may
+> be vulnerable effectively. Learners know how to respond if they hear codes such as
+> ‘angel shot’ and ‘ask for Angela’ to help customers who may be facing harassment.
+>
+> Learners feel safe. They know how to raise any concerns that they have about their
+> safety and well-being. Learners develop their understanding of local risks. For
+> example, they understand the rise in the use of ketamine and how to recognise and
+> respond to individuals who are under the influence of alcohol or drugs. Learners
+> have detailed discussions on the risks associated with radicalisation and extremism.
+> They deepen their knowledge on how to identify if people are acting suspiciously or
+> to deal with suspicious packages.
 >
 >
-> Inspection judgements
-> Outcomes for learners
-> Requires improvement
->  TSL began subcontracting apprenticeships midway through 2012 and the vast majority of these
-> learners are expected to achieve their qualification later this year. At the time of the inspection
-> TSL has no published success rates and none of the learners have yet completed their
-> apprenticeship or reached their intended completion date. The provider’s own tracking and
-> monitoring data show the majority of current apprentices are on target to achieve their
-> qualification as expected.
->  In 2011/12 TSL had high success rates for foundation learners. They also had a small number of
-> apprenticeships in security and cleaning with success rates around national averages. There is
-> no difference in the achievement or rate of progress for different groups of apprentices.
->  The large majority of current learners on all apprenticeships make satisfactory or better progress
-> towards their learning goals. However, many apprentices experienced significant delays to the
-> start of their learning programme; they were discouraged and lost enthusiasm as a result of
+> What does the provider do well and what does it need to do
+> better?
 >
-> Inspection report: Training Strategies Ltd, 24-27 September 2013 3 of 12
->
-> several changes of assessor. TSL and its subcontractors have since improved delivery and the
-> vast majority of apprentices are expected to achieve their qualification within the time planned.
->  Many learners, particularly those in early years and playwork are developing good practical skills
-> and knowledge which they use effectively in their work settings. The majority of health and
-> social care apprentices and those in management and customer service develop an appropriate
-> range of work skills. They understand clearly the impact of their work and develop good
-> communication skills. All apprentices have an adequate understanding of their rights and
-> responsibilities as apprentices.
->  Customer se…
+> Leaders have a clear strategy to provide training to adult learners that meets local,
+> regional and national skills priorities. They are passionate about providing training
+> with clear routes to employment to improve their learners’ l…
 
 ## Compliance signals
 
@@ -125,23 +121,23 @@ _No high-trigger news matched in the last extraction pass._
 
 Quotes you can drop directly into outreach. Severity drives the score.
 
-- **shared.diversity** (severity 1.5, areas_for_improvement)
-  > Apprentices have an adequate understanding of equality and diversity and understand how this relates to them in their workplaces. However, not all assessors adequately reinforce or promote equality and diversity in meetings with apprentices.  All staff give satisfactory attention to health and safety arrangements. Assessors ensure apprentices have a good aw
+- **emp.careers_guidance** (severity 4.0, what_provider_needs_to_improve)
+  >  Leaders should ensure that tutors improve the coordination between on- and offthe job training so that apprentices maximise their opportunities to practise, apply and extend new learning in the workplace in a timely manner.  Leaders should ensure that employers routinely participate in progress reviews to help plan and adapt targets and training opportuni
 
-- **shared.diversity** (severity 1.5, areas_for_improvement)
-  > Support and teaching for functional skills are not integrated into apprenticeships and are introduced too late in the programme, which limits opportunities for apprentices to develop their skills.  Assessors work effectively to ensure all apprentices are valued and feel supported. Apprentices have an adequate understanding of equality and diversity and unde
+- **emp.work_experience** (severity 3.0, apprenticeships)
+  > Apprenticeships Good Teaching, learning and assessment in health and social care are good because:  health and social care apprentices are in good workplace settings where they quickly gain good skills that support their progress against their framework completion  apprentices develop good work-related and interpersonal skills from participating in work ex
 
-- **shared.diversity** (severity 1.5, areas_for_improvement)
-  > Assessors provide useful information to help apprentices progress to their next steps in learning.  Assessors on all courses ensure apprentices are treated fairly and that their individual needs and differences are recognised. Assessors generally have a good understanding of equality and diversity but they do not sufficiently promote these when they meet wi
+- **os.extremism** (severity 3.0, areas_for_improvement)
+  > Safeguarding The arrangements for safeguarding are effective. Leaders and managers work effectively with the local authority and external partners to maintain up-to-date knowledge of any emerging issues related to localised dangers of radicalisation and extremism, and to safeguarding. They have recently expanded their network of contacts in mental health, we
 
-- **shared.rshe_curriculum** (severity 1.5, areas_for_improvement)
-  > Arrangements for formal tracking and monitoring of progress are effective and assessors know which learners are progressing well and who requires further support. Assessors provide adequate support to help apprentices decide on their next stage in training, such as nurse training or a higher-level qualification. Use of information and learning technology is 
+- **os.radicalisation** (severity 3.0, areas_for_improvement)
+  > Safeguarding The arrangements for safeguarding are effective. Leaders and managers work effectively with the local authority and external partners to maintain up-to-date knowledge of any emerging issues related to localised dangers of radicalisation and extremism, and to safeguarding. They have recently expanded their network of contacts in mental health, we
 
-- **shared.rshe_curriculum** (severity 1.5, areas_for_improvement)
-  >  Apprentices receive sufficient information about their programme and have a good understanding of what they need to do to complete the whole qualification. Assessors provide useful information to help apprentices progress to their next steps in learning.  Assessors on all courses ensure apprentices are treated fairly and that their individual needs and di
+- **cr.mental_health** (severity 3.0, areas_for_improvement)
+  > Leaders and managers work effectively with the local authority and external partners to maintain up-to-date knowledge of any emerging issues related to localised dangers of radicalisation and extremism, and to safeguarding. They have recently expanded their network of contacts in mental health, welfare, homelessness and financial support to refer and support
 
-- **emp.next_steps** (severity 1.5, areas_for_improvement)
-  >  Apprentices receive sufficient information about their programme and have a good understanding of what they need to do to complete the whole qualification. Assessors provide useful information to help apprentices progress to their next steps in learning.  Assessors on all courses ensure apprentices are treated fairly and that their individual needs and di
+- **shared.diversity** (severity 2.0, what_provider_needs_to_improve)
+  > They are particularly good for pre-employment learners, who benefit from good pre-course advice as to which programmes will best support Inspection report: Training Strategies Ltd, 10 – 13 March 2015 4 of 13 their employment aspirations and on the opportunities available to them in either of the vocational areas on offer.  In most programmes, staff promote 
 
 ---
 

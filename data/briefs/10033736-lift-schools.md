@@ -1,6 +1,6 @@
 # Lift Schools
 
-**🟠 HIGH** · score **75** · urgency 52 · pipeline 100
+**🟠 HIGH** · score **75** · urgency 55 · pipeline 100
 
 ## Identity
 
@@ -13,12 +13,12 @@
 
 ## Lead-with curriculum
 
-**Online Safety** (sub-score 52)
+**Confidence & Resilience** (sub-score 55)
 
 - Financial Literacy: 0
-- Employability Skills: 38
-- Confidence & Resilience: 46
-- Online Safety: 52
+- Employability Skills: 53
+- Confidence & Resilience: 55
+- Online Safety: 55
 
 ## Why this is on the list
 
@@ -45,48 +45,76 @@
 
 - [Report](https://files.ofsted.gov.uk/v1/file/2529271)
 
-## Verbatim from the inspector
+## Verbatim from the latest inspection report
 
-Direct quotes from the latest published report. Use these in outreach without paraphrasing.
+Inspection of Lift Schools · 2024-07-03 · grade: **🔵 good**.
+[Full report](https://files.ofsted.gov.uk/v1/file/50251364)
 
-### What this school needs to improve
+Direct quotes from the report. Use these in outreach without paraphrasing — they're exactly what the inspector wrote.
 
-> What does the provider need to do to improve further?
->  Improve quality improvement arrangements by:
-> — introducing robust observation of teaching, learning and assessment to develop trainers and
-> assessors’ skills more effectively and to ensure that on- and off-the-job learning is planned and
-> delivered effectively
-> — implementing improvement actions rapidly and in a timely manner.
+### What this provider needs to improve
+
+> What does the provider need to do to improve?
 >
->  Use a range of assessment tools to identify apprentices’ skills and knowledge in English, mathematics,
-> ICT and their main vocational qualification at the start of their programme to help ensure learning is
-> planned effectively.
+>  Give guidance to apprentices on how they can achieve merit and distinction
+> grades.
+>  Increase the proportion of apprentices who achieve their functional skills
+> mathematics qualification.
+>  Involve all employers of teaching assistant apprentices in reviews so that they
+> know what progress their apprentices make.
+
+### Safeguarding
+
+> safeguarding concerns.
 >
->  Set individual targets, liaising with apprentices’ line managers, to ensure they can develop their
-> knowledge, understanding and skills before assessment.
+> What does the provider do well and what does it need to do
+> better?
 >
->  Ensure tracking and monitoring of apprentices’ progress consistently covers all aspects of their
-> programme, including English, mathematics and ICT, to help ensure that apprentices make good and
-> timely progress.
+> Leaders have a clear reason for the apprenticeship training they offer. They aim to
+> professionalise school support roles within the trust so that employees have
+> sustainable careers in education. Leaders and staff have high expectations for
+> apprentices to learn quickly the skills they need to be effective members of the
+> schools where they work. Trainers work closely with the apprentice’s line managers
+> to decide the order in which they teach topics to suit the context of the different
+> schools in which apprentices work.
 >
+> Trainers use their skills effectively to teach apprentices new knowledge. They
+> frequently break tasks into manageable chunks and provide clear explanations of
+> topics. Trainers observe early years apprentices in the workplace and provide helpful
+> feedback on their use of phonics with children. Apprentices enjoy their training
+> sessions which they find interesting. They are quickly able to apply what they have
+> learned in the workplace.
+
+### What is it like to be a learner here / What does the provider do well
+
+> What is it like to be a learner with this provider?
 >
+> Trainers create calm, respectful and very welcoming learning environments,
+> including online. Apprentices quickly adopt positive behaviours in their workplace
+> and lessons. Apprentices in early years and teaching assistant courses are respectful
+> of the children and their parents when they speak with them. Apprentices feel
+> valued and respected as colleagues at work.
 >
+> Staff foster a positive attitude in apprentices towards their training. They provide
+> effective support to those apprentices who are anxious about returning to study.
+> Apprentices are proud of their work and value the training and support they receive.
 >
+> Apprentices quickly become competent in doing tasks at work, such as information
+> technology technician apprentices completing maintenance on the school’s main
+> servers. Business administration apprentices become adept at creating spreadsheets
+> to monitor communication between parents and nurseries. Consequently, they often
+> take on extra responsibility, such as early years apprentices temporarily taking the
+> role of room leader.
 >
-> Inspection report: Academies Enterprise Trust, 17–19 November 2015 Page 3 of 8
+> From the outset of the apprenticeship, staff encourage apprentices to think about
+> their careers and how the training will help them achieve their aspirations. Staff do
+> this thoroughly through discussions at induction and during progress reviews. As a
+> result, apprentices have a good understanding of how their apprenticeship can help
+> them achieve their career goals.
 >
->
-> Inspection judgements
-> Effectiveness of leadership and management requires improvement
->  Leaders and managers demonstrate good aspirations to provide a high-quality apprenticeship programme
-> to support their many academies. They do this by recruiting suitable apprentices who can progress to
-> permanent employment in administration, supporting teaching and learning or ICT roles. However, AET
-> has not yet been sufficiently effective in developing the apprenticeship programme and recruiting enough
-> apprentices to achieve this objective. The numbers of apprentices have been consistently low since the
-> programme commenced in 2012, although effective action is now being taken to better promote the use
-> of apprentices to the large number of academies across the country. So far, too few apprentices have
-> been recruited and not enough of them progress into permanent employment within AET.
->  Quality imp…
+> Staff ensure that apprentices feel safe. All apprentices complete safeguarding
+> training both in schools and with the provider. They understand well their
+> responsibility relating to safeguarding children and their responsibilities to report any
 
 ## Compliance signals
 
@@ -100,22 +128,22 @@ _No high-trigger news matched in the last extraction pass._
 
 Quotes you can drop directly into outreach. Severity drives the score.
 
-- **os.extremism** (severity 4.0, what_school_needs_to_improve)
+- **os.extremism** (severity 4.0, what_provider_needs_to_improve)
   > However, a large majority of apprentices do not improve understanding of their subject beyond the minimum requirement by having challenging targets set.  Apprentices know how to protect themselves from forms of abuse and extremism. They are fully aware of the need to protect themselves and others, particularly when working in an academy setting where young 
 
-- **os.extremism** (severity 4.0, what_school_needs_to_improve)
+- **os.extremism** (severity 4.0, what_provider_needs_to_improve)
   > Most apprentices work in academies where they enhance their understanding of safeguarding well. Managers are implementing their Prevent duty well. Staff and apprentices have received recent training and most are improving their understanding of radicalisation and extremism well. Inspection report: Academies Enterprise Trust, 17–19 November 2015 Page 4 of 8 Q
 
-- **os.radicalisation** (severity 4.0, what_school_needs_to_improve)
+- **os.radicalisation** (severity 4.0, what_provider_needs_to_improve)
   > Most apprentices work in academies where they enhance their understanding of safeguarding well. Managers are implementing their Prevent duty well. Staff and apprentices have received recent training and most are improving their understanding of radicalisation and extremism well. Inspection report: Academies Enterprise Trust, 17–19 November 2015 Page 4 of 8 Q
 
-- **os.prevent_duty** (severity 4.0, what_school_needs_to_improve)
+- **os.prevent_duty** (severity 4.0, what_provider_needs_to_improve)
   > All staff benefit from regular training, and apprentices receive good-quality information at the start of their programme, including for e-safety. Most apprentices work in academies where they enhance their understanding of safeguarding well. Managers are implementing their Prevent duty well. Staff and apprentices have received recent training and most are i
 
-- **emp.itp_off_the_job** (severity 4.0, what_school_needs_to_improve)
+- **emp.itp_off_the_job** (severity 4.0, what_provider_needs_to_improve)
   >  Quality improvement arrangements are not yet sufficiently robust to ensure all apprentices benefit from high-quality teaching, learning and assessment. The observation process does not ensure consistent assessment practice and does not yet monitor the quality of on- and off-the-job learning effectively. Feedback mechanisms do not yet provide sufficient qua
 
-- **emp.itp_off_the_job** (severity 4.0, what_school_needs_to_improve)
+- **emp.itp_off_the_job** (severity 4.0, what_provider_needs_to_improve)
   >  Improve quality improvement arrangements by: — introducing robust observation of teaching, learning and assessment to develop trainers and assessors’ skills more effectively and to ensure that on- and off-the-job learning is planned and delivered effectively — implementing improvement actions rapidly and in a timely manner.  Use a range of assessment tool
 
 ---

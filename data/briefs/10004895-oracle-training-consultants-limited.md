@@ -1,6 +1,6 @@
 # Oracle Training Consultants Limited
 
-**🟠 HIGH** · score **75** · urgency 41 · pipeline 100
+**🟠 HIGH** · score **75** · urgency 55 · pipeline 100
 
 ## Identity
 
@@ -13,12 +13,12 @@
 
 ## Lead-with curriculum
 
-**Confidence & Resilience** (sub-score 41)
+**Confidence & Resilience** (sub-score 55)
 
 - Financial Literacy: 0
-- Employability Skills: 22
-- Confidence & Resilience: 41
-- Online Safety: 27
+- Employability Skills: 48
+- Confidence & Resilience: 55
+- Online Safety: 48
 
 ## Why this is on the list
 
@@ -47,41 +47,84 @@
 
 _+ 4 earlier inspections in the database._
 
-## Verbatim from the inspector
+## Verbatim from the latest inspection report
 
-Direct quotes from the latest published report. Use these in outreach without paraphrasing.
+Inspection of Oracle Training Consultants Limited · 2023-09-13 · grade: **🔵 good**.
+[Full report](https://files.ofsted.gov.uk/v1/file/50227976)
 
-### What this school needs to improve
+Direct quotes from the report. Use these in outreach without paraphrasing — they're exactly what the inspector wrote.
 
-> What does the provider need to do to improve further?
->  Continue increasing success rates ensuring all learners progress and achieve to their full
-> potential.
->  Improve the quality of teaching, learning and assessment by further developing tutors and
-> providing them with more learning resources and teaching strategies.
->  Ensure the results of initial assessment are appropriately used to inform individualised learning
-> plans that lead to a differentiated learning experience.
->  Improve progress reviews ensuring learners, employers and assessors are engaged in
-> discussing and planning learners’ progress.
->  Improve the use of data and target-setting to ensure challenging and ambitious objectives are
-> set in all plans.
->  Further develop the quality improvement procedures ensuring they inform a more evaluative
-> and critical self-assessment process that leads to an improved provision.
+### What this provider needs to improve
+
+> What does the provider need to do to improve?
 >
-> Inspection judgements
-> Outcomes for learners
-> Requires improvement
->  Outcomes for learners require improvement. Overall success rates for apprentices in
-> hairdressing and beauty therapies have increased since the last inspection from 66% to 75%
-> last year, but are only slightly higher than the national average for providers delivering
-> programmes in the same area of learning and require further improvement. Success rates in
-> hairdressing, where the majority of learners are, were lower at 73% last year. Success rates for
-> beauty therapy programmes were high last year at 80%, seven per cent above the national
-> average for this area.
->  At Oracle Training Consultants Ltd. (Oracle), not all learners achieve and make good progress in
-> relation to their starting points. Although the percentage of learners who achieve within their
-> planned end date is high, this is influenced by the fact that all learners are set up the same
-> length of time for their programme, regardless of their starting point and individual ability,
-> which does not stretch sufficiently the more-able learners. Over half …
+>  Ensure that all learners receive clear and frequent careers advice and guidance
+> about opportunities beyond South Yorkshire that more fully meet their potential
+> aspirations.
+>  Ensure that staff use the results of initial assessment to improve learners’ and
+> apprentices’ English and mathematical skills.
+>  Ensure that staff provide apprentices with clear information and guidance,
+> throughout the apprenticeship, about how to achieve high grades in their
+> examinations.
+>  Ensure that all employers are actively involved in reviewing apprentices’ progress
+> so that that they know how they can support apprentices in the workplace.
+
+### Safeguarding
+
+> Safeguarding
+>
+> The arrangements for safeguarding are effective.
+>
+> Staff are appropriately trained in safeguarding and deal swiftly when safeguarding
+> concerns are raised. They accurately record, report and escalate concerns to the
+> appropriate staff in the organisation. Those responsible for safeguarding ensure that
+> appropriate actions are taken.
+>
+> Leaders have a risk register to record other potential concerns about learners and
+> apprentices. These include health issues, individual progress on programme and
+> attendance. Staff review this information frequently to ensure there are appropriate
+> arrangements and interventions in place to keep learners and apprentices safe.
+
+### What is it like to be a learner here / What does the provider do well
+
+> What is it like to be a learner with this provider?
+>
+> Learners and apprentices work in calm and professional salon environments. Tutors
+> provide them with a safe and welcoming space to learn. They encourage learners
+> and apprentices to seek clarification when they are not sure about the correct
+> beauty or hairdressing techniques to use and help them to make the correct
+> selection.
+>
+> Tutors set high expectations for professional behaviour that are aligned closely to
+> the standard expected in salons. Learners and apprentices appreciate how staff act
+> as role models, demonstrating commercial standards. Learners particularly benefit
+> from a ‘buddy’ scheme through which new learners are supported by their more
+> experienced peers. They value the camaraderie of their peer group and adhere well
+> to professional salon expectations.
+>
+> Learners and apprentices attend off-the-job training sessions well. They inform
+> tutors if they are unable to attend so that alternative arrangements can be made for
+> them to catch up on the content that they have missed. Staff are very approachable
+> and provide guidance when learners need additional support, both during and
+> outside of formal sessions. For example, when apprentices are in salons and
+> practising new or difficult techniques, such as shaving and male hair colouring, they
+> contact their tutors, who provide them with helpful guidance on the techniques that
+> they should use.
+>
+> Learners and apprentices have positive attitudes and enjoy their learning.
+> Apprentices are enthused by listening to guest speakers, including employers and
+> beauty suppliers. They learn highly valued employability skills from their tutors, who
+> use their own experiences well to illustrate topics in the curriculum. For example,
+> learners studying to become nail technicians are taught commercial practices in
+> handling hazardous chemical products early in their training by current beauty
+> practitioners from local salons.
+>
+> Learners and apprentices feel safe at the provider. They receive useful advice about
+> staying safe when travelling to and from the centre, such as by walking together on
+> dark nights. Learners value the ‘safe spot’ scheme and know which local businesses
+> they can go to, should they feel unsafe in the local city and town centres. Tutors
+> provide learners and apprentices with information about local risks, such as drink
+> spiking in l…
 
 ## Compliance signals
 
@@ -95,23 +138,23 @@ _No high-trigger news matched in the last extraction pass._
 
 Quotes you can drop directly into outreach. Severity drives the score.
 
-- **emp.itp_off_the_job** (severity 4.0, what_school_needs_to_improve)
-  > Managers are peripatetic and work across the three centres. Following recruitment, the provider enrols learners onto programmes and finds them employment. Learners visit these centres once a week to attend off-the-job training. Assessors visit them in the work place, in hairdressing and beauty therapy salons across South Yorkshire. The provision of the busin
+- **emp.careers_guidance** (severity 4.0, what_provider_needs_to_improve)
+  > What does the provider need to do to improve?  Ensure that all learners receive clear and frequent careers advice and guidance about opportunities beyond South Yorkshire that more fully meet their potential aspirations.  Ensure that staff use the results of initial assessment to improve learners’ and apprentices’ English and mathematical skills.
 
-- **shared.diversity** (severity 2.0, what_school_needs_to_improve)
+- **emp.itp_off_the_job** (severity 3.0, apprenticeships)
+  > Additional salon training sessions requested by employers meet the needs of learners and the salon very well. Training takes place in good quality salons with employers who support the apprentices’ development very effectively. Off-the-job training environments vary in quality; the cramped conditions and minor examples of poor hygiene in one centre do not re
+
+- **shared.diversity** (severity 2.0, what_provider_needs_to_improve)
   > The provider responds effectively to initiatives designed to promote apprenticeships and has successfully engaged with employers who offer a high standard of training facilities that benefits learners.  Oracle’s promotion of equality and diversity is adequate overall. Managers have established particularly good links with education and training providers to
 
-- **shared.diversity** (severity 2.0, what_school_needs_to_improve)
+- **shared.diversity** (severity 2.0, what_provider_needs_to_improve)
   > Learners cover these topics in training sessions, and staff undertake development on equality Inspection report: Oracle Training Consultants Ltd., 19–22 February 2013 4 of 10 and diversity. However, the promotion of equality and diversity to learners and employers is not always further developed in order to generate a deeper understanding of these subjects. 
 
-- **shared.diversity** (severity 2.0, what_school_needs_to_improve)
+- **shared.diversity** (severity 2.0, what_provider_needs_to_improve)
   >  Staff and learners’ understanding of equality and diversity requires further development. Learners cover these topics in training sessions, and staff undertake development on equality Inspection report: Oracle Training Consultants Ltd., 19–22 February 2013 4 of 10 and diversity. However, the promotion of equality and diversity to learners and employers is 
 
-- **shared.diversity** (severity 2.0, what_school_needs_to_improve)
+- **shared.diversity** (severity 2.0, what_provider_needs_to_improve)
   > They are employed in high quality hairdressing and beauty therapy salons that meet and exceed the industry’s professional standards. Personal support for learners is satisfactory; however, issues highlighted at reviews are not always addressed adequately.  Staff and learners’ understanding of equality and diversity requires further development. Learners cov
-
-- **shared.rshe_curriculum** (severity 2.0, what_school_needs_to_improve)
-  > Type of provider Independent learning provider Age range of learners 16+ Approximate number of all learners over the previous full contract year Full-time: 0 Part-time: 349 Principal/CEO Diane Logan Date of previous inspection November 2010 Website address www.oracle-uk.com Provider information at the time of the inspection Main course or learning programme 
 
 ---
 

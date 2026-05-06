@@ -13,10 +13,10 @@
 
 ## Lead-with curriculum
 
-**Confidence & Resilience** (sub-score 55)
+**Employability Skills** (sub-score 55)
 
 - Financial Literacy: 0
-- Employability Skills: 40
+- Employability Skills: 55
 - Confidence & Resilience: 55
 - Online Safety: 55
 
@@ -47,35 +47,21 @@
 
 _+ 1 earlier inspection in the database._
 
-## Verbatim from the inspector
+## Verbatim from the latest inspection report
 
-Direct quotes from the latest published report. Use these in outreach without paraphrasing.
+Inspection of JBC Skills Training Limited · 2025-08-27 · grade: **🔵 good**.
+[Full report](https://files.ofsted.gov.uk/v1/file/50285314)
 
-### Main findings
+Direct quotes from the report. Use these in outreach without paraphrasing — they're exactly what the inspector wrote.
 
-> What is it like to be a learner with this provider?
+### What this provider needs to improve
+
+> What does the provider need to do to improve?
 >
-> Learners and apprentices develop the professional skills they need to succeed in
-> their future careers rapidly. For example, learners on the level 2 ICT career builder
-> course, many of whom have no prior experience with computer hardware, quickly
-> learn to build personal computers tailored to the needs of clients and customers.
->
-> Learners and apprentices place a high value on their education. They benefit from
-> calm and supportive online learning environments, which contribute to consistently
-> high attendance. The positive atmosphere in which they study enables them to grow
-> in confidence and develop both personally and professionally.
->
-> Learners and apprentices value the high-quality careers advice and guidance they
-> receive, which helps them plan their next steps with confidence. They routinely
-> attend careers support sessions where they explore opportunities for further study
-> and employment. During these sessions, they strengthen their CV writing and learn
-> to produce effective cover letters. Tutors routinely support multi-channel marketer
-> apprentices in gaining additional certifications and qualifications that enhance their
-> employability and career prospects.
->
-> Learners and apprentices feel safe in both their digital environments and the
-> workplace. They demonstrate a secure understanding of how to protect themselves
-> online, including the risks associated with cybercrime. They know how to report
+>  Develop tutors’ skills and teaching strategies to support learners with SEND in
+> lessons.
+>  Improve the quality and consistency of targets set during apprentices’ progress
+> reviews to ensure they are meaningful and support skills development.
 
 ### Areas for improvement
 
@@ -105,113 +91,59 @@ Direct quotes from the latest published report. Use these in outreach without pa
 >
 > Leaders and managers implement effective quality assurance processes that identify
 
-### What this school needs to improve
+### Safeguarding
 
-> What does the provider need to do to improve?
->
->  Develop tutors’ skills and teaching strategies to support learners with SEND in
-> lessons.
->  Improve the quality and consistency of targets set during apprentices’ progress
-> reviews to ensure they are meaningful and support skills development.
+> safeguarding concerns and feel confident doing so.
 >
 >
+> What does the provider do well and what does it need to do
+> better?
 >
+> Leaders have a clear and well-considered vision for the curriculums they offer. They
+> work effectively with tutors and employers to ensure that curriculums are structured
+> in a way that enables learners and apprentices to build their knowledge in logical
+> and meaningful steps. IT solutions technician apprentices first study basic hardware
+> principles before applying this knowledge in more-complex scenarios, such as
+> diagnosing faults, managing systems and responding to cyber security challenges.
+> This enables apprentices to apply their learning confidently and deepen their
+> technical understanding over time.
 >
+> Tutors are well qualified and bring strong subject expertise to their teaching. They
+> draw on current industry experience to enrich lessons with relevant, real-life
+> examples and scenarios. Learners and apprentices use this expert input to deepen
+> their understanding of complex topics and apply their knowledge confidently in
+> practical workplace situations.
 >
+> Tutors actively support learners and apprentices to develop a wide range of technical
+> skills that prepare them well for the workplace. Through carefully planned tasks,
+> learners on the level 3 ICT career builder course enhance their digital and
+> communication skills by completing real-world activities such as configuring virtual
+
+### What is it like to be a learner here / What does the provider do well
+
+> What is it like to be a learner with this provider?
 >
+> Learners and apprentices develop the professional skills they need to succeed in
+> their future careers rapidly. For example, learners on the level 2 ICT career builder
+> course, many of whom have no prior experience with computer hardware, quickly
+> learn to build personal computers tailored to the needs of clients and customers.
 >
-> Inspection report: JBC Skills Training Limited
-> 8 to 11 July 2025
-> 5
+> Learners and apprentices place a high value on their education. They benefit from
+> calm and supportive online learning environments, which contribute to consistently
+> high attendance. The positive atmosphere in which they study enables them to grow
+> in confidence and develop both personally and professionally.
 >
+> Learners and apprentices value the high-quality careers advice and guidance they
+> receive, which helps them plan their next steps with confidence. They routinely
+> attend careers support sessions where they explore opportunities for further study
+> and employment. During these sessions, they strengthen their CV writing and learn
+> to produce effective cover letters. Tutors routinely support multi-channel marketer
+> apprentices in gaining additional certifications and qualifications that enhance their
+> employability and career prospects.
 >
->
-> Provider details
->
-> Unique reference number 59153
->
-> Address Stoneleigh House
-> 66-70 Earlsdon Street
-> Coventry
-> CV5 6EJ
->
-> Contact number 02476 715143
->
-> Website https://jbctraining.co.uk
->
-> Principal, CEO or equivalent Dan Pearson
->
-> Provider type Independent learning provider
->
-> Date of previous inspection 14 to 17 March 2023
->
->
->
->
->
->
->
->
->
-> Inspection report: JBC Skills Training Limited
-> 8 to 11 July 2025
-> 6
->
->
->
->
-> Information about this inspection
->
-> The inspection team was assisted by the bids and contract manager, as nominee.
-> Inspectors took account of the provider’s most recent self-assessment report and
-> development plans, and the previous inspection report. The inspection was carried
-> out using the further education and skills inspection handbook and took into account
-> all relevant provision at the provider. Inspectors collected a wide range of evidence
-> to inform judgements, including visiting learning sessions, scrutinising learners’
-> work, seeking the views of learners, staff and other stakeholders, and examining the
-> provider’s documentation and records.
->
-> Inspection team
->
-> Mark Parton, lead inspector His Majesty’s Inspector
-> Ramin Narimani His Majesty’s Inspector
-> Susan Gay Ofsted Inspector
-> Rachel Clark His Majesty’s Inspector
-> Daisy Agathine-Louise Ofsted Inspector
-> Megan Dauksta Ofsted Inspector
->
->
->
->
->
->
->
->
-> Inspection report: JBC Skills Training Limited
-> 8 to 11 July 2025
-> 7
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
-> The Office for Standards in Education, Children’s Services and Skills (Ofsted)
-> regulates and inspects to achieve excellence in the care of child…
+> Learners and apprentices feel safe in both their digital environments and the
+> workplace. They demonstrate a secure understanding of how to protect themselves
+> online, including the risks associated with cybercrime. They know how to report
 
 ## Compliance signals
 
@@ -225,23 +157,23 @@ _No high-trigger news matched in the last extraction pass._
 
 Quotes you can drop directly into outreach. Severity drives the score.
 
-- **os.extremism** (severity 4.0, what_school_needs_to_improve)
+- **emp.itp_assessment_weak** (severity 4.0, what_provider_needs_to_improve)
+  > However, assessors do not make enough use of all the available workplace evidence to help the apprentices understand the value of such evidence in assessing their competence. As a result, apprentices have an insufficient understanding of the overall framework structure and their progress through the NVQ component.  Initial assessment is effective at identif
+
+- **emp.itp_off_the_job** (severity 4.0, what_provider_needs_to_improve)
+  > Apprentices feel safe at work and know who to approach to report any concerns they may have.  Assessors provider apprentices with detailed, developmental feedback from the exercises and assignments set as part of the off-the-job training that enables them to improve their work and ensure that it meet the standards required both by the awarding body and by t
+
+- **emp.itp_off_the_job** (severity 4.0, what_provider_needs_to_improve)
+  >  Teachers integrate functional skills development in mathematics and English with ICT very effectively, with a particularly strong focus on the standards expected in business communications, for instance when using email. Internet safety is an integral element of the induction programme, reinforced in the off-the-job training and the regular progress review
+
+- **emp.itp_off_the_job** (severity 4.0, what_provider_needs_to_improve)
+  > Trainers and assessors provide good guidance for apprentices who do not receive an offer of employment at the end of the programme to help prepare job applications, but this is left until the last week of the apprenticeship.  Managers and staff provide good, well-structured off-the-job training that meets apprentices’ needs and interests and builds progress
+
+- **emp.itp_off_the_job** (severity 4.0, what_provider_needs_to_improve)
+  > All apprentices completed their programmes in a timely manner resulting in high success rates.  Apprentices develop very good technical and employability skills through particularly effective individual and group activities during off-the-job training and in the workplace. For most apprentices the development of employability skills starts early in the prog
+
+- **os.extremism** (severity 4.0, what_provider_needs_to_improve)
   >  Leaders and tutors should ensure that all apprentices and learners develop an age-appropriate understanding of healthy relationships, for work and in their personal lives, and an awareness of the risks in their local area in relation to radicalisation and extremism.  Leaders and tutors should ensure that they make use of information about learners’ and ap
-
-- **os.radicalisation** (severity 4.0, what_school_needs_to_improve)
-  >  Leaders and tutors should ensure that all apprentices and learners develop an age-appropriate understanding of healthy relationships, for work and in their personal lives, and an awareness of the risks in their local area in relation to radicalisation and extremism.  Leaders and tutors should ensure that they make use of information about learners’ and ap
-
-- **emp.careers_education** (severity 4.0, what_school_needs_to_improve)
-  >  Leaders and tutors should ensure that they make use of information about learners’ and apprentices’ prior learning and experience to plan their learning so that they can develop substantial and sustained new knowledge, skills and behaviours and reach their full potential.  Leaders and tutors should ensure that learners and apprentices receive impartial ca
-
-- **cr.personal_development_strengthen** (severity 3.0, personal_development)
-  > Personal development Requires improvement Leadership and management Requires improvement Adult learning programmes Requires improvement Apprenticeships Requires improvement Overall effectiveness at previous inspection Good
-
-- **shared.healthy_relationships** (severity 2.0, what_school_needs_to_improve)
-  > What does the provider need to do to improve?  Leaders and tutors should ensure that all apprentices and learners develop an age-appropriate understanding of healthy relationships, for work and in their personal lives, and an awareness of the risks in their local area in relation to radicalisation and extremism.  Leaders and tutors should ensure that they 
-
-- **os.extremism** (severity 2.0, safeguarding)
-  > Leaders do not ensure that all tutors systematically teach learners and apprentices about life in modern Britain. Learners and apprentices receive information on the risks associated with radicalisation and extremism at the start of their course. However, they cannot recall this information with confidence. They do not receive guidance on how to keep themsel
 
 ---
 

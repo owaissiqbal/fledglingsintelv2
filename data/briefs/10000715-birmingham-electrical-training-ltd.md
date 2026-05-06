@@ -1,6 +1,6 @@
 # Birmingham Electrical Training Ltd
 
-**🟠 HIGH** · score **75** · urgency 50 · pipeline 100
+**🟠 HIGH** · score **75** · urgency 55 · pipeline 100
 
 ## Identity
 
@@ -13,12 +13,12 @@
 
 ## Lead-with curriculum
 
-**Confidence & Resilience** (sub-score 50)
+**Employability Skills** (sub-score 55)
 
 - Financial Literacy: 0
-- Employability Skills: 32
-- Confidence & Resilience: 50
-- Online Safety: 27
+- Employability Skills: 55
+- Confidence & Resilience: 55
+- Online Safety: 55
 
 ## Why this is on the list
 
@@ -46,47 +46,83 @@
 
 _+ 7 earlier inspections in the database._
 
-## Verbatim from the inspector
+## Verbatim from the latest inspection report
 
-Direct quotes from the latest published report. Use these in outreach without paraphrasing.
+Inspection of Birmingham Electrical Training Ltd · 2023-04-27 · grade: **🔵 good**.
+[Full report](https://files.ofsted.gov.uk/v1/file/50215013)
 
-### What this school needs to improve
+Direct quotes from the report. Use these in outreach without paraphrasing — they're exactly what the inspector wrote.
 
-> What does the provider need to do to improve further?
->  Make arrangements for learners who need the functional skills qualifications, to be able to sit
-> examinations as soon as they are ready.
->  Develop tutors’ and assessors’ ability and confidence to coach apprentices in English,
-> contextualised to the needs of their industry and their future employment.
->  Establish and maintain reliable quality assurance systems for the whole of the training process,
-> including one for observing teaching learning and assessment.
->  Link the observations of teaching, learning and assessment to the staff development
-> programme, so that tutors and assessors are helped to improve where necessary.
->  Maintain the pace of learning in theory lessons by more accurate checking of all apprentices’
-> understanding.
->  Ensure that short-term targets set for apprentices, whether in theory lessons, assessments or
-> reviews, are specific, measurable, achievable and challenging. Make sure that employers or
-> supervisors are involved in setting and monitoring apprentices’ targets.
->  Train staff in equality and diversity issues as they apply to the industry, so that they are
-> confident to develop apprentices’ understanding through relevant and meaningful discussions.
+### What this provider needs to improve
+
+> What does the provider need to do to improve?
 >
->
-> Inspection judgements
-> Outcomes for learners
-> Requires improvement
->
->  Success rates have improved significantly over the last year, and are now better than the
-> national average for the qualification. Over 70% of apprentices complete their programmes
-> within the time expected. However, the company’s internal data suggests a slight decline in the
-> current year.
->  The standard of apprentices’ technical work is good. They quickly develop useful industry
-> standard work related skills and complete complex tasks with the minimum supervision. For
-> example, one apprentice successfully installed light-emitting diodes (LED) spotlights and data
-> cables meeting the high standards expected by the assessor and the employer.
->  Those who are…
+>  Leaders should ensure that employers are involved in the regular reviews of
+> apprentices’ progress.
+>  Tutors and training officers should improve the development of apprentices’
+> English skills, beyond spelling and grammar, considering what skills may be
+> needed as apprentices move through their careers.
+>  Leaders should implement clearer processes for the monitoring of quality
+> assurance to ensure that they have an effective oversight of the quality of training
+> that apprentices receive.
 
-### Areas for improvement
+### Safeguarding
 
-> areas for improvement, although some of the
+> Safeguarding
+>
+> The arrangements for safeguarding are effective.
+>
+> Leaders have recruited and suitably trained staff to support the safeguarding and
+> well-being of apprentices. They ensure that all staff undergo enhanced Disclosure
+> and Barring Service checks and that these are recorded in sufficient detail to assure
+> staff’s suitability to work with younger apprentices.
+>
+> Staff benefit from appropriate training and development in all aspects of
+> safeguarding and the ‘Prevent’ duty. The designated safeguarding lead ensures that
+
+### What is it like to be a learner here / What does the provider do well
+
+> What is it like to be a learner with this provider?
+>
+> Apprentices have a positive attitude to their studies. Leaders and staff set high
+> expectations, particularly in practical skills development and with examination
+> success. Apprentices are motivated to complete their apprenticeship, which supports
+> their career development within the electrical industry.
+>
+> Apprentices swiftly develop their knowledge, skills and behaviours that they can use
+> within their work to ensure they work safely and effectively. They develop their
+> confidence because of their apprenticeship. Apprentices recognise the knowledge
+> and experience of their tutors and training officers and the high level of support they
+> receive to ensure they are successful in their studies. Employers recognise the
+> benefit that their apprentices bring to their organisations and the skills they develop
+> as a result of their apprenticeship.
+>
+> Most staff create a positive and respectful learning environment for apprentices,
+> encouraging open discussions during their training. However, senior leaders
+> recognise that on a few occasions they have been too slow to respond to concerns
+> raised by apprentices and staff. For example, when apprentices and staff raised
+> concerns about the use of CCTV in the training centre, this was not acted on quickly
+> enough by leaders. As a result, apprentices and staff do not always feel that their
+> views are listened to.
+>
+> Apprentices have a good understanding of how to keep themselves safe within
+> high-risk workplaces. They have a good understanding of personal protection and
+> risk assessment, and the importance of safe isolation when working. Apprentices
+> start their learning with health and safety, and this is reviewed and refreshed
+> regularly, ensuring that staying safe remains a high priority.
+>
+> What does the provider do well and what does it need to do
+> better?
+>
+> Leaders and managers have a clear rationale for providing apprenticeships in a skills
+> shortage area, both for the local area and nationally. They have created strong
+> partnerships with local employers and with external organisations to ensure the
+> curriculum is up to date, ambitious for all apprentices and highly valued by
+> employers.
+>
+> Leaders have planned a curriculum that develops the knowledge, skills and
+> behaviours that apprentices need to be effective workers. Starting with health and
+> safety and …
 
 ## Compliance signals
 
@@ -100,23 +136,23 @@ _No high-trigger news matched in the last extraction pass._
 
 Quotes you can drop directly into outreach. Severity drives the score.
 
-- **emp.itp_assessment_weak** (severity 4.0, what_school_needs_to_improve)
+- **emp.itp_assessment_weak** (severity 4.0, what_provider_needs_to_improve)
   > The use of information learning technology has improved since the previous inspection, but it is not always used interactively to enhance learning. Although an increasing proportion of teaching is good, too much still requires improvement.  On-site assessment is accurate and very thorough. It is carried out frequently and flexibly to meet the needs of learn
 
-- **emp.cv_interview_skills** (severity 4.0, what_school_needs_to_improve)
+- **emp.cv_interview_skills** (severity 4.0, what_provider_needs_to_improve)
   >  Improved arrangements for conducting initial assessment this year ensure that newly-recruited apprentices possess the English and mathematical skills to be able to cope with the demands of the programme. Staff also help apprentices to prepare their curriculum vitae or improve their interview skills. However, trainers do not use the findings from initial as
 
-- **shared.diversity** (severity 2.0, what_school_needs_to_improve)
-  > Employers speak very highly of apprentices trained through BET, and they value the reliable specialist service which BET has provided over many years. Inspection report: Birmingham Electrical Training Ltd, 30 October – 02 November 2012 5 of 10  The provider has appropriate procedures in place to promote equality and diversity. Data are regularly analysed to
+- **emp.itp_off_the_job** (severity 3.0, apprenticeships)
+  > Success rates and progress by learners during their training has improved. Although a problem remains about some aspects of the planning and co-ordination of practical training, learners receive good on- and off-the-job training. Managers have discontinued work with subcontractors who did not provide the standard required by BET. BET learners rarely face dis
 
-- **shared.diversity** (severity 2.0, what_school_needs_to_improve)
-  > Learners are not sufficiently aware of the full range of progression opportunities following completion of their apprenticeship.  Equality and diversity issues are explored regularly at reviews, but these discussions do not always have sufficient depth or local relevance. Opportunities to promote equality and diversity naturally in teaching and learning are
+- **emp.itp_off_the_job** (severity 3.0, apprenticeships)
+  > BET provides a wide range of particularly useful additional courses for learners, before and after training. Pre-enrolment provision includes a taster programme at a local school and the key stage 4 apprenticeships. BET, in partnership with employers, runs a 12-week taster programme, combining off-the-job training and work experience. A collaborative arrange
 
-- **shared.diversity** (severity 2.0, what_school_needs_to_improve)
-  > The provision of on-going information advice and guidance during the programme is Inspection report: Birmingham Electrical Training Ltd, 30 October – 02 November 2012 4 of 10 insufficiently developed. Learners are not sufficiently aware of the full range of progression opportunities following completion of their apprenticeship.  Equality and diversity issue
+- **emp.itp_off_the_job** (severity 3.0, apprenticeships)
+  > Apprenticeships 2 51 2003-04 overall timely 5654 38 48 38 26 1736 48 55 2004-05 overall timely 6641 9 41 9 40 2233 118 NVQ training for young 2 24 2003-04 overall timely 3551 29 0 0 0 016 38 46 2004-05 overall timely 3057 17 0 0 0 022 30 For details of how to calculate overall and timely success rates please refer to the "Quality Improvement Pack" (available
 
-- **shared.diversity** (severity 2.0, what_school_needs_to_improve)
-  >  Use the management information and data collected more systematically in order to review performance and learner progress and to inform management decisions.  Introduce greater depth and relevance to the discussion of equality and diversity in teaching, learning and progress reviews so that learners’ understanding of equality and diversity is improved.  
+- **emp.work_experience** (severity 3.0, apprenticeships)
+  > Pre-enrolment provision includes a taster programme at a local school and the key stage 4 apprenticeships. BET, in partnership with employers, runs a 12-week taster programme, combining off-the-job training and work experience. A collaborative arrangement with a local college provides an introductory foundation programme in electrical installation. The progr
 
 ---
 

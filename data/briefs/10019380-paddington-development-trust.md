@@ -14,7 +14,7 @@
 **Confidence & Resilience** (sub-score 55)
 
 - Financial Literacy: 0
-- Employability Skills: 38
+- Employability Skills: 41
 - Confidence & Resilience: 55
 - Online Safety: 55
 
@@ -38,120 +38,76 @@
 
 - [Report](https://files.ofsted.gov.uk/v1/file/50064501)
 
-## Verbatim from the inspector
+## Verbatim from the latest inspection report
 
-Direct quotes from the latest published report. Use these in outreach without paraphrasing.
+Inspection of Paddington Development Trust · 2024-08-09 · grade: **🔵 good**.
+[Full report](https://files.ofsted.gov.uk/v1/file/50254502)
 
-### Main findings
+Direct quotes from the report. Use these in outreach without paraphrasing — they're exactly what the inspector wrote.
+
+### What this provider needs to improve
+
+> What does the provider need to do to improve?
+>
+>  Use information on learners’ starting points consistently to adapt their learning
+> plans to meet learners’ needs.
+>  Make sure that tutors consistently identify how learners can improve their
+> spelling, punctuation and grammar in written work.
+
+### Areas for improvement
+
+> areas for improvement
+> at PDT. They challenge leaders effectively on these. For example, governors ensure
+> that leaders base their self-assessment report gradings on sufficient and reliable
+> evidence.
+
+### Safeguarding
+
+> Safeguarding
+>
+> The arrangements for safeguarding are effective.
+
+### What is it like to be a learner here / What does the provider do well
 
 > What is it like to be a learner with this provider?
 >
-> Many learners on early years courses say that attending learning at PDT has been
-> life-changing for them. They state that the support they receive from their tutors
-> improves their life opportunities and their mental health. These learners gain
-> valuable skills during their work placements with local employers. For example,
-> learners organise and carry out successful play activities with children in their care.
+> Learners value the highly supportive, respectful and inclusive learning environment
+> that tutors create. Tutors build positive relationships with learners. They warmly
+> welcome learners to online lessons and put them at ease, so learners feel
+> comfortable to contribute. Most learners attend their sessions. When learners have
+> to miss any sessions, tutors help them to catch up.
 >
-> Too many learners who speak English as an additional language on the supporting
-> teaching and learning course struggle to keep up with their peers when learning
-> online. They are not taught well enough to remember key information. They find it
-> difficult to read the large amount of information presented to them on screen.
+> Learners benefit from an interesting and relevant personal development programme.
+> During lessons, tutors explore topics to encourage learners to have healthy lifestyles.
+> For example, learners know the importance of nutrition to combat tiredness. Tutors
+> raise learners’ awareness of wider issues such as global warming and the concerns
+> with single-use plastics. A few learners attend extra courses in areas such as
+> paediatric first aid, food hygiene and workplace mental health first aid. These
+> courses enhance their vocational knowledge.
 >
-> As a result of their training, most learners gain confidence. For example, those
-> learners who speak English as an additional language feel more at ease speaking in
-> English to new people they meet.
->
-> Most learners enjoy learning online. This helps them to develop their computer skills
-> effectively. Learners work respectfully with each other and their tutors. The majority
-> of learners have high attendance. However, learners on English and mathematics
-> courses do not attend as well.
->
-> Learners feel very comfortable to raise concerns with their tutors. They like learning
-> in an environment which is supportive and inclusive. Learners appreciate that tutors
-> take the time to check how they are feeling about distressing child protection cases
-> in the media.
+> Learners feel safe in the online learning environment and at work or in their work
+> placements. Tutors ensure they teach safeguarding throughout each course.
+> Learners understand the importance of safeguarding in the settings where they work
+> and in their personal lives. Learners know how to complete risk assessments at
+> work. They can identify risks for children such as slipping and falling.
 >
 > What does the provider do well and what does it need to do
 > better?
 >
-> Since the previous inspection, leaders have made a few improvements to the quality
-> of provision. For example, they have increased the number of learners who gain
-> high grades in their qualifications. They have also recruited an appropriate
-> governing committee to provide leaders with external scrutiny. However, they have
-> not rectified other identified weakn…
-
-### What this school needs to improve
-
-> What does the provider need to do to improve?
+> Since the previous inspection, leaders have implemented appropriate actions to
+> improve the quality of the training they offer. Leaders and managers have improved
+> the support for learners who speak English as an additional language. They have
+> stopped working with subcontractors as the proportion of learners who completed
+> and achieved their qualifications with them was poor. Leaders and managers now
+> offer courses in areas where they have close links with employers and tutors have
+> considerable experience.
 >
->  Tutors, including those at the subcontractor, should effectively check on learners’
-> prior knowledge and skills. They should use this information to adjust their
-> teaching to ensure learners remember more.
->  Leaders should ensure that learners who speak English as an additional language
-> receive the right support to help them improve their English skills and to help
-> them keep up with their peers.
->  Leaders should check on the quality of education at their subcontractor. They
-> should also give the subcontractor effective support to help them promote the
-> dangers of extremism and radicalisation to their learners.
->  Staff should provide learners with detailed careers advice and guidance, and
-> ensure that learners know how to access information, such as about healthy
-> living, outside of their learning.
->
->
->
->
->
->
->
-> Inspection report: Paddington Development Trust
-> 7–9 December 2021
-> 5
->
->
->
-> Provider details
->
-> Unique reference number 58194
->
-> Address Office B
-> Norland House, Queensdale Crescent
-> London
-> W11 4TL
->
-> Contact number 020 7460 6488
->
-> Website www.pdt.org.uk
->
-> Principal/CEO Hoss Malek
->
-> Provider type Independent learning provider
->
-> Date of previous inspection 6–8 February 2019
->
-> Main subcontractors Urban Partnership Group
->
->
->
->
->
->
->
-> Inspection report: Paddington Development Trust
-> 7–9 December 2021
-> 6
->
->
->
->
-> Information about this inspection
->
-> The inspection team was assisted by the head of skills training, as nominee.
-> Inspectors took account of the provider’s most recent self-assessment report and
-> development plans, and the previous inspection report. The inspection was carried
-> out using the further education and skills inspection handbook and took into account
-> all relevant provision at the provider. Inspectors collected a wide range of evidence
-> to inform judgements including visiting learning sessions, scrutinising learners’ work,
-> seeking the views of learners, staff and other stakeho…
+> Tutors use a good range of teaching approaches to ensure that learners understand
+> the concepts they teach them. On the level 3 early years practitioner course, tutors
+> use videos effectively to introduce new concepts and question learners on their prior
+> knowledge. Tutors use quizzes appropriately to check what learners understand.
+> They use online breakout rooms sensitively to give one-to-one support. Learners
+> enjoy shari…
 
 ## Compliance signals
 
@@ -165,22 +121,22 @@ _No high-trigger news matched in the last extraction pass._
 
 Quotes you can drop directly into outreach. Severity drives the score.
 
-- **emp.work_experience** (severity 4.0, what_school_needs_to_improve)
+- **emp.work_experience** (severity 4.0, what_provider_needs_to_improve)
   > However, their plans to redesign the curriculum to meet learners’ needs are in the early stages of development.  Managers did not consider the availability of work-experience placements, when expanding the curriculum into a new area of London. As a result, a few learners do not access work experience in a timely way. This results in them taking longer than 
 
-- **os.extremism** (severity 4.0, what_school_needs_to_improve)
+- **os.extremism** (severity 4.0, what_provider_needs_to_improve)
   >  Leaders should ensure that learners who speak English as an additional language receive the right support to help them improve their English skills and to help them keep up with their peers.  Leaders should check on the quality of education at their subcontractor. They should also give the subcontractor effective support to help them promote the dangers o
 
-- **os.radicalisation** (severity 4.0, what_school_needs_to_improve)
+- **os.radicalisation** (severity 4.0, what_provider_needs_to_improve)
   >  Leaders should ensure that learners who speak English as an additional language receive the right support to help them improve their English skills and to help them keep up with their peers.  Leaders should check on the quality of education at their subcontractor. They should also give the subcontractor effective support to help them promote the dangers o
 
-- **emp.careers_guidance** (severity 4.0, what_school_needs_to_improve)
+- **emp.careers_guidance** (severity 4.0, what_provider_needs_to_improve)
   >  Leaders should check on the quality of education at their subcontractor. They should also give the subcontractor effective support to help them promote the dangers of extremism and radicalisation to their learners.  Staff should provide learners with detailed careers advice and guidance, and ensure that learners know how to access information, such as abo
 
-- **cr.personal_development_strengthen** (severity 3.0, personal_development)
-  > Personal development Requires improvement Leadership and management Requires improvement Adult learning programmes Requires improvement Overall effectiveness at previous inspection Requires improvement
-
 - **os.extremism** (severity 2.0, safeguarding)
+  > However, managers do not record these concerns, making it hard for them to identify any emerging trends in safeguarding matters or where staff might need further training.  Managers ensure that learners develop a satisfactory understanding of the dangers of extremism and radicalisation. Learners know whom to turn to should they be concerned about their or o
+
+- **os.radicalisation** (severity 2.0, safeguarding)
   > However, managers do not record these concerns, making it hard for them to identify any emerging trends in safeguarding matters or where staff might need further training.  Managers ensure that learners develop a satisfactory understanding of the dangers of extremism and radicalisation. Learners know whom to turn to should they be concerned about their or o
 
 ---

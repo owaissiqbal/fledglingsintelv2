@@ -1,6 +1,6 @@
 # Sunderland Engineering Training Association Limited
 
-**🟠 HIGH** · score **75** · urgency 50 · pipeline 100
+**🟠 HIGH** · score **75** · urgency 53 · pipeline 100
 
 ## Identity
 
@@ -13,12 +13,12 @@
 
 ## Lead-with curriculum
 
-**Employability Skills** (sub-score 50)
+**Online Safety** (sub-score 53)
 
 - Financial Literacy: 0
-- Employability Skills: 50
-- Confidence & Resilience: 36
-- Online Safety: 13
+- Employability Skills: 51
+- Confidence & Resilience: 50
+- Online Safety: 53
 
 ## Why this is on the list
 
@@ -47,6 +47,92 @@
 
 _+ 6 earlier inspections in the database._
 
+## Verbatim from the latest inspection report
+
+Inspection of Sunderland Engineering Training Association Limited · 2023-07-13 · grade: **🔵 good**.
+[Full report](https://files.ofsted.gov.uk/v1/file/50223236)
+
+Direct quotes from the report. Use these in outreach without paraphrasing — they're exactly what the inspector wrote.
+
+### What this provider needs to improve
+
+> What does the provider need to do to improve?
+>
+>  Ensure that all apprentices receive timely feedback on written assignments and
+> practical projects to help them to achieve their full potential.
+>  Ensure that the targets set for apprentices during reviews are specific and provide
+> them with clear instructions on how to improve further.
+>  Provide apprentices with sufficient opportunities to engage in extra-curricular
+> activities, particularly at the start of the apprenticeship.
+>  Make apprentices aware of the industry-related risks of extremism in their own
+> work setting.
+
+### Safeguarding
+
+> Safeguarding
+>
+> The arrangements for safeguarding are effective.
+>
+> Staff are appropriately trained in safeguarding. Those responsible for safeguarding
+> complete suitable ‘leading safeguarding’ training. Staff complete safeguarding
+> training when they start working at the organisation and are provided with annual
+> refresher training to ensure that their knowledge is up to date.
+>
+> Leaders have effective links with a range of safeguarding networks. They liaise with
+> the regional ‘Prevent’ duty co-ordinator, the local authority and police service, as well
+> as organisations in other regions where they have apprentices, so they know the
+> potential risks to their apprentices, such as knife crime.
+>
+> Leaders have appropriate staff in place to support all apprentices. They act swiftly to
+> resolve any safeguarding concerns, such as in the very few instances of bullying,
+> when these occur. In addition, there is a designated person for female apprentices
+> to raise any potential concerns about their well-being, including in relation to sexual
+> health and pregnancy.
+
+### What is it like to be a learner here / What does the provider do well
+
+> What is it like to be a learner with this provider?
+>
+> Apprentices enjoy studying in a training environment that replicates the engineering
+> industry. They are allocated their own work areas and machinery, such as lathes,
+> milling machines and electrical bays, in workshops that they keep clean, well
+> maintained and free from swarf and other industrial debris for the duration of their
+> training.
+>
+> Staff set high expectations for apprentices, who behave well and are polite, tolerant
+> and respectful of others. As well as tracking apprentices’ progress on their practical
+> work, staff evaluate apprentices’ behaviour during workshop reviews. This includes
+> analysis and discussions about apprentices’ work ethic, attitude, communication,
+> motivation and commitment.
+>
+> Apprentices’ attendance at off-the-job training sessions is consistently high. Staff
+> and employers promote very well the need for apprentices to be punctual and to
+> attend their planned training sessions. Employers are notified immediately if
+> apprentices miss lessons, and appropriate action is taken to ensure that apprentices
+> do not fall behind. These actions include apprentices attending additional training
+> sessions.
+>
+> Staff provide apprentices with training about how to manage their finances
+> appropriately. They know that most apprentices are likely to earn a high salary for
+> their young age. Staff teach apprentices about the dangers of gambling and other
+> potential pitfalls associated with growing up in modern Britain so that they are
+> better prepared for life both during and after study.
+>
+> Apprentices feel safe. Staff provide them with comprehensive information about the
+> trade risks associated with the engineering sector. Apprentices carry out useful risk
+> assessments before undertaking practical tasks and are taught to operate machinery
+> safely. Tutors teach apprentices how to recognise the signs of radicalisation and
+> extremism. However, a few apprentices do not have a sufficiently clear
+> understanding of the potential risks in the industry. Those employed in chemical
+> companies, for example, do not know that they could be a potential target for
+> extremist groups.
+>
+> What does the provider do well and what does it need to do
+> better?
+>
+> Leaders work very closely with employers and stakeholders to provide high-quality,
+> specialist engineering apprenticeships. They have long-established and…
+
 ## Compliance signals
 
 _No public regulatory or financial-health notices on file._
@@ -59,23 +145,23 @@ _No high-trigger news matched in the last extraction pass._
 
 Quotes you can drop directly into outreach. Severity drives the score.
 
-- **emp.itp_off_the_job** (severity 2.0, personal_development)
+- **emp.itp_off_the_job** (severity 4.0, what_provider_needs_to_improve)
+  > SETA has excellent working relationships with its partner employers which are used productively to ensure that programmes are tailored to their needs to improve the employment opportunities for apprentices. The management of on- and off-the-job training is exceptionally good.  The coordination and management of functional skills is good with effective suppo
+
+- **emp.itp_off_the_job** (severity 4.0, what_provider_needs_to_improve)
+  >  The effectively designed programmes meet the needs of apprentices and employers. The wellmanaged and structured practical and theory sessions build on apprentices’ previous knowledge and there is a close match between on- and off-the-job training. Apprentices’ involvement in learning is good and they maintain their interests throughout training. They devel
+
+- **emp.itp_off_the_job** (severity 4.0, what_provider_needs_to_improve)
+  > Employers speak highly of the expertise and facilities at SETA’s training centre; communications are good and employers are kept fully involved as to the progress their apprentices are making in their off-the-job training.  The effectively designed programmes meet the needs of apprentices and employers. The wellmanaged and structured practical and theory se
+
+- **os.extremism** (severity 4.0, what_provider_needs_to_improve)
+  >  Provide apprentices with sufficient opportunities to engage in extra-curricular activities, particularly at the start of the apprenticeship.  Make apprentices aware of the industry-related risks of extremism in their own work setting. Inspection report: Sunderland Engineering Training Association Limited 23 to 26 May 2023 6
+
+- **emp.itp_off_the_job** (severity 3.0, apprenticeships)
   > Most work in prestigious companies with sophisticated equipment and very good working conditions. SETA staff in the training centre are suitably experienced and most have appropriate training and assessor qualifications. They have developed a very successful initial off-the-job training programme that effectively prepares learners for their work-based learni
 
-- **emp.itp_off_the_job** (severity 2.0, personal_development)
+- **emp.itp_off_the_job** (severity 3.0, apprenticeships)
   > Assessment of the NVQ at level 2 during the initial off-the-job training is satisfactory. There are clear plans for assessment and appropriate records are maintained. Leadership and management 27. The initial off-the-job training programme is well managed, but support and assessment for work-based learners is not well resourced. All learners are well support
-
-- **emp.itp_off_the_job** (severity 2.0, personal_development)
-  > Poor assessment planning was identified as a weakness at the previous inspection, but was not identified as a weakness in the current self-assessment report. Assessment of the NVQ at level 2 during the initial off-the-job training is satisfactory. There are clear plans for assessment and appropriate records are maintained. Leadership and management 27. The i
-
-- **emp.itp_off_the_job** (severity 2.0, personal_development)
-  > No, of learners Success Rate Provider framework rate National NVQ Rate Provider NVQ Rate ProgrammeEnd Year National framework rate 3 Advanced Apprenticeships 57 2003-04 overall timely 3686 53 83 50 46 2734 36 57 2004-05 overall timely 2966 38 66 38 45 2533 32 0 2005-06 overall timely 00 0 0 0 0 00 0 For details of how to calculate overall and timely success 
-
-- **emp.itp_off_the_job** (severity 2.0, personal_development)
-  > However, a few learners do not complete their programme by their expected end date, and five learners are now several months past their completion date. Success rates for the NVQ at level 2 in performing engineering operations, and the five key skills qualifications taken during the initial off-the-job training are very high. In 2003-04, 88 per cent of the l
-
-- **emp.itp_off_the_job** (severity 2.0, personal_development)
-  > Two employers have their own work-based assessors who complete national vocational qualifications (NVQ) assessments for their advanced apprentices, with SETA carrying out internal verification. 0.00 0.00 Engineering Engineering Strengths good overall success rates 1.00 • very good attainment of skills in the workplace 1.00 • good on- and off-the-job training
 
 ---
 

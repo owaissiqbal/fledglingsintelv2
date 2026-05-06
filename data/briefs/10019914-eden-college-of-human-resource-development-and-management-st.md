@@ -42,11 +42,33 @@
 
 - [Report](https://files.ofsted.gov.uk/v1/file/2764605)
 
-## Verbatim from the inspector
+## Verbatim from the latest inspection report
 
-Direct quotes from the latest published report. Use these in outreach without paraphrasing.
+Inspection of Eden College of Human Resource Development and Management Studies Limited · 2024-09-25 · grade: **🟠 requires improvement**.
+[Full report](https://files.ofsted.gov.uk/v1/file/50257907)
 
-### Main findings
+Direct quotes from the report. Use these in outreach without paraphrasing — they're exactly what the inspector wrote.
+
+### What this provider needs to improve
+
+> What does the provider need to do to improve?
+>
+>  Give learners on beauty courses the right support to help them complete their
+> qualifications.
+>  Leaders must ensure the information and data they use is accurate and accessible
+> and report this information clearly to the governing board.
+>  Sequence the curriculum logically so that LDAs teach learners the key foundation
+> knowledge at an appropriate time.
+>  Use the information about learners’ strengths and weaknesses effectively and
+> consistently to teach learners in a way that meets their individual needs.
+
+### Safeguarding
+
+> Safeguarding
+>
+> The arrangements for safeguarding are effective.
+
+### What is it like to be a learner here / What does the provider do well
 
 > What is it like to be a learner with this provider?
 >
@@ -83,89 +105,11 @@ Direct quotes from the latest published report. Use these in outreach without pa
 > What does the provider do well and what does it need to do
 > better?
 >
-> Lea…
-
-### What this school needs to improve
-
-> What does the provider need to do to improve?
->
->  Give learners on beauty courses the right support to help them complete their
-> qualifications.
->  Leaders must ensure the information and data they use is accurate and accessible
-> and report this information clearly to the governing board.
->  Sequence the curriculum logically so that LDAs teach learners the key foundation
-> knowledge at an appropriate time.
->  Use the information about learners’ strengths and weaknesses effectively and
-> consistently to teach learners in a way that meets their individual needs.
->
->
->
->
->
->
->
-> Inspection report: Eden College of Human Resource Development and
-> Management Studies Limited
-> 6 to 9 August 2024
-> 5
->
->
->
-> Provider details
->
-> Unique reference number 58735
->
-> Address Eden College
-> 34 Mawney Road
-> Romford
-> RM7 7HR
->
-> Contact number 01708 726660
->
-> Website www.edencollege.co.uk
->
-> Principal, CEO or equivalent Freda Jacobson
->
-> Provider type Independent Learning Provider
->
-> Date of previous inspection 30 January to 1 February 2018
->
-> Main subcontractors n/a
->
->
->
->
->
->
->
-> Inspection report: Eden College of Human Resource Development and
-> Management Studies Limited
-> 6 to 9 August 2024
-> 6
->
->
->
->
-> Information about this inspection
->
-> The inspection team was assisted by the managing director, as nominee. Inspectors
-> took account of the provider’s most recent self-assessment report and development
-> plans, and the previous inspection report. The inspection was carried out using the
-> further education and skills inspection handbook and took into account all relevant
-> provision at the provider. Inspectors collected a wide range of evidence to inform
-> judgements including visiting learning sessions, scrutinising learners’ work, seeking
-> the views of learners, staff and other stakeholders, and examining the provider’s
-> documentation and records.
->
-> Inspection team
->
-> Jane Hughes, lead inspector His Majesty’s Inspector
-> Sarah Wilding Ofsted Inspector
-> Eileen O’Gara Ofsted Inspector
->
->
->
-> …
+> Leaders are clear and passionate about their vision and mission, to help learners
+> become competent practitioners with industry skills and knowledge. They offer a
+> curriculum that is in demand from employers and learners. They have high
+> expectations for their learners. However, they have not ensured that all staff shared
+> their vision in the past. Consequently, this led to the disruption learners ex…
 
 ## Compliance signals
 
@@ -184,23 +128,23 @@ _No high-trigger news matched in the last extraction pass._
 
 Quotes you can drop directly into outreach. Severity drives the score.
 
-- **shared.rshe_curriculum** (severity 2.0, what_school_needs_to_improve)
-  > What does the provider need to do to improve?  Give learners on beauty courses the right support to help them complete their qualifications.  Leaders must ensure the information and data they use is accurate and accessible and report this information clearly to the governing board.
+- **emp.careers_guidance** (severity 4.0, what_provider_needs_to_improve)
+  > This ensures that the local training needs of learners and the wider communities are met, and that training is relevant and up to date.  Learners benefit from good careers advice and guidance at all stages of their programmes. The managing director is a careers guidance professional and uses her substantial expertise and experience to ensure that all staff 
 
-- **os.radicalisation** (severity 2.0, main_findings)
-  > Learners on the STL course volunteer at food banks and refugee centres as part of their commitment to their communities. Learners feel safe and know how to report concerns. Most have a reasonable understanding about the dangers associated with radicalisation and the importance of tolerance and respect within their sector. What does the provider do well and w
+- **emp.careers_guidance** (severity 4.0, what_provider_needs_to_improve)
+  >  The college’s business plan accurately describes how leaders and managers work increasingly successfully with employers, schools, local authorities and business enterprise agencies. This ensures that the local training needs of learners and the wider communities are met, and that training is relevant and up to date.  Learners benefit from good careers adv
 
-- **emp.work_experience** (severity 2.0, main_findings)
-  > Leaders use their effective partnerships with employers to give learners Inspection report: Eden College of Human Resource Development and Management Studies Limited 6 to 9 August 2024 4 who do not work in early years or adult care the opportunity to complete work experience. Provider staff are extremely positive about, and proud to work at Eden college. Lea
+- **emp.careers_guidance** (severity 3.0, adult_learning)
+  >  Managers and staff achieve very well the college’s key objective of improving learners’ skills for employment, such as in time management and customer service.  Staff know their learners well and provide them with prompt and effective support.  Staff use their significant expertise and knowledge of careers well to provide good quality careers advice and 
 
-- **shared.rshe_curriculum** (severity 1.0, main_findings)
-  > Leaders give them opportunities to complete relevant training and development. Staff study a range of qualifications to help improve their teaching and assessment practice. Many complete information, advice and guidance courses. They enjoy their work and state leaders are considerate of their workload. Leaders have recently formed a governing board. The exte
+- **os.radicalisation** (severity 2.0, safeguarding)
+  > Managers maintain helpful links with local expert agencies.  Managers and staff continue to make progress with the implementation of the ‘Prevent’ duty. Staff and learners have a sound understanding of local risks and threats of radicalisation. Inspection report: Eden College of Human Resource Development and Management Studies Limited, 30 January–1 Februar
 
-- **shared.rshe_curriculum** (severity 1.0, main_findings)
-  > Learners benefit from a good range of extra activities and information to help them widen their skills and knowledge. This includes information about healthy lifestyles, well-being and equality and opportunity. Staff encourage learners on hair and beauty courses to explore their technical and creative skills through visits to hair and salon exhibitions. Lead
+- **emp.work_experience** (severity 2.0, safeguarding)
+  > Managers and teachers successfully add value to learners’ capacity to do their jobs well, with significant emphasis on the development of their practical skills.  Unemployed learners develop their practical and employability skills through work experience and nearly all of these in 2016/17 either gained employment or continued with their further education. 
 
-- **shared.rshe_curriculum** (severity 1.0, main_findings)
-  > Most learners pass their qualifications in adult care, early years, STL and leadership. However, not all within the expected time. Leaders have put in place an effective careers, advice and guidance programme. Learners receive helpful information during their course about career pathways, further and higher education. Most complete a career plan with their L
+- **shared.rshe_curriculum** (severity 2.0, what_provider_needs_to_improve)
+  > The managing director is a careers guidance professional and uses her substantial expertise and experience to ensure that all staff are alert to the importance of this strand of support for learners. As a result, learners find themselves on courses which are right for them, stay on their courses and make good progress.  The personal supervision of senior ma
 
 ---
 

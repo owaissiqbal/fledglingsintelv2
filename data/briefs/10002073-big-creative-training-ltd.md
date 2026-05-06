@@ -15,7 +15,7 @@
 
 **Employability Skills** (sub-score 55)
 
-- Financial Literacy: 27
+- Financial Literacy: 28
 - Employability Skills: 55
 - Confidence & Resilience: 55
 - Online Safety: 55
@@ -47,40 +47,72 @@
 
 _+ 2 earlier inspections in the database._
 
-## Verbatim from the inspector
+## Verbatim from the latest inspection report
 
-Direct quotes from the latest published report. Use these in outreach without paraphrasing.
+Inspection of Big Creative Training LTD · 2024-01-19 · grade: **🔵 good**.
+[Full report](https://files.ofsted.gov.uk/v1/file/50237731)
 
-### What this school needs to improve
+Direct quotes from the report. Use these in outreach without paraphrasing — they're exactly what the inspector wrote.
 
-> What does the provider need to do to improve further?
->  Develop all tutors’ teaching skills with a sharper focus on learning and on the identification and
-> assessment of learners’ individual targets so that much higher attainment and attendance are
-> achieved.
->  Develop effective quality assurance arrangements, which accurately identify areas for
-> improvement and lead to a quality improvement process that brings about rapid change.
->  Develop vocational tutors’ competence in teaching English and mathematics so that learners
-> appreciate how improving these skills will benefit them in their careers.
->  Rapidly increase the number of suitable external work experience opportunities available to
-> learners on the study programme so that all learners have the opportunity for significant
-> external work experience tailored to their individual needs.
->  Increase the detailed analysis of data at management level in order to identify accurately areas
-> for improvement.
->  Ensure all staff receive appropriate training on the Prevent agenda, so that staff are able to
-> recognise the signs of potential radicalisation and are aware of what action to take.
+### What this provider needs to improve
+
+> What does the provider need to do to improve?
 >
-> Inspection judgements
-> Outcomes for learners
-> Requires improvement
->  DV8 Training Limited (DV8) provides 16 to 19 study programmes. The subject areas reported on
-> and graded include the most significant provision in performing arts, media and communication,
-> foundation English and mathematics. The very large majority of provision is for the 16 to 19
-> study programmes in arts, digital media and publishing for learners up to level 2, in which a very
-> small number of 19+ learners are included.
->  The proportion of learners who achieve their main qualifications has declined over the last two
-> years, and in 2013/14 was low. For those learners who stayed until the end of their programme,
-> not all achieved their qualifications and too many left their programmes early. The retention of
-> learners on mathematics and English qualification…
+>  Make sure that tutors provide consistently high-quality teaching and learning
+> support, so that a higher proportion of learners, particularly young learners on the
+> English and mathematics courses, achieve their qualifications.
+>  Make sure that tutors accurately check learners’ knowledge and understanding in
+> lessons and provide consistently good developmental feedback, so that learners
+> develop secure understanding of topics and improve their work.
+>  Increase the proportion of apprentices who stay on their courses and complete
+> their apprenticeships.
+
+### Safeguarding
+
+> Safeguarding
+>
+> The arrangements for safeguarding are effective.
+
+### What is it like to be a learner here / What does the provider do well
+
+> What is it like to be a learner with this provider?
+>
+> Learners and apprentices study in an energetic and orderly environment. They thrive
+> in exceptionally welcoming settings, where they enjoy the freedom to be
+> themselves. Staff are highly skilled at promoting equality of opportunity. For
+> example, young learners explore the different protected characteristics and their
+> definitions. They develop an appreciation of each other’s differences.
+>
+> Learners and apprentices live up to the high standards of behaviour expected of
+> them by staff. They attend well, are punctual, and conduct themselves exceptionally
+> well in lessons and in communal areas. They listen attentively to each other’s points
+> of view and sensitively explore often controversial and emotive topics, such as racial
+> stereotypes and the conflicts in war zones.
+>
+> Learners, including those with high needs, are highly motivated to succeed and
+> pursue a career in the creative industry. Leaders provide an excellent range of
+> opportunities for learners to learn from successful industry professionals. Learners
+> complete high-quality projects for tasks set by employers, using up-to-date facilities.
+> They visit production studios and film shoots and develop a sound understanding of
+> what will be expected of them in the industry.
+>
+> Most learners and apprentices have an excellent understanding of how fundamental
+> British values apply in the creative arts industry. For example, they know the
+> importance of individual liberty and link this well to freedom of expression in the
+> arts. They follow these values maturely when creating content and critiquing each
+> other’s work.
+>
+> Learners and apprentices across all sites, including when they are online and at
+> subcontractors, feel safe. Learners trust that staff will do everything they can to help
+> them if they have any problems. For example, staff support young learners facing
+> homelessness to secure suitable housing and gain financial help from local
+> authorities. This helps learners who face obstacles and challenges stay on their
+> courses and achieve.
+>
+> Leaders promote positive physical and mental health effectively. Learners attend
+> talks from external speakers on topics, such as healthy eating and gut health. Staff
+> makes sure learners understand about appropriate sexual behaviours. Consequently,
+> for example, young male learners understand the impact of …
 
 ## Compliance signals
 
@@ -94,23 +126,23 @@ _No high-trigger news matched in the last extraction pass._
 
 Quotes you can drop directly into outreach. Severity drives the score.
 
-- **fin_lit.personal_finance** (severity 6.0, what_school_needs_to_improve)
+- **fin_lit.personal_finance** (severity 6.0, what_provider_needs_to_improve)
   > In Foundation English and mathematics the provider has the following strengths:  learners’ retention rate is good on all functional skills English and mathematics programmes of study Inspection report: DV8 Training Limited, 9–13 March 2015 6 of 12  in the large majority of lessons, learners develop very good ICT skills by searching the internet for job opp
 
-- **cr.attendance_poor** (severity 6.0, what_school_needs_to_improve)
+- **cr.attendance_poor** (severity 6.0, what_provider_needs_to_improve)
   >  Care and support for learners are strong with practical help given with, for example, travel arrangements and bursaries. Recent support interventions now focus more on learners’ motivational and emotional needs to maintain their engagement in learning. However, attendance remains too low in many lessons. In-class support is mainly effective. The very large
 
-- **os.radicalisation** (severity 4.0, what_school_needs_to_improve)
+- **emp.preparation_for_work** (severity 6.0, what_provider_needs_to_improve)
+  >  Teachers and support staff should monitor more closely the progress made by learners who need extra help to achieve to ensure that the support they receive is effective, and that they achieve at least as well as their peers.  Managers should improve further learners’ preparation for work within their chosen creative industries subject by working with more
+
+- **os.radicalisation** (severity 4.0, what_provider_needs_to_improve)
   > However, managers have not taken adequate measures to safeguard learners against radicalisation. Although training is now planned, no training or awareness raising has yet taken place to enable staff to recognise the signs of potential radicalisation and how they should respond. Inspection report: DV8 Training Limited, 9–13 March 2015 8 of 12 Record of Main 
 
-- **os.radicalisation** (severity 4.0, what_school_needs_to_improve)
+- **os.radicalisation** (severity 4.0, what_provider_needs_to_improve)
   > Safer recruitment procedures are rigorously applied. Risk assessments are particularly thorough. Learners feel safe. However, managers have not taken adequate measures to safeguard learners against radicalisation. Although training is now planned, no training or awareness raising has yet taken place to enable staff to recognise the signs of potential radical
 
-- **os.radicalisation** (severity 4.0, what_school_needs_to_improve)
+- **os.radicalisation** (severity 4.0, what_provider_needs_to_improve)
   >  Increase the detailed analysis of data at management level in order to identify accurately areas for improvement.  Ensure all staff receive appropriate training on the Prevent agenda, so that staff are able to recognise the signs of potential radicalisation and are aware of what action to take. Inspection judgements Outcomes for learners Requires improvem
-
-- **emp.employer_engagement** (severity 4.0, what_school_needs_to_improve)
-  > Learners have, for example, the opportunity to develop customer awareness; social and oral confidence when meeting strangers; teamwork; and problem solving; but these potential learning opportunities are insufficiently planned for to address individual needs, and the positive learning outcomes are insufficiently recorded.  Arrangements for work experience a
 
 ---
 

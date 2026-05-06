@@ -42,6 +42,90 @@
 - Safeguarding: Met
 - [Report](https://reports.ofsted.gov.uk/provider/33/1278661)
 
+## Verbatim from the latest inspection report
+
+Inspection of HTFT Partnership Limited · 2025-11-11 · grade: **🟠 requires improvement**.
+[Full report](https://reports.ofsted.gov.uk/provider/33/1278661)
+
+Direct quotes from the report. Use these in outreach without paraphrasing — they're exactly what the inspector wrote.
+
+### Apprenticeships
+
+> Apprenticeships
+> 155
+> Percentage of learning aims successfully achieved
+> Apprenticeships overall achievement rate
+> YearThis providerNational averageCompared with
+> national average
+> 2023/246761Close to average
+> 2022/236755Above
+> 2021/225753Close to average
+> Apprenticeships pass rate
+> YearThis providerNational average
+> 2023/2410098
+> 2022/2310097
+> 2021/229798
+>
+> Our grades explained
+> Exceptional
+> Practice is exceptional: of the highest standard nationally. Other providers can learn from it.
+> Strong standard
+> The provider reaches a strong standard. Leaders are working above the standards expected
+> of them.
+> Expected standard
+> The provider is fulfilling the expected standard of education and/or care. This means they
+> are following the standards set out in statutory and non-statutory legislation and the
+> professional standards expected of them.
+> Needs attention
+> The expected standards are not met but leaders are likely able to make the necessary
+> improvements.
+> Urgent improvement
+> The provider needs to make urgent improvements to provide the expected standard of
+> education and/or care.
+> The Office for Standards in Education, Children's Services and Skills (Ofsted) inspects
+> services providing education and skills for children and learners of all ages, and inspects
+> and regulates services that care for children and young people.
+> If you would like a copy of this document in a different format, such as large print or Braille,
+> please telephone 0300 123 1231, or email enquiries@ofsted.gov.uk.
+> You may reuse this information (not including logos) free of charge in any format or medium,
+> under the terms of the Open Government Licence. To view this licence, visit
+> www.nationalarchives.gov.uk/doc/open-government-licence, write to the Information Policy
+> Team, The National Archives, Kew, London TW9 4DU, or email:
+> psi@nati…
+
+### Safeguarding
+
+> Safeguarding standards met
+> The safeguarding standards are met. This means that leaders and/or those responsible for
+> governance and oversight fulfil their specific responsibilities and have established an open
+> culture in which safeguarding is everyone's responsibility and concerns are actively
+> identified, acted upon and managed. As a result, learners are made safer and feel safe.
+> How we evaluate safeguarding
+> When we inspect providers for safeguarding, they can have the following outcomes:
+> Met: The provider has an open and positive culture of safeguarding.
+> Not met: The provider has not created an open and positive culture of safeguarding. Not
+> all legal requirements are met.
+>
+> 1. Inclusion, and leadership and governance
+> Expected standard
+> Needs attention
+> Expected standard
+> Needs attention
+> Leadership and governance
+> Expected standard
+> Leaders and governors are passionate about providing high-quality accountancy training.
+> Governors have supported leaders’ decision to expand their portfolio of courses to include
+> the level 2 finance assistant apprenticeship.
+> Leaders use visits to lessons, achievement rates and feedback from apprentices to gain a
+> detailed understanding of the quality of teaching. Where they identify that improvements are
+> needed, leaders put strategies in place to improve apprentices’ experiences.
+> Leaders understand the strengths and weaknesses of the provision. They have been swift to
+> rectify most weaknesses. For example, English is now embedded into the curriculums, and
+> they have improved their communication with employers so that there is greater cohesion
+> between on- and off-the-job training. However, there is still work to be done to rectify other
+> weaknesses, such as reducing the number of withdrawals from the level 7 course.
+> Governors work closely with leaders t…
+
 ## Compliance signals
 
 _No public regulatory or financial-health notices on file._

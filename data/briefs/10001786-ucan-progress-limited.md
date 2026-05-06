@@ -13,11 +13,11 @@
 
 ## Lead-with curriculum
 
-**Online Safety** (sub-score 55)
+**Employability Skills** (sub-score 55)
 
 - Financial Literacy: 0
-- Employability Skills: 29
-- Confidence & Resilience: 49
+- Employability Skills: 55
+- Confidence & Resilience: 55
 - Online Safety: 55
 
 ## Why this is on the list
@@ -47,59 +47,73 @@
 
 _+ 3 earlier inspections in the database._
 
-## Verbatim from the inspector
+## Verbatim from the latest inspection report
 
-Direct quotes from the latest published report. Use these in outreach without paraphrasing.
+Inspection of UCAN Progress Limited  · 2024-05-02 · grade: **🔵 good**.
+[Full report](https://files.ofsted.gov.uk/v1/file/50245821)
 
-### What this school needs to improve
+Direct quotes from the report. Use these in outreach without paraphrasing — they're exactly what the inspector wrote.
 
-> What does the provider need to do to improve further?
+### What this provider needs to improve
+
+> What does the provider need to do to improve?
 >
->  Ensure that apprentices complete their programmes on time by:
-> – improving the tracking and monitoring of their progress so that they receive
-> appropriate support
-> – ensuring that apprentices have the opportunity to improve their English and
-> mathematics early in their programme.
->  Managers should use data more effectively to support quality improvement and to ensure
-> that learners achieve their potential.
->  Board members need to challenge senior managers swiftly to ensure that necessary
-> improvements take place quickly.
->  Managers need to ensure that systems are in place and used appropriately to hold
-> assessors to account for how well apprentices are achieving.
+>  Involve all employers routinely in reviews of apprentices’ progress so that their
+> views are captured and apprentices’ on- and off-the-job training is well
+> coordinated.
+>  Provide suitable careers advice and guidance to all apprentices so that they are
+> aware of their options on completion of their course.
+
+### Safeguarding
+
+> Safeguarding
 >
-> Leaders and managers need to fully comply with all aspects of the ‘Prevent’ duty guidance,
-> particularly by undertaking ‘Prevent’ duty risk assessments.
+> The arrangements for safeguarding are effective.
+
+### What is it like to be a learner here / What does the provider do well
+
+> What is it like to be a learner with this provider?
 >
+> Apprentices receive good support from assessors who have expert subject
+> knowledge and highly relevant industry experience. Apprentices know they can
+> contact their assessor about their training and receive a prompt and helpful
+> response. Apprentices have good attendance at their sessions. If they do miss a
+> session, assessors swiftly rearrange a follow-up meeting. This helps apprentices to
+> stay on track with their learning.
 >
+> Apprentices have high levels of respect for each other and their assessors. Assessors
+> make sure that in online sessions and face-to-face meetings, there is a calm, friendly
+> and positive environment in which apprentices learn. Apprentices take part in
+> discussions enthusiastically and are keen to share their knowledge and workplace
+> experiences with their peers.
 >
+> Apprentices become motivated to learn and have positive attitudes to learning
+> because of the good-quality training they receive. They enjoy gaining new skills and
+> knowledge that they put into practice at work. For example, school business
+> apprentices create disaster recovery plans, negotiate equipment leases and
+> introduce new breakfast and after-school clubs. Employers appreciate the new
+> knowledge, skills and behaviours apprentices acquire and the increasingly valuable
+> contribution that apprentices make at work.
 >
+> Apprentices develop a very good understanding of equality and diversity because
+> leaders and managers make sure that this features prominently in the design and
+> teaching of the curriculum. For example, assessors adjust timetables so that
+> apprentices can attend prayers. Youth work apprentices understand well how
+> equality legislation applies at work. They produce podcasts to explain how youth
+> work supports young people from the lesbian, gay, bisexual and transgender
+> community.
 >
+> Apprentices feel safe. Through the curriculum, they develop a good understanding
+> of safeguarding and how it applies to their job roles. For example, apprentices can
+> effectively identify that changes in young people’s behaviour can be a sign that they
+> are being radicalised. Apprentices know who and how to report safeguarding
+> concerns.
 >
+> What does the provider do well and what does it need to do
+> better?
 >
->
-> Inspection report: CSM Consulting Limited, 13–16 September 2016
->
-> Page 3 of 9
->
->
->
->
-> Inspection judgements
->
-> Effectiveness of leadership and management Requires improvement
->
->  Since the last inspection, leaders and managers have stopped providing short courses
-> and have focused instead on developing strategies to help meet the local and
-> government priority for apprenticeships. However, they have not acted quickly enough in
-> dealing with all the weaknesses identified during that inspection. Apprentices are still
-> taking too long to complete their programmes, and managers have only recently
-> redesigned programmes to allow for the development of English and mathematics skills
-> early enough in their courses.
->  The use of data in self-assessment and curriculum planning is not sufficiently
-> comprehensive to identify all the strengths and weaknesses of learners’ programmes.
-> Managers do not always know how many hours of on- and off-the-job training
-> apprentices receive. Managers make insufficient use of the feedback collected from
-> learners to improve aspects of the programmes…
+> Senior leaders have a clear rationale for the apprenticeships they offer. They work
+> well with a range of public b…
 
 ## Compliance signals
 
@@ -113,23 +127,23 @@ _No high-trigger news matched in the last extraction pass._
 
 Quotes you can drop directly into outreach. Severity drives the score.
 
-- **emp.itp_off_the_job** (severity 4.0, what_school_needs_to_improve)
+- **emp.itp_off_the_job** (severity 4.0, what_provider_needs_to_improve)
   >  The use of data in self-assessment and curriculum planning is not sufficiently comprehensive to identify all the strengths and weaknesses of learners’ programmes. Managers do not always know how many hours of on- and off-the-job training apprentices receive. Managers make insufficient use of the feedback collected from learners to improve aspects of the pr
 
-- **os.extremism** (severity 2.0, safeguarding)
-  > Personal development, behaviour and welfare Good  Apprentices on supporting teaching and learning programmes, and those on health and social care programmes, have a particularly good awareness of the safety of the children, families or vulnerable adults with whom they work. Apprentices working in schools fully understand the impact of radicalisation and ext
+- **emp.itp_off_the_job** (severity 4.0, what_provider_needs_to_improve)
+  > What does the provider need to do to improve?  Involve all employers routinely in reviews of apprentices’ progress so that their views are captured and apprentices’ on- and off-the-job training is well coordinated.  Provide suitable careers advice and guidance to all apprentices so that they are aware of their options on completion of their course. Inspect
 
-- **os.extremism** (severity 2.0, safeguarding)
-  > They use the diversity of their workforces and clients within training sessions to explore apprentices’ perceptions and celebrate differences. Apprentices understand how to stay safe at work and online, but those not working in schools, are less secure as to how to protect themselves from those who promote radicalisation and extremism. Personal development, 
+- **emp.careers_guidance** (severity 4.0, what_provider_needs_to_improve)
+  > What does the provider need to do to improve?  Involve all employers routinely in reviews of apprentices’ progress so that their views are captured and apprentices’ on- and off-the-job training is well coordinated.  Provide suitable careers advice and guidance to all apprentices so that they are aware of their options on completion of their course. Inspect
 
-- **os.radicalisation** (severity 2.0, safeguarding)
-  > Personal development, behaviour and welfare Good  Apprentices on supporting teaching and learning programmes, and those on health and social care programmes, have a particularly good awareness of the safety of the children, families or vulnerable adults with whom they work. Apprentices working in schools fully understand the impact of radicalisation and ext
+- **emp.itp_assessment_weak** (severity 3.0, areas_for_improvement)
+  > Internal verifiers give assessors written and verbal feedback after they observe an assessment, although it is not always sufficiently evaluative. Assessors and internal verifiers hold meetings to ensure assessment is consistent and to 0.00 Page 10 of 21 10© 2006 ADULT LEARNING INSPECTORATE CSM CONSULTING LTD share information from awarding bodies. Recent ex
 
-- **os.radicalisation** (severity 2.0, safeguarding)
-  > They use the diversity of their workforces and clients within training sessions to explore apprentices’ perceptions and celebrate differences. Apprentices understand how to stay safe at work and online, but those not working in schools, are less secure as to how to protect themselves from those who promote radicalisation and extremism. Personal development, 
+- **cr.self_esteem** (severity 3.0, areas_for_improvement)
+  > Most employers provide their own in-house training programmes and many learners have been in the same job for many years gaining considerable experience and knowledge about their work. They value the opportunity to gain a qualification that recognises this experience, and they display increased levels of confidence and self-esteem. 0.00 Page 15 of 21 15© 200
 
-- **os.radicalisation** (severity 2.0, safeguarding)
-  > Inspection report: CSM Consulting Limited, 13–16 September 2016 Page 4 of 9  Learners know who to contact should they have any concerns. The very small number of learners who have raised issues received prompt and appropriate action. All staff have undergone online and face-to-face training on how to protect learners from radicalisation. However, assessors 
+- **cr.self_esteem** (severity 3.0, areas_for_improvement)
+  > 00 Page 12 of 21 12© 2006 ADULT LEARNING INSPECTORATE CSM CONSULTING LTD employed for a considerable time before starting their NVQ programme and are fully aware of all processes at work. Many also display improved confidence and self-esteem. For many, this qualification is the first they have achieved and they take great pride in it. CSM celebrates this suc
 
 ---
 

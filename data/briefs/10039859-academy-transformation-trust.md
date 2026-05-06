@@ -13,7 +13,7 @@
 
 **Employability Skills** (sub-score 55)
 
-- Financial Literacy: 0
+- Financial Literacy: 13
 - Employability Skills: 55
 - Confidence & Resilience: 55
 - Online Safety: 55
@@ -39,40 +39,81 @@
 
 - [Report](https://files.ofsted.gov.uk/v1/file/2533788)
 
-## Verbatim from the inspector
+## Verbatim from the latest inspection report
 
-Direct quotes from the latest published report. Use these in outreach without paraphrasing.
+Inspection of Academy Transformation Trust · 2023-07-18 · grade: **🔵 good**.
+[Full report](https://files.ofsted.gov.uk/v1/file/50223588)
 
-### What this school needs to improve
+Direct quotes from the report. Use these in outreach without paraphrasing — they're exactly what the inspector wrote.
 
-> What does the provider need to do to improve further?
+### What this provider needs to improve
+
+> What does the provider need to do to improve?
 >
->  Ensure that all relevant data are collected so that directors, managers and staff can analyse outcomes for
-> learners and apprentices, compare performance, monitor progress and progression throughout the whole
-> learning journey and on exit.
->  Ensure that all elements of the study programme are implemented effectively so that the number of
-> learners that progress into apprenticeships, further education or employment is understood well and is
-> improved.
->  Further improve the quality of teaching, learning and assessment so that learners and apprentices benefit
-> from more good or outstanding learning sessions and that assessment practice clearly identifies and
-> leads to improvement in learners’ and apprentices’ understanding and work.
->  Ensure that all tutors and assessors use initial assessment to set individualised, clear, precise and
-> demanding targets so that all learners and apprentices achieve their full potential.
->  Ensure that the promotion of English and mathematics is integral to all learning and assessment and that
-> all tutors and assessors identify spelling and grammatical errors so that learners and apprentices can
-> develop these skills to prepare them well for their next steps.
+>  Leaders and tutors should assess learners’ prior knowledge and skills before
+> starting new topics, so that they can focus their teaching on the content that
+> learners are not already familiar with.
+>  Tutors who set research activities for young learners should ensure that they are
+> well structured to allow learners to gather valid and useful information.
+>  Leaders should ensure that all tutors give feedback to young learners that is clear
+> and helps them to improve.
+
+### Safeguarding
+
+> Safeguarding
 >
+> The arrangements for safeguarding are effective.
 >
-> Inspection report: Academy Transformation Trust FE 24–27 November 2015 Page 3 of 10
+> Leaders and staff effectively promote the importance of safeguarding and have
+> suitable safeguarding policies and procedures in place. They undertake appropriate
+> pre-employment checks. The designated safeguarding lead, deputies and staff
+> complete relevant mandatory training and receive useful updates.
+
+### What is it like to be a learner here / What does the provider do well
+
+> What is it like to be a learner with this provider?
 >
-> Inspection judgements
-> Effectiveness of leadership and management requires improvement
->  Although the inspection team observed some good and outstanding sessions, too many sessions observed
-> during the inspection required improvement and assessment practices were judged to be inconsistent.
-> The recently revised system for observing learning sessions provides leaders and managers with a clearer
-> understanding of the quality of teaching, learning and assessment in classrooms and workplaces. Tutors
-> and assessors are aware of how they can improve, and management of underperformance is clearly
-> linked to action planning with relevant s…
+> Learners enjoy their experience with ATTFE. Most face disadvantages or barriers to
+> learning and are very well supported. Learners rightly praise the way that tutors
+> make suitable arrangements to support their individual needs.
+>
+> Adults are highly motivated and have very positive attitudes to their studies. They
+> benefit from a broad range of courses to develop their practical skills and personal
+> development. Flexible course durations, class times and locations support adult
+> needs very well.
+>
+> Young learners benefit from a broad curriculum offer. They develop employability
+> skills alongside mathematics and English skills. Learners of all abilities are able to
+> move through different levels of learning successfully.
+>
+> Adults and young learners benefit from a rich and varied personal development
+> course. This is very well focused on the skills they need for their future. As a result,
+> learners flourish, become more confident, articulate and ready for employment.
+>
+> Adults and young learners take a very active part in their local communities and
+> benefit from these experiences. For example, adult learners support the ‘Let’s All
+> Eat’ project that runs food banks, and young learners steward at large-scale
+> community events such as the Sherwood Forest coronation picnic.
+>
+> Adults participate significantly in extra-curricular activities such as meditation,
+> walking groups, crafts, supporting Rotary Club Santa Sleigh, and catering for events
+> at community hubs and churches. Young learners have many opportunities to
+> pursue volunteering and activities such as hiking, craft and sewing.
+>
+> What does the provider do well and what does it need to do
+> better?
+>
+> Leaders and managers have carefully considered what they are preparing learners
+> for. They offer a suitable range of courses for adults and young learners which
+> supports them well to pursue their career, education or personal goals.
+>
+> Adults benefit from well-designed courses to support their vocational skills, broader
+> development and general well-being. The ambitious curriculum prepares them
+> exceptionally well. Adults gain a wide range of new practical skills, academic
+> knowledge and personal development. This supports them to make positive steps
+> towards employment or contribute to their local communities.
+>
+> The large majority of adults have addi…
 
 ## Compliance signals
 
@@ -86,23 +127,23 @@ _No high-trigger news matched in the last extraction pass._
 
 Quotes you can drop directly into outreach. Severity drives the score.
 
-- **emp.itp_initial_assessment** (severity 6.0, what_school_needs_to_improve)
+- **emp.itp_initial_assessment** (severity 6.0, what_provider_needs_to_improve)
   > As a consequence, the number of learners achieving qualifications in English and mathematics is low.  A significant minority of learners do not benefit from appropriate individualised learning and as a consequence their progress is slow. For these learners, initial assessment is not used to set individualised targets, and targets are vague and do not suppor
 
-- **emp.itp_apprentices_progress_slow** (severity 6.0, what_school_needs_to_improve)
+- **emp.itp_apprentices_progress_slow** (severity 6.0, what_provider_needs_to_improve)
   > Tutors and assessors do not consistently check and mark learners’ and apprentices’ work to improve spelling, grammar and punctuation.  The standard of work in English and mathematics requires improvement. Learners and apprentices make slow progress in improving their functional English and mathematics skills. Adult learners and younger learners on study pro
 
-- **cr.attendance_poor** (severity 6.0, what_school_needs_to_improve)
+- **cr.attendance_poor** (severity 6.0, what_provider_needs_to_improve)
   >  The majority of adult learners are on English and mathematics courses, developing their skills to progress into further education or improve their employment options. Too many of these sessions lack pace, do not stretch and challenge the most able and attendance is low. In the weaker sessions, teachers do not plan sufficiently interesting activities to sti
 
-- **os.extremism** (severity 4.0, what_school_needs_to_improve)
+- **cr.attendance_poor** (severity 4.5, young_peoples_provision)
+  >  Tutors do not develop learners’ English skills sufficiently well. Learners receive insufficient opportunities to help develop their academic writing and research skills to prepare them for higher levels of learning.  Attendance is too low, particularly in mathematics and English classes. Inspection report: Academy Transformation Trust, 6–9 June 2017 Page 
+
+- **os.extremism** (severity 4.0, what_provider_needs_to_improve)
   > Assessors make appropriate checks of apprentices’ understanding of safeguarding, equality and diversity during assessments and reviews. They have begun to discuss the dangers of radicalisation and extremism and have access to a range of useful resources to promote modern British values. It is too soon to judge the impact of these initiatives on apprentices’ 
 
-- **os.extremism** (severity 4.0, what_school_needs_to_improve)
+- **os.extremism** (severity 4.0, what_provider_needs_to_improve)
   > Construction learners are very aware of how poor behaviour and lack of respect in the workplace can impact employment opportunities.  The promotion of Prevent duty is in its early stages of development as is the introduction of British values. Consequently, learners do not have a good grasp of the characteristics of extremism and how to report concerns. Lea
-
-- **os.extremism** (severity 4.0, what_school_needs_to_improve)
-  > They feel safe and are fully aware of how to raise concerns if they are being harassed or bullied. In a few sessions, learners develop a good understanding of the values that underpin British society. However, the risks associated with radicalisation, particularly the dangers of right wing extremism, are not clearly understood by many learners and apprentice
 
 ---
 

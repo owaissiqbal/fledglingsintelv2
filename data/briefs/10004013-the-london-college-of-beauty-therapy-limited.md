@@ -13,10 +13,10 @@
 
 ## Lead-with curriculum
 
-**Confidence & Resilience** (sub-score 55)
+**Employability Skills** (sub-score 55)
 
 - Financial Literacy: 0
-- Employability Skills: 50
+- Employability Skills: 55
 - Confidence & Resilience: 55
 - Online Safety: 55
 
@@ -45,57 +45,70 @@
 
 _+ 3 earlier inspections in the database._
 
-## Verbatim from the inspector
+## Verbatim from the latest inspection report
 
-Direct quotes from the latest published report. Use these in outreach without paraphrasing.
+Inspection of The London College of Beauty Therapy Limited · 2025-07-18 · grade: **🔵 good**.
+[Full report](https://files.ofsted.gov.uk/v1/file/50282559)
 
-### What this school needs to improve
+Direct quotes from the report. Use these in outreach without paraphrasing — they're exactly what the inspector wrote.
 
-> What does the provider need to do to improve further?
+### What this provider needs to improve
+
+> What does the provider need to do to improve?
 >
->  Improve the quality of teaching, learning and assessment so that it is consistently good
-> by ensuring that:
-> – training for lecturers focuses on improving classroom practice and teaching skills
-> – observations of teaching place sufficient emphasis on evaluating the skills, knowledge
-> and professional standards that learners are developing during lessons
-> – lecturers plan for learning that consistently challenges and meets the needs of
-> individual learners
-> – assessors, referred to as ‘learning and development trainers’ by LCBT, plan sessions at
-> visits to challenge and extend apprentices’ learning and knowledge.
->  Increase the proportion of study programme learners that achieve their English and
-> mathematics qualifications, by:
-> – improving the rate of attendance at these subjects
-> – ensuring that lecturers promote to learners the benefits of achieving these
-> qualifications to support them in the future
-> – ensuring that vocational lecturers develop learners’ mathematics and English skills in
-> lessons, by planning additional activities that allow them to practise and apply these
-> skills.
->  Further embed the implementation of the new apprenticeship management structure and
-> processes, to ensure that the quality of apprenticeship delivery and the proportion of
-> apprentices who complete their qualifications in the planned time continues to improve.
->  Monitor where learners go on completing their course, relative to their intended career or
-> study aims. Identify why more learners on study programmes do not progress to the next
-> level of study with LCBT and put actions in place where appropriate to increase this.
+>  Improve the attendance of learners.
+>  Continue to improve further the proportion of learners who achieve their
+> qualifications.
+>  Improve learners’ knowledge on how to recognise extremist behaviours and the
+> signs of radicalisation.
+
+### Safeguarding
+
+> Safeguarding
 >
+> The arrangements for safeguarding are effective.
+
+### What is it like to be a learner here / What does the provider do well
+
+> What is it like to be a learner with this provider?
 >
+> Learners study in a welcoming, supportive and professional environment where they
+> feel safe. The new facilities in east London provide learners with the opportunity to
+> learn in well-equipped, industry-standard environments such as beauty and
+> hairdressing salons.
 >
+> Most learners develop substantial new knowledge and skills. This is because tutors
+> teach theory and practice well. For example, beauty therapy learners first learn
+> about different skin types, textures and tones and how to adapt treatments before
+> they apply this knowledge when they carry out facial treatments on clients in the
+> training salons. Most learners remain in learning and make good progress. When
+> they finish their studies, most learners move onto further training or into
+> employment.
 >
+> Learners gain the behaviours they need to work with clients in salons. For example,
+> they communicate effectively with clients when they complete consultations and
+> they demonstrate how to maintain a professional relationship with clients and peers.
+> Staff have high expectations of learners’ behaviour and attitudes. They set clear
+> expectations with them from the start of programmes and they are good role
+> models for learners. However, learners’ attendance across courses is not good
+> enough. Some learners have become demotivated because of historical disruption to
+> their learning caused by staffing issues and organisational changes.
 >
+> What does the provider do well and what does it need to do
+> better?
 >
+> On acquisition of LCBT in February 2024, leaders quickly put in place a robust action
+> plan to improve the weaknesses they found. This included significant investment in
+> new industry-standard premises and recruitment of staff to stabilise the teaching of
+> the curriculum. They increased the well-being support for learners and staff and
+> redesigned the curriculum assessment structure.
 >
->
-> Inspection report: The London College of Beauty Therapy Limited, 13–16 June 2017
->
-> Page 3 of 13
->
->
->
-> Inspection judgements
->
-> Effectiveness of leadership and management Requires improvement
->
->  Leaders and managers have not sustained the good standard of teaching, learning and
-> asse…
+> As part of these changes, leaders integrated key roles and functions from the
+> Education for Industry Group into LCBT. This included the introduction of effective
+> governance arrangements along with a range of good processes to monitor the
+> quality of provision and the progress of learners, including those at the
+> subcontractor. Previous achievement of learners for their main qualification, English
+> and mathematics was low. The swift actions of leaders, along wit…
 
 ## Compliance signals
 
@@ -109,23 +122,23 @@ _No high-trigger news matched in the last extraction pass._
 
 Quotes you can drop directly into outreach. Severity drives the score.
 
-- **os.online_grooming** (severity 2.0, safeguarding)
-  >  Learners feel safe, know how to raise concerns and have a very good understanding of how to keep themselves safe from radicalisation and extremism. They feel safe from bullying and understand the dangers associated with online grooming.  Learners have a good understanding of their responsibilities and how to be good citizens in modern Britain. The college
+- **emp.work_experience** (severity 4.0, what_provider_needs_to_improve)
+  >  Learners benefit from very good opportunities to attend a wide range of competitions, exhibitions and educational trips, and they raise money for charity. Impromptu requests are made for learners to work on photo shoots and films, which give exceptional work experience and often with celebrities who are clients. Inspection report: LCBT (London College of B
 
-- **os.extremism** (severity 2.0, safeguarding)
-  > During tutorials, they explore and debate a broad range of topics such as mental ill health and gender identity, and how to adjust their client care accordingly.  Learners feel safe, know how to raise concerns and have a very good understanding of how to keep themselves safe from radicalisation and extremism. They feel safe from bullying and understand the 
+- **emp.work_experience** (severity 4.0, what_provider_needs_to_improve)
+  > Their career prospects are enhanced through opportunities to take additional qualifications, career presentations by leading industry employers, and work experience in a range of very good quality environments including famous department stores. Highly prestigious beauty work experience placements are to start shortly provided by a children’s charity support
 
-- **os.radicalisation** (severity 2.0, safeguarding)
-  > During tutorials, they explore and debate a broad range of topics such as mental ill health and gender identity, and how to adjust their client care accordingly.  Learners feel safe, know how to raise concerns and have a very good understanding of how to keep themselves safe from radicalisation and extremism. They feel safe from bullying and understand the 
+- **emp.work_experience** (severity 4.0, what_provider_needs_to_improve)
+  >  Enrichment activities are excellent for classroom-based learners. Their career prospects are enhanced through opportunities to take additional qualifications, career presentations by leading industry employers, and work experience in a range of very good quality environments including famous department stores. Highly prestigious beauty work experience plac
 
-- **emp.cv_interview_skills** (severity 2.0, safeguarding)
-  > Learners benefit from external talks from reputable hair, beauty, health and fitness employers, which raise their aspirations and inform them of future opportunities available. Staff support learners to complete university application forms and curriculum vitae, and to practise interview techniques. Employers value highly the skills that learners develop at 
+- **os.radicalisation** (severity 4.0, what_provider_needs_to_improve)
+  >  Improve the attendance of learners.  Continue to improve further the proportion of learners who achieve their qualifications.  Improve learners’ knowledge on how to recognise extremist behaviours and the signs of radicalisation. Inspection report: The London College of Beauty Therapy Limited 10 to 13 June 2025 5
 
-- **emp.work_experience** (severity 2.0, safeguarding)
-  > The majority of learners attend exhibition and charity events, external talks and demonstrations from beauty and make-up suppliers. Learners reflect and evaluate effectively the skills and knowledge they gain from these activities.  Learners benefit from well-planned work experience. In groups, they work to apply makeup and dress the hair of actors appearin
+- **os.online_grooming** (severity 3.0, areas_for_improvement)
+  > The proportions of learners who move on to employment and higher-level learning are high.  Learners have a good understanding of diversity and how to keep themselves and their peers safe. They talk knowledgeably about the risks associated with extremism, radicalisation and online grooming.  Hairdressing learners have insufficient access to external clients
 
-- **emp.work_experience** (severity 2.0, safeguarding)
-  > The majority of learners are punctual, wear the appropriate uniform and are ready to learn.  Learners develop good work-related skills and the majority benefit from purposeful workrelated learning and external work experience. Through the well-planned schedule of events and opportunities to work in West End shows and large national beauty exhibitions, learn
+- **os.extremism** (severity 3.0, areas_for_improvement)
+  >  Apprentices know how to keep themselves safe and they feel safe. While leaders and managers provide detailed information to apprentices during their induction programme on the dangers of radicalisation and extremism, they do not consistently reinforce these throughout their courses. As a result, a few apprentices are unable to recall key aspects of the inf
 
 ---
 

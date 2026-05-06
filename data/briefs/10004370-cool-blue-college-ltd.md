@@ -1,6 +1,6 @@
 # Cool Blue College Ltd
 
-**🟠 HIGH** · score **95** · urgency 55 · pipeline 100
+**🟠 HIGH** · score **95** · urgency 65 · pipeline 100
 
 ## Identity
 
@@ -13,12 +13,12 @@
 
 ## Lead-with curriculum
 
-**Financial Literacy** (sub-score 55)
+**Confidence & Resilience** (sub-score 65)
 
 - Financial Literacy: 55
-- Employability Skills: 55
-- Confidence & Resilience: 55
-- Online Safety: 55
+- Employability Skills: 60
+- Confidence & Resilience: 65
+- Online Safety: 63
 
 ## Why this is on the list
 
@@ -48,11 +48,46 @@
 
 _+ 6 earlier inspections in the database._
 
-## Verbatim from the inspector
+## Verbatim from the latest inspection report
 
-Direct quotes from the latest published report. Use these in outreach without paraphrasing.
+Inspection of Cool Blue College Ltd · 2023-09-14 · grade: **🟠 requires improvement**.
+[Full report](https://files.ofsted.gov.uk/v1/file/50228188)
 
-### Main findings
+Direct quotes from the report. Use these in outreach without paraphrasing — they're exactly what the inspector wrote.
+
+### What this provider needs to improve
+
+> What does the provider need to do to improve?
+>
+>  Ensure that all apprentices benefit from an ambitious and well-planned and
+> implemented apprenticeship curriculum.
+>  Ensure that staff receive sufficient support and pedagogical training to plan and
+> teach an ambitious curriculum.
+
+### Safeguarding
+
+> Safeguarding
+>
+> The arrangements for safeguarding are effective.
+>
+> Leaders ensure that all staff undertake safeguarding training. This helps staff to
+> know when, how and what to report should they come across safeguarding issues or
+> concerns. Leaders provide staff with refresher training to keep their knowledge of
+> safeguarding up to date. For example, staff study online courses to widen their
+> awareness of risks associated with extremist behaviour, cyber security, county lines
+> and gambling, which the provider recognises as posing threats to apprentices.
+>
+> DSLs and deputies are suitably qualified to undertake their duties. They engage well
+> with external agencies and professionals, such as the local ‘Prevent’ coordinator.
+> They use the information they receive to create informative newsletters, which they
+> then issue to apprentices and their employers about risks they and their
+> organisations may face.
+>
+> Leaders recruit staff safely into teaching and training posts. They have clear policies
+> and procedures in place to ensure that apprentices are protected from risks of harm
+> in their workplace and when attending the training centre.
+
+### What is it like to be a learner here / What does the provider do well
 
 > What is it like to be a learner with this provider?
 >
@@ -83,93 +118,15 @@ Direct quotes from the latest published report. Use these in outreach without pa
 > Apprentices feel safe at the training centre and in the workplace. Tutors routinely
 > check that apprentices do not experience bullying or harassment, including sexual
 > harassment and abuse. Apprentices know how to report any concerns they have to
-> their managers and designated safeguarding leads (DSL…
-
-### What this school needs to improve
-
-> What does the provider need to do to improve?
+> their managers and designated safeguarding leads (DSL) should they feel unsafe or
+> are concerned about others, including their peers.
 >
->  Ensure that all apprentices benefit from an ambitious and well-planned and
-> implemented apprenticeship curriculum.
->  Ensure that staff receive sufficient support and pedagogical training to plan and
-> teach an ambitious curriculum.
+> What does the provider do well and what does it need to do
+> better?
 >
->
->
->
->
->
-> Inspection report: Cool Blue College Ltd
-> 1 to 4 August 2023
-> 5
->
->
->  Ensure that apprentices benefit from effective careers information and guidance
-> to understand how to achieve their long-term career goals.
->  Ensure that apprentices participate in the well-planned personal development
-> activities that leaders provide.
->  Maintain sufficient oversight of the quality of education and training to take timely
-> and appropriate improvement actions.
->  Ensure that those responsible for governance provide sufficient scrutiny of the
-> quality of the apprenticeship provision to challenge leaders to make swift
-> improvements.
->
->
->
->
->
->
->
->
->
->
-> Inspection report: Cool Blue College Ltd
-> 1 to 4 August 2023
-> 6
->
->
->
-> Provider details
->
-> Unique reference number 53388
->
-> Address Doxford International Business Park
-> 3 Victory Way
-> Sunderland
-> SR3 3XL
->
-> Contact number 0191 510 0414
->
-> Website www.coolbluecollege.com
->
-> Principal, CEO or equivalent Mark Clelland
->
-> Provider type Independent learning provider
->
-> Date of previous inspection 18 June 2013
->
-> Main subcontractors N/A
->
->
->
->
->
->
->
-> Inspection report: Cool Blue College Ltd
-> 1 to 4 August 2023
-> 7
->
->
->
-> Information about this inspection
->
-> The inspection team was assisted by the managing director, as nominee. Inspectors
-> took account of the provider’s most recent self-assessment report and development
-> plans, and the previous inspection report. The inspection was carried out using the
-> further education and skills inspection handbook and took into account all relevant
-> provision at the provider. Inspectors collected a wide range of evidence to inform
-> judgements, including visiting learning sessions, scrutinising learners’ work, …
+> Leaders and managers select and deliver apprenticeships which are relevant to the
+> employers they work with. They have recently reduced the apprenticeship offer to
+> focus on apprenticeships that help apprentices progress into careers in business…
 
 ## Compliance signals
 
@@ -183,23 +140,23 @@ _No high-trigger news matched in the last extraction pass._
 
 Quotes you can drop directly into outreach. Severity drives the score.
 
+- **cr.self_esteem** (severity 4.0, what_provider_needs_to_improve)
+  >  Ensure quality assurance systems are consistently and fully applied to all aspects of training and learning including the observations of training, learning and assessment and the monitoring of provision offered by subcontracted providers. Inspection judgements Outcomes for learners Good  Apprentices develop a high level of skills, enjoy learning and acqu
+
+- **cr.self_esteem** (severity 3.0, apprenticeships)
+  > Enthusiastic staff ensure learners with diverse needs are cared for and supported well to achieve their learning goals and overcome barriers to learning. Learners confirm their increase in confidence and self-esteem. Attention to healthy and safe working practices is good.  The monitoring of learners’ progress is good. The recent introduction of an electron
+
 - **emp.itp_skills_knowledge_gaps** (severity 3.0, main_findings)
   > For example, on the level 2 customer service practitioner programme, feedback on assessed portfolio work helps apprentices to know when they are ready to move on to the next unit. Tutors who teach functional skills course use information from apprentices’ starting points to identify the knowledge and skills gaps that apprentices have. The few apprentices stu
 
-- **cr.personal_development_strengthen** (severity 3.0, personal_development)
-  > Personal development Requires improvement Leadership and management Requires improvement Apprenticeships Requires improvement Overall effectiveness at previous inspection Good
+- **shared.diversity** (severity 2.0, what_provider_needs_to_improve)
+  > The knowledge gained during induction is consolidated by written exercises that assess learners’ understanding of equality and diversity in the workplace. However, not all training officers adequately plan activities to extend learners’ understanding of equality and diversity during learning sessions. Motor Vehicle Engineering
 
-- **emp.careers_information** (severity 2.0, what_school_needs_to_improve)
-  >  Ensure that staff receive sufficient support and pedagogical training to plan and teach an ambitious curriculum. Inspection report: Cool Blue College Ltd 1 to 4 August 2023 5  Ensure that apprentices benefit from effective careers information and guidance to understand how to achieve their long-term career goals.  Ensure that apprentices participate in t
+- **shared.diversity** (severity 2.0, what_provider_needs_to_improve)
+  > They appreciate the good guidance on further study with Milltech or progression to alternative providers.  Equality and diversity are promoted well. The knowledge gained during induction is consolidated by written exercises that assess learners’ understanding of equality and diversity in the workplace. However, not all training officers adequately plan acti
 
-- **cr.personal_development** (severity 2.0, what_school_needs_to_improve)
-  > Inspection report: Cool Blue College Ltd 1 to 4 August 2023 5  Ensure that apprentices benefit from effective careers information and guidance to understand how to achieve their long-term career goals.  Ensure that apprentices participate in the well-planned personal development activities that leaders provide.  Maintain sufficient oversight of the qualit
-
-- **fin_lit.managing_money** (severity 2.0, main_findings)
-  > They provide apprentices with the opportunity to study a wide range of short courses covering a range of personal development topics. These include Inspection report: Cool Blue College Ltd 1 to 4 August 2023 4 subjects such as first aid, healthy eating and lifestyles, managing money and gambling awareness, safeguarding and the ‘Prevent’ duty. These courses a
-
-- **emp.itp_off_the_job** (severity 2.0, main_findings)
-  > Leaders and managers work well with employers to help them understand their responsibilities and commitments when employing an apprentice. Most employers attend review meetings and provide apprentices with sufficient time away from the workplace to complete their off-the-job training. They value their apprentices and are keen to help them to develop and acqu
+- **shared.diversity** (severity 2.0, what_provider_needs_to_improve)
+  > Through good guidance learners are able to meet their career aspirations and work towards the most appropriate qualifications. They appreciate the good guidance on further study with Milltech or progression to alternative providers.  Equality and diversity are promoted well. The knowledge gained during induction is consolidated by written exercises that ass
 
 ---
 

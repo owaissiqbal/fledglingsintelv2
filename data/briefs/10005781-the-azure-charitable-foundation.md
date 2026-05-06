@@ -1,6 +1,6 @@
 # The Azure Charitable Foundation
 
-**🟠 HIGH** · score **76** · urgency 65 · pipeline 76
+**🟠 HIGH** · score **76** · urgency 67 · pipeline 76
 
 ## Identity
 
@@ -11,12 +11,12 @@
 
 ## Lead-with curriculum
 
-**Confidence & Resilience** (sub-score 65)
+**Employability Skills** (sub-score 67)
 
 - Financial Literacy: 55
-- Employability Skills: 55
+- Employability Skills: 67
 - Confidence & Resilience: 65
-- Online Safety: 55
+- Online Safety: 63
 
 ## Why this is on the list
 
@@ -43,11 +43,44 @@
 
 _+ 3 earlier inspections in the database._
 
-## Verbatim from the inspector
+## Verbatim from the latest inspection report
 
-Direct quotes from the latest published report. Use these in outreach without paraphrasing.
+Inspection of The Azure Charitable Foundation · 2023-08-15 · grade: **🟠 requires improvement**.
+[Full report](https://files.ofsted.gov.uk/v1/file/50225905)
 
-### Main findings
+Direct quotes from the report. Use these in outreach without paraphrasing — they're exactly what the inspector wrote.
+
+### What this provider needs to improve
+
+> What does the provider need to do to improve?
+>
+>  Ensure that tutors provide relevant training to enable learners to identify the
+> dangers posed by the risks of radicalisation and extremism.
+>  Ensure that staff identify learners’ starting points and use this information to set
+> useful targets that enable learners to work towards achieving their long-term
+> aspirations.
+>  Ensure that tutors make better use of assessment information to plan learning
+> that meets the individual needs of all learners.
+>  Ensure that learners benefit from a wide range of opportunities to explore their
+> future options, including engaging in work experience.
+>  Ensure that teaching staff receive good-quality professional development and
+> training to enable them to provide teaching that meets learners needs.
+
+### Safeguarding
+
+> safeguarding, the ‘Prevent’ duty, and health and safety.
+>
+> Learners do not receive clear information about the opportunities available to them
+> when they leave the college. Staff do not ensure that the careers guidance that they
+> provide to learners is related well enough to learners’ own experiences and
+> aspirations. As a result, most learners are not fully aware of the career and
+> employment opportunities available to them.
+>
+> Leaders and managers have put in place a board of trustees with expertise from
+> various sectors, including finance, business and law. The board provides effective
+> challenge to ensure financial security and effective safeguarding management.
+
+### What is it like to be a learner here / What does the provider do well
 
 > What is it like to be a learner with this provider?
 >
@@ -80,82 +113,16 @@ Direct quotes from the latest published report. Use these in outreach without pa
 > Too few learners have the option to engage in work experience. As a result, too
 > many do not have opportunities to develop their employability skills in real working
 > environments. Leaders have recognised the need to provide more opportunities for
-> learners to engage in work experience a…
-
-### What this school needs to improve
-
-> What does the provider need to do to improve?
+> learners to engage in work experience and have recently secured placements with
+> the local council, which they plan to commence at the start of the next academic
+> year.
 >
->  Ensure that tutors provide relevant training to enable learners to identify the
-> dangers posed by the risks of radicalisation and extremism.
->  Ensure that staff identify learners’ starting points and use this information to set
-> useful targets that enable learners to work towards achieving their long-term
-> aspirations.
->  Ensure that tutors make better use of assessment information to plan learning
-> that meets the individual needs of all learners.
->  Ensure that learners benefit from a wide range of opportunities to explore their
-> future options, including engaging in work experience.
->  Ensure that teaching staff receive good-quality professional development and
-> training to enable them to provide teaching that meets learners needs.
+> What does the provider do well and what does it need to do
+> better?
 >
->
->
->
->
->
->
->
-> Inspection report: Azure Charitable Enterprises
-> 13 to 15 June 2023
-> 5
->
->
->
-> Provider details
->
-> Unique reference number 50582
->
-> Address McCallum House
-> Kielder Avenue
-> Cramlington
-> Northumberland
-> NE23 8JT
->
-> Contact number 01670 733966
->
-> Website www.azure-charitable.co.uk
->
-> Principal, CEO or equivalent Peter Wilson
->
-> Provider type Independent specialist college
->
-> Date of previous inspection 4 April 2018
->
-> Main subcontractors Not applicable
->
->
->
->
->
->
->
-> Inspection report: Azure Charitable Enterprises
-> 13 to 15 June 2023
-> 6
->
->
->
->
-> Information about this inspection
->
-> The inspection team was assisted by the head of education, as nominee. Inspectors
-> took account of the provider’s most recent self-assessment report and development
-> plans, and the previous inspection report. The inspection was carried out using the
-> further education and skills inspection handbook and took into account all relevant
-> provision at the provider. Inspectors collected a wide range of evidence to inform
-> judgements, including visiting learning sessions, scrutinising learners’ work, seeking
-> the views of learners, staff and other stakeholders, and examining the provider’s
-> documenta…
+> Leaders and managers provide a range of useful and relevant courses to enable
+> learners to develop new knowledge, skills and behaviours. Learners are supported to
+> improve their independence, conf…
 
 ## Compliance signals
 
@@ -169,23 +136,23 @@ _No high-trigger news matched in the last extraction pass._
 
 Quotes you can drop directly into outreach. Severity drives the score.
 
-- **os.extremism** (severity 4.0, what_school_needs_to_improve)
+- **fin_lit.personal_finance** (severity 4.5, areas_for_improvement)
+  > Leaders and managers ensure that the vocational programme meets the needs of all learners. Learners develop their personal and social skills well through the study of topics such as overcoming communication and language barriers, personal hygiene, personal finance, looking for work and working as a team. Learners consolidate their existing skills and make go
+
+- **emp.careers_guidance** (severity 4.0, what_provider_needs_to_improve)
+  > Of the 11 learners who completed in this year, eight progressed to Workskills programmes, employment, further education or voluntary work. This is a significant improvement since the last inspection. Learners benefit from good careers advice and are well aware of the range of progression options available. Some learners with more complex needs develop good s
+
+- **os.extremism** (severity 4.0, what_provider_needs_to_improve)
   > What does the provider need to do to improve?  Ensure that tutors provide relevant training to enable learners to identify the dangers posed by the risks of radicalisation and extremism.  Ensure that staff identify learners’ starting points and use this information to set useful targets that enable learners to work towards achieving their long-term aspirat
 
-- **os.radicalisation** (severity 4.0, what_school_needs_to_improve)
+- **os.radicalisation** (severity 4.0, what_provider_needs_to_improve)
   > What does the provider need to do to improve?  Ensure that tutors provide relevant training to enable learners to identify the dangers posed by the risks of radicalisation and extremism.  Ensure that staff identify learners’ starting points and use this information to set useful targets that enable learners to work towards achieving their long-term aspirat
 
-- **emp.work_experience** (severity 4.0, what_school_needs_to_improve)
+- **emp.work_experience** (severity 4.0, what_provider_needs_to_improve)
   >  Ensure that tutors make better use of assessment information to plan learning that meets the individual needs of all learners.  Ensure that learners benefit from a wide range of opportunities to explore their future options, including engaging in work experience.  Ensure that teaching staff receive good-quality professional development and training to en
 
-- **cr.personal_development_strengthen** (severity 3.0, personal_development)
-  > Personal development Requires improvement Leadership and management Requires improvement Provision for learners with high needs Requires improvement Overall effectiveness at previous inspection Good
-
-- **shared.diversity** (severity 2.0, what_school_needs_to_improve)
-  > The programme effectively offers an opportunity for learners with learning difficulties and/or disabilities to access accredited programmes in horticulture and develop the personal, social and employability skills.  Azure’s systems to promote equality and diversity, tackle bullying and discrimination are effective. A detailed induction programme introduces 
-
-- **shared.diversity** (severity 2.0, what_school_needs_to_improve)
-  > The programme effectively offers an opportunity for learners with learning difficulties and/or disabilities to access accredited programmes in horticulture and develop the personal, social and employability skills.  Azure’s systems to promote equality and diversity, tackle bullying and discrimination are effective. A detailed induction programme introduces 
+- **emp.work_experience** (severity 3.0, areas_for_improvement)
+  > Learners choose from a wide range of units in working towards their employment and personal and social development Inspection report: Azure Charitable Enterprises, 10–12 June 2014 5 of 10 qualification. The programme is well managed and benefits from the charity’s extensive networks that support the work experience programme and specific projects. It is taug
 
 ---
 

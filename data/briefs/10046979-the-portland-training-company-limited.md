@@ -14,9 +14,9 @@
 **Confidence & Resilience** (sub-score 55)
 
 - Financial Literacy: 0
-- Employability Skills: 23
+- Employability Skills: 17
 - Confidence & Resilience: 55
-- Online Safety: 55
+- Online Safety: 46
 
 ## Why this is on the list
 
@@ -34,9 +34,12 @@
 - Safeguarding: Met
 - [Report](https://reports.ofsted.gov.uk/provider/33/1270924)
 
-## Verbatim from the inspector
+## Verbatim from the latest inspection report
 
-Direct quotes from the latest published report. Use these in outreach without paraphrasing.
+Inspection of The Portland Training Company Limited · 2026-01-13 · grade: **🔵 good**.
+[Full report](https://reports.ofsted.gov.uk/provider/33/1270924)
+
+Direct quotes from the report. Use these in outreach without paraphrasing — they're exactly what the inspector wrote.
 
 ### Areas for improvement
 
@@ -62,7 +65,11 @@ Direct quotes from the latest published report. Use these in outreach without pa
 > and redundancies, leaders communicated clearly and sensitively, with governors providing
 > effective oversight and challenge. As a result, staff morale has remained very positive and
 > leaders have sustained effective delivery through a period of significant change.
-> 2. Adult learning programmes
+> 2.
+
+### Adult learning programmes
+
+> Adult learning programmes
 > Expected standard
 > Expected standard
 > Achievement
@@ -70,7 +77,61 @@ Direct quotes from the latest published report. Use these in outreach without pa
 > Most learners achieve the qualifications they work towards. A high proportion gain valuable
 > licences to practise, such as construction skills certification or forklift operation, which
 > support progression into employment.
-> Learne…
+> Learners typically make expected progress from low starting points. During their short
+> courses, they develop a basic understanding of the construction and logistics sectors and
+> produce work that meets expected standards. Learners demonstrate improved confidence in
+> applying what they have learned.
+> Most learners move on to employment, further learning or gain licences that increase their
+> employability. They achieve personal goals, including re-engaging with learning and building
+> confidence.
+> Learners improve their basic English, mathematical and digital skills. This supports their
+> progression towards sustained employment.
+>
+> Learners from different starting points achieve similarly well. Learners who are long-term
+> unemployed, those with special educational needs and/or disabilities, and those known to
+> probation services make progress at similar rates to their peers.
+> Curriculum and teaching
+> Expected standard
+> Leaders align short adult learning programmes well to regional and national funding
+> authorities’ priorities. The curriculums focus effectively on skills for employment and prepare
+> unemployed adults to take initial steps towards work.
+> Leaders sequence curriculum content logically, in line with learners' intended learning
+> outcomes. For example, in short construction and logistics courses, learners first develop an
+> understanding of industry structures before learning the skills, behaviours and attitudes
+> required for entry-level roles.
+> The quality of teaching is high.…
+
+### Safeguarding
+
+> Safeguarding standards met
+> The safeguarding standards are met. This means that leaders and/or those responsible for
+> governance and oversight fulfil their specific responsibilities and have established an open
+> culture in which safeguarding is everyone's responsibility and concerns are actively
+> identified, acted upon and managed. As a result, learners are made safer and feel safe.
+> How we evaluate safeguarding
+> When we inspect providers for safeguarding, they can have the following outcomes:
+> Met: The provider has an open and positive culture of safeguarding.
+> Not met: The provider has not created an open and positive culture of safeguarding. Not
+> all legal requirements are met.
+>
+> 1. Inclusion, and leadership and governance
+> Expected standard
+> Expected standard
+> Inclusion
+> Expected standard
+> Leaders foster an inclusive culture that supports unemployed learners effectively. Learners
+> develop new skills, rebuild confidence and move closer to employment.
+> Staff use their professional experience well to identify learners’ needs. They understand
+> learners’ starting points, which often include long-term unemployment, low confidence, and
+> limited digital skills. Leaders recognise the need to develop and embed this practice further
+> over time, particularly in relation to the identification of undiagnosed special educational
+> needs and/or disabilities.
+> Leaders reduce barriers to learning and wellbeing effectively. They adapt provision so it
+> remains inclusive and accessible. Online teaching improves access to learning for most
+> learners, including those with caring responsibilities and those with limited transport.
+> Leaders provide pre-course support to help learners access appropriate equipment and
+> improve their digital skills. Where online settings are unsuitable, leaders adapt delivery so
+> learners…
 
 ## Compliance signals
 
@@ -84,22 +145,22 @@ _No high-trigger news matched in the last extraction pass._
 
 Quotes you can drop directly into outreach. Severity drives the score.
 
-- **shared.wider_personal_development** (severity 3.0, areas_for_improvement)
+- **shared.wider_personal_development** (severity 3.0, adult_learning)
   > Learners receive clear guidance about possible next steps and the actions they can take to move closer to employment. This helps learners develop realistic aspirations and understand pathways into work or further training. Leaders promote learners’ wider development. Staff cover topics such as health and wellbeing, staying safe online, and understanding Brit
 
-- **emp.itp_assessment_weak** (severity 3.0, areas_for_improvement)
+- **emp.itp_assessment_weak** (severity 3.0, adult_learning)
   > Learners build confidence through structured tasks and practical examples that reflect real workplace situations. Tutors emphasise the attitudes and behaviours expected by employers, such as punctuality, teamwork and following instructions, which prepares learners well for employment. Tutors use assessment effectively to check learners’ understanding and pro
 
-- **cr.anxiety** (severity 3.0, areas_for_improvement)
+- **cr.anxiety** (severity 3.0, adult_learning)
   > Learners feel welcomed and valued, which helps them make positive progress and achieve qualifications and, in many cases, licences to practise in industries such as construction and logistics. Learners grow in confidence as courses progress. Many feel anxious at the start, but tutors reassure them and respond sensitively to their worries. Learners increasing
 
-- **cr.confidence** (severity 3.0, areas_for_improvement)
+- **cr.confidence** (severity 3.0, adult_learning)
   > Tutors are particularly patient and adapt their teaching when learners struggle, repeating information and adjusting activities to maintain learners’ concentration. This supports learners with low confidence or limited prior experience of formal learning. Tutors design learning activities that help learners practise and apply new knowledge. Learners build co
 
-- **cr.confidence** (severity 3.0, areas_for_improvement)
+- **cr.confidence** (severity 3.0, adult_learning)
   > They explain concepts clearly, using relevant technical vocabulary, and check learners’ understanding frequently. Tutors are particularly patient and adapt their teaching when learners struggle, repeating information and adjusting activities to maintain learners’ concentration. This supports learners with low confidence or limited prior experience of formal 
 
-- **cr.confidence** (severity 3.0, areas_for_improvement)
+- **cr.confidence** (severity 3.0, adult_learning)
   > Learners demonstrate improved confidence in applying what they have learned. Most learners move on to employment, further learning or gain licences that increase their employability. They achieve personal goals, including re-engaging with learning and building confidence. Learners improve their basic English, mathematical and digital skills. This supports th
 
 ---

@@ -1,6 +1,6 @@
 # T2 Group (trading as Marr Corporation Limited)
 
-**🟠 HIGH** · score **75** · urgency 45 · pipeline 100
+**🟠 HIGH** · score **75** · urgency 55 · pipeline 100
 
 ## Identity
 
@@ -13,12 +13,12 @@
 
 ## Lead-with curriculum
 
-**Confidence & Resilience** (sub-score 45)
+**Employability Skills** (sub-score 55)
 
 - Financial Literacy: 0
-- Employability Skills: 31
-- Confidence & Resilience: 45
-- Online Safety: 42
+- Employability Skills: 55
+- Confidence & Resilience: 55
+- Online Safety: 55
 
 ## Why this is on the list
 
@@ -47,42 +47,72 @@
 
 _+ 1 earlier inspection in the database._
 
-## Verbatim from the inspector
+## Verbatim from the latest inspection report
 
-Direct quotes from the latest published report. Use these in outreach without paraphrasing.
+Inspection of T2 Group (trading as Marr Corporation Limited) · 2024-10-22 · grade: **🔵 good**.
+[Full report](https://files.ofsted.gov.uk/v1/file/50259770)
 
-### What this school needs to improve
+Direct quotes from the report. Use these in outreach without paraphrasing — they're exactly what the inspector wrote.
 
-> What does the provider need to do to improve further?
->  Implement fully the organisation's own procedures on promoting safeguarding.
->  Managers should ensure suitable pre-employment checks are completed for all existing and new
-> staff, including, where necessary, obtaining disclosure and barring checks and taking up
-> references.
->  Ensure the designated safeguarding officers have the appropriate expertise and receive suitable
-> training to enable them to carry out their role effectively.
->  Increase the proportion of timely framework completion for apprentices by reducing those
-> factors that slow the progress of learners.
->  Improve the confidence and skills of assessors to promote the development of numeracy to
-> apprentices.
->  Assessors should exploit the full benefits of good employer training, and ensure learners reflect
-> on and record their growing knowledge and skills from this training as part of their
-> apprenticeship assessment.
->  Develop greater consistency of assessment practice and skills of assessors across all regions as
-> the business grows.
+### What this provider needs to improve
+
+> What does the provider need to do to improve?
 >
-> Inspection judgements
-> Outcomes for learners
-> Good
->  T2 Business Solutions delivers around 7,500 apprenticeships nationally, over 90% of which are
-> in health and social care, with a small minority in children and young people's workforce
-> development, business administration and customer service. The majority of learners are taking
-> intermediate apprenticeships, with a smaller proportion undertaking advanced-level
-> programmes, and a small minority on higher-level programmes. The majority of apprentices are
-> adults. The organisation has significantly more female learners than male learners. The
-> company also runs a centre in Bristol where it delivers employability, traineeships and study
-> programmes to around 170 learners in the current academic year.
->  Outcomes for learners are good. In the most recent academic year, the proportion of learners
-> who achieved their apprenticeships by the planned end date increa…
+>  Increase the proportion of apprentices and adults who stay and achieve their
+> qualifications.
+>  Ensure that apprentices and adults receive feedback identifying what and how
+> they need to improve, and develop their literacy skills.
+>  Ensure that apprentices and adults understand what they have been taught
+> about the risks of radicalisation and extremism, and know how to apply it in the
+> workplace and personal lives.
+
+### Safeguarding
+
+> Safeguarding
+>
+> The arrangements for safeguarding are effective.
+
+### What is it like to be a learner here / What does the provider do well
+
+> What is it like to be a learner with this provider?
+>
+> Apprentices and adults are punctual and have high rates of attendance at lessons.
+> They behave well and are respectful towards each other and staff. For example,
+> apprentices and adults keep their cameras on during online lessons and patiently
+> take turns speaking. Apprentices and adults enjoy their studies. Most are motivated
+> and study diligently. Apprentices and adults value the experience their personal
+> development managers (PDMs) have working in health and social care and how
+> PDMs share this knowledge to help them become resilient at work.
+>
+> Apprentices develop the knowledge, skills and behaviours they need for their next
+> steps. For example, apprentices and adults learn how to manage their emotions
+> when a client dies and how to communicate sensitively with the clients’ family
+> members.
+>
+> Many apprentices and adults value the opportunity to study additional short
+> courses to learn more about topics such as how to support families where there is
+> substance abuse and the safe administering of medication. Apprentices studying
+> the team leader at level 3 learn how environmental, social and economic factors
+> impact their clients. Apprentices studying leadership at levels 3 and 5 learn about
+> ethical practices, inspiring them to introduce fairtrade food and clothes recycling
+> schemes into their workplace. A minority of adults improve their basic digital skills
+> by taking part in additional classes that introduce them to the essential programs
+> they will use at work and when studying.
+>
+> PDMs support adults in maintaining their mental and physical health by organising
+> their work schedules to include physical exercise, such as walking, in their lunch
+> breaks. A few adults are not motivated and do not complete their coursework on
+> time. Consequently, they are not making the progress they are capable of.
+>
+> Although apprentices and adults are taught about the risks of extremism and
+> radicalisation, a minority of adults do not remember or know how to apply this
+> knowledge to their workplace and personal lives.
+>
+> Adults and apprentices feel safe. They are well informed about workplace whistleblowing, bullying and harassment policies. They know whom to speak to if they are
+> worried about their own safety and well-being or if they have concerns about the
+> clients they care for.
+>
+> What does the provider do…
 
 ## Compliance signals
 
@@ -96,23 +126,23 @@ _No high-trigger news matched in the last extraction pass._
 
 Quotes you can drop directly into outreach. Severity drives the score.
 
-- **os.extremism** (severity 4.0, what_school_needs_to_improve)
+- **emp.itp_skills_knowledge_gaps** (severity 4.5, young_peoples_provision)
+  >  Assessors have good experience of health and social care practice and of a wide range of care settings, and use their knowledge well to explain best practice. Assessors help apprentices make accurate choices of optional training, matching opportunities to career goals, skills gaps or interests. Assessors use professional discussions well to help apprentice
+
+- **os.extremism** (severity 4.0, what_provider_needs_to_improve)
+  >  Ensure that apprentices and adults receive feedback identifying what and how they need to improve, and develop their literacy skills.  Ensure that apprentices and adults understand what they have been taught about the risks of radicalisation and extremism, and know how to apply it in the workplace and personal lives. Inspection report: T2 Group (Trading a
+
+- **os.radicalisation** (severity 4.0, what_provider_needs_to_improve)
+  >  Ensure that apprentices and adults receive feedback identifying what and how they need to improve, and develop their literacy skills.  Ensure that apprentices and adults understand what they have been taught about the risks of radicalisation and extremism, and know how to apply it in the workplace and personal lives. Inspection report: T2 Group (Trading a
+
+- **os.extremism** (severity 3.0, apprenticeships)
   >  All learners explore British values comprehensively as part of their programme. Managers are currently preparing a detailed action plan to promote to learners the expectations of the Prevent Duty Guidance including extremism, child sexual exploitation and female genital mutilation.  The board sets clear aspirations that learners will complete their qualif
 
-- **os.prevent_duty** (severity 4.0, what_school_needs_to_improve)
+- **os.prevent_duty** (severity 3.0, apprenticeships)
   > Human resource managers do not complete all pre-employment checks in a timely manner.  All learners explore British values comprehensively as part of their programme. Managers are currently preparing a detailed action plan to promote to learners the expectations of the Prevent Duty Guidance including extremism, child sexual exploitation and female genital m
 
-- **emp.itp_off_the_job** (severity 4.0, what_school_needs_to_improve)
+- **emp.itp_off_the_job** (severity 3.0, apprenticeships)
   > For example, managers have recently introduced level 5 management qualifications in response to requests from care home Inspection report: T2 Business Solutions, 22−26 June 2015 7 of 12 managers, and also level 2 care support services qualifications to help address better the developmental needs of young people entering the care sector.  Managers work well 
-
-- **emp.work_experience** (severity 4.0, what_school_needs_to_improve)
-  > Employability training 16-19 study programmes 19+ learning programmes Traineeships Outstanding Teaching, learning and assessment in employability training are outstanding because:  a very high proportion of learners make exceptional progress in the development of personal, social and employability skills; their progression into work, apprenticeships or furt
-
-- **shared.diversity** (severity 2.0, what_school_needs_to_improve)
-  >  Managers place a strong emphasis on the promotion of equality and diversity, which was a weakness at the last inspection; this is now outstanding. Managers identify what strategies work best with learners and share these with all staff each month. Learners have access to a good range of learning materials on equality and diversity themes that staff use wel
-
-- **shared.diversity** (severity 2.0, what_school_needs_to_improve)
-  > Managers identify and support under-performing staff to improve, through a programme of individual coaching sessions. As a result, most staff are confident and carry out their work to a high standard.  Managers place a strong emphasis on the promotion of equality and diversity, which was a weakness at the last inspection; this is now outstanding. Managers i
 
 ---
 

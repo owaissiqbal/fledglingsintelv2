@@ -1,6 +1,6 @@
 # Pilot IMS Limited
 
-**🟠 HIGH** · score **75** · urgency 54 · pipeline 100
+**🟠 HIGH** · score **75** · urgency 55 · pipeline 100
 
 ## Identity
 
@@ -13,12 +13,12 @@
 
 ## Lead-with curriculum
 
-**Employability Skills** (sub-score 54)
+**Employability Skills** (sub-score 55)
 
 - Financial Literacy: 0
-- Employability Skills: 54
-- Confidence & Resilience: 53
-- Online Safety: 24
+- Employability Skills: 55
+- Confidence & Resilience: 55
+- Online Safety: 55
 
 ## Why this is on the list
 
@@ -47,71 +47,71 @@
 
 _+ 3 earlier inspections in the database._
 
-## Verbatim from the inspector
+## Verbatim from the latest inspection report
 
-Direct quotes from the latest published report. Use these in outreach without paraphrasing.
+Inspection of Pilot IMS Limited · 2023-12-18 · grade: **🔵 good**.
+[Full report](https://files.ofsted.gov.uk/v1/file/50235877)
 
-### What this school needs to improve
+Direct quotes from the report. Use these in outreach without paraphrasing — they're exactly what the inspector wrote.
 
-> What does the provider need to do to improve further?
->  Raise the success rates of apprentices within the planned duration of their programme by:
-> – Increasing the proportion of learners who stay on to complete their programme
-> – Facilitating the delivery and assessment of apprenticeship programmes by ensuring greater
-> correlation with the apprentices’ job roles
-> – Ensuring that individual learning plans clearly identify the components of the apprenticeship
-> framework with planned dates of achievement to enable managers to monitor more closely
-> learners’ timely achievement
-> – Placing greater emphasis on the delivery and testing of functional skills. Ensuring that
-> functional skills delivery and testing is planned early enough to ensure that framework
-> planned duration of programmes is achieved.
-> – Ensuring managers identify and remedy quickly any unplanned issues that are stopping
-> learners attending their off-the-job training and assessment sessions.
->  Place more focus on critical self-assessment and quality improvement planning so that further
-> improvements are secured quickly.
->  Ensure that the contexts used for training delivery are of appropriate complexity in higher-level
-> qualifications by reviewing the skills and experience of training and assessment staff, the
-> schemes of work and learning materials for their appropriateness.
->  Ensure safeguarding arrangements are reviewed in the light of the nature of Pilot’s changing,
-> provision particularly in respect of young learners and vulnerable adults. Make sure all staff,
-> particularly designated safeguarding officers, have up-to-date training.
->
->
-> Inspection judgements
-> Outcomes for learners
-> Requires improvement
->
->  Apprenticeship overall success rates and completion of apprenticeships within the planned
-> duration of the programme have declined since the last inspection and have only marginally
-> improved in 2012/13. Overall rates across all of the apprenticeship provision are below national
-> rates and are …
+### What this provider needs to improve
 
-### Areas for improvement
+> What does the provider need to do to improve?
+>
+>  Strengthen the quality improvement process to facilitate rapid improvement.
+>  Ensure that English and mathematics skills are identified and developed
+> throughout all apprenticeships.
+>  Ensure that staff receive continuous professional development to further develop
+> their teaching skills.
 
-> areas for improvement. The links
-> between self-assessment and quality improvement planning are insufficiently clear or precise to
-> improve the provision effectively. Inspectors considered the grades in the report were overly
-> generous. Although Pilot’s managers regularly review learners’ feedback, this and other
-> stakeholder views inform self-assessment insufficiently.
->  Staff review self-assessment at key staff meetings, but outcomes of these reviews do not
-> effectively inform the quality improvement plan. Managers' skills in using appropriately detailed
+### Safeguarding
+
+> Safeguarding
 >
-> Inspection report: Pilot IMS Limited, 16 – 19 June 2014 8 of 13
+> The arrangements for safeguarding are effective.
+
+### What is it like to be a learner here / What does the provider do well
+
+> What is it like to be a learner with this provider?
 >
-> and time-bound targets and actions for improvement require improvement. Staff turnover has
-> too often slowed progress in improving the quality of provision.
->  Pilot has good arrangements for promoting equality and diversity. Staff work well with Jobcentre
-> Plus. This collaboration supports disadvantaged learners to develop good employability and
-> vocational skills that improve their prospects for employment. The flexible training arrangements
-> that Pilot offers provide employees with learning opportunities regardless of their production line
-> shift-work patterns. Enrolment staff provide good support for those learners who do not meet
-> the entry requirements to attend a course at Pilot so that they may gain access to relevant
-> training offered by other providers.
->  Staff treat learners fairly and the majority of learners comment that their understanding of
-> equality and diversity has improved while on programme. Pilot works effectively to close
-> achievement gaps where these occur. Teachers have received insufficient guidance and support
-> to help them build their confidence to promote effectively equality and support diversity in
-> learning activities and progress reviews.
->  Pilot meets its statutory requirements for safeguarding learners. However, the arrangements for
+> Apprentices and learners are highly motivated throughout their studies. Adult
+> learners are excited by the opportunity to move rapidly into reliable and flexible
+> work. Apprentices are motivated by the high aspirations set by their trainers and
+> employers. The large majority of apprentices successfully complete their
+> apprenticeship and achieve the highest grades at end-point assessment.
+>
+> Leaders ensure that learners and apprentices benefit from a positive and respectful
+> culture while studying. Learners feel they are cared for and are provided with the
+> support they need to succeed. Staff provide support to signpost learners to
+> assistance with homelessness, as well as financial and mental health support. They
+> help learners manage their personal challenges confidently.
+>
+> Level 3 team leader apprentices rapidly develop the knowledge, skills and
+> behaviours they need to make progress in their careers. Trainers work closely with
+> employers to ensure that apprentices have opportunities in the workplace to practise
+> their skills. For example, trainers attend meetings chaired by apprentices to give
+> rapid feedback and help them to improve their practice. As a result, a significant
+> number of apprentices are promoted to leadership roles during or after the
+> completion of their apprenticeship.
+>
+> Adult security learners gain confidence and self-esteem during their studies. They
+> develop their resilience by practising the skills needed for the workplace alongside
+> prospective employers. They practise dealing with unattended bags and packages
+> and using scanning equipment through role plays. They show these skills confidently
+> to employers during assessment in the workplace. Almost all adult learners progress
+> into employment at the end of their studies.
+>
+> Learners and apprentices are respectful of each other and their trainers. Trainers
+> create a calm adult learning environment in which learners feel comfortable and
+> confident. Learners share experiences in class and speak out if they have concerns.
+> As a result, learners and apprentices feel safe and are confident that if they
+> experienced problems they would be swiftly supported and resolved.
+>
+> What does the provider do well and what does it need to do
+> better?
+>
+> Leaders have a clear and ambitious vision: to offer education programmes that allow
+> learne…
 
 ## Compliance signals
 
@@ -125,23 +125,23 @@ _No high-trigger news matched in the last extraction pass._
 
 Quotes you can drop directly into outreach. Severity drives the score.
 
-- **emp.itp_initial_assessment** (severity 6.0, what_school_needs_to_improve)
+- **emp.itp_initial_assessment** (severity 6.0, what_provider_needs_to_improve)
   >  The initial assessment of learners’ vocational skills and personal circumstances is effective. Assessors ensure learners work towards optional units of their award that closely match their job roles. However, initial assessment is not sufficiently robust overall. Learners do not complete an accurate diagnostic of their English, mathematics, and ICT abiliti
 
-- **emp.itp_off_the_job** (severity 4.0, what_school_needs_to_improve)
+- **emp.itp_off_the_job** (severity 4.0, what_provider_needs_to_improve)
   > Ensuring that functional skills delivery and testing is planned early enough to ensure that framework planned duration of programmes is achieved. – Ensuring managers identify and remedy quickly any unplanned issues that are stopping learners attending their off-the-job training and assessment sessions.  Place more focus on critical self-assessment and quali
 
-- **emp.destinations_data** (severity 4.0, what_school_needs_to_improve)
+- **emp.destinations_data** (severity 4.0, what_provider_needs_to_improve)
   > Progression to employment and further learning for learners from the skills academies is excellent in logistics and good in manufacturing technology programmes. However, the provider is experiencing difficulties gathering destination data for the manufacturing learners and is not currently succeeding in measuring their progression to employment and/or furthe
 
-- **emp.employer_engagement** (severity 4.0, what_school_needs_to_improve)
+- **cr.self_esteem** (severity 3.0, areas_for_improvement)
+  > The quality of assessment in health and safety is satisfactory. 14. Pilot’s health and safety programme is very effective in engaging new learners into learning. Health and safety learners have much improved self-esteem and confidence. Many learners are progressing to further education and training, including Pilot’s manufacturing technologies programme. Pil
+
+- **cr.mental_health** (severity 3.0, areas_for_improvement)
+  > KEY CHALLENGES FOR PILOT IMS LIMITED: continue to grow and adapt the business to meet learners’ and employers’ needs • improve target-setting and use of data to contribute to monitoring and improvement • efficiently measure the effect training has on productivity and in meeting the overall objectives of the programme • GRADES grade 1 = outstanding, grade 2 =
+
+- **emp.employer_engagement** (severity 3.0, apprenticeships)
   > Overall learners understand their progress in qualifications, achievement and plans for assessment. Some employers are not sufficiently involved with reviews. Plans to implement an electronic portfolio system to improve employer engagement have been delayed.  The provision meets the needs of learners well in both pre-employment training and within employmen
-
-- **emp.employer_engagement** (severity 4.0, what_school_needs_to_improve)
-  > No significant performance differences exist between different groups of learners.  Pilot has developed productive employer partnerships. One partnership is an outstanding model of best practice in employer engagement; learning links strongly to the employers’ training strategy, there is regular review of training and the training portfolio has expanded in 
-
-- **shared.diversity** (severity 2.0, what_school_needs_to_improve)
-  >  Communication with employer line managers and senior managers is improving; employers are keen to assist where issues arise, such as poor attendance or issues over time management.  Staff routinely reinforce equality, diversity, safeguarding, and health and safety with learners through the progress review. The content of theory reflects these topics well 
 
 ---
 

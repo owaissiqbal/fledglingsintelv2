@@ -14,7 +14,7 @@
 **Confidence & Resilience** (sub-score 55)
 
 - Financial Literacy: 0
-- Employability Skills: 23
+- Employability Skills: 26
 - Confidence & Resilience: 55
 - Online Safety: 55
 
@@ -41,40 +41,54 @@
 
 _+ 4 earlier inspections in the database._
 
-## Verbatim from the inspector
+## Verbatim from the latest inspection report
 
-Direct quotes from the latest published report. Use these in outreach without paraphrasing.
+Inspection of Adult College for Rural East Sussex (ACRES) · 2023-11-03 · grade: **🔵 good**.
+[Full report](https://files.ofsted.gov.uk/v1/file/50231926)
 
-### What this school needs to improve
+Direct quotes from the report. Use these in outreach without paraphrasing — they're exactly what the inspector wrote.
 
-> What does the provider need to do to improve further?
->  Strengthen learners’ personal and course learning aims to provide managers with more robust
-> achievement and success rate data for non-accredited provision.
->  Share best practice more effectively and enhance the mentoring and peer observation schemes
-> further to broaden the range of teaching, learning and assessment strategies that tutors use,
-> including through information and learning technologies (ILT) and more imaginative recording of
-> learners’ progress.
->  Train tutors to promote diversity more effectively within learning sessions.
->  Make better use of the results of learners’ initial assessment to plan learning, improve the
-> quality of individual learning plans and targets, and assess learners’ progress more meaningfully
-> through regular reviews.
->  Work with partners, the local authority and community representatives to identify the needs of
-> the Wealden community and its employers to develop a more diverse course offer, increase
-> enrolment figures and reduce course cancellations.
+### What this provider needs to improve
+
+> What does the provider need to do to improve?
 >
-> Inspection judgements
-> Outcomes for learners
-> Requires improvement
->  Success rates by learners on non-accredited courses, which account for the majority, are
-> consistently high, particularly in information and communication technology (ICT) and general
-> interest courses. However, these rates are not sufficiently reliable because many learners have
-> insufficiently challenging or suitable course learning aims to judge their achievement.
->  Learners’ success rates on accredited courses, which account for the small minority of learners,
-> are relatively static and require improvement overall. Learners taking long duration courses
-> achieve well and above national rates, particularly in English and mathematics. Learners’ success
-> rates on short duration accredited courses are low and declined in 2011/12 because of the poor
-> achievement on book-keeping courses.
->  The small number of Asian learners consistently achieve very wel…
+>  Continue to develop the curriculum so that it fully meets the emerging skills and
+> knowledge needs of the local and regional community.
+>  Ensure all learners have access to sufficient information, advice and guidance to
+> understand the progression routes available to them from their current course of
+> study.
+>  Ensure those responsible for governance support and challenge leaders to
+> continue to improve the quality of the provision and ensure that ACRES continues
+> to fulfil its statutory obligations.
+
+### Safeguarding
+
+> Safeguarding
+>
+> The arrangements for safeguarding are effective.
+
+### What is it like to be a learner here / What does the provider do well
+
+> What is it like to be a learner with this provider?
+>
+> Learners appreciate the supportive, welcoming and inclusive learning environments
+> leaders and tutors create. Many learners gain great pleasure from their learning and
+> rightly recognise the wider social and personal benefits they accrue. For example,
+> learners in a residential home enjoy learning about painting watercolours alongside
+> residents from the nearby village, leading to an enhanced sense of community.
+>
+> Learners appreciate being able to access learning near to where they live. Leaders
+> work closely with consortium members and partner organisations to locate learning
+> activities close to areas of need. This makes it easier for learners who face barriers
+> to learning to develop new skills and knowledge and form valuable social networks.
+>
+> Nearly all learners achieve their learning goals. Most learners on accredited
+> programmes pass their qualifications. The skills and knowledge they acquire help
+> them progress successfully, both personally and in the workplace. For instance,
+> learners studying GCSE mathematics move on to train as teachers.
+>
+> Many learners grow in confidence because of their learning. They justifiably acquire
+> a new sense of self-belief because of their accomplishments. For instance, learners
 
 ## Compliance signals
 
@@ -88,23 +102,23 @@ _No high-trigger news matched in the last extraction pass._
 
 Quotes you can drop directly into outreach. Severity drives the score.
 
-- **emp.itp_assessment_weak** (severity 4.0, what_school_needs_to_improve)
+- **emp.itp_assessment_weak** (severity 4.0, what_provider_needs_to_improve)
   >  Learners attend learning sessions in buildings that generally have good quality and easily accessible accommodation. In a minority of sessions, their experience and learning are adversely affected by cold rooms or poor internet access.  Tutors do not use the results of learners’ initial assessment effectively to plan learning or set appropriate course or 
 
-- **shared.diversity** (severity 2.0, what_school_needs_to_improve)
+- **emp.itp_initial_assessment** (severity 3.0, leadership_management)
+  > Much of the teaching in independent living and leisure skills is inadequate. Much teaching is dull and uninspiring. Learners are given mundane tasks to complete. Teaching is often pitched at a level below the competence of the learners. 21. Initial assessment is not routinely or effectively carried out. In sport, leisure and recreation this weakness extended
+
+- **cr.attendance_poor** (severity 3.0, leadership_management)
+  > Achievement rates in accredited provision in languages and in preparation for life and work are generally satisfactory. Achievement on non-accredited provision is generally not rigorously identified or monitored. 12. Attendance is poor in literacy and numeracy classes. For example, two classes in literacy had attendance levels of 37 per cent and 57 per cent.
+
+- **cr.self_esteem** (severity 2.0, leadership_management)
+  > 00 Page 4 of 32 4© 2006 ADULT LEARNING INSPECTORATE ADULT COLLEGE FOR RURAL EAST SUSSEX 10. Pass rates in numeracy tests are high, although the number of learners who have taken tests is low. Learners in literacy and numeracy gain increased confidence and self-esteem. They particularly enjoy work that relates to real-life situations, confidently using metric
+
+- **shared.diversity** (severity 2.0, what_provider_needs_to_improve)
   > They routinely monitor tutors’ approach to equality and diversity during lesson observations which has helped identify some tutors’ good practice and challenge others’ stereotypical views. Tutors have not received formal training in equality and diversity for several years and their promotion of these aspects in learning sessions is insufficient. Inspection 
 
-- **shared.diversity** (severity 2.0, what_school_needs_to_improve)
+- **shared.diversity** (severity 2.0, what_provider_needs_to_improve)
   >  The equality and diversity group devised extensive resources for tutors to help them promote the topic, such as ‘how to’ guides, a checklist to self-assess their promotion in teaching and learning sessions and more detailed induction materials. They routinely monitor tutors’ approach to equality and diversity during lesson observations which has helped ide
-
-- **shared.diversity** (severity 2.0, what_school_needs_to_improve)
-  > However, their actions to improve retention and achievement by learners on short accredited courses and those declaring a disability or learning difficulty are less successful in raising success rates.  The equality and diversity group devised extensive resources for tutors to help them promote the topic, such as ‘how to’ guides, a checklist to self-assess 
-
-- **shared.diversity** (severity 2.0, what_school_needs_to_improve)
-  > Inspection report: Adult College for Rural East Sussex, 5–8 February 2013 4 of 9  Tutors’ promotion of equality and diversity within learning sessions and activities requires improvement. Tutors often plan equality and diversity, particularly in responding to individual learners’ needs, within lesson plans but do not provide learners with sufficient opportu
-
-- **shared.diversity** (severity 2.0, what_school_needs_to_improve)
-  > Once on their course, they receive more variable advice and guidance about progression opportunities and routes, which some learners are unclear about. Inspection report: Adult College for Rural East Sussex, 5–8 February 2013 4 of 9  Tutors’ promotion of equality and diversity within learning sessions and activities requires improvement. Tutors often plan e
 
 ---
 

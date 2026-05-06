@@ -1,6 +1,6 @@
 # Seetec Business Technology Centre Limited
 
-**🟠 HIGH** · score **95** · urgency 55 · pipeline 100
+**🔴 CRITICAL** · score **95** · urgency 70 · pipeline 100
 
 ## Identity
 
@@ -13,11 +13,11 @@
 
 ## Lead-with curriculum
 
-**Financial Literacy** (sub-score 55)
+**Employability Skills** (sub-score 70)
 
 - Financial Literacy: 55
-- Employability Skills: 55
-- Confidence & Resilience: 55
+- Employability Skills: 70
+- Confidence & Resilience: 65
 - Online Safety: 55
 
 ## Why this is on the list
@@ -49,11 +49,32 @@
 
 _+ 5 earlier inspections in the database._
 
-## Verbatim from the inspector
+## Verbatim from the latest inspection report
 
-Direct quotes from the latest published report. Use these in outreach without paraphrasing.
+Inspection of Seetec Business Technology Centre Limited · 2024-08-22 · grade: **🟠 requires improvement**.
+[Full report](https://files.ofsted.gov.uk/v1/file/50255414)
 
-### Main findings
+Direct quotes from the report. Use these in outreach without paraphrasing — they're exactly what the inspector wrote.
+
+### What this provider needs to improve
+
+> What does the provider need to do to improve?
+>
+>  Provide reports to committee members with sufficient detail about the quality of
+> education enabling the committee to provide suitable scrutiny and challenge to
+> senior leaders to improve the quality of education and training rapidly.
+>  Rapidly strengthen leaders’ oversight of subcontracting arrangements.
+>  Swiftly create and implement an English and mathematics education strategy for
+> the planned development and improvement of learners’ and apprentices’ English
+> and mathematical skills.
+
+### Safeguarding
+
+> Safeguarding
+>
+> The arrangements for safeguarding are effective.
+
+### What is it like to be a learner here / What does the provider do well
 
 > What is it like to be a learner with this provider?
 >
@@ -90,95 +111,11 @@ Direct quotes from the latest published report. Use these in outreach without pa
 >
 > Leaders and managers have a sound rationale to meet the skills requirements of the
 > employers they serve. However, since the previous inspection, the quality of
-> education ha…
-
-### What this school needs to improve
-
-> What does the provider need to do to improve?
->
->  Provide reports to committee members with sufficient detail about the quality of
-> education enabling the committee to provide suitable scrutiny and challenge to
-> senior leaders to improve the quality of education and training rapidly.
->  Rapidly strengthen leaders’ oversight of subcontracting arrangements.
->  Swiftly create and implement an English and mathematics education strategy for
-> the planned development and improvement of learners’ and apprentices’ English
-> and mathematical skills.
->
->
->
->
->
->
-> Inspection report: Seetec Business Technology Centre Limited
-> 16 to 19 July 2024
-> 5
->
->
->  Ensure that tutors systematically plan and coordinate the on- and off-the-job
-> training for apprentices.
->  Ensure that learners and apprentices receive high-quality education and training
-> motivating them to routinely attend their training.
->  Ensure that tutors provide unbiased careers information, advice and guidance to
-> learners and apprentices so that they know the full range of opportunities
-> available to them for their next steps.
->
->
->
->
->
->
->
->
-> Inspection report: Seetec Business Technology Centre Limited
-> 16 to 19 July 2024
-> 6
->
->
->
-> Provider details
->
-> Unique reference number 50193
->
-> Address Head Office
-> 75-77 Main Road
-> Hockley
-> Essex
-> SS5 4RG
->
-> Contact number 08453306573
->
-> Website www.seetec.co.uk
->
-> Principal, CEO or equivalent John Baumback
->
-> Provider type Independent learning provider
->
-> Date of previous inspection 26 July 2017
->
-> Main subcontractors Automotive Transport Training Limited
-> British International Freight Association
-> Chartered Institute of Credit Management
-> Transport Training Academy Limited
-> Wallace School of Transport Limited
-> Xyrius Training Limited
->
->
->
->
->
->
->
-> Inspection report: Seetec Business Technology Centre Limited
-> 16 to 19 July 2024
-> 7
->
->
->
->
-> Information about this inspection
->
-> The inspection team was assisted by the head of quality, as nominee. Inspectors
-> took account of the…
+> education has declined. This is due to a considerable period of disruption within the
+> business when many managers and tutors left. A new senior leadership team has
+> recently been formed. New leaders have identified the reasons behind the decline in
+> the quality of education. Their actions are starting to have a positive effect. For
+> instance, staff turnover has stabilised. The proportion of learners and appr…
 
 ## Compliance signals
 
@@ -192,23 +129,23 @@ _No high-trigger news matched in the last extraction pass._
 
 Quotes you can drop directly into outreach. Severity drives the score.
 
-- **emp.itp_off_the_job** (severity 4.0, what_school_needs_to_improve)
+- **emp.itp_off_the_job** (severity 4.0, what_provider_needs_to_improve)
+  > This feedback, including the correction of errors, helps learners understand what they need to do to improve and how to improve their spelling, punctuation and grammar. The e-portfolio system is used very effectively on ICT apprenticeship programmes, but requires improvement in retail.  Off-the-job training in ICT and retail is good, but requires improvemen
+
+- **emp.cv_interview_skills** (severity 4.0, what_provider_needs_to_improve)
+  > Learners on employability programmes enjoy the teaching and learning sessions and are motivated and supported well by Seetec staff. Good teaching and learning provides meaningful and relevant opportunities for learners to develop communication skills and practise interview techniques for real job opportunities. Learners value highly the programmes and the op
+
+- **emp.transition_to_work** (severity 4.0, what_provider_needs_to_improve)
+  >  Very good information, advice and guidance arrangements help employability learners to consider their future options. Excellent links with local employers in the various regions enable Seetec to support learners’ transition into employment or their progress towards employment. Inspection report: Seetec Business Technology Centre Limited, 3–7 February 2014 
+
+- **emp.itp_off_the_job** (severity 4.0, what_provider_needs_to_improve)
   >  Swiftly create and implement an English and mathematics education strategy for the planned development and improvement of learners’ and apprentices’ English and mathematical skills. Inspection report: Seetec Business Technology Centre Limited 16 to 19 July 2024 5  Ensure that tutors systematically plan and coordinate the on- and off-the-job training for a
 
-- **cr.personal_development_strengthen** (severity 3.0, personal_development)
-  > Personal development Requires improvement Leadership and management Requires improvement Adult learning programmes Requires improvement Apprenticeships Requires improvement Overall effectiveness at previous inspection Good
+- **emp.itp_apprentices_progress_slow** (severity 3.0, safeguarding)
+  > Almost all trainees complete their programme and the large majority progress into employment, apprenticeships or further training. Managers recently adopted a rigorous approach to ensuring that a high proportion of apprentices with an underperforming subcontractor completed their programmes. However, a few apprentices make slow progress from their starting p
 
-- **cr.behaviour_attitudes_concern** (severity 3.0, behaviour_attitudes)
-  > Behaviour and attitudes Requires improvement
-
-- **emp.careers_information** (severity 2.0, what_school_needs_to_improve)
-  > Inspection report: Seetec Business Technology Centre Limited 16 to 19 July 2024 5  Ensure that tutors systematically plan and coordinate the on- and off-the-job training for apprentices.  Ensure that learners and apprentices receive high-quality education and training motivating them to routinely attend their training.  Ensure that tutors provide unbiased
-
-- **os.online_grooming** (severity 2.0, main_findings)
-  > While many apprentices plan to gain promotion at work, they do not know the range of opportunities available to them outside their employer’s business. Learners and apprentices feel safe and know who to report any safeguarding concerns they may have about themselves or others. Apprentices know about online grooming, the importance of not clicking on unknown 
-
-- **fin_lit.budgeting** (severity 2.0, main_findings)
-  > Leaders and tutors ensure that the curriculum is ordered in a way that enables most learners and apprentices to build new knowledge, skills and behaviours over time. Apprentices studying the level 4 APM standard first learn about the lifecycle of a project. Next, they learn about procuring and budgeting for a project. Finally, they learn more complex project
+- **emp.itp_assessment_weak** (severity 2.0, leadership_management)
+  > Learners can contact their assessor at any time. Retail and commercial enterprise and estate agency learners receive very good support from employers. 17. The provision for additional learning support is satisfactory. Initial and diagnostic assessment is effective. However, some business administration and customer service learners do not receive sufficient 
 
 ---
 

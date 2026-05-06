@@ -1,6 +1,6 @@
 # The Care Learning Centre (Isle of Wight) Limited
 
-**🟠 HIGH** · score **95** · urgency 55 · pipeline 100
+**🟠 HIGH** · score **95** · urgency 65 · pipeline 100
 
 ## Identity
 
@@ -13,12 +13,12 @@
 
 ## Lead-with curriculum
 
-**Financial Literacy** (sub-score 55)
+**Confidence & Resilience** (sub-score 65)
 
 - Financial Literacy: 55
 - Employability Skills: 55
-- Confidence & Resilience: 55
-- Online Safety: 55
+- Confidence & Resilience: 65
+- Online Safety: 63
 
 ## Why this is on the list
 
@@ -48,11 +48,42 @@
 
 _+ 3 earlier inspections in the database._
 
-## Verbatim from the inspector
+## Verbatim from the latest inspection report
 
-Direct quotes from the latest published report. Use these in outreach without paraphrasing.
+Inspection of The Care Learning Centre (Isle of Wight) Limited · 2023-05-26 · grade: **🟠 requires improvement**.
+[Full report](https://files.ofsted.gov.uk/v1/file/50218269)
 
-### Main findings
+Direct quotes from the report. Use these in outreach without paraphrasing — they're exactly what the inspector wrote.
+
+### What this provider needs to improve
+
+> What does the provider need to do to improve?
+>
+>  Leaders and managers need to plan the curriculum to provide adequate time for
+> trainers to teach all the knowledge, skills and behaviours required.
+>  Leaders and managers need to ensure employers understand the progress their
+> apprentices are making to be able to effectively support their training.
+>  Managers and trainers need to ensure that apprentices with learning difficulties or
+> disabilities develop new and substantial knowledge, skills and behaviours quickly
+> and securely.
+>  Leaders and managers need to provide an age-appropriate personal development
+> programme that fully supports apprentices’ individual needs and provides them
+> opportunities to fully explore possibilities open to them.
+>  Leaders and managers need to ensure that all apprentices are supported to
+> continually improve their English and mathematics abilities.
+
+### Safeguarding
+
+> Safeguarding
+>
+> Safeguarding is effective.
+>
+> Leaders and managers rightly place an emphasis on safeguarding apprentices, and
+> all staff follow appropriate safeguarding policies and procedures. The suitably
+> qualified and experienced designated safeguarding lead and deputies understand
+> their responsibilities well. Leaders have developed positive relationships with
+
+### What is it like to be a learner here / What does the provider do well
 
 > What is it like to be a learner with this provider?
 >
@@ -86,81 +117,13 @@ Direct quotes from the latest published report. Use these in outreach without pa
 > developed a curriculum which provides valuable training for new and existing staff in
 > a sector which has faced significant challenges since the COVID-19 pandemic. As a
 > result, many apprentices are promoted to more senior positions while undertaking or
-> on completion of their apprenticeship. …
-
-### What this school needs to improve
-
-> What does the provider need to do to improve?
+> on completion of their apprenticeship.
 >
->  Leaders and managers need to plan the curriculum to provide adequate time for
-> trainers to teach all the knowledge, skills and behaviours required.
->  Leaders and managers need to ensure employers understand the progress their
-> apprentices are making to be able to effectively support their training.
->  Managers and trainers need to ensure that apprentices with learning difficulties or
-> disabilities develop new and substantial knowledge, skills and behaviours quickly
-> and securely.
->  Leaders and managers need to provide an age-appropriate personal development
-> programme that fully supports apprentices’ individual needs and provides them
-> opportunities to fully explore possibilities open to them.
->  Leaders and managers need to ensure that all apprentices are supported to
-> continually improve their English and mathematics abilities.
->
->
->
->
->
->
->
-> Inspection report: The Care Learning Centre (Isle of Wight) Limited
-> 28 to 31 March 2023
-> 5
->
->
->
-> Provider details
->
-> Unique reference number 51002
->
-> Address Suite 8, The Courtyard
-> Monks Brook
-> St Cross Business Park
-> Newport
-> Isle of Wight
-> PO30 5BF
->
-> Contact number 01983 533993
->
-> Website www.clcentre.co.uk
->
-> Principal, CEO or equivalent Claire Turner
->
-> Provider type Independent learning provider
->
-> Dates of previous inspection 24 to 27 May 2016
->
->
->
->
->
->
->
->
->
-> Inspection report: The Care Learning Centre (Isle of Wight) Limited
-> 28 to 31 March 2023
-> 6
->
->
->
->
-> Information about this inspection
->
-> The inspection team was assisted by the teaching and learning director, as nominee.
-> Inspectors took account of the provider’s most recent self-assessment report and
-> development plans, and the previous inspection report. The inspection was carried
-> out using the further education and skills inspection handbook and took into account
-> all relevant provision at the provider. Inspectors collected a wide range of evidence
-> to inform judgements, including visiting learning…
+> Leaders and managers ensure that the offer is available to all those who wish to
+> study the apprenticeships. However, leaders have not ensured that all apprentices
+> with additional needs and barriers to learning benefit from sufficient specialist
+> teaching strategies to overcome their difficulty in learning. As a result, not all
+> apprentices’ needs are met in order to be able to make expected p…
 
 ## Compliance signals
 
@@ -174,23 +137,23 @@ _No high-trigger news matched in the last extraction pass._
 
 Quotes you can drop directly into outreach. Severity drives the score.
 
-- **cr.personal_development_strengthen** (severity 3.0, personal_development)
-  > Personal development Requires improvement Leadership and management Requires improvement Apprenticeships Requires improvement Overall effectiveness at previous inspection Good
+- **os.extremism** (severity 4.0, what_provider_needs_to_improve)
+  > However, the approaches taken by training advisers to support this improvement are not yet sufficiently effective to help enough learners to pass their functional skills examinations at the first attempt.  Learners have a good understanding of the importance of equality of opportunity and of valuing diversity. They also have a basic awareness of British val
 
-- **cr.personal_development** (severity 2.0, what_school_needs_to_improve)
-  >  Managers and trainers need to ensure that apprentices with learning difficulties or disabilities develop new and substantial knowledge, skills and behaviours quickly and securely.  Leaders and managers need to provide an age-appropriate personal development programme that fully supports apprentices’ individual needs and provides them opportunities to full
+- **os.extremism** (severity 4.0, what_provider_needs_to_improve)
+  > Staff receive extensive training and development in all aspects of safeguarding and the ‘Prevent’ duty. Despite making good progress with the ‘Prevent’ duty action plan, it is too early to see the full impact of this on learners’ appreciation of the dangers and risks of extremism and radicalisation. Quality of teaching, learning and assessment is good  Trai
 
-- **shared.wider_personal_development** (severity 2.0, main_findings)
-  > Trainers rightly focus on apprentices’ welfare, positive values and how to keep themselves safe in modern Britain. However, leaders have not fully structured a curriculum that focuses on apprentices’ wider personal development, such as healthy lifestyles and routine careers advice, to ensure that apprentices who need greater support, such as younger apprenti
+- **os.radicalisation** (severity 4.0, what_provider_needs_to_improve)
+  > However, the approaches taken by training advisers to support this improvement are not yet sufficiently effective to help enough learners to pass their functional skills examinations at the first attempt.  Learners have a good understanding of the importance of equality of opportunity and of valuing diversity. They also have a basic awareness of British val
 
-- **emp.itp_off_the_job** (severity 2.0, main_findings)
-  > Leaders do not help employers to fully understand their roles and responsibilities within the apprenticeship programme. Trainers do not always communicate effectively with employers about apprentices’ learning and progress. Consequently, some employers do not provide apprentices with adequate time to complete off-thejob training or are fully aware of what ap
+- **os.radicalisation** (severity 4.0, what_provider_needs_to_improve)
+  > Staff receive extensive training and development in all aspects of safeguarding and the ‘Prevent’ duty. Despite making good progress with the ‘Prevent’ duty action plan, it is too early to see the full impact of this on learners’ appreciation of the dangers and risks of extremism and radicalisation. Quality of teaching, learning and assessment is good  Trai
 
-- **emp.careers_guidance** (severity 2.0, main_findings)
-  > Trainers rightly focus on apprentices’ welfare, positive values and how to keep themselves safe in modern Britain. However, leaders have not fully structured a curriculum that focuses on apprentices’ wider personal development, such as healthy lifestyles and routine careers advice, to ensure that apprentices who need greater support, such as younger apprenti
+- **emp.itp_assessment_weak** (severity 2.0, safeguarding)
+  > However, some learning sessions are too rushed, with insufficient time for learners to think through tasks and find their own solutions. Inspection Report:The Care Learning Centre, 29 January 201011 of 15 Assessment is effective, well planned and an integral part of the learning sessions. Learners produce a portfolio of appropriate evidence under the direct
 
-- **cr.personal_development** (severity 1.0, main_findings)
-  > Trainers rightly focus on apprentices’ welfare, positive values and how to keep themselves safe in modern Britain. However, leaders have not fully structured a curriculum that focuses on apprentices’ wider personal development, such as healthy lifestyles and routine careers advice, to ensure that apprentices who need greater support, such as younger apprenti
+- **emp.itp_assessment_weak** (severity 2.0, safeguarding)
+  > Learners receive satisfactory and frequent individual coaching sessions. They develop skills well and use these confidently at work. Some learning activities are too rushed and learners do not have sufficient time to think through their own answers. Assessment is effective and well planned. Learners receive satisfactory care, guidance and support from traini
 
 ---
 

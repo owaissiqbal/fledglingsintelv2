@@ -13,10 +13,10 @@
 
 ## Lead-with curriculum
 
-**Employability Skills** (sub-score 55)
+**Confidence & Resilience** (sub-score 55)
 
 - Financial Literacy: 16
-- Employability Skills: 55
+- Employability Skills: 48
 - Confidence & Resilience: 55
 - Online Safety: 55
 
@@ -44,40 +44,81 @@
 
 - [Report](https://files.ofsted.gov.uk/v1/file/2428485)
 
-## Verbatim from the inspector
+## Verbatim from the latest inspection report
 
-Direct quotes from the latest published report. Use these in outreach without paraphrasing.
+Inspection of The Learning Partnership for Cornwall and The Isles of Scilly Limited · 2022-08-17 · grade: **🔵 good**.
+[Full report](https://files.ofsted.gov.uk/v1/file/50190957)
 
-### What this school needs to improve
+Direct quotes from the report. Use these in outreach without paraphrasing — they're exactly what the inspector wrote.
 
-> What does the provider need to do to improve further?
->  Ensure that managers implement fully robust and consistent quality assurance systems
-> throughout the partner organisations, to identify when learners are at risk of falling behind. Put
-> in place action plans to enable learners to achieve their qualifications on time.
->  Ensure that all staff have access to, and make use of the results from assessments of learners
-> starting points to enable them to plan learning and assessment sessions that meet the needs of
-> every learner.
->  Develop teaching, learning and assessment strategies for English and mathematics across the
-> provision. Make sure that monitoring takes place so that all partners comply with the agreed
-> strategy. Ensure that all learners develop English and mathematical skills alongside their other
-> subjects, regardless of their starting point.
->  Ensure that all staff promote equality, diversity and safeguarding to enable learners to take an
-> active role in the local community. Evaluate how equality and diversity are integrated into
-> learning sessions and monitor how effective this is when completing observations of learning
-> sessions.
+### What this provider needs to improve
+
+> What does the provider need to do to improve?
 >
-> Inspection judgements
-> Outcomes for learners
-> Requires improvement
->  The Learning Partnership for Cornwall and the Isles of Scilly Ltd (LPCo) provides training for a
-> wide range of learners from diverse backgrounds. Approximately two thirds of the provision is
-> classroom based learning, mainly in preparation for work and life. Business administration,
-> English and employability programmes represent a significant majority of the courses offered.
-> Apprenticeships, at intermediate and advanced level, make up another third. The number of
-> learners on workplace learning programmes is small.
->  The proportion of learners completing classroom based activities in 2012/13 is good. However
-> in 2013/14 it has declined and now requires improvement. LPCo has not identified the reason
-> for this decrease and managers have not put ap…
+>  Leaders and managers should ensure that apprentices who need to improve their
+> mathematical skills and achieve a level 2 mathematics qualification receive the
+> training they need.
+>  Leaders and managers should ensure that the teaching apprentices receive
+> enables them to remember what they have learned about fundamental British
+> values.
+>  Governors should ensure they provide suitable support and challenge to leaders
+> on the quality of education.
+
+### Safeguarding
+
+> Safeguarding
+>
+> The arrangements for safeguarding are effective.
+>
+> Learners feel safe and know who to contact if they have a concern.
+>
+> Leaders have implemented appropriate policies and procedures that staff use
+> effectively in order to safeguard learners. All staff are trained in safeguarding and
+> the ‘Prevent’ duty, and use this knowledge to inform their training of apprentices
+> effectively. The designated safeguarding lead is experienced and has received
+> appropriate training to carry out the role. Leaders complete appropriate checks
+> when appointing new staff, to ensure their suitability to work with apprentices.
+
+### What is it like to be a learner here / What does the provider do well
+
+> What is it like to be a learner with this provider?
+>
+> Apprentices have a very positive attitude to their work and to their apprenticeships.
+> LPCo staff and employers are effective in creating a productive learning environment
+> within which apprentices develop their confidence, resilience and fulfil their
+> potential. Assessors set high standards for their apprentices and encourage them
+> effectively in order to work at a high standard professionally and academically.
+>
+> Apprentices swiftly gain new skills, knowledge and behaviours that prepare them
+> well for their future careers. They benefit from a well-planned and effectively taught
+> curriculum that enables them to build on their previous understanding, and improve
+> their confidence. For example, adult care apprentices quickly become skilled at
+> working with clients, many of whom display very challenging behaviours. The
+> apprentices become more understanding, inclusive and respectful of different
+> people’s needs as a result of their work.
+>
+> Apprentices feel safe. They know how and to whom to report any concerns about
+> their own safety and welfare. Digital marketer apprentices have a good
+> understanding of how to stay mentally healthy in a digital environment. They apply
+> appropriate procedures which keep them safe when using the internet. Apprentices
+> find staff approachable and appreciate how they make time to help them with their
+> studies and their personal lives.
+>
+> What does the provider do well and what does it need to do
+> better?
+>
+> Leaders and managers have a clear ambition to provide high-quality training to meet
+> skills shortages in Cornwall and the Isles of Silly. They work closely with employers
+> and the local council when planning the curriculum. As a result, the apprenticeships
+> they offer meet the needs of employers well. Employers are complimentary about
+> the impact on their businesses of the curriculum that LPCo has established. For
+> example, employing apprentices studying the digital marketer curriculum equips
+> small businesses in Cornwall with their own in-house digital skills. This helps them
+> significantly to sustain and grow their enterprises.
+>
+> LPCo staff and employers work productively together to plan a curriculum which
+> rapidly enables apprentices to become effective at work. Adult care workers study
+> optional subjects early in their apprenticeship which are relevant to their clie…
 
 ## Compliance signals
 
@@ -91,23 +132,23 @@ _No high-trigger news matched in the last extraction pass._
 
 Quotes you can drop directly into outreach. Severity drives the score.
 
-- **emp.preparation_for_work** (severity 6.0, what_school_needs_to_improve)
-  >  Learners do not benefit from exploring wider equality and diversity themes, such as consideration of different cultures, religions or breaking stereotypes. Consequently, most learners’ knowledge, understanding and preparation for working in modern Britain are underdeveloped. Training staff make suitable arrangements to ensure all learners can participate, 
-
-- **emp.preparation_for_work** (severity 6.0, what_school_needs_to_improve)
+- **emp.preparation_for_work** (severity 6.0, what_provider_needs_to_improve)
   > Inspection judgements Outcomes for learners Requires improvement  The Learning Partnership for Cornwall and the Isles of Scilly Ltd (LPCo) provides training for a wide range of learners from diverse backgrounds. Approximately two thirds of the provision is classroom based learning, mainly in preparation for work and life. Business administration, English an
 
-- **os.cyber_bullying** (severity 4.0, what_school_needs_to_improve)
-  > This prepares them for employment and improves their self-confidence, communication and team-working skills appropriately. Learners’ progression into jobs is good.  Learners develop good computer skills, enabling them to search and apply for jobs using the internet. Most learners benefit from suitable guidance on cyber bullying and basic safeguarding.  In 
+- **emp.preparation_for_work** (severity 4.5, apprenticeships)
+  >  Learners do not benefit from exploring wider equality and diversity themes, such as consideration of different cultures, religions or breaking stereotypes. Consequently, most learners’ knowledge, understanding and preparation for working in modern Britain are underdeveloped. Training staff make suitable arrangements to ensure all learners can participate, 
 
-- **emp.itp_assessment_weak** (severity 4.0, what_school_needs_to_improve)
+- **emp.itp_assessment_weak** (severity 4.0, what_provider_needs_to_improve)
   > For example, one business administration learner took a short course on the use of drawing and planning software, which was relevant to her job and would help her to gain promotion in the future.  Most training staff carry out assessment effectively. Assessment of learners in the workplace with one partner is particularly effective, with a detailed descript
 
-- **emp.cv_interview_skills** (severity 4.0, what_school_needs_to_improve)
-  > Learners value the positive and professional working relationships with staff.  Training staff have high expectations of learners and motivate them well. As a result, learners make suitable progress, developing employability skills including writing curriculum vitae, interview techniques, job applications and letter writing. This prepares them for employmen
+- **os.extremism** (severity 4.0, what_provider_needs_to_improve)
+  >  Share across the partnership the good practice of some partners in setting specific and appropriate targets for learners, including in English and mathematics, and monitor learners’ progress towards achieving these targets through the existing systems of quality improvement.  Make sure that tutors and assessors put into practice with learners the training
 
-- **emp.careers_guidance** (severity 4.0, what_school_needs_to_improve)
-  > Inspection report: The Learning Partnership for Cornwall and the Isles of Scilly Ltd, 16 – 19 Sept 2014 7 of 13  Induction arrangements are effective in introducing learners to the structure and demands of their programmes. In the most effective induction sessions, training staff use information from a learning styles questionnaire to inform the best assess
+- **os.cyber_bullying** (severity 3.0, apprenticeships)
+  > This prepares them for employment and improves their self-confidence, communication and team-working skills appropriately. Learners’ progression into jobs is good.  Learners develop good computer skills, enabling them to search and apply for jobs using the internet. Most learners benefit from suitable guidance on cyber bullying and basic safeguarding.  In 
+
+- **emp.cv_interview_skills** (severity 3.0, apprenticeships)
+  > Learners value the positive and professional working relationships with staff.  Training staff have high expectations of learners and motivate them well. As a result, learners make suitable progress, developing employability skills including writing curriculum vitae, interview techniques, job applications and letter writing. This prepares them for employmen
 
 ---
 

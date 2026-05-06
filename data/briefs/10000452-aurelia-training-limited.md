@@ -16,9 +16,9 @@
 **Confidence & Resilience** (sub-score 65)
 
 - Financial Literacy: 55
-- Employability Skills: 58
+- Employability Skills: 63
 - Confidence & Resilience: 65
-- Online Safety: 55
+- Online Safety: 63
 
 ## Why this is on the list
 
@@ -49,11 +49,33 @@
 
 _+ 2 earlier inspections in the database._
 
-## Verbatim from the inspector
+## Verbatim from the latest inspection report
 
-Direct quotes from the latest published report. Use these in outreach without paraphrasing.
+Inspection of Aurelia Training Limited · 2025-03-07 · grade: **🟠 requires improvement**.
+[Full report](https://files.ofsted.gov.uk/v1/file/50270916)
 
-### Main findings
+Direct quotes from the report. Use these in outreach without paraphrasing — they're exactly what the inspector wrote.
+
+### What this provider needs to improve
+
+> What does the provider need to do to improve?
+>
+>  Plan individualised learning for apprentices to help them build on their existing
+> knowledge to support the rapid development of new knowledge and skills.
+>  Provide appropriate training to teachers to help them improve their teaching skills
+> so that they use the most effective strategies to help apprentices resolve any
+> gaps in learning and secure their learning in their long-term memories.
+>  Increase the proportion of apprentices who complete and achieve their
+> apprenticeship.
+>  Provide high-quality teaching for apprentices to improve their English skills.
+
+### Safeguarding
+
+> Safeguarding
+>
+> The arrangements for safeguarding are effective.
+
+### What is it like to be a learner here / What does the provider do well
 
 > What is it like to be a learner with this provider?
 >
@@ -88,85 +110,13 @@ Direct quotes from the latest published report. Use these in outreach without pa
 >
 > Leaders provide curriculums that support the skills needs of the local, regional and
 > national economies successfully. They recognised the need for highly skilled care
-> workers …
-
-### What this school needs to improve
-
-> What does the provider need to do to improve?
+> workers and have implemented a well-considered skills solution for employers across
+> domiciliary care, care and nursing homes for patients with disabilities and charitable
+> housing organisations.
 >
->  Plan individualised learning for apprentices to help them build on their existing
-> knowledge to support the rapid development of new knowledge and skills.
->  Provide appropriate training to teachers to help them improve their teaching skills
-> so that they use the most effective strategies to help apprentices resolve any
-> gaps in learning and secure their learning in their long-term memories.
->  Increase the proportion of apprentices who complete and achieve their
-> apprenticeship.
->  Provide high-quality teaching for apprentices to improve their English skills.
->
->
->
->
->
->
->
-> Inspection report: Aurelia Training Limited
-> 28 to 31 January 2025
-> 5
->
->
->
-> Provider details
->
-> Unique reference number 58250
->
-> Address The Butts Arena
-> Butts
-> Coventry
-> CV1 3GE
->
-> Contact number 01926 511855
->
-> Website https://www.aureliatraining.com
->
-> Principal, CEO or equivalent Bob Harknett
->
-> Provider type Independent learning provider
->
-> Date of previous inspection 1 to 4 November 2022
->
-> Main subcontractors Not applicable
->
->
->
->
->
->
->
-> Inspection report: Aurelia Training Limited
-> 28 to 31 January 2025
-> 6
->
->
->
->
-> Information about this inspection
->
-> The inspection team was assisted by the quality manager, as nominee. Inspectors
-> took account of the provider’s most recent self-assessment report and development
-> plans, and the previous inspection report. The inspection was carried out using the
-> further education and skills inspection handbook and took into account all relevant
-> provision at the provider. Inspectors collected a wide range of evidence to inform
-> judgements, including visiting learning sessions, scrutinising learners’ work, seeking
-> the views of learners, staff and other stakeholders, and examining the provider’s
-> documentation and records.
->
-> Inspection team
->
-> Bev Ramsell, lead inspector His Majesty’s Inspector
-> Ben Crook Ofsted Inspector
-> Rachel Clark His Majesty’s Inspector
-> Karen Roberts Ofsted Inspector
-> Mark Parto…
+> Trainers do not plan apprentices’ learning effectively to ensure that they develop
+> their new knowledge and skills swiftly. At the start of the apprenticeship,
+> apprentices undertake various tests to assess th…
 
 ## Compliance signals
 
@@ -180,23 +130,23 @@ _No high-trigger news matched in the last extraction pass._
 
 Quotes you can drop directly into outreach. Severity drives the score.
 
-- **emp.itp_off_the_job** (severity 4.0, what_school_needs_to_improve)
+- **emp.itp_off_the_job** (severity 4.0, what_provider_needs_to_improve)
   > Senior leaders should ensure that apprentices who already have some knowledge and skills in the areas they study are supported to make more rapid progress.  Senior leaders and trainers should revisit how well on- and off-the-job training is planned. They need to make sure that they are closely linked so that apprentices can practise and master the skills th
 
-- **emp.careers_guidance** (severity 4.0, what_school_needs_to_improve)
+- **emp.careers_guidance** (severity 4.0, what_provider_needs_to_improve)
   > They need to make sure that they are closely linked so that apprentices can practise and master the skills that they have learned in a workplace setting to make an effective contribution to their employers’ businesses.  Senior leaders must improve the quality of careers advice and guidance so that apprentices know the full range of options available to them
 
-- **cr.personal_development_strengthen** (severity 3.0, personal_development)
-  > Personal development Requires improvement Leadership and management Requires improvement Adult learning programmes Good Apprenticeships Requires improvement Overall effectiveness at previous inspection Not previously inspected
+- **emp.itp_assessment_weak** (severity 2.0, safeguarding)
+  > Trainers make clear links between theory and practice in vocational training, and use questions well to check learners’ understanding. Access to technology has improved, but trainers do not fully or consistently use ICT to enhance learning. 16. Trainers use the thorough initial assessment effectively to identify individual skill levels, learning styles, and 
+
+- **cr.anxiety** (severity 2.0, safeguarding)
+  > An additional member of staff assesses learners’ literacy and numeracy at induction, giving them their results before they leave and enabling them to reflect on their support needs. Precourse learning material focuses learners well on the content and demands of the qualification helping them to build their self-confidence and reduce their anxiety over return
 
 - **os.extremism** (severity 2.0, safeguarding)
-  > Leaders ensure that designated safeguarding leads (DSLs) and staff have the relevant skills and receive the appropriate training to carry out their roles effectively. DSLs receive regular updates from local and regional support agencies in the areas where learners and apprentices live and work to inform them of the risks associated with radicalisation and ex
+  > Next steps for the provider Leaders and those responsible for governance should ensure that: the new observation system is developed further to ensure that the impact of teaching is measured accurately and follow-up actions are rigorously monitored to improve standards of teaching and learning staff utilise the results of assessments of learners’ startin
 
-- **os.radicalisation** (severity 2.0, safeguarding)
-  > Leaders ensure that designated safeguarding leads (DSLs) and staff have the relevant skills and receive the appropriate training to carry out their roles effectively. DSLs receive regular updates from local and regional support agencies in the areas where learners and apprentices live and work to inform them of the risks associated with radicalisation and ex
-
-- **emp.itp_off_the_job** (severity 2.0, safeguarding)
-  > Trainers in the business sector use real-life examples of working within the sector to help apprentices on level 3 team leader or supervisor apprenticeships to improve their knowledge of key management styles and personality types. Learners and apprentices new to the sectors in which they study develop new knowledge incrementally over time. Trainers of appre
+- **os.extremism** (severity 2.0, safeguarding)
+  > Learners feel safe at work and pay very good attention to safe working practices. They know how to keep themselves and each other safe. However, learners’ understanding of the dangers of radicalisation and extremism is more limited. Inspection findings  The proportion of apprentices who successfully complete their programme has remained at the same high l
 
 ---
 

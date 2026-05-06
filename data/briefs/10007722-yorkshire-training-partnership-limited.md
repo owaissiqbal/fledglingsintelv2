@@ -1,6 +1,6 @@
 # Yorkshire Training Partnership Limited
 
-**🟠 HIGH** · score **95** · urgency 65 · pipeline 100
+**🔴 CRITICAL** · score **95** · urgency 70 · pipeline 100
 
 ## Identity
 
@@ -13,12 +13,12 @@
 
 ## Lead-with curriculum
 
-**Confidence & Resilience** (sub-score 65)
+**Employability Skills** (sub-score 70)
 
 - Financial Literacy: 55
-- Employability Skills: 55
+- Employability Skills: 70
 - Confidence & Resilience: 65
-- Online Safety: 55
+- Online Safety: 63
 
 ## Why this is on the list
 
@@ -49,11 +49,38 @@
 
 _+ 3 earlier inspections in the database._
 
-## Verbatim from the inspector
+## Verbatim from the latest inspection report
 
-Direct quotes from the latest published report. Use these in outreach without paraphrasing.
+Inspection of Yorkshire Training Partnership Limited · 2024-07-09 · grade: **🟠 requires improvement**.
+[Full report](https://files.ofsted.gov.uk/v1/file/50251953)
 
-### Main findings
+Direct quotes from the report. Use these in outreach without paraphrasing — they're exactly what the inspector wrote.
+
+### What this provider needs to improve
+
+> What does the provider need to do to improve?
+>
+>  Ensure that apprentices who need to achieve functional skills qualifications are
+> effectively supported so they can complete their programme in the planned
+> timescale.
+>  Ensure that all tutors have the necessary qualifications and experience that they
+> need to teach their subject effectively.
+>  Rapidly improve oversight of the programmes offered so that weaknesses can be
+> identified accurately and rectified quickly.
+>  Ensure that apprentices’ prior knowledge and skills are used to place them on
+> appropriate programmes.
+>  Ensure that adult learners attend well and are fully committed to their studies to
+> enable a higher proportion to achieve their qualifications.
+>  Provide effective support to adult learners to enable them to catch up with their
+> studies when they fall behind.
+
+### Safeguarding
+
+> Safeguarding
+>
+> The arrangements for safeguarding are effective.
+
+### What is it like to be a learner here / What does the provider do well
 
 > What is it like to be a learner with this provider?
 >
@@ -86,82 +113,12 @@ Direct quotes from the latest published report. Use these in outreach without pa
 > What does the provider do well and what does it need to do
 > better?
 >
-> Leaders and managers have developed an…
-
-### What this school needs to improve
-
-> What does the provider need to do to improve?
->
->  Ensure that apprentices who need to achieve functional skills qualifications are
-> effectively supported so they can complete their programme in the planned
-> timescale.
->  Ensure that all tutors have the necessary qualifications and experience that they
-> need to teach their subject effectively.
->  Rapidly improve oversight of the programmes offered so that weaknesses can be
-> identified accurately and rectified quickly.
->  Ensure that apprentices’ prior knowledge and skills are used to place them on
-> appropriate programmes.
->  Ensure that adult learners attend well and are fully committed to their studies to
-> enable a higher proportion to achieve their qualifications.
->  Provide effective support to adult learners to enable them to catch up with their
-> studies when they fall behind.
->
->
->
->
->
->
->
->
-> Inspection report: Yorkshire Training Partnership Limited
-> 11 to 14 June 2024
-> 5
->
->
->
-> Provider details
->
-> Unique reference number 58132
->
-> Address Unit 1
-> Enterprise Court
-> Rotherham
-> S63 5DB
->
-> Contact number 01709 871872
->
-> Website www.yorkshiretrainingpartnership.com
->
-> Principal, CEO or equivalent Victoria Willert
->
-> Provider type Independent learning provider
->
-> Date of previous inspection 5 March 2018
->
-> Main subcontractors None
->
->
->
->
->
->
->
-> Inspection report: Yorkshire Training Partnership Limited
-> 11 to 14 June 2024
-> 6
->
->
->
->
-> Information about this inspection
->
-> The inspection team was assisted by the chief executive officer, as nominee.
-> Inspectors took account of the provider’s most recent self-assessment report and
-> development plans, and the previous inspection report. The inspection was carried
-> out using the further education and skills inspection handbook and took into account
-> all relevant provision at the provider. Inspectors collected a wide range of evidence
-> to inform judgements, including visiting learning sessions, scrutinising learners’
-> work, seeking the views of learners, staff and other sta…
+> Leaders and managers have developed an appropriate curriculum to meet the needs
+> of local and regional employers who work mainly in children and adult care. They
+> provide flexible teaching models that allow apprentices and learners to attend either
+> face to face or remotely through online sessions. Employers appreciate this flexibility
+> as it helps them to work around staffing challenges when they occur, particularly
+> when they have s…
 
 ## Compliance signals
 
@@ -175,23 +132,23 @@ _No high-trigger news matched in the last extraction pass._
 
 Quotes you can drop directly into outreach. Severity drives the score.
 
-- **emp.itp_off_the_job** (severity 4.0, what_school_needs_to_improve)
+- **emp.itp_off_the_job** (severity 4.0, what_provider_needs_to_improve)
   > Many learners do not have sufficiently clear, specific, measurable, realistic and time-specific learning targets which they can understand. When the targets are set, many agreed targets do not provide sufficient challenge, contributing towards the demotivation and slow progress of the more-capable learners. The link between on- and off-the-job training is of
 
-- **cr.self_esteem** (severity 4.0, what_school_needs_to_improve)
+- **cr.self_esteem** (severity 4.0, what_provider_needs_to_improve)
   > Although declining, the number of learners for whom destinations are not known is too high. Progression into employment is good for learners following warehousing and distribution programmes.  Most apprentices develop in confidence and self-esteem and many exhibit appropriate skills in the workplace which help them perform tasks more effectively. However, u
 
 - **emp.itp_skills_knowledge_gaps** (severity 3.0, main_findings)
   > Leaders and managers have been too slow to improve the teaching for apprentices who need to achieve functional skills qualifications as part of their apprenticeship. Apprentices do not benefit from structured support or teaching based on their identified weaknesses and skills gaps. Tutors do not focus sufficiently on these weaker areas. Too often, apprentice
 
-- **cr.behaviour_attitudes_concern** (severity 3.0, behaviour_attitudes)
-  > Behaviour and attitudes Requires improvement
+- **shared.diversity** (severity 2.0, what_provider_needs_to_improve)
+  > They develop an adequate understanding of equality and diversity and are able to demonstrate this during their job roles. However, trainers and assessors do not extend sufficiently learners’ understanding of equality and diversity systematically through teaching and assessment processes. Health and social care
 
-- **shared.diversity** (severity 2.0, what_school_needs_to_improve)
-  >  YTP meets its statutory requirements for safeguarding learners. However, equality and diversity do not feature in strategic plans or in the limited quality monitoring of the provision. Overall, the promotion of equality and diversity is insufficient. Inspection report: Yorkshire Training Partnership Limited, 26-30 November 2012 9 of 13 Record of Main Findi
+- **shared.diversity** (severity 2.0, what_provider_needs_to_improve)
+  > A number of subcontractors provide effective guidance to help learners identify career progression opportunities.  Learners receive satisfactory training on equality and diversity as part of their induction prior to the programme. They develop an adequate understanding of equality and diversity and are able to demonstrate this during their job roles. Howeve
 
-- **shared.diversity** (severity 2.0, what_school_needs_to_improve)
-  > YTP does not have an effective system to alert subcontractors when intervention is needed to support learners to complete their programmes within the planned time.  YTP meets its statutory requirements for safeguarding learners. However, equality and diversity do not feature in strategic plans or in the limited quality monitoring of the provision. Overall, 
+- **shared.diversity** (severity 2.0, what_provider_needs_to_improve)
+  > Some subcontractors have good links with specialist external agencies which they use well. A number of subcontractors provide effective guidance to help learners identify career progression opportunities.  Learners receive satisfactory training on equality and diversity as part of their induction prior to the programme. They develop an adequate understandin
 
 ---
 

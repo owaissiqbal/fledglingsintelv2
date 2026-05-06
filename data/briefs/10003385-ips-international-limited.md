@@ -16,7 +16,7 @@
 **Confidence & Resilience** (sub-score 65)
 
 - Financial Literacy: 55
-- Employability Skills: 55
+- Employability Skills: 62
 - Confidence & Resilience: 65
 - Online Safety: 63
 
@@ -49,11 +49,46 @@
 
 _+ 6 earlier inspections in the database._
 
-## Verbatim from the inspector
+## Verbatim from the latest inspection report
 
-Direct quotes from the latest published report. Use these in outreach without paraphrasing.
+Inspection of IPS International Limited · 2023-09-06 · grade: **🟠 requires improvement**.
+[Full report](https://files.ofsted.gov.uk/v1/file/50227494)
 
-### Main findings
+Direct quotes from the report. Use these in outreach without paraphrasing — they're exactly what the inspector wrote.
+
+### What this provider needs to improve
+
+> What does the provider need to do to improve?
+>
+>  Leaders must ensure that apprentices studying functional skills maths and English
+> progress swiftly and achieve their qualifications.
+>  Leaders must ensure that apprentices benefit from a planned programme of
+> impartial careers information, advice and guidance so that they are well prepared
+> for their next steps.
+>  Leaders should ensure that they work with all employers so that apprentices
+> apply what they have learned at work quickly.
+>  Leaders should ensure that apprentices and learners are well informed about local
+> risks so that they can protect themselves from extremism and radicalisation.
+
+### Safeguarding
+
+> Safeguarding
+>
+> The arrangements for safeguarding are effective.
+>
+> The highly experienced and well-qualified designated safeguarding lead ensures that
+> staff receive thorough and timely safeguarding training.
+>
+> Leaders identify, manage and refer safeguarding concerns effectively. They work
+> well with local safeguarding partners to do this. Leaders have identified risks from
+> sexual abuse and harassment effectively. They work well with learners to raise
+> awareness of these. As a result, learners and apprentices are confident to report any
+> incidents and leaders deal with these quickly and successfully.
+>
+> Leaders use effective procedures for safer recruitment to ensure staff are safe to
+> work with children and vulnerable adults.
+
+### What is it like to be a learner here / What does the provider do well
 
 > What is it like to be a learner with this provider?
 >
@@ -87,85 +122,17 @@ Direct quotes from the latest published report. Use these in outreach without pa
 >
 > Learners and apprentices rightly feel safe and know how to keep themselves safe,
 > including when they are online. They are confident about how to report any
-> concerns. Level 3 heavy vehicle service and maintenance tech…
-
-### What this school needs to improve
-
-> What does the provider need to do to improve?
->
->  Leaders must ensure that apprentices studying functional skills maths and English
-> progress swiftly and achieve their qualifications.
->  Leaders must ensure that apprentices benefit from a planned programme of
-> impartial careers information, advice and guidance so that they are well prepared
-> for their next steps.
->  Leaders should ensure that they work with all employers so that apprentices
-> apply what they have learned at work quickly.
->  Leaders should ensure that apprentices and learners are well informed about local
-> risks so that they can protect themselves from extremism and radicalisation.
+> concerns. Level 3 heavy vehicle service and maintenance technician apprentices
+> store hazardous substances safely and use vehicle lifting equipment within its safe
+> working load.
 >
 >
+> What does the provider do well and what does it need to do
+> better?
 >
->
->
->
->
-> Inspection report: IPS International Limited
-> 11 to 14 July 2023
-> 5
->
->
->
-> Provider details
->
-> Unique reference number 52533
->
-> Address Northbank House
-> Sir Thomas Longley Road
-> Medway City Estate
-> Rochester
-> ME2 4DU
->
-> Contact number 01634 298800
->
-> Website www.ips-international.com
->
-> Principal, CEO or equivalent Ramsay Cowan
->
-> Provider type Independent learning provider
->
-> Date of previous inspection 14 to 17 November 2017
->
-> Main subcontractors
-> NuYu Academy
-> The Electrical Academy
->
->
->
->
->
->
->
-> Inspection report: IPS International Limited
-> 11 to 14 July 2023
-> 6
->
->
->
->
-> Information about this inspection
->
-> The inspection team was assisted by the director of health and social care, as
-> nominee. Inspectors took account of the provider’s most recent self-assessment
-> report and development plans, and the previous inspection report. The inspection
-> was carried out using the further education and skills inspection handbook and took
-> into account all relevant provision at the provider. Inspectors collected a wide range
-> of evidence to inform judgements, including visiting learning sessions, scrutinising
-> learners’ work, seeking the views of learners, staff and other stakeholders, and
-> examining the provider’s documentation and records.
->
-> Inspection team
->
-> David Towsey, lead inspector His Majesty’s Inspec…
+> Leaders recognise most of the areas they need to improve, but they have not acted
+> quickly enough to resolve them. For example, leaders do not ensure that
+> apprentices who require functional skills maths a…
 
 ## Compliance signals
 
@@ -179,22 +146,22 @@ _No high-trigger news matched in the last extraction pass._
 
 Quotes you can drop directly into outreach. Severity drives the score.
 
-- **shared.wider_personal_development** (severity 4.0, what_school_needs_to_improve)
+- **shared.wider_personal_development** (severity 4.0, what_provider_needs_to_improve)
   >  Trainer assessors do not use consistently well the broad range of information they gather at the start of the learners’ apprenticeship to set detailed enough targets. Many trainer assessors set targets for learners that focus purely on the vocational tasks they need to complete by the next assessment visit rather than their wider development needs, includi
 
-- **os.extremism** (severity 4.0, what_school_needs_to_improve)
+- **os.extremism** (severity 4.0, what_provider_needs_to_improve)
   > Not all learners appreciate the importance of these skills for sustaining employment and their career progression. As a result, they lack the motivation to improve mistakes they make with spelling, grammar, punctuation or calculations.  Learners have too little awareness of the dangers of extremism and radicalisation. Trainer assessors do not always discuss
 
-- **os.extremism** (severity 4.0, what_school_needs_to_improve)
+- **os.extremism** (severity 4.0, what_provider_needs_to_improve)
   > They use this to good effect to raise learners’ awareness of health, safety and how to manage levels of risk at work. Managers are making reasonable progress in training staff about the risks of radicalisation and extremism but are at an early stage in introducing this to learners. Inspection report: IPS International Limited, 2–17 March 2016 Page 4 of 9 Qua
 
-- **os.radicalisation** (severity 4.0, what_school_needs_to_improve)
+- **os.radicalisation** (severity 4.0, what_provider_needs_to_improve)
   > Not all learners appreciate the importance of these skills for sustaining employment and their career progression. As a result, they lack the motivation to improve mistakes they make with spelling, grammar, punctuation or calculations.  Learners have too little awareness of the dangers of extremism and radicalisation. Trainer assessors do not always discuss
 
-- **os.radicalisation** (severity 4.0, what_school_needs_to_improve)
+- **os.radicalisation** (severity 4.0, what_provider_needs_to_improve)
   > Staff, including those with subcontractors, receive frequent training. They use this to good effect to raise learners’ awareness of health, safety and how to manage levels of risk at work. Managers are making reasonable progress in training staff about the risks of radicalisation and extremism but are at an early stage in introducing this to learners. Inspec
 
-- **emp.careers_guidance** (severity 4.0, what_school_needs_to_improve)
+- **emp.careers_guidance** (severity 4.0, what_provider_needs_to_improve)
   >  Learners become more confident and adopt professional behaviours towards their colleagues and employers. They behave well and show respect for fellow learners. The majority of learners attend well.  Learners receive useful careers advice. Most appreciate how the qualification they are studying fits into their long-term career goals or helps them increase 
 
 ---

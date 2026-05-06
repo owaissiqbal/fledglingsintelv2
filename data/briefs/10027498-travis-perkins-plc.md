@@ -13,12 +13,12 @@
 
 ## Lead-with curriculum
 
-**Confidence & Resilience** (sub-score 55)
+**Employability Skills** (sub-score 55)
 
 - Financial Literacy: 0
-- Employability Skills: 16
+- Employability Skills: 55
 - Confidence & Resilience: 55
-- Online Safety: 34
+- Online Safety: 55
 
 ## Why this is on the list
 
@@ -47,97 +47,81 @@
 
 _+ 1 earlier inspection in the database._
 
-## Verbatim from the inspector
+## Verbatim from the latest inspection report
 
-Direct quotes from the latest published report. Use these in outreach without paraphrasing.
+Inspection of Travis Perkins PLC · 2023-05-22 · grade: **🔵 good**.
+[Full report](https://files.ofsted.gov.uk/v1/file/50217701)
 
-### What this school needs to improve
+Direct quotes from the report. Use these in outreach without paraphrasing — they're exactly what the inspector wrote.
 
-> What does the provider need to do to improve further?
->  Further embed and rigorously apply systems to support and promote learners’ timely
-> achievements.
->  Develop the expertise of managers and buddies to better support their apprentices in all aspects
-> of learning and assessment.
->  Ensure that learning programmes are flexible and adaptable and meet the differing needs of all
-> learners and allow them to achieve their full potential.
->  Develop and implement a strategy for identifying, planning and providing support for those
-> apprentices with additional learning needs.
->  Improve the analysis and use of data in all aspects of learning programmes.
->  Continue to develop quality improvement practices to ensure that they move from compliance to
-> actively evaluate and improve learners’ programmes.
->  Ensure the good company equality and diversity ethos is embedded throughout learning
+### What this provider needs to improve
+
+> What does the provider need to do to improve?
+>
+>  Ensure that apprenticeship development managers and coaches impress on
+> branch managers the importance of apprentices’ regular attendance at online
+> learning sessions.
+>  Reinforce apprentices’ knowledge of the local risks of radicalisation and extremism
+> and teach them how these risks can impact on their places of employment and
+> their wider communities.
+
+### Safeguarding
+
+> Safeguarding
+>
+> The arrangements for safeguarding are effective.
+>
+> Leaders and managers use effective systems to identify, record and respond quickly
+> to any concerns reported by staff. They place a high priority on learners’ safety and
+> well-being. The designated safeguarding lead (DSL) and deputy DSL work closely
+> and effectively with training and support staff, all of whom are suitably trained, to
+
+### What is it like to be a learner here / What does the provider do well
+
+> What is it like to be a learner with this provider?
+>
+> Apprentices enjoy their courses and are positive about their experiences and
+> relationships with apprenticeship coaches and branch managers. Apprentices display
+> a desire to succeed both in their apprenticeships and at work. Many gain promotion,
+> and a large majority achieve high grades and go on to further study.
+>
+> Apprentices benefit from experienced and well-qualified staff, who guide them
+> carefully through their learning. They develop new knowledge, skills and behaviours
+> and remain in employment with Travis Perkins once they complete their
 > programmes.
 >
+> Apprentices value the high quality of their learning materials, training and online
+> sessions. For example, industry professionals give presentations on the most recent
+> developments in the construction sector. They cover current topics such as energy
+> efficiency in new-build homes and plans to retrofit existing housing stock to meet
+> challenging new sustainability targets.
 >
-> Inspection judgements
-> Outcomes for learners
-> Requires improvement
+> Highly experienced staff provide apprentices with helpful advice and guidance about
+> their careers. This helps apprentices make informed decisions about future learning
+> and career opportunities available to them.
 >
->  Outcomes for apprentices at Travis Perkins require improvement. Success rates have improved
-> significantly since the previous inspection and, during 2011/12, reached the national average.
-> However timely success rates, although improving, remain poor.
->  Key skills achievements are very good. However, all learners who are not exempt take the
-> qualification only at level 1 which is the requirement of their framework. Managers do not
-> sufficiently challenge more able learners and give them the opportunity to take the qualification
-> at a higher level.
->  Many employed learners make good progress in their job roles. They describe, and inspectors
-> confirmed, how they develop good product knowledge and a very sound understanding of the
-> scope of the business within which they work. They fully understand and effectively promote the
-> culture of the organisation.
->  Learners develop very good employability skills. They become better able to prioritise tasks and
-> manage their time. All of the apprentices on t…
-
-### Areas for improvement
-
-> areas for improvement and that resulting
-> improvement plans focus on key factors that will improve the outcomes for
-> colleagues and quality of provision.
+> Apprenticeship coaches and managers create a positive culture and have a strong
+> focus on supporting apprentices to do well. They understand the pressures that
+> apprentices may experience at work and in their personal lives, such as financial
+> hardships associated with the current cost-of-living crisis. As a result, apprentices
+> develop confidence and resilience and are better able to deal with everyday
+> challenges.
 >
-> Summary of the views of users as confirmed by inspectors
-> What colleagues like:
->  being able to learn while at work
->  the generous support from buddies and other colleagues
->  developing really detailed product knowledge to be able to help customers
-> better
->  being able to work with colleagues as a team
->  having another chance to gain a qualification
->  the quality of the workbooks
->  the easy-to-understand online testing
->  having more variety in the job role.
+> Apprentices feel safe and are aware of what they should do if they have concerns
+> about personal or work issues throughout their course.
 >
-> What colleagues would like to see improved:
->  more time allowed to spend on the learning packs
->  more practical tasks to support the workbook, particularly in calculating areas
-> and volumes
->  a more individualised programme, taking account of previous learning and
-> experiences
->  more observations
->  more time with the buddies
->  help with maths
->  more individual reviews with managers to discuss progress.
+> What does the provider do well and what does it need to do
+> better?
 >
-> Summary of the views of Wickes’ managers as confirmed by inspectors
-> What they like:
->  the bespoke programme, designed for the company, delivered in the company
->  the good level of skills developed by colleagues, making them better employees
->  making colleagues feel valued by giving them a qualification
->  the availability of the training team at the end of the phone, and their
-> willingness to help
+> Leaders have a very good understanding of the construction sector. They are keenly
+> aware of government plans to implement stringent new standards for energy
+> efficiency and carbon emissions in new-build homes, as well as plans to modernise
+> existing housing stock. To build on these challenges and to meet sector needs, the
+> company offers an ambitious and wide curriculum in 13 different apprenticeship
+> programmes, from level 2 to level 5.
 >
->
-> Inspection report: Travis Perkins Plc, 04 November 2011 6 of 12
->
->
->  the ability to identify strengths in colleagues
->  improved store sales.
->
-> What Wickes’ managers would like to see improved:
->  more flexibility in the model, to take account of colleagues who only work a few
-> hours each week
->  more time to devote to assessment to ensure it is completed properly
->  more time in the business model to allow colleagues to study and complete
-> within their planned end dates
->  better knowledge of what assessment entails through more detail…
+> Apprenticeship coaches ensure that the curriculums they offer contain the right
+> content to meet th…
 
 ## Compliance signals
 
@@ -151,23 +135,23 @@ _No high-trigger news matched in the last extraction pass._
 
 Quotes you can drop directly into outreach. Severity drives the score.
 
-- **shared.diversity** (severity 2.0, what_school_needs_to_improve)
-  > However, although the apprenticeship learning materials provide a basic understanding of both equality and diversity, training and development for assessors and managers is limited and they do not have the confidence or knowledge to regularly promote and develop learners’ understanding or help them deal with the diversity they may encounter with customers du
+- **emp.itp_skills_knowledge_gaps** (severity 6.0, what_provider_needs_to_improve)
+  > This motivates apprentices well and they are often further rewarded through pay increases for good performance when they have a useful six-monthly review with their regional director.  Managers create and maintain close links with local employment partnerships. The training manager has met with 30 of the 38 partnerships to make them aware of skills gaps wit
 
-- **shared.diversity** (severity 2.0, what_school_needs_to_improve)
-  > Travis Perkins has recently been listed as one of Britain’s top employers for its cultural management, and its mission to be a ‘great place to work’ generates an inclusive and supportive culture. However, although the apprenticeship learning materials provide a basic understanding of both equality and diversity, training and development for assessors and man
+- **emp.itp_apprentices_progress_slow** (severity 6.0, what_provider_needs_to_improve)
+  > When apprentices gain additional learning, for example supervising at other branches to cover absences, this learning is not recorded or formally evaluated by their managers. In the few cases where apprentices make slow progress managers do not record what they need to do to improve and give them specific, time-bound targets so that it is difficult to monito
 
-- **shared.diversity** (severity 2.0, what_school_needs_to_improve)
-  > Learning materials are designed to be used effectively in the workplace but they do not include sufficient variety to support the differing needs of learners including those with additional learning needs or opportunities for learners to develop their English and mathematics skills. The learners’ workplace provides only limited opportunities for the use of i
+- **os.extremism** (severity 4.0, what_provider_needs_to_improve)
+  >  The arrangements for safeguarding are effective All staff are trained in safeguarding. However, although both the training and the safeguarding policy explain how to identify signs of radicalisation and extremism, staff do not reinforce the dangers sufficiently to apprentices. Staff from the human resources department investigate identified issues well and
 
-- **shared.diversity** (severity 2.0, what_school_needs_to_improve)
-  > Inspection report: Travis Perkins plc, 13–16 November 4 of 10  Equality and Diversity are adequately covered during induction within the workbook. Learners demonstrate a basic understanding, but assessors do not develop their knowledge further. Equality and Diversity are not promoted sufficiently during learning. The effectiveness of leadership and manageme
+- **os.radicalisation** (severity 4.0, what_provider_needs_to_improve)
+  > They take responsibility for management functions such as checking fire doors and fire alarms. All wear appropriate safety equipment. However, branch managers and trainers do not give them sufficient information about how to protect themselves and others from extremist views and radicalisation. Outcomes for learners are good  Most apprentices are making goo
 
-- **shared.diversity** (severity 2.0, what_school_needs_to_improve)
-  > Some learners lack the confidence to develop the relevant maths and English skills, and opt out of completion of their apprenticeship. Key skills are insufficiently embedded into work-related learning resources. Inspection report: Travis Perkins plc, 13–16 November 4 of 10  Equality and Diversity are adequately covered during induction within the workbook. 
+- **os.radicalisation** (severity 4.0, what_provider_needs_to_improve)
+  > Inspection Report: Travis Perkins plc, 26–29 April 2016 Page 4 of 8 Governors talk with regional managers to identify the most-able learners and enable them to make rapid progress to more responsible roles.  The arrangements for safeguarding are effective All staff are trained in safeguarding. However, although both the training and the safeguarding policy 
 
-- **shared.diversity** (severity 2.0, what_school_needs_to_improve)
-  >  Improve the analysis and use of data in all aspects of learning programmes.  Continue to develop quality improvement practices to ensure that they move from compliance to actively evaluate and improve learners’ programmes.  Ensure the good company equality and diversity ethos is embedded throughout learning programmes. Inspection judgements Outcomes for 
+- **os.radicalisation** (severity 4.0, what_provider_needs_to_improve)
+  >  Provide more training for branch managers who assess apprentices so that from the start of the apprenticeship they are: confident to help apprentices develop their skills in English and mathematics in the workplace to at least the level required for the framework in order that apprentices’ communication with customers and other employees is accurate and we
 
 ---
 

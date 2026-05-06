@@ -40,6 +40,90 @@
 - Safeguarding: Met
 - [Report](https://reports.ofsted.gov.uk/provider/33/2526625)
 
+## Verbatim from the latest inspection report
+
+Inspection of Alan Hester Associates Limited · 2025-11-18 · grade: **🔵 good**.
+[Full report](https://reports.ofsted.gov.uk/provider/33/2526625)
+
+Direct quotes from the report. Use these in outreach without paraphrasing — they're exactly what the inspector wrote.
+
+### Apprenticeships
+
+> Apprenticeships
+> 78
+> About this inspection
+> Following our renewed inspection framework, all inspections are now led by His Majesty’s
+> Inspectors (HMI) or by Ofsted Inspectors (OIs) who have previously
+> served as HMIs.
+> Inspection activities:
+> ◼ Inspectors spoke with the owner, managers, assessors, employers and apprentices
+> during the inspection.
+> The inspector(s) confirmed the following information about the provider:
+> Alan Hester Associates Limited is an independent learning provider based in Reading,
+> providing apprenticeships nationally. The provider offers apprenticeships in business and
+> administration and adult care. At the time of the inspection, there were 78 apprentices on
+> programmes from levels 2 to 5. Most apprentices were studying the adult care
+> apprenticeship at levels 2 or 3. Most training is provided at the employers' sites.
+> Owner: Mr Alan Hester
+>
+> Percentage of learning aims successfully achieved
+> Apprenticeships overall achievement rate
+> YearThis providerNational averageCompared with
+> national average
+> 2023/246561Close to average
+> 2022/236755Above
+> 2021/224653Close to average
+> Apprenticeships pass rate
+> YearThis providerNational average
+> 2023/2410098
+> 2022/2310097
+> 2021/2210098
+> Our grades explained
+> Exceptional
+> Practice is exceptional: of the highest standard nationally. Other providers can learn from it.
+> Strong standard
+> The provider reaches a strong standard. Leaders are working above the standards expected
+> of them.
+> Expected standard
+> The provider is fulfilling the expected standard of education and/or care. This means they
+> are following the standards set out in statutory and non-statutory legislation and the
+> professional standards expected of them.
+> Needs attention
+> The expected standards are not met but leaders are likely able to make the necessary
+> improvements.
+> Urgent improve…
+
+### Safeguarding
+
+> Safeguarding standards met
+> The safeguarding standards are met. This means that leaders and/or those responsible for
+> governance and oversight fulfil their specific responsibilities and have established an open
+> culture in which safeguarding is everyone's responsibility and concerns are actively
+> identified, acted upon and managed. As a result, learners are made safer and feel safe.
+> How we evaluate safeguarding
+> When we inspect providers for safeguarding, they can have the following outcomes:
+> Met: The provider has an open and positive culture of safeguarding.
+> Not met: The provider has not created an open and positive culture of safeguarding. Not
+> all legal requirements are met.
+>
+> 1. Inclusion, and leadership and governance
+> Expected standard
+> Expected standard
+> Inclusion
+> Expected standard
+> Leaders and staff work well together to establish a culture of inclusion. Leaders take pride in
+> their open recruitment policies, where applicants are not rejected for lack of traditional
+> qualifications. They nurture and support apprentices until they complete, even where this is
+> sometimes substantially after their original planned end date.
+> Leaders have appropriate procedures to identify apprentices' additional learning support
+> needs when they start. They work closely with apprentices’ line managers to put in place
+> effective support at work to reduce barriers to learning. They use effective strategies to
+> support all apprentices, including support for those who speak English as an additional
+> language, have autism or struggle due to anxiety.
+> Leaders and assessors make sure, through their collaboration with employers, that
+> apprentices work in settings where their needs are known and understood. They make sure
+> that apprentices can access services to meet their needs such as counselling. Leaders trai…
+
 ## Compliance signals
 
 _No public regulatory or financial-health notices on file._

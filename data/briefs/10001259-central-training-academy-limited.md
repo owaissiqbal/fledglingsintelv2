@@ -15,7 +15,7 @@
 
 **Employability Skills** (sub-score 55)
 
-- Financial Literacy: 29
+- Financial Literacy: 25
 - Employability Skills: 55
 - Confidence & Resilience: 55
 - Online Safety: 55
@@ -47,60 +47,69 @@
 
 _+ 3 earlier inspections in the database._
 
-## Verbatim from the inspector
+## Verbatim from the latest inspection report
 
-Direct quotes from the latest published report. Use these in outreach without paraphrasing.
+Inspection of Central Training Academy Limited · 2024-01-15 · grade: **🔵 good**.
+[Full report](https://files.ofsted.gov.uk/v1/file/50237160)
 
-### What this school needs to improve
+Direct quotes from the report. Use these in outreach without paraphrasing — they're exactly what the inspector wrote.
 
-> What does the provider need to do to improve further?
+### What this provider needs to improve
+
+> What does the provider need to do to improve?
 >
->  Urgently improve quality assurance arrangements to:
-> – ensure that there are comprehensive processes in place to enable leaders to have a
-> robust understanding of the quality of all provision
-> – make certain that plans and targets to improve the quality of all provision are robust,
-> and ensure those who are responsible are held effectively to account
-> – ensure that the arrangements to assure subcontracted provision are thorough and
-> that failing subcontractors are held to full account.
->  Improve the quality of teaching, learning and assessment and outcomes for learners by
-> putting in place actions to ensure that:
-> – teachers deploy effective teaching methods to challenge and deepen apprentices’ and
-> learners’ understanding of theory and advance their progress
-> – teachers and assessors set apprentices challenging and meaningful targets to enable
-> them to make swift and timely progress
-> – leaders and managers make full use of the information they receive regarding
-> apprentices’ progress, and quickly put in place actions and interventions to help those
-> who fall behind to catch up with their studies
-> – teachers and assessors rigorously monitor learners’ and apprentices’ progress in order
-> to ensure they make good progress.
+>  Ensure that learners with high needs receive the specialist teaching and support
+> that they need to make good progress.
+>  Ensure that tutors of learners with high needs are appropriately qualified.
+>  Improve the quality of teaching in English and mathematics so that learners and
+> apprentices achieve their qualifications in these subjects.
+
+### Safeguarding
+
+> Safeguarding
 >
+> The arrangements for safeguarding are effective.
+
+### What is it like to be a learner here / What does the provider do well
+
+> What is it like to be a learner with this provider?
 >
+> Learners and apprentices feel valued at Central. They appreciate the support that they
+> receive from managers and tutors. Tutors know their learners and apprentices well.
+> Tutors use this knowledge to provide effective support for learners and apprentices.
 >
+> Learners and apprentices have positive attitudes to their studies. Young learners with
+> negative experiences of school enjoy their learning at Central. They stay on their
+> courses, and their attendance at lessons is good.
 >
+> Apprentices develop their confidence at work. Hairdressing apprentices develop skills in
+> communicating with clients from all walks of life. Apprentices put clients at ease by
+> chatting to them during services and treatments.
 >
+> Learners and apprentices feel safe at work and at Central. They know who to talk to if
+> they have any concerns. Training centres and apprentices’ workplaces are safe and
+> welcoming. Learners and apprentices are confident that staff will handle any concerns
+> they have sensitively and effectively.
 >
+> Learners and apprentices develop their English and mathematics skills appropriately
+> during their training. However, too few learners and apprentices achieve qualifications
+> in these subjects.
 >
+> Learners and apprentices build their confidence and skills through a wide range of
+> enrichment activities. Hairdressing apprentices and learners take part in a companywide skills competition. They design a mood board that illustrates their inspiration for a
+> hairstyle. They then create the hairstyle on a mannequin and photograph it for their
+> digital portfolio. This develops their skills and enhances their employability.
 >
+> Learners with high needs enjoy their learning at Central. They learn about different
+> housing options, such as buying and renting. This helps them to take their first steps
+> towards independent living. As a result, learners quickly become more financially
+> aware and better prepared to manage their own finances. However, learners do not
+> receive the specialist teaching and specialist support identified in their education,
+> health and care plans.
 >
-> Inspection report: Central Training Group Limited, 27–28 February 2018
->
-> Page 3 of 12
->
->
->
->
->
-> Inspection judgements
->
-> Effectiveness of leadership and management Requires improvement
->
->  Quality assurance arrangements are not effective enough to enable leaders to secure
-> sustained improvements in the quality of teaching, learning and assessment and
-> outcomes for learners. As a result, too many of the weaknesses identified at the last
-> inspection remain. Consequently, teaching, learning and assessment, outcomes for
-> learners and apprenticeships programmes require improvement.
->  Leaders and managers do not monitor effectively the quality of provision provided by their
-> …
+> Learners and apprentices quickly develop new skills and knowledge. They take pride in
+> their work and enjoy applying their skills in professional settings. Hairdressing learners
+> and apprentices practise setting techniques on mannequin heads until they ca…
 
 ## Compliance signals
 
@@ -114,23 +123,23 @@ _No high-trigger news matched in the last extraction pass._
 
 Quotes you can drop directly into outreach. Severity drives the score.
 
-- **cr.mental_health** (severity 4.0, what_school_needs_to_improve)
+- **emp.itp_skills_knowledge_gaps** (severity 4.5, areas_for_improvement)
+  > This provides exceptional opportunities for apprentices to develop high-level skills. CTG’s Managing Director links effectively with the Local Enterprise Partnership to promote awareness of local and regional skills gaps and training priorities.  Directors promote equality and diversity well. Plans and policies consider the impact on learners and staff, irr
+
+- **emp.itp_apprentices_progress_slow** (severity 4.5, adult_learning)
+  > Adult learning programmes Good Apprenticeships Requires improvement Quality of teaching, learning and assessment Requires improvement Personal development, behaviour and welfare Good Outcomes for learners Requires improvement Overall effectiveness at previous inspection Good Summary of key findings This is a provider that requires improvement  Too many teac
+
+- **cr.mental_health** (severity 4.0, what_provider_needs_to_improve)
   > For example, in Inspection report: Central Training Group Limited, 27–28 February 2018 Page 4 of 12 addition to updating their vocational skills, staff develop a good understanding of child protection and mental health.  Leaders and managers promote a strong culture of respect and tolerance across the organisation and with subcontractors. Learners and appre
 
-- **emp.itp_apprentices_progress_slow** (severity 3.0, safeguarding)
-  > However, assessors and employers do not record sufficiently the values and behaviours apprentices develop or what they need to improve in order to have a good Inspection report: Central Training Group Limited, 27–28 February 2018 Page 9 of 12 understanding of apprentices’ full progress against the standards criteria.  Too many apprentices do not make good p
+- **emp.careers_guidance** (severity 4.0, what_provider_needs_to_improve)
+  > Leaders must ensure greater importance is placed on this element of study programmes and traineeships and prepare learners better for examinations.  Leaders must ensure that all young learners with subcontractors receive impartial careers advice and guidance. Staff must provide adults and apprentices with broader advice and guidance on their future careers.
 
-- **emp.itp_apprentices_progress_slow** (severity 3.0, safeguarding)
-  > Most adults, learners enrolled on study programmes and trainees have a good understanding of the importance of British values and how to stay safe from the risks of radicalisation and extremism. However, too many apprentices lack an understanding of such topics or how they relate to their work. Outcomes for learners Requires improvement  Too many apprentice
+- **emp.itp_off_the_job** (severity 3.0, apprenticeships)
+  > Employers are very supportive of the learners, many of whom have 0.00 Page 19 of 25 19© 2006 ADULT LEARNING INSPECTORATE CENTRAL TRAINING GROUP emotional, behavioural or other personal difficulties. Tutors and employers work closely together in planning on- and off-the-job training. Employers value the support that Central Training’s staff offer to themselve
 
-- **emp.itp_apprentices_progress_slow** (severity 3.0, personal_development)
-  > Personal development, behaviour and welfare Good Outcomes for learners Requires improvement Overall effectiveness at previous inspection Good Summary of key findings This is a provider that requires improvement  Too many teachers do not effectively challenge or deepen learners’ knowledge of theory in vocational subjects or in English and mathematics, result
-
-- **os.extremism** (severity 2.0, safeguarding)
-  > For example, graphic design apprentices develop skills in collecting and analysing incisively a broad range of customer feedback and use the results to accurately inform marketing campaigns.  Too few apprentices are aware of the importance of British values in the workplace or the dangers of radicalisation and extremism. Inspection report: Central Training 
-
-- **os.extremism** (severity 2.0, safeguarding)
-  >  Learners and apprentices know how to keep themselves safe online and to whom they should report any instances of bullying or harassment. Most adults, learners enrolled on study programmes and trainees have a good understanding of the importance of British values and how to stay safe from the risks of radicalisation and extremism. However, too many apprenti
+- **cr.mental_health** (severity 3.0, apprenticeships)
+  > For example, on several occasions, staff have escorted learners to hospital, or to doctors’ surgeries, or have contacted learners’ social workers to help learners deal with complex emotional problems. Central Training invites speakers from external agencies to talk to learners about matters such as sex, drugs awareness and mental health. Tutors offer very go
 
 ---
 

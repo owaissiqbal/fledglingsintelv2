@@ -13,11 +13,11 @@
 
 ## Lead-with curriculum
 
-**Online Safety** (sub-score 55)
+**Employability Skills** (sub-score 55)
 
 - Financial Literacy: 0
-- Employability Skills: 41
-- Confidence & Resilience: 32
+- Employability Skills: 55
+- Confidence & Resilience: 55
 - Online Safety: 55
 
 ## Why this is on the list
@@ -47,124 +47,71 @@
 
 _+ 1 earlier inspection in the database._
 
-## Verbatim from the inspector
+## Verbatim from the latest inspection report
 
-Direct quotes from the latest published report. Use these in outreach without paraphrasing.
+Inspection of VQ Solutions Ltd · 2025-07-22 · grade: **🔵 good**.
+[Full report](https://files.ofsted.gov.uk/v1/file/50282728)
 
-### Areas for improvement
+Direct quotes from the report. Use these in outreach without paraphrasing — they're exactly what the inspector wrote.
 
-> areas for improvement
-> identified at the previous inspection.
->  Leaders do not use management information
-> and data well enough to evaluate the impact of
-> actions taken to improve quality. They do not
-> have a clear view of the quality of provision or
-> the progress that apprentices make.
->  Leaders do not manage the performance of
-> assessors well enough to improve the quality of
-> teaching, learning and assessment.
->  Too many apprentices do not complete their
-> apprenticeship framework programme on time.
->
->  The quality of teaching, learning and
-> assessment is not of a consistently high
-> standard, particularly on apprenticeship
-> framework programmes. Assessors do not use
-> information about apprentices’ starting points
-> well enough to provide challenging work.
->  Apprentices do not make consistently good
-> progress in developing their English and
-> mathematical skills to a higher level.
->  Leaders and assessors do not ensure that
-> apprentices understand sufficiently the risks of
-> radicalisation and extremism.
->
-> The provider has the following strengths
->
->  Leaders and staff promote an inclusive culture;
-> apprentices are respectful and standards of
-> behaviour are high in the workplace.
->  Arrangements for implementing the
-> apprenticeship standards are progressing well.
-> Leaders have secured approval as an end-point
-> assessment centre.
->  Leaders and managers work successfully with a
-> range of employers and ensure that
-> apprenticeship programmes meet the needs of
-> the local community very well.
->  A high proportion of apprentices gain or retain
-> secure employment at the end of their
-> apprenticeship, or progress to further study.
->  Apprentices on standards programmes are
-> motivated to exceed targets; they develop skills
-> to meet current industry standards and make
-> good progress.
->  Most apprentices develop their information and
-> communication technology (ICT) skills to a high
-> standard.
->
->
->
->
->
->
->
-> Inspection report: VQ Solutions Ltd, 6–8 December 2017
->
-> Page 2 of…
+### What this provider needs to improve
 
-### What this school needs to improve
+> What does the provider need to do to improve?
+>
+>  Set clear targets for apprentices at reviews to develop their knowledge, skills and
+> behaviours, so that they understand their progress fully.
+>  Give apprentices the support they need to use the range of personal development
+> resources, so that they understand the relevance to their personal and
+> professional lives.
 
-> What does the provider need to do to improve further?
->
->  As a matter of urgency, leaders and managers should ensure that they address all the
-> areas for improvement identified at the previous inspection. In particular, they should:
-> – ensure that assessors’ feedback is clear and helpful, and that it shows apprentices
-> what they have done well and where to make improvements to their work to achieve
-> higher standards
-> – deepen apprentices’ understanding of equality and diversity, the risks associated with
-> radicalisation and extremism, and the importance of keeping safe in their everyday
-> lives
-> – evaluate the quality of teaching, learning and assessment, and apprentices’ progress,
-> more realistically, and take robust action to tackle weaker aspects
-> – increase the pace of improvement so that the proportion of apprentices who achieve
-> their apprenticeship framework within the planned timescale rapidly improves.
->
->  Managers should strengthen the analysis and reporting of apprentices’ performance, and
-> use the data that they collect to monitor and improve apprenticeship programmes. They
-> should implement swift actions to improve outcomes for underachieving groups, and
-> support apprentices who are at risk of not completing their qualification.
->  Assessors should ensure that they pay close attention to the needs of individual
-> apprentices when planning and delivering training and when assessing learning, so that
-> apprentices make the progress of which they are capable.
->  Managers should improve the development of English and mathematical skills so that a
-> greater proportion of apprentices improve their skills and achieve functional skills
-> qualifications at a higher level.
->
->
->
->
->
->
->
-> Inspection report: VQ Solutions Ltd, 6–8 December 2017
->
-> Page 3 of 9
->
->
->
->
->
-> Inspection judgements
->
-> Effectiveness of leadership and management Requires improvement
->
->  Leaders and managers have not sustained the previously good standard of provision or
-> been fully effective in…
+### Safeguarding
 
-### Recommendations
+> Safeguarding
+>
+> The arrangements for safeguarding are effective.
 
-> recommendations made at the previous inspection.
+### What is it like to be a learner here / What does the provider do well
+
+> What is it like to be a learner with this provider?
+>
+> Apprentices are highly motivated and committed to their training. They are studious
+> with their online studies and make swift progress in their training. Apprentices’
+> attendance to lessons is very high. Tutors provide very flexible arrangements if
+> apprentices are unable to attend a lesson, ensuring that they are quickly booked on
+> to a follow-up one.
+>
+> Apprentices develop their confidence significantly during their apprenticeship. Many
+> need less supervision at work as their skills deepen. Business administrator
+> apprentices working in medical centres grow in confidence when talking to patients,
+> using their newly acquired knowledge of medical terms in conversations. Apprentices
+> demonstrate a very high level of professional conduct in the workplace.
+>
+> Apprentices access helpful online resources, including videos and newsletters on
+> topics such as health and well-being. A few tutors take time to explore these
+> matters and discuss their relevance with apprentices during review meetings. For
+> example, network engineering apprentices knows how alcohol can impair their
+> performance when consumed the day before they go on shift. However, most
+> apprentices do not have these more in-depth discussions with their tutors.
+> Consequently, they do not understand fully the relevance of this information to their
+> work and personal lives.
+>
+> Apprentices feel safe and are aware of risks they may face, including when online.
+> Apprentices can articulate well the risks of radicalisation and extremism. However,
+> they are less familiar with specific risks related to their industry. For example,
+> business administrator apprentices do not understand that they may be targets for
+> those intent on disrupting workplace computer networks.
+> What does the provider do well and what does it need to do
+> better?
+>
+> Leaders and managers have constructed a curriculum offer that is relevant to meet
+> the local, regional and national employment and training priorities. They work in
+> high-growth sectors, such as network cabling, and build very successful relationships
+> with prestigious employers. Before offering an apprenticeship, leaders conduct
+> extensive research to ascertain the demand for new apprenticeships, as well as
+> identifying the additional content required beyond the requirements of the
+> apprenticeship standard.
+>
+> Managers and…
 
 ## Compliance signals
 
@@ -178,23 +125,23 @@ _No high-trigger news matched in the last extraction pass._
 
 Quotes you can drop directly into outreach. Severity drives the score.
 
-- **os.extremism** (severity 4.0, what_school_needs_to_improve)
+- **shared.wider_personal_development** (severity 4.0, what_provider_needs_to_improve)
+  > Inspection report: VQ Solutions Ltd, 23-26 June 2015 4 of 12  Although assessors give good verbal feedback, written feedback to learners is not sufficiently detailed to enable learners to understand why their work meets the required standards, how to improve their skills or to build on their success in future work.  While most learners develop confidence i
+
+- **os.extremism** (severity 4.0, what_provider_needs_to_improve)
   > In particular, they should: – ensure that assessors’ feedback is clear and helpful, and that it shows apprentices what they have done well and where to make improvements to their work to achieve higher standards – deepen apprentices’ understanding of equality and diversity, the risks associated with radicalisation and extremism, and the importance of keeping
 
-- **os.radicalisation** (severity 4.0, what_school_needs_to_improve)
+- **os.radicalisation** (severity 4.0, what_provider_needs_to_improve)
   > In particular, they should: – ensure that assessors’ feedback is clear and helpful, and that it shows apprentices what they have done well and where to make improvements to their work to achieve higher standards – deepen apprentices’ understanding of equality and diversity, the risks associated with radicalisation and extremism, and the importance of keeping
 
-- **emp.itp_off_the_job** (severity 4.0, what_school_needs_to_improve)
+- **emp.itp_off_the_job** (severity 4.0, what_provider_needs_to_improve)
   > Employers value the support that they receive and are very positive about the calibre and suitability of the apprentices that they recruit to vacancies.  Leaders and managers comply with the principles and requirements that underpin apprenticeships. Employers are well aware of their responsibilities to develop apprentices’ skills and to provide off-the-job 
 
+- **emp.careers_guidance** (severity 4.0, what_provider_needs_to_improve)
+  > What does the provider need to do to improve?  Continue to improve the support for apprentices who need to develop their mathematics knowledge and skills.  Improve the initial and ongoing careers guidance for apprentices who have been in their job roles for a significant length of time prior to commencing their apprenticeship, to enable them to see the val
+
 - **os.extremism** (severity 3.0, areas_for_improvement)
-  >  Apprentices do not make consistently good progress in developing their English and mathematical skills to a higher level.  Leaders and assessors do not ensure that apprentices understand sufficiently the risks of radicalisation and extremism. The provider has the following strengths  Leaders and staff promote an inclusive culture; apprentices are respect
-
-- **os.radicalisation** (severity 3.0, areas_for_improvement)
-  >  Apprentices do not make consistently good progress in developing their English and mathematical skills to a higher level.  Leaders and assessors do not ensure that apprentices understand sufficiently the risks of radicalisation and extremism. The provider has the following strengths  Leaders and staff promote an inclusive culture; apprentices are respect
-
-- **os.extremism** (severity 2.0, safeguarding)
-  > As a result, apprentices on standards programmes are motivated to exceed their targets; they make good progress and develop skills to current industry standards. Personal development, behaviour and welfare Requires improvement  Most apprentices do not have a sufficiently good understanding of the risks associated with radicalisation and extremism, and the i
+  > Staff have completed safeguarding training at an Inspection report: VQ Solutions Ltd, 23-26 June 2015 7 of 12 appropriate level, however, further training is scheduled to raise their awareness of how to identify and tackle extremism. Inspection report: VQ Solutions Ltd, 23-26 June 2015 8 of 12 Record of Main Findings (RMF) Provider name Inspection grades are
 
 ---
 

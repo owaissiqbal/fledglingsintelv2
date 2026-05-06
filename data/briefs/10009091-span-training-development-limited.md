@@ -1,6 +1,6 @@
 # Span Training & Development Limited
 
-**🟠 HIGH** · score **95** · urgency 55 · pipeline 100
+**🔴 CRITICAL** · score **95** · urgency 70 · pipeline 100
 
 ## Identity
 
@@ -13,12 +13,12 @@
 
 ## Lead-with curriculum
 
-**Financial Literacy** (sub-score 55)
+**Employability Skills** (sub-score 70)
 
 - Financial Literacy: 55
-- Employability Skills: 55
-- Confidence & Resilience: 55
-- Online Safety: 55
+- Employability Skills: 70
+- Confidence & Resilience: 65
+- Online Safety: 63
 
 ## Why this is on the list
 
@@ -49,11 +49,50 @@
 
 _+ 2 earlier inspections in the database._
 
-## Verbatim from the inspector
+## Verbatim from the latest inspection report
 
-Direct quotes from the latest published report. Use these in outreach without paraphrasing.
+Inspection of Span Training & Development Limited · 2023-09-18 · grade: **🟠 requires improvement**.
+[Full report](https://files.ofsted.gov.uk/v1/file/50228421)
 
-### Main findings
+Direct quotes from the report. Use these in outreach without paraphrasing — they're exactly what the inspector wrote.
+
+### What this provider needs to improve
+
+> What does the provider need to do to improve?
+>
+>  Leaders should take swift action to make sure apprentices that should have
+> achieved their apprenticeship have effective plans in place to make sure they can
+> complete their training.
+>  Leaders should implement effective processes and oversight to accurately identify
+> the quality of the provision to make sure they can identify
+
+### Areas for improvement
+
+> areas for improvement.
+>  Leaders should ensure they focus on the development of teaching skills of their
+> staff to make sure they provide high-quality training for all apprentices.
+>  Leaders should make sure English and mathematics is taught early in the
+> programme to ensure apprentices that need to achieve a qualification have
+> sufficient time before they complete their apprenticeship.
+
+### Safeguarding
+
+> Safeguarding
+>
+> The arrangements for safeguarding are effective.
+>
+> Leaders and managers have made sure they use appropriate policies and procedures
+> to help keep apprentices safe. Leaders help staff and apprentices to keep
+> themselves safe successfully. Apprentices know who to report concerns to and they
+> are confident staff will support them with any issues. Staff record, monitor and
+> action any concerns raised swiftly and involve relevant external agencies when
+> necessary.
+>
+> Apprentices understand how to keep safe from extremism and radicalisation.
+> However, they do not have a good understanding of risks in the areas in which they
+> live and work.
+
+### What is it like to be a learner here / What does the provider do well
 
 > What is it like to be a learner with this provider?
 >
@@ -86,122 +125,16 @@ Direct quotes from the latest published report. Use these in outreach without pa
 > information, advice and guidance skills coaches provide. Management apprentices
 > have useful digital resources that shows them career pathways. Hairdressing
 > apprentices benefit from useful information about the sector, industry talks from
-> experts and self-employment. Consequently, most apprentices understand what they…
-
-### What this school needs to improve
-
-> What does the provider need to do to improve?
+> experts and self-employment. Consequently, most apprentices understand what they
+> can do when they complete their apprenticeship or in the future.
 >
->  Leaders should take swift action to make sure apprentices that should have
-> achieved their apprenticeship have effective plans in place to make sure they can
-> complete their training.
->  Leaders should implement effective processes and oversight to accurately identify
-> the quality of the provision to make sure they can identify
-
-### Areas for improvement
-
-> areas for improvement.
->  Leaders should ensure they focus on the development of teaching skills of their
-> staff to make sure they provide high-quality training for all apprentices.
->  Leaders should make sure English and mathematics is taught early in the
-> programme to ensure apprentices that need to achieve a qualification have
-> sufficient time before they complete their apprenticeship.
+> What does the provider do well and what does it need to do
+> better?
 >
->
->
->
->
->
->
-> Inspection report: Span Training & Development Limited
-> 18 to 20 July 2023
-> 5
->
->
->
-> Provider details
->
-> Unique reference number 54532
->
-> Address 3 Russell Street
-> Leamington Spa
-> Warwickshire
-> CV32 5QA
->
-> Contact number 03455485100
->
-> Website www. spantraining.co.uk
->
-> Principal, CEO or equivalent Katherine North
->
-> Provider type Independent learning provider
->
-> Date of previous inspection 16 June 2014
->
-> Main subcontractors None
->
->
->
->
->
->
->
-> Inspection report: Span Training & Development Limited
-> 18 to 20 July 2023
-> 6
->
->
->
->
-> Information about this inspection
->
-> The inspection team was assisted by the Commercial Director, as nominee.
-> Inspectors took account of the provider's most recent self-assessment report and
-> development plans, and the previous inspection report. The inspection was carried
-> out using the further education and skills inspection handbook and took into account
-> all relevant provision at the provider. Inspectors collected a wide range of evidence
-> to inform judgements including visiting learning sessions, scrutinising learners' work,
-> seeking the views of learners, staff and other stakeholders, and examining the
-> provider's documentation and records.
->
-> Inspection team
->
-> Emma Barrett-Peel, lead inspector Ofsted Inspector
-> Alex Warner Ofsted Inspector
-> Maggie Fobister Ofsted Inspector
->
->
->
->
->
->
->
->
-> Inspection report: Span Training & Development Limited
-> 18 to 20 July 2023
-> 7
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
-> The Office for Standards in Education, Children's Services and Skills (Ofsted)
-> regulates and inspects to achieve excellence in…
+> Leaders and managers work well with employers to make sure apprentices develop
+> the knowledge, skills and behaviours they need to be successful at work. Skills
+> coaches collaborate with employers well to plan apprentices’ training and review
+> their developmen…
 
 ## Compliance signals
 
@@ -215,20 +148,23 @@ _No high-trigger news matched in the last extraction pass._
 
 Quotes you can drop directly into outreach. Severity drives the score.
 
-- **os.extremism** (severity 2.0, safeguarding)
-  > Apprentices know who to report concerns to and they are confident staff will support them with any issues. Staff record, monitor and action any concerns raised swiftly and involve relevant external agencies when necessary. Apprentices understand how to keep safe from extremism and radicalisation. However, they do not have a good understanding of risks in the
+- **fin_lit.economic_understanding** (severity 3.0, areas_for_improvement)
+  > Their written work is well presented and includes well-researched practical material such as draft personnel procedures or appraisal systems. Learners enjoy their programmes, and inspire colleagues to follow their quest for qualifications.  Span’s programmes are very effective in improving learners’ economic wellbeing. The company uses its good partnerships
 
-- **os.radicalisation** (severity 2.0, safeguarding)
-  > Apprentices know who to report concerns to and they are confident staff will support them with any issues. Staff record, monitor and action any concerns raised swiftly and involve relevant external agencies when necessary. Apprentices understand how to keep safe from extremism and radicalisation. However, they do not have a good understanding of risks in the
+- **emp.itp_off_the_job** (severity 3.0, areas_for_improvement)
+  > Although learners and training officers discuss targets thoroughly, the formal recording is not as clear as the conversation and some learners have to seek clarification.  Training for key skills and technical certificates is good. Learners speak highly of the effectiveness and relevance of the interesting group and individual offthe-job training. They also
 
-- **emp.itp_off_the_job** (severity 2.0, main_findings)
-  > Management apprentices benefit from useful developmental feedback that helps Inspection report: Span Training & Development Limited 18 to 20 July 2023 3 them improve their work. As a result, they produce written work at the expected level they study. Most apprentices benefit from well-planned, off-the-job training sessions with skills coaches and workplace a
+- **emp.itp_off_the_job** (severity 3.0, areas_for_improvement)
+  > Virtually all current learners have previously completed hairdressing qualifications with Span, or are working in Span’s partner salons. Five training officers, two of whom are selfemployed and have the majority of learners, visit learners at work to provide individual training, assessment and progress reviews. Additionally, group offthe-job training is held
 
-- **cr.mental_health** (severity 2.0, main_findings)
-  > Most apprentices develop the professional behaviours they need for the workplace successfully. Apprentices understand how to keep themselves healthy through useful resources and training sessions. For example, topics include alcohol awareness, National Walking Month and mental health awareness. Apprentices understand appropriately sexual consent and sexual h
+- **emp.itp_off_the_job** (severity 3.0, areas_for_improvement)
+  > In-salon trainers and assessors do not have written copies of action plans resulting from Span’s observations to help them improve. What does Span Training and Development Ltd need to do to improve further?  Make better use of the review process to ensure the timing and link between the on- and off-the-job training is better coordinated and used by in-salon
 
-- **cr.personal_development** (severity 1.0, personal_development)
-  > Personal development Good Leadership and management Requires improvement Apprenticeships Good Overall effectiveness at previous inspection Good
+- **emp.itp_off_the_job** (severity 3.0, areas_for_improvement)
+  > Where learners have in-salon assessors, they are highly motivated and encouraged to achieve quickly.  Span provides very flexible training programmes that make full use of the employers’ own training. The off-the-job training does not always link well with the practical training provided by in-salon trainers. Where this happens, learners are not always able
+
+- **emp.itp_off_the_job** (severity 3.0, areas_for_improvement)
+  > However, in-salon trainers and assessors have only a basic understanding of safeguarding, their responsibilities and Span’s role.  Learners receive good quality training. Training officers use a wide variety of strategies to motivate and interest learners during off-the-job training. This is particularly evident in key skills sessions where learners develop
 
 ---
 

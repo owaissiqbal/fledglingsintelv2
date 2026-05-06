@@ -1,6 +1,6 @@
 # Alt Valley Community Trust
 
-**🟠 HIGH** · score **95** · urgency 65 · pipeline 96
+**🔴 CRITICAL** · score **95** · urgency 70 · pipeline 96
 
 ## Identity
 
@@ -13,10 +13,10 @@
 
 ## Lead-with curriculum
 
-**Confidence & Resilience** (sub-score 65)
+**Employability Skills** (sub-score 70)
 
 - Financial Literacy: 55
-- Employability Skills: 59
+- Employability Skills: 70
 - Confidence & Resilience: 65
 - Online Safety: 63
 
@@ -46,11 +46,55 @@
 
 - [Report](https://files.ofsted.gov.uk/v1/file/2471122)
 
-## Verbatim from the inspector
+## Verbatim from the latest inspection report
 
-Direct quotes from the latest published report. Use these in outreach without paraphrasing.
+Inspection of Alt Valley Community Trust · 2023-11-15 · grade: **🟠 requires improvement**.
+[Full report](https://files.ofsted.gov.uk/v1/file/50232862)
 
-### Main findings
+Direct quotes from the report. Use these in outreach without paraphrasing — they're exactly what the inspector wrote.
+
+### What this provider needs to improve
+
+> What does the provider need to do to improve?
+>
+>  Provide detailed and accurate reports to the board that incorporate all
+> information relevant to adult learners and apprenticeships.
+>  Implement robust quality assurance processes and procedures and use these to
+> quickly rectify areas of weakness in the quality of education.
+>  Ensure that tutors provide timely and constructive developmental feedback on
+> apprentices’ and adult learners’ written work.
+>  Identify what learners and apprentices already know and can do at the start of
+> their studies and use this information to provide an individualised curriculum that
+> is ambitious for all learners and apprentices.
+>  Ensure that all learners’ and apprentices’ additional learning needs are identified
+> swiftly and effective strategies for support are implemented.
+
+### Education programmes for young people
+
+> education
+> programmes for young people from October 2023.
+>
+> At the time of the inspection, AVCT had 36 adult learners on levels 3 and 4, with
+> most enrolments in the beauty and dog grooming sectors. There were 21
+> apprentices on levels 2 to 5 with most studying at level 3. Most apprentices were
+> completing apprenticeships in early years, business and management sectors.
+
+### Safeguarding
+
+> safeguarding, online safety, radicalisation and extremism. However, apprentices and
+> learners do not benefit from ongoing discussions on topics such as how to stay
+> physically and mentally healthy.
+>
+> What does the provider do well and what does it need to do
+> better?
+>
+> Leaders and managers provide curriculums to meet local and regional needs in areas
+> of high deprivation and low aspiration. They use the key priorities for the Liverpool
+> City region to ensure that their curriculum meets learners’ and apprentices’ needs.
+> For example, leaders have introduced dog grooming courses to support local
+> residents into education and training and to support their progression into selfemployment.
+
+### What is it like to be a learner here / What does the provider do well
 
 > What is it like to be a learner with this provider?
 >
@@ -86,108 +130,6 @@ Direct quotes from the latest published report. Use these in outreach without pa
 >
 > Apprentices and learners feel safe. They complete training on topics such as
 
-### What this school needs to improve
-
-> What does the provider need to do to improve?
->
->  Provide detailed and accurate reports to the board that incorporate all
-> information relevant to adult learners and apprenticeships.
->  Implement robust quality assurance processes and procedures and use these to
-> quickly rectify areas of weakness in the quality of education.
->  Ensure that tutors provide timely and constructive developmental feedback on
-> apprentices’ and adult learners’ written work.
->  Identify what learners and apprentices already know and can do at the start of
-> their studies and use this information to provide an individualised curriculum that
-> is ambitious for all learners and apprentices.
->  Ensure that all learners’ and apprentices’ additional learning needs are identified
-> swiftly and effective strategies for support are implemented.
->
->
->
->
->
->
->
->
-> Inspection report: Alt Valley Community Trust
-> 26 to 29 September 2023
-> 6
->
->
->
-> Provider details
->
-> Unique reference number 58913
->
-> Address Altcross Road
-> Croxteth
-> Liverpool
-> L11 0BS
->
-> Contact number 0151 546 5514
->
-> Website www.altvalley.co.uk
->
-> Principal, CEO or equivalent Phil Knibb
->
-> Provider type Independent learning provider
->
-> Date of previous inspection 1 to 3 November 2016
->
-> Main subcontractors None
->
->
->
->
->
->
->
-> Inspection report: Alt Valley Community Trust
-> 26 to 29 September 2023
-> 7
->
->
->
->
-> Information about this inspection
->
-> The inspection team was assisted by the deputy chief executive, as nominee.
-> Inspectors took account of the provider’s most recent self-assessment report and
-> development plans, and the previous inspection report. The inspection was carried
-> out using the further education and skills inspection handbook and took into account
-> all relevant provision at the provider. Inspectors collected a wide range of evidence
-> to inform judgements, including visiting learning sessions, scrutinising learners’
-> work, seeking the views of learners, staff and other stakeholders, and examining the
-> provider’s documentati…
-
-### Areas for improvement
-
-> areas for improvement. The need for regular and rigorous
-> self-assessment is fully acknowledged and an imminent deadline has been set for the production
->
-> Inspection Report: Alt Valley Community Trust, 10–12 March 2015 5 of 10
->
-> of a detailed and accurate self-assessment report. The process for observing teaching, learning
-> and assessment requires improvement to ensure it evaluates the quality of apprentices’
-> experiences and to highlight the strengths and areas for improvement in the programmes.
->  Managers know that management information has not been used effectively to manage and
-> monitor the provision. For example, it was not used for producing reports for curriculum leaders
-> and tutors to enable them to identify and provide additional help to apprentices who were
-> making slower than expected progress. As a result, additional funding has been used for
-> supporting learners who were not completing their programmes within the planned time period.
-> Managers are committed to ensuring that these weaknesses are quickly eradicated.
->  Currently, the number of apprentices enrolled is very low. Consequently, government funding
-> has recently been cut and the number of apprentices that can now be recruited has been
-> reduced. Managers are very keen to promote the programmes more vigorously and are using
-> social media, as well as other more traditional means, to do so. Apprenticeship programmes are
-> seen as good progression routes for learners on study programmes and these learners are now
-> being fully informed about the benefits of becoming apprentices within the Trust.
->  The vocational specialisms have been selected to meet local and regional priorities for workforce
-> development and to appeal to apprentices. Very good relationships have been established with a
-> range of employers who offer relevant employment to apprentices and good opportunities to
-> develop their knowledge, skills and occupational competencies. Particularly good relationships
-> have recently been devel…
-
 ## Compliance signals
 
 _No public regulatory or financial-health notices on file._
@@ -200,19 +142,19 @@ _No high-trigger news matched in the last extraction pass._
 
 Quotes you can drop directly into outreach. Severity drives the score.
 
-- **os.extremism** (severity 4.0, what_school_needs_to_improve)
+- **os.extremism** (severity 4.0, what_provider_needs_to_improve)
   > Construction and hairdressing apprentices have a poorer understanding and safeguarding is not being reinforced enough in their progress reviews. However, most apprentices have insufficient information about staying safe online and preventing radicalisation, extremism and terrorism. The effectiveness of leadership and management Requires improvement  The man
 
-- **os.radicalisation** (severity 4.0, what_school_needs_to_improve)
+- **os.radicalisation** (severity 4.0, what_provider_needs_to_improve)
   > Construction and hairdressing apprentices have a poorer understanding and safeguarding is not being reinforced enough in their progress reviews. However, most apprentices have insufficient information about staying safe online and preventing radicalisation, extremism and terrorism. The effectiveness of leadership and management Requires improvement  The man
 
-- **emp.itp_off_the_job** (severity 4.0, what_school_needs_to_improve)
+- **emp.itp_off_the_job** (severity 4.0, what_provider_needs_to_improve)
   > However, apprentices in construction and hairdressing, although given information about their programme of study at induction, receive little support thereafter in making decisions regarding their career options and related study programmes.  Early years and play work apprentices develop good knowledge and understanding of equality and diversity as part of 
 
-- **emp.work_experience** (severity 4.0, what_school_needs_to_improve)
+- **emp.work_experience** (severity 4.0, what_provider_needs_to_improve)
   > Less than a quarter of 16- to 18-year-olds and approximately half of the 19- to 23year-olds complete by the planned end date. Too little attention is given to ensuring that all learners complete within the predicted time period.  Many apprentices develop good work-related knowledge and skills through effective work experience. For example, childcare apprent
 
-- **cr.self_esteem** (severity 4.0, what_school_needs_to_improve)
+- **cr.self_esteem** (severity 4.0, what_provider_needs_to_improve)
   > They become more personally and socially effective. An apprentice who lacked confidence, worried unnecessarily and had difficulty in communicating with adults has shown amazing development. Her self-confidence, self-esteem and oral Inspection Report: Alt Valley Community Trust, 10–12 March 2015 3 of 10 communication skills have improved considerably and she 
 
 - **os.extremism** (severity 3.0, areas_for_improvement)

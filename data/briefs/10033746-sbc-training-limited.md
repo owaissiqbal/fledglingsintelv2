@@ -13,10 +13,10 @@
 
 ## Lead-with curriculum
 
-**Confidence & Resilience** (sub-score 55)
+**Employability Skills** (sub-score 55)
 
 - Financial Literacy: 0
-- Employability Skills: 40
+- Employability Skills: 55
 - Confidence & Resilience: 55
 - Online Safety: 55
 
@@ -47,11 +47,32 @@
 
 _+ 4 earlier inspections in the database._
 
-## Verbatim from the inspector
+## Verbatim from the latest inspection report
 
-Direct quotes from the latest published report. Use these in outreach without paraphrasing.
+Inspection of SBC Training Limited · 2025-09-04 · grade: **🔵 good**.
+[Full report](https://files.ofsted.gov.uk/v1/file/50286016)
 
-### Main findings
+Direct quotes from the report. Use these in outreach without paraphrasing — they're exactly what the inspector wrote.
+
+### What this provider needs to improve
+
+> What does the provider need to do to improve?
+>
+>
+>  Strengthen the quality of written feedback on apprentices’ written work so that
+> they know how to improve.
+>  Improve target setting to make it specific and actionable so that apprentices are
+> challenged and supported to achieve distinction grade.
+>  Provide governors with clear and detailed data to help them understand and
+> challenge performance across subjects and apprentice groups.
+
+### Safeguarding
+
+> Safeguarding
+>
+> The arrangements for safeguarding are effective.
+
+### What is it like to be a learner here / What does the provider do well
 
 > What is it like to be a learner with this provider?
 >
@@ -90,132 +111,11 @@ Direct quotes from the latest published report. Use these in outreach without pa
 > apprenticeship.
 >
 > Leaders and managers work closely with employers to plan and sequence
-> curriculums that respon…
-
-### What this school needs to improve
-
-> What does the provider need to do to improve?
->
->
->  Strengthen the quality of written feedback on apprentices’ written work so that
-> they know how to improve.
->  Improve target setting to make it specific and actionable so that apprentices are
-> challenged and supported to achieve distinction grade.
->  Provide governors with clear and detailed data to help them understand and
-> challenge performance across subjects and apprentice groups.
->
->
->
->
->
->
->
->
->
-> Inspection report: SBC Training Limited
-> 15 to 18 July 2025
-> 5
->
->
->
-> Provider details
->
-> Unique reference number 54277
->
-> Address 19G Vanguard Way
-> Battlefield Enterprise Park
-> Shrewsbury
-> SY1 3TG
->
-> Contact number 01743 454810
->
-> Website https://www.sbc-training.co.uk/
->
-> Principal, CEO or equivalent Colin Thaw
->
-> Provider type Independent learning provider
->
-> Date of previous inspection 31 January to 3 February 2023
->
-> Main subcontractors
-> Shrewsbury Colleges Group
-> Severn Financial Training
->
->
->
->
->
->
->
-> Inspection report: SBC Training Limited
-> 15 to 18 July 2025
-> 6
->
->
->
->
-> Information about this inspection
->
-> The inspection team was assisted by the managing director, as nominee. Inspectors
-> took account of the provider's most recent self-assessment report and development
-> plans, and the previous inspection report. The inspection was carried out using the
-> further education and skills inspection handbook and took into account all relevant
-> provision at the provider. Inspectors collected a wide range of evidence to inform
-> judgements, including visiting learning sessions, scrutinising learners' work, seeking
-> the views of learners, staff and other stakeholders, and examining the provider's
-> documentation and records.
->
-> Inspection team
->
-> Rachel Clark, lead inspector His Majesty's Inspector
-> Mark Parton His Majesty's Inspector
-> Helen Kinghorn Ofsted Inspector
-> Ann Minton Ofsted Inspector
-> Jack Bullock Ofsted Inspector
->
->
->
->
->
->
->
->
-> Inspection report: SBC Training Limited
-> 15 to 18 July 2025
-> 7
->
->
->
->
->
->
-> …
-
-### Areas for improvement
-
-> areas for improvement identified in the last inspection and in previous selfassessments. Those actions taken, however, show a positive impact. Staff are fully aware and
-> supportive of the changes taking place and they recognise the benefits of the much-improved
-> communication between them and senior managers. Early indications are that regular and more
-> effective ways of working are being pursued in most of the subject areas, but are not yet having
-> sufficient impact on the provision, especially in health and social care.
->  Performance management of staff requires improvement. Professional development is beneficial,
-> staff training sessions take place regularly, and attendance is high. Strategies to improve
-> teaching and assessment are not focused sufficiently on workplace activity. The quality of
-> training varies too much across the subject areas and good practice is not shared sufficiently.
-> Managers do not have an accurate enough overview of learners’ progress to enable them to
-> target intervention at learners who are struggling to complete their frameworks. Managers are
-> now meeting with staff more frequently to monitor, record and use available information better.
-> This is starting to have an impact on timely success rates, which are improving.
->  Quality assurance arrangements have not been sufficiently effective in reducing the variations in
-> performance across programmes and in assuring the quality of the small amount of
-> subcontracted provision which is now being phased out. Learners’ and employers’ views are very
-> positive and are used appropriately to inform improvement. Managers now have a broadly
-> accurate view of performance and the improvements required. Observation of teaching, learning
-> and assessment is too focused on the process and not enough on the learning that is taking
-> place. The grades awarded in observations are often over-generous. Monitoring of quality
-> improvement is not always effectively.
->
-> Inspection report: SBC Training Limited, 8…
+> curriculums that respond to sector skills needs. In the level 3 lead adult care worker,
+> managers collaborate with care home managers to plan learning that reflects the
+> needs of care residents, including dementia, diabetes and end-of-life care.
+> Apprentices gain the specialist knowledge and skills they need to provide highquality, person-centred care. In level 2 carpentry and joinery, apprentices learn how
+> to use diff…
 
 ## Compliance signals
 
@@ -229,23 +129,23 @@ _No high-trigger news matched in the last extraction pass._
 
 Quotes you can drop directly into outreach. Severity drives the score.
 
-- **os.cyber_bullying** (severity 4.0, what_school_needs_to_improve)
-  > Learning resources are of good quality and enhance well learners’ understanding of, for example, bullying and harassment in coaching sessions. Staff provide a course to help apprentices protect themselves from cyber-bullying but their recall of what was covered is sketchy and in need of reinforcement. Administration Apprenticeships Good  The quality of teac
+- **os.extremism** (severity 4.0, what_provider_needs_to_improve)
+  >  Ensure that all staff use learning activities such as progress reviews and tutorials to develop and extend apprentices’ knowledge of British values and their understanding of the risks associated with extremism and radicalisation so that they can confidently apply this knowledge both in their workplaces and in their personal lives. Inspection Report: SBC T
 
-- **os.radicalisation** (severity 4.0, what_school_needs_to_improve)
-  >  The promotion of equality and diversity through induction and the review process is good. High- quality and challenging discussions during reviews cover a wide range of key diversity themes including radicalisation, disability, race and gender awareness. Learners and trainers have a very high level of respect for each other. The embedding of equality and d
+- **os.radicalisation** (severity 4.0, what_provider_needs_to_improve)
+  >  Ensure that all staff use learning activities such as progress reviews and tutorials to develop and extend apprentices’ knowledge of British values and their understanding of the risks associated with extremism and radicalisation so that they can confidently apply this knowledge both in their workplaces and in their personal lives. Inspection Report: SBC T
 
-- **emp.itp_assessment_weak** (severity 4.0, what_school_needs_to_improve)
-  > Managers have a productive relationship with a specialist organisation that focuses successfully on providing employment opportunities for young people who are unemployed and often hard to reach.  Initial assessment is effective at identifying learners’ attainment and includes testing for English and mathematics followed by more in-depth diagnostic testing.
-
-- **os.sexting** (severity 4.0, what_school_needs_to_improve)
+- **os.sexting** (severity 4.0, what_provider_needs_to_improve)
   >  Trainer-assessors should ensure that apprentices’ understanding of life in modern Britain and the risks associated with radicalisation and extremism is improved throughout their apprenticeship, so that apprentices can apply this to their daily lives.  Trainer-assessors should ensure that apprentices and trainees are supported to gain an understanding of h
 
-- **os.extremism** (severity 4.0, what_school_needs_to_improve)
+- **os.extremism** (severity 4.0, what_provider_needs_to_improve)
   >  Leaders and trainers-assessors should ensure that all apprentices have access to impartial careers advice, so that apprentices are aware of the full range of progression opportunities available to them.  Trainer-assessors should ensure that apprentices’ understanding of life in modern Britain and the risks associated with radicalisation and extremism is i
 
-- **os.radicalisation** (severity 4.0, what_school_needs_to_improve)
+- **os.radicalisation** (severity 4.0, what_provider_needs_to_improve)
   >  Leaders and trainers-assessors should ensure that all apprentices have access to impartial careers advice, so that apprentices are aware of the full range of progression opportunities available to them.  Trainer-assessors should ensure that apprentices’ understanding of life in modern Britain and the risks associated with radicalisation and extremism is i
+
+- **emp.careers_guidance** (severity 4.0, what_provider_needs_to_improve)
+  >  Trainer-assessors should ensure that apprentices’ progress reviews are completed consistently, so that apprentices’ next steps are identified accurately, and apprentices’ progress is carefully monitored.  Leaders and trainers-assessors should ensure that all apprentices have access to impartial careers advice, so that apprentices are aware of the full ran
 
 ---
 

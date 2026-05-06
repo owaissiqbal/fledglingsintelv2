@@ -45,10 +45,16 @@ const SECTION_LABELS: Record<string, string> = {
   areas_for_improvement: "Areas for improvement",
   significant_strengths: "Significant strengths",
   safeguarding: "Safeguarding",
-  main_findings: "Main findings",
+  main_findings: "What is it like to be a learner here / What does the provider do well",
   summary: "Summary",
   personal_development: "Personal development",
   behaviour_attitudes: "Behaviour and attitudes",
+  apprenticeships: "Apprenticeships",
+  adult_learning: "Adult learning programmes",
+  young_peoples_provision: "Education programmes for young people",
+  high_needs_provision: "Provision for learners with high needs",
+  quality_of_education: "Quality of education",
+  leadership_management: "Leadership and management",
   body: "Body text",
 };
 
@@ -106,6 +112,15 @@ async function loadDetail(id: number) {
                     'areas_for_action',
                     'areas_for_improvement',
                     'recommendations',
+                    'apprenticeships',
+                    'adult_learning',
+                    'young_peoples_provision',
+                    'high_needs_provision',
+                    'quality_of_education',
+                    'behaviour_attitudes',
+                    'personal_development',
+                    'leadership_management',
+                    'safeguarding',
                     'main_findings'
                   )
                 ORDER BY order_index ASC`,

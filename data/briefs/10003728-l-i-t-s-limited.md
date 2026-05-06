@@ -1,6 +1,6 @@
 # L.I.T.S. Limited
 
-**🟠 HIGH** · score **95** · urgency 65 · pipeline 100
+**🔴 CRITICAL** · score **95** · urgency 70 · pipeline 100
 
 ## Identity
 
@@ -13,12 +13,12 @@
 
 ## Lead-with curriculum
 
-**Confidence & Resilience** (sub-score 65)
+**Employability Skills** (sub-score 70)
 
 - Financial Literacy: 55
-- Employability Skills: 56
+- Employability Skills: 70
 - Confidence & Resilience: 65
-- Online Safety: 60
+- Online Safety: 63
 
 ## Why this is on the list
 
@@ -49,11 +49,33 @@
 
 _+ 6 earlier inspections in the database._
 
-## Verbatim from the inspector
+## Verbatim from the latest inspection report
 
-Direct quotes from the latest published report. Use these in outreach without paraphrasing.
+Inspection of L.I.T.S. Limited · 2025-07-03 · grade: **🟠 requires improvement**.
+[Full report](https://files.ofsted.gov.uk/v1/file/50281124)
 
-### Main findings
+Direct quotes from the report. Use these in outreach without paraphrasing — they're exactly what the inspector wrote.
+
+### What this provider needs to improve
+
+> What does the provider need to do to improve?
+>
+>  Improve achievement rates for the lift and escalator electromechanic
+> apprenticeship.
+>  Plan and teach the off-the-job element of the apprenticeships effectively.
+>  Give apprentices developmental feedback on their written work so they are clear
+> about what they have done well and how their work can be improved.
+>  Provide apprentices with information about their final apprenticeship assessments
+> so they are well prepared for these tests and know how to achieve distinction
+> grade.
+
+### Safeguarding
+
+> Safeguarding
+>
+> The arrangements for safeguarding are effective.
+
+### What is it like to be a learner here / What does the provider do well
 
 > What is it like to be a learner with this provider?
 >
@@ -88,127 +110,12 @@ Direct quotes from the latest published report. Use these in outreach without pa
 > better?
 >
 > Leaders have faced challenges in ensuring that apprentices complete their
-> apprenticeship once they h…
-
-### What this school needs to improve
-
-> What does the provider need to do to improve?
->
->  Improve achievement rates for the lift and escalator electromechanic
-> apprenticeship.
->  Plan and teach the off-the-job element of the apprenticeships effectively.
->  Give apprentices developmental feedback on their written work so they are clear
-> about what they have done well and how their work can be improved.
->  Provide apprentices with information about their final apprenticeship assessments
-> so they are well prepared for these tests and know how to achieve distinction
-> grade.
->
->
->
->
->
->
->
->
->
-> Inspection report: L.I.T.S. Limited
-> 20 to 22 May 2025
-> 5
->
->
->
-> Provider details
->
-> Unique reference number 53069
->
-> Address 19 Fairway
-> Orpington
-> BR5 1EF
->
-> Contact number 01689897620
->
-> Website www.lits.org.uk/
->
-> Principal, CEO or equivalent Robert Orr
->
-> Provider type Independent learning provider
->
-> Date of previous inspection 21 to 23 October 2015
->
-> Main subcontractors
-> Harlow College
-> IPS International
-> Lift and Escalator Industry Association
-> University of Northampton
-> Semester Learning and Development Ltd
->
->
->
->
->
->
->
-> Inspection report: L.I.T.S. Limited
-> 20 to 22 May 2025
-> 6
->
->
->
->
-> Information about this inspection
->
-> The inspection team was assisted by the quality manager, as nominee. Inspectors
-> took account of the provider’s most recent self-assessment report and development
-> plans, and the previous inspection report. The inspection was carried out using the
-> further education and skills inspection handbook and took into account all relevant
-> provision at the provider. Inspectors collected a wide range of evidence to inform
-> judgements including visiting learning sessions, scrutinising learners’ work, seeking
-> the views of learners, staff and other stakeholders, and examining the provider’s
-> documentation and records.
->
-> Inspection team
->
-> Ramin Narimani, lead inspector His Majesty’s Inspector
-> Penny Fawcus His Majesty’s Inspector
-> Ian Goodwin Ofsted Inspector
-> Mark Care His Majesty’s Inspector
->
->
->
-> …
-
-### Areas for improvement
-
-> areas for improvement identified in
-> previous inspection findings has been insufficient and slow. A number of key
-> areas remain critical areas for development and were identified at the two
-> previous inspections.
->  LITS gives insufficient priority to the safeguarding of its learners. The provider
-> uses clear employer pre-placement and review assessment documentation,
-> which covers health and safety comprehensively and checks that the employers
-> have equality of opportunity documentation. However, the provider does not
-> check employers’ arrangements for the safeguarding of learners.
->  LITS’ monitoring and promotion of equality and diversity are inadequate. This
-> was identified at the previous inspection. LITS’s equality and diversity policy
-> does not reflect current legislation. Learners are made aware of equality and
-> diversity at induction, but their understanding is not reinforced in their learning
-> programme. Training advisers have infrequent briefings and inadequate access
-> to good training on equality and diversity matters.
->  Insufficient systems are in place to gather feedback from learners and
-> employers. Questionnaires are occasionally sent out, but responses are very low
-> and not enough alternative ways of collecting user feedback have been
-> considered. Learners give informal feedback to their assessors on the quality of
-> their training, but this is not systematically analysed to identify strengths and
-> possible improvements to the provision.
->  Self-assessment is weak and not enough is done to quality assure key processes
-> of the learner experience, particularly aspects of the off-the-job training. The
-> underdeveloped quality-improvement process was identified as an area for
-> improvement at the previous inspections and, as yet, has not been sufficiently
-> addressed.
->
-> What does L.I.T.S. Limited need to do to improve further?
->  Ensure that all learner groups achieve within their planned time by more
-> effective planning of assessment in the workplace and…
+> apprenticeship once they have achieved the NVQ component. Until recently, too
+> many employers were satisfied for their apprentices not to complete their end-point
+> assessments, as these were not a part of their professional competency. Leaders
+> have been instrumental in working with the awarding organisation, sector bodies,
+> employers and relevant higher education institutions to bring about changes to the
+> apprenticeship …
 
 ## Compliance signals
 
@@ -222,23 +129,23 @@ _No high-trigger news matched in the last extraction pass._
 
 Quotes you can drop directly into outreach. Severity drives the score.
 
+- **emp.itp_off_the_job** (severity 4.0, what_provider_needs_to_improve)
+  > Leaders have made good progress in securing rapid improvement against most of the key areas of improvement identified at the previous inspection. However, less progress has been made in the application of quality assurance arrangements for all stages of learning, particularly for off-the-job training provided by partner colleges. Managers acknowledge this is
+
+- **emp.itp_off_the_job** (severity 4.0, what_provider_needs_to_improve)
+  > Self-assessment provides a broadly accurate picture of the quality of the provision. The self-assessment report is detailed and staff make a good contribution to its judgements. However, the quality of off-the-job training provided by partner colleges is not evaluated sufficiently and leaders and managers do not make enough use of feedback from employers and
+
+- **emp.itp_off_the_job** (severity 4.0, what_provider_needs_to_improve)
+  >  Ensure that leaders and managers quickly develop and implement a detailed service-level agreement that clearly sets out L.I.T.S.’ expectations about the quality of training for all of its learners whose off-the-job training takes place at partner colleges; ensure that partner colleges are held to good account through regular communications, and take robust
+
+- **emp.itp_off_the_job** (severity 4.0, what_provider_needs_to_improve)
+  > What does the provider need to do to improve?  Ensure that general engineering training that apprentices have as part of the offthe-job training has greater relevance to the lift and escalator industries.  Ensure that training assessors consistently help apprentices to understand the areas they need to work on to improve. Inspection report: L.
+
 - **emp.itp_off_the_job** (severity 3.0, areas_for_improvement)
   > Learners give informal feedback to their assessors on the quality of their training, but this is not systematically analysed to identify strengths and possible improvements to the provision.  Self-assessment is weak and not enough is done to quality assure key processes of the learner experience, particularly aspects of the off-the-job training. The underde
 
 - **emp.work_experience** (severity 3.0, areas_for_improvement)
   > Summary of the views of users as confirmed by inspectors What learners like:  the level of support from employers and LITS advisers  the variety of jobs and learning new skills  the high levels of work experience and job knowledge of training advisers  the opportunity to gain new skills and additional awards and progress to higher qualifications  the de
-
-- **emp.careers_guidance** (severity 3.0, areas_for_improvement)
-  > Care, guidance and support are inadequate with many learners making slow progress and those with identified literacy and numeracy needs are poorly provided for. All learners are employed and most employers give adequate time for learners to complete their portfolios and meet with their assessor. Arrangements for careers advice and guidance are too informal. 
-
-- **shared.diversity** (severity 2.0, what_school_needs_to_improve)
-  > Managers do not routinely observe all aspects of teaching, learning and assessment and do not have sufficient information to make improvements.  All training advisers have recently received particularly effective training to ensure that learners are encouraged to explore areas of equality and diversity. Equality and diversity discussions feature strongly at
-
-- **shared.diversity** (severity 2.0, what_school_needs_to_improve)
-  > Training advisers support learners to understand equality and diversity well. Training advisers use current news stories and work-related topics to ensure that learners understand the relevance of equality and diversity to their working environment. Learners demonstrate excellent behaviour and respect their peers, customers, employers and training advisers. 
-
-- **shared.diversity** (severity 2.0, what_school_needs_to_improve)
-  > Most learners start the course with high-level mathematical and English skills.  Learners feel safe at work and have a good understanding of their rights and responsibilities. Training advisers support learners to understand equality and diversity well. Training advisers use current news stories and work-related topics to ensure that learners understand the
 
 ---
 

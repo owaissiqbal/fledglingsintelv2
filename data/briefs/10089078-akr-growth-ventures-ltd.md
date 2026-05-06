@@ -43,9 +43,12 @@
 - Safeguarding: Met
 - [Report](https://reports.ofsted.gov.uk/provider/33/2765310)
 
-## Verbatim from the inspector
+## Verbatim from the latest inspection report
 
-Direct quotes from the latest published report. Use these in outreach without paraphrasing.
+Inspection of AKR Growth Ventures Ltd · 2025-11-12 · grade: **🟠 requires improvement**.
+[Full report](https://reports.ofsted.gov.uk/provider/33/2765310)
+
+Direct quotes from the report. Use these in outreach without paraphrasing — they're exactly what the inspector wrote.
 
 ### Areas for improvement
 
@@ -79,12 +82,71 @@ Direct quotes from the latest published report. Use these in outreach without pa
 > Georgina Ager, His Majesty's Inspector
 > Paul Manning, His Majesty's Inspector
 > Facts and figures used on inspection
-> The data was used by the inspector(s) during the inspection. More recent data may have
-> been published since the inspection took place.
-> This data is from 12 November 2025
-> Number of learners
-> Total learners
-> 22…
+> The da…
+
+### Apprenticeships
+
+> Apprenticeships
+> 22
+> Our grades explained
+> Exceptional
+> Practice is exceptional: of the highest standard nationally. Other providers can learn from it.
+> Strong standard
+> The provider reaches a strong standard. Leaders are working above the standards expected
+> of them.
+> Expected standard
+> The provider is fulfilling the expected standard of education and/or care. This means they
+> are following the standards set out in statutory and non-statutory legislation and the
+> professional standards expected of them.
+> Needs attention
+> The expected standards are not met but leaders are likely able to make the necessary
+> improvements.
+> Urgent improvement
+> The provider needs to make urgent improvements to provide the expected standard of
+> education and/or care.
+>
+> The Office for Standards in Education, Children's Services and Skills (Ofsted) inspects
+> services providing education and skills for children and learners of all ages, and inspects
+> and regulates services that care for children and young people.
+> If you would like a copy of this document in a different format, such as large print or Braille,
+> please telephone 0300 123 1231, or email enquiries@ofsted.gov.uk.
+> You may reuse this information (not including logos) free of charge in any format or medium,
+> under the terms of the Open Government Licence. To view this licence, visit
+> www.nationalarchives.gov.uk/doc/open-government-licence, write to the Information Policy
+> Team, The National Archives, Kew, London TW9 4DU, or email:
+> psi@nationalarchives.gsi.gov.uk.
+
+### Safeguarding
+
+> Safeguarding standards met
+> The safeguarding standards are met. This means that leaders and/or those responsible for
+> governance and oversight fulfil their specific responsibilities and have established an open
+> culture in which safeguarding is everyone's responsibility and concerns are actively
+> identified, acted upon and managed. As a result, learners are made safer and feel safe.
+> How we evaluate safeguarding
+> When we inspect providers for safeguarding, they can have the following outcomes:
+> Met: The provider has an open and positive culture of safeguarding.
+> Not met: The provider has not created an open and positive culture of safeguarding. Not
+> all legal requirements are met.
+>
+> 1. Inclusion, and leadership and governance
+> Needs attention
+> Needs attention
+> Inclusion
+> Needs attention
+> Leaders have only recently sought out specialist expertise to understand fully and support
+> apprentices’ individual needs. Their processes to record and review the support they provide
+> to apprentices, who have declared special educational needs and/or disabilities (SEND) at
+> enrolment, are not effective enough. Very recent applicants have had their needs assessed.
+> However, it is too early to fully appreciate how leaders will use this information to plan
+> individualised support for apprentices. Leaders have started to provide teaching staff
+> training to recognise and support apprentices with challenges associated with SEND.
+> Teachers make some appropriate adjustments to remove barriers to learning. For example,
+> they provide extra one-to-one meetings, additional teaching sessions, and allow more time
+> for assignment submission.
+> Leaders are supportive of apprentices' well-being needs. They support apprentices who
+> need personal support or are anxious about elements of the apprenticeship effectively. They
+> identi…
 
 ## Compliance signals
 

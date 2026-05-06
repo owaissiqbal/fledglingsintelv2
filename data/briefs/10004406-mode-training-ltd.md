@@ -1,6 +1,6 @@
 # Mode Training Ltd
 
-**🟠 HIGH** · score **95** · urgency 55 · pipeline 100
+**🟠 HIGH** · score **95** · urgency 69 · pipeline 100
 
 ## Identity
 
@@ -13,12 +13,12 @@
 
 ## Lead-with curriculum
 
-**Financial Literacy** (sub-score 55)
+**Employability Skills** (sub-score 69)
 
 - Financial Literacy: 55
-- Employability Skills: 55
-- Confidence & Resilience: 55
-- Online Safety: 55
+- Employability Skills: 69
+- Confidence & Resilience: 65
+- Online Safety: 63
 
 ## Why this is on the list
 
@@ -48,11 +48,26 @@
 
 _+ 3 earlier inspections in the database._
 
-## Verbatim from the inspector
+## Verbatim from the latest inspection report
 
-Direct quotes from the latest published report. Use these in outreach without paraphrasing.
+Inspection of Mode Training Ltd · 2025-07-22 · grade: **🟠 requires improvement**.
+[Full report](https://files.ofsted.gov.uk/v1/file/50282763)
 
-### Main findings
+Direct quotes from the report. Use these in outreach without paraphrasing — they're exactly what the inspector wrote.
+
+### What this provider needs to improve
+
+> What does the provider need to do to improve?
+>
+>  Improve apprentices’ attendance and punctuality to training.
+
+### Safeguarding
+
+> Safeguarding
+>
+> The arrangements for safeguarding are effective.
+
+### What is it like to be a learner here / What does the provider do well
 
 > What is it like to be a learner with this provider?
 >
@@ -85,125 +100,13 @@ Direct quotes from the latest published report. Use these in outreach without pa
 > shortages of hairdressers in Liverpool. They work with employers to develop and
 > adapt curriculums that meet changing employment trends and the needs of clients,
 > apprentices and employers across the city region. However, leaders have not
-> ensured a consistently high-quality trainin…
-
-### What this school needs to improve
-
-> What does the provider need to do to improve?
->
->  Improve apprentices’ attendance and punctuality to training.
->
->
->
->
->
->
-> Inspection report: Mode Training Ltd
-> 23 to 25 June 2025
-> 4
->
->
->  Provide effective support to apprentices so that those who fall behind catch up
-> quickly.
->  Increase the proportion of apprentices who complete and achieve their
-> apprenticeship on time.
->  Increase the proportion of apprentices who achieve their functional skills
-> qualifications earlier in their apprenticeship.
->
->
->
->
->
->
->
-> Inspection report: Mode Training Ltd
-> 23 to 25 June 2025
-> 5
->
->
->
-> Provider details
->
-> Unique reference number 53411
->
-> Address Ground Floor
-> The Secret Warehouse
-> Syren Street
-> Liverpool
-> L20 8HN
->
-> Contact number 0151 709 4640
->
-> Website www.modetraining.co.uk
->
-> Principal, CEO or equivalent Debbie Carney
->
-> Provider type Independent learning provider
->
-> Date of previous inspection
-> 26 February to 1 March and 9 to 10 May
-> 2019
->
-> Main subcontractors None
->
->
->
->
->
->
->
-> Inspection report: Mode Training Ltd
-> 23 to 25 June 2025
-> 6
->
->
->
->
-> Information about this inspection
->
-> The inspection team was assisted by the director, as nominee. Inspectors took
-> account of the provider’s most recent self-assessment report and development
-> plans, and the previous inspection report. The inspection was carried out using the
-> further education and skills inspection handbook and took into account all relevant
-> provision at the provider. Inspectors collected a wide range of evidence to inform
-> judgements, including visiting learning sessions, scrutinising learners’ work, seeking
-> the views of learners, staff and other stakeholders, and examining the provider’s
-> documentation and records.
->
-> Inspection team
->
-> Alastair Mollon, lead inspector His Majesty’s Inspector
-> Alison Cameron Brandwood His Majesty’s Inspector
-> Anita Pyrkotsch-Jones His Majesty’s Inspector
->
->
->
->
->
->
->
->
-> Inspection report: Mode Training Ltd
-> 23 to 25 June 2025
-> 7
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
-> …
+> ensured a consistently high-quality training experience for all apprentices.
+>
+> Leaders have been too slow to rectify the slow progress that apprentices make. In
+> 2023/24, just over half of apprentices did not achieve their apprenticeship. Although
+> leaders have recently implemented effective performance management and
+> increased the pace of improvement, still too few apprentices complete their
+> apprenticeship on time. Leaders have not bee…
 
 ## Compliance signals
 
@@ -217,23 +120,23 @@ _No high-trigger news matched in the last extraction pass._
 
 Quotes you can drop directly into outreach. Severity drives the score.
 
-- **cr.behaviour_attitudes_concern** (severity 3.0, behaviour_attitudes)
-  > Behaviour and attitudes Requires improvement
+- **cr.attendance_poor** (severity 3.0, safeguarding)
+  > Tutors reinforce apprentices’ understanding regularly and make effective links to current events. For example, in a tutorial session apprentices discussed recent terrorist attacks in New Zealand.  In a minority of lessons, attendance is too low, despite leaders’ and managers’ efforts to improve it. This is particularly the case for adult learners studying h
 
-- **emp.itp_off_the_job** (severity 2.0, main_findings)
-  > Apprentices benefit from bespoke adaptations including additional time, time out and the use of assistive technologies to make learning accessible. Apprentices with barriers to learning achieve in line with their peers. Tutors plan and coordinate on- and off-the-job training effectively with employers. Apprentices practise at work the skills that they learn 
+- **emp.itp_off_the_job** (severity 3.0, adult_learning)
+  > They provide a clear outline of the expectations they have of employers and support them well to meet these standards. Leaders do not hesitate to stop working with employers who are not committed to, for example, enabling enough off-the-job training for apprenticeships.  Leaders know the strengths and development needs of their staff. Leaders support staff 
 
-- **emp.itp_off_the_job** (severity 2.0, main_findings)
-  > On completion of their apprenticeship, apprentices work as stylists, move on to further training or become self-employed. While many apprentices come from disadvantaged backgrounds and have barriers to learning, too few apprentices regularly attend their training. Attendance at off-thejob training is too low, and too many apprentices arrive late. Apprentices
+- **cr.mental_health** (severity 3.0, adult_learning)
+  >  Support for apprentices who have personal or emotional needs is very effective in helping Inspection report: Mode Training Ltd, 26 February–10 May 2019 Page 4 of 9 vulnerable individuals to stay on their course. Apprentices who are children looked after or care leavers receive additional help, for example guidance about financial issues. Staff refer appren
 
-- **cr.mental_health** (severity 2.0, main_findings)
-  > They develop skills in cutting, including short cuts and razor cutting on mid-length hair to achieve a shaggy textured finish around the face. Apprentices develop competence and confidence working on a range of different clients. Apprentices benefit from useful ‘better you’ seminars, where they learn about topics such as mindset, mental health and healthy re
+- **emp.itp_off_the_job** (severity 2.0, safeguarding)
+  > The high standards of learners’ work and the good progress they make. The excellent support and commitment provided to learners on the 14 to 16 programme to help them succeed. What employers would like to see improved: The insufficient access to a formal off-the-job training schedule so that employers can link their training more closely to topics covered
 
-- **shared.healthy_relationships** (severity 1.0, main_findings)
-  > Apprentices develop competence and confidence working on a range of different clients. Apprentices benefit from useful ‘better you’ seminars, where they learn about topics such as mindset, mental health and healthy relationships. Tutors make topics relatable to apprentices’ lives and circumstances. Apprentices take part in styling competitions, trips to exhi
+- **cr.self_esteem** (severity 2.0, safeguarding)
+  > The acknowledgment and celebration of learners’ hairdressing skills are good and demonstrated by displaying only learners’ high quality work around the centre. Commercial standard poster sized photographs of learners’ work produced by a professional photographer are displayed naming the learner that produced the image. Learners’ self-esteem and pride in them
 
-- **emp.itp_off_the_job** (severity 1.0, summary)
-  > Information about this provider Mode Training Ltd (MTL) is an independent learning provider based in Liverpool. It provides apprenticeship training in the level 2 hairdressing professional and level 3 advanced and creative hair professional apprenticeships. Apprentices attend their off-the-job training one day a week at the training centre in Bootle. At the 
+- **os.online_grooming** (severity 2.0, safeguarding)
+  > For example, sales apprentices demonstrate respect when making cold calls to customers.  Apprentices and learners feel safe and know how to report any concerns they may have. They know how to keep themselves safe and understand the risks of online grooming and bullying. Apprentices work safely, in line with professional standards. They demonstrate good prac
 
 ---
 

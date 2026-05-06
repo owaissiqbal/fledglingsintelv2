@@ -1,6 +1,6 @@
 # North Lancs. Training Group C.I.C.
 
-**🟠 HIGH** · score **95** · urgency 56 · pipeline 100
+**🔴 CRITICAL** · score **95** · urgency 70 · pipeline 100
 
 ## Identity
 
@@ -13,12 +13,12 @@
 
 ## Lead-with curriculum
 
-**Employability Skills** (sub-score 56)
+**Employability Skills** (sub-score 70)
 
 - Financial Literacy: 55
-- Employability Skills: 56
-- Confidence & Resilience: 55
-- Online Safety: 55
+- Employability Skills: 70
+- Confidence & Resilience: 65
+- Online Safety: 63
 
 ## Why this is on the list
 
@@ -49,11 +49,40 @@
 
 _+ 4 earlier inspections in the database._
 
-## Verbatim from the inspector
+## Verbatim from the latest inspection report
 
-Direct quotes from the latest published report. Use these in outreach without paraphrasing.
+Inspection of North Lancs. Training Group C.I.C. · 2023-10-19 · grade: **🟠 requires improvement**.
+[Full report](https://files.ofsted.gov.uk/v1/file/50231101)
 
-### Main findings
+Direct quotes from the report. Use these in outreach without paraphrasing — they're exactly what the inspector wrote.
+
+### What this provider needs to improve
+
+> What does the provider need to do to improve?
+>
+>  Improve attendance of learners on education programmes for young people.
+>  Improve coordination of on- and off-the-job training for business administrator
+> and operations or departmental apprentices.
+>  Use information on what learners and apprentices already know and can do at the
+> start of their programme to plan an ambitious curriculum.
+>  Improve feedback given to operational or departmental manager apprentices to
+> ensure that work produced is of the expected standard.
+>  Improve the careers information, advice and guidance that learners and
+> apprentices receive so they are aware of the further study and career options
+> available to them.
+>  Establish robust quality assurance processes so that leaders make swift progress
+> to improve apprentices’ and learners’ learning experience.
+>  Provide accurate and useful reports to the board that include all information
+> relevant to apprenticeships and education programmes for young people so that
+> the board can provide effective scrutiny and challenge.
+
+### Safeguarding
+
+> Safeguarding
+>
+> The arrangements for safeguarding are effective.
+
+### What is it like to be a learner here / What does the provider do well
 
 > What is it like to be a learner with this provider?
 >
@@ -91,87 +120,13 @@ Direct quotes from the latest published report. Use these in outreach without pa
 > better?
 >
 > Leaders do not design ambitious curriculums for most learners. Tutors do not use
-> information about what learners…
-
-### Areas for improvement
-
-> areas for improvement at NLTG.
-
-### What this school needs to improve
-
-> What does the provider need to do to improve?
+> information about what learners already know and can do to plan an individualised
+> learning programme. All learners follow the same curriculum and, in a few cases,
+> repeat the same learning. As a result, learners do not develop the knowledge, skills
+> and behaviours to progress to employment or further education and training.
 >
->  Improve attendance of learners on education programmes for young people.
->  Improve coordination of on- and off-the-job training for business administrator
-> and operations or departmental apprentices.
->  Use information on what learners and apprentices already know and can do at the
-> start of their programme to plan an ambitious curriculum.
->  Improve feedback given to operational or departmental manager apprentices to
-> ensure that work produced is of the expected standard.
->  Improve the careers information, advice and guidance that learners and
-> apprentices receive so they are aware of the further study and career options
-> available to them.
->  Establish robust quality assurance processes so that leaders make swift progress
-> to improve apprentices’ and learners’ learning experience.
->  Provide accurate and useful reports to the board that include all information
-> relevant to apprenticeships and education programmes for young people so that
-> the board can provide effective scrutiny and challenge.
->
->
->
->
->
->
->
-> Inspection report: The North Lancs. Training Group Limited
-> 12 to 15 September 2023
-> 5
->
->
->
-> Provider details
->
-> Unique reference number 53588
->
-> Address Bradshawgate House
-> 1 Oak Street
-> Accrington
-> Lancashire
-> BB5 1EQ
->
-> Contact number 01254 397119
->
-> Website www.nltg.co.uk
->
-> Managing director Gareth Lindsay
->
-> Provider type Independent learning provider
->
-> Date of previous inspection 26 to 27 November 2019
->
-> Main subcontractors
-> Preston college
-> Blackpool and the Fylde college
-> Nelson and Colne college
->
->
->
->
->
->
->
-> Inspection report: The North Lancs. Training Group Limited
-> 12 to 15 September 2023
-> 6
->
->
->
-> Information about this inspection
->
-> The inspection team was assisted by the quality manager, as nominee. Inspectors
-> took account of the provider’s most recent self-assessment report and development
-> plans, and the previous inspection report. The inspection was carried out using the
-> further ed…
+> Leaders have developed apprenticeship curriculums to support employers with skills
+> shortages in key …
 
 ## Compliance signals
 
@@ -185,23 +140,23 @@ _No high-trigger news matched in the last extraction pass._
 
 Quotes you can drop directly into outreach. Severity drives the score.
 
-- **emp.itp_off_the_job** (severity 4.0, what_school_needs_to_improve)
+- **emp.itp_skills_knowledge_gaps** (severity 4.5, areas_for_improvement)
+  > The vast majority of learners develop their English and mathematical skills and successfully achieve their functional skills qualifications.  Excellent partnerships with Jobcentre Plus are highly successfully in planning a curriculum that meets local needs and fills skill gaps. For example, a 10-day course leading to an award in hospitality and catering at 
+
+- **emp.preparation_for_work** (severity 4.5, areas_for_improvement)
+  >  Although leaders and managers analyse a wide range of data, this does not always result in effective action-planning to track learners who leave their programmes early or help to narrow the achievement gaps between different groups of learners. Inspection report: North Lancs Training Group, 10–13 November 2015 Page 6 of 11 Types of provision 16–19 study pr
+
+- **os.radicalisation** (severity 4.0, what_provider_needs_to_improve)
+  > Teachers who have considerable industrial and business experience demand safe working practices of all apprentices and learners. Consequently, learners’ and apprentices’ awareness of health and safety is sound. Learners and apprentices feel safe. The arrangements to ensure learners’ and apprentices’ safety from harm and radicalisation are particularly well d
+
+- **emp.itp_off_the_job** (severity 4.0, what_provider_needs_to_improve)
+  >  Most learners receive very good support from their vocational teachers, both on- and off-the-job, to enable them to make progress and flourish within their chosen career. Vocational teachers are well qualified and have relevant industrial, commercial and professional experience which they use extremely effectively when coaching learners. A small minority o
+
+- **emp.itp_off_the_job** (severity 4.0, what_provider_needs_to_improve)
   > What does the provider need to do to improve?  Improve attendance of learners on education programmes for young people.  Improve coordination of on- and off-the-job training for business administrator and operations or departmental apprentices.  Use information on what learners and apprentices already know and can do at the start of their programme to pla
 
-- **emp.itp_apprentices_progress_slow** (severity 3.0, main_findings)
-  > However, tutors who teach on education programmes for young people and business administrator apprenticeships do not use assessment to identify misconceptions and gaps in knowledge. As a result, too many learners and apprentices make slow progress in their studies. Most apprentices are prepared well for their final assessments. They complete mock tasks and p
-
-- **cr.attendance_poor** (severity 3.0, main_findings)
-  > During classroom and workshop sessions, they demonstrate high levels of respect. Learners benefit from working in small groups in a highly supportive environment. They enjoy their sessions and contribute effectively to group discussions. However, learners’ attendance is too low. Leaders do not set ambitious enough targets for attendance. Consequently, learne
-
-- **cr.personal_development_strengthen** (severity 3.0, personal_development)
-  > Personal development Requires improvement Leadership and management Requires improvement Education programmes for young people Requires improvement Apprenticeships Requires improvement Overall effectiveness at previous inspection Good
-
-- **cr.behaviour_attitudes_concern** (severity 3.0, behaviour_attitudes)
-  > Behaviour and attitudes Requires improvement
-
-- **emp.careers_information** (severity 2.0, what_school_needs_to_improve)
-  >  Use information on what learners and apprentices already know and can do at the start of their programme to plan an ambitious curriculum.  Improve feedback given to operational or departmental manager apprentices to ensure that work produced is of the expected standard.  Improve the careers information, advice and guidance that learners and apprentices r
+- **fin_lit.budgeting** (severity 3.0, apprenticeships)
+  > Some examples of good skills development include improved financial understanding of budgeting and renting a house or flat. In one of the good sessions, the tutor checked the learners’ understanding in a very sympathetic way and introduced the topic of careful budgeting and estimating. Many learners have very poor experiences of learning. In another good ses
 
 ---
 

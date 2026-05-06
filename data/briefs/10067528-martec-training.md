@@ -47,145 +47,74 @@
 
 _+ 7 earlier inspections in the database._
 
-## Verbatim from the inspector
+## Verbatim from the latest inspection report
 
-Direct quotes from the latest published report. Use these in outreach without paraphrasing.
+Inspection of Martec Training · 2024-04-02 · grade: **🔵 good**.
+[Full report](https://files.ofsted.gov.uk/v1/file/50243242)
 
-### Main findings
+Direct quotes from the report. Use these in outreach without paraphrasing — they're exactly what the inspector wrote.
 
-> What is it like to be a learner with this provider?
->
-> Apprentices receive a very disrupted experience. They have gone through significant
-> changes in who teaches them. Apprentices do not experience a well-planned
-> programme that develops the knowledge, skills and behaviours that they need.
-> Senior leaders and tutors do not make sure that all apprentices have sufficient
-> access to all areas of vehicle maintenance and repair, so that they develop well
-> enough the knowledge, skills and behaviours needed to work in this industry.
->
-> Learners and apprentices do not routinely receive useful and precise feedback on
-> their work. Tutors do not use the information from assessments to plan well enough
-> what they need to revisit with learners. Tutors do not set clear targets for learners.
-> Learners are not always clear on what they need to do to improve the standard of
-> their work.
->
-> Although learners and apprentices do develop some new knowledge, skills and
-> behaviours, tutors do not support learners well enough to develop their knowledge,
-> skills and behaviours above what is required to pass their qualification. Tutors do not
-> support learners well enough to improve their skills, so that learners develop fluency
-> in their skills over time.
->
-> Senior leaders and tutors have not reviewed systematically the impact of the COVID-
-> 19 pandemic on the development of learners’ and apprentices’ knowledge, skills and
-> behaviours. They have not identified well enough what learners already know and
-> can do, so that tutors can identify any misconceptions that learners have. Tutors do
-> not plan learning well enough to tackle any gaps in learners’ knowledge.
->
-> Learners who have additional learning needs, including those learners who have
-> ECH plans, are supported well to improve their skills for independent living. For
-> example, learners develop their understanding of how to budget more effectively
-> and to shop, prepare and cook basic meals. Learners find these new skills useful.
-> They he…
-
-### What this school needs to improve
+### What this provider needs to improve
 
 > What does the provider need to do to improve?
 >
->  Senior leaders and tutors must urgently improve the quality of apprenticeship
-> provision. Managers should ensure that tutors involved in apprenticeships plan
-> and carry out regularly monitoring of apprentices’ progress towards end-point
-> assessment targets, intervening swiftly and providing extra support in conjunction
-> with employers where necessary. They need to ensure that on-the-job training
-> and off-the-job training are closely linked.
->  Senior leaders and tutors must improve how well tutors use the information they
-> receive about what learners and apprentices already know and can do at the
-> beginning of their programme, so that tutors plan learning more effectively,
-> leading to learners’ and apprentices’ more rapid progress from their starting
-> points.
->  Senior leaders and tutors must improve how well they track the progress that
-> learners and apprentices are making based on learners’ progress in the
-> acquisition of knowledge, skills and behaviours, rather than on the completion of
-> assignments and units.
->  Senior leaders must improve the development of learners’ and apprentices’
-> English and mathematics. Where they are not making the expected progress,
-> tutors must plan more clearly how they are going to support learners and
-> apprentices to get back on track.
->  Senior leaders need to improve the thoroughness and precision of their quality
-> improvement processes to bring about the required improvements in the quality
-> of education that learners and apprentices receive.
->
->
->
->
->
->
-> Inspection report: Martec Training
-> 3–5 November 2021
-> 6
->
->
->  Senior leaders and tutors need to develop learners’ and apprentices’ secure
-> understanding of healthy and positive relationships.
->
->
->
->
->
->
->
-> Inspection report: Martec Training
-> 3–5 November 2021
-> 7
->
->
->
-> Provider details
->
-> Unique reference number 53259
->
-> Address London Road
-> Newcastle-under-Lyme
-> ST5 1LZ
->
-> Contact number 01782 717272
->
-> Website www.martectra…
+>  Improve the quality and rigour of written feedback that learners and apprentices
+> receive to ensure they are fully aware of the actions they need to take to improve
+> their work in the future.
+>  Improve engagement in activities which serve to extend learners’ and apprentices’
+> personal development beyond that of the taught curriculum.
+>  Improve the support offered to those apprentices who are exempt from studying
+> English and mathematics qualifications as part of their apprenticeship, so that
+> they better develop their everyday English and mathematics skills.
+>  Further improve quality assurance processes so that they are used to fully assess
+> the impact on learners’ and apprentices’ skills development over time.
 
-### Recommendations
+### Safeguarding
 
-> recommendations from the previous inspection. Senior leaders and governors do not
-> evaluate the quality of provision well enough. They have not yet acted convincingly to
-> improve teaching, learning and assessment.
->  Senior leaders and governors do not receive reports to enable them to monitor the quality
-> of provision. Governors and senior leaders do not receive information on the strengths
-> and
+> Safeguarding
+>
+> The arrangements for safeguarding are effective.
 
-### Areas for improvement
+### What is it like to be a learner here / What does the provider do well
 
-> areas for improvement. They are not able to prioritise improvement needs and in
-> particular to improve the quality of teaching, learning and assessment.
->  Senior leaders and managers do not yet use self-assessment and quality improvement
-> well enough to identify areas for improvement. Leaders and managers have set targets to
-> improve pass rates, attendance on programme and the numbers of learners completing
-> work placements. They have not set targets to improve the quality of teaching, learning
-> and assessment, or the progress that learners make on their programme.
->  Managers do not use the information from observations of teaching, learning and
-> assessment to drive improvements. Areas noted for development during observation too
-> frequently remain unaddressed. Managers do not recognise the areas for improvement
-> identified by inspectors during this inspection in teaching, learning and assessment.
-> Managers do not plan for formal actions through performance management to drive
-> improvement. Managers do not plan sufficiently well support or training for teachers to
-> improve their skills.
->  Senior leaders plan the curriculum to meet closely local training needs. Senior leaders
-> work well with local employers and partners, including the Staffordshire Partnership for
-> Employment and Skills (SPES). Managers are developing training in new technologies
-> within the motor industry. Staff are delivering training for local providers and employers in
-> hybrid electric vehicle operations and maintenance. Managers are planning to deliver level
-> 1 body and paint programmes in response to employers’ needs. The introduction of
-> traineeships and apprenticeships provides appropriate progression routes for learners.
->  Leaders and managers have improved the provision for English and mathematics. Staff
-> identify learners’ starting points accurately through assessment. Learners are on the right
-> level of programme. Managers have improved the pass rates for learners on their GCSE
-> Engli…
+> What is it like to be a learner with this provider?
+>
+> Learners and apprentices enjoy their learning. They improve their motivation
+> because of their studies, and they value greatly the support they receive from
+> provider staff. Learners and apprentices have access to additional one-to-one
+> support from external motivational coaches to improve their motivation and ambition
+> further.
+> Learners and apprentices have positive attitudes to their education and training.
+> They are proud of the work they produce, and what they can do. Those learners and
+> apprentices who were previously disengaged with education develop resilience and
+> determination to achieve.
+> Learners and apprentices work well together. Tutors ensure that learners and
+> apprentices understand the importance of collaboration, they respect each other’s
+> opinions, and feel able to make positive contributions to group activities and
+> discussions.
+> Learners and apprentices learn to prioritise and improve their mental and physical
+> health. Tutors provide effective support for those learners who need to overcome
+> anxiety and stress. Learners and apprentices develop a clear understanding of the
+> importance of self-regulating their behaviours.
+> Learners and apprentices learn how to improve their personal safety further. They
+> understand the dangers of peer-on-peer abuse and grooming. They know and
+> appreciate how to stay safe online, as well as the risks they may face in their
+> locality, for example the dangers associated with localised protests and the
+> importance of civilised behaviours.
+> Learners and apprentices have access to a wide range of activities which serve to
+> enrich the curriculums that they study. For example, learners collect donations for
+> local food banks and a local animal trust. Similarly, catering learners bake cakes to
+> fundraise for a local cancer charity. However, the number of learners and
+> apprentices who engage frequently with these activities is not consistently high.
+>
+> What does the provider do well and what does it need to do
+> better?
+>
+> Leaders and managers are very clear on what their curriculums set out to achieve.
+> They select and develop curriculums which serve to widen participation for those
+> learners and apprentices whose prior experiences of education have been poor.
+> Leaders work with stakeholders, such as local authorities, to ensure that the
+> curriculums offered mee…
 
 ## Compliance signals
 
@@ -200,23 +129,23 @@ _(1 low-signal items in DB.)_
 
 Quotes you can drop directly into outreach. Severity drives the score.
 
-- **emp.work_experience** (severity 4.0, what_school_needs_to_improve)
+- **emp.itp_off_the_job** (severity 4.0, what_provider_needs_to_improve)
+  >  Increase the number of learners who achieve qualifications in English and ICT by: – Identifying learners’ individual needs thoroughly – Providing teaching, learning and support to meet those needs.  Improve arrangements to help learners develop their employability skills by: – Incorporating more employability skills topics into the off-the-job training pr
+
+- **emp.work_experience** (severity 4.0, what_provider_needs_to_improve)
+  >  Learners develop good practical skills and progress well given their starting points. Many are able quickly to apply their new knowledge to undertake basic motor vehicle maintenance and repair tasks both at Martec and in work experience placements. Learners are confident in Inspection report: Martec Training 10–13 December 2013 3 of 10 planning and complet
+
+- **emp.work_experience** (severity 4.0, what_provider_needs_to_improve)
   >  Develop the traineeship programme and other vocational elements of the study programme so that the most able learners identified at initial assessment of their starting points progress more quickly to apprenticeships or undertake higher levels of learning.  Improve the work-readiness of learners. Plan for all learners to complete work experience Inspectio
 
-- **os.extremism** (severity 4.0, what_school_needs_to_improve)
+- **os.extremism** (severity 4.0, what_provider_needs_to_improve)
   >  Improve teachers’ feedback to learners on the written work; ensure that learners understand what they need to do to improve; improve the support and feedback learners receive for their written English skills.  Further improve work placement employers’ understanding of the role they play in keeping learners safe from extremism and radicalisation when they 
 
-- **os.radicalisation** (severity 4.0, what_school_needs_to_improve)
+- **os.radicalisation** (severity 4.0, what_provider_needs_to_improve)
   >  Improve teachers’ feedback to learners on the written work; ensure that learners understand what they need to do to improve; improve the support and feedback learners receive for their written English skills.  Further improve work placement employers’ understanding of the role they play in keeping learners safe from extremism and radicalisation when they 
 
-- **emp.itp_off_the_job** (severity 4.0, what_school_needs_to_improve)
+- **emp.itp_off_the_job** (severity 4.0, what_provider_needs_to_improve)
   > Managers should ensure that tutors involved in apprenticeships plan and carry out regularly monitoring of apprentices’ progress towards end-point assessment targets, intervening swiftly and providing extra support in conjunction with employers where necessary. They need to ensure that on-the-job training and off-the-job training are closely linked.  Senior 
-
-- **emp.careers_education** (severity 3.0, areas_for_improvement)
-  > Managers have improved the pass rates for learners on their GCSE English, mathematics and most functional skills qualifications. However, too few learners achieve high grades.  Managers ensure that learners receive appropriate careers education, information, advice and guidance. Staff are well qualified. Staff support learners to stay on their programme and
-
-- **os.radicalisation** (severity 2.0, safeguarding)
-  > In particular, learners do not systematically reflect on the skills they develop from their enrichment sessions or consider how these activities support the vocational aspects of their programme or develop their personal skills.  Although the provider regularly promotes equality, diversity and prevention of bullying and radicalisation, learners are not conf
 
 ---
 

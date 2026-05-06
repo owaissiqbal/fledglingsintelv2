@@ -45,77 +45,95 @@
 
 _+ 6 earlier inspections in the database._
 
-## Verbatim from the inspector
+## Verbatim from the latest inspection report
 
-Direct quotes from the latest published report. Use these in outreach without paraphrasing.
+Inspection of British Printing Industries Federation Ltd · 2019-08-29 · grade: **🔵 good**.
+[Full report](https://files.ofsted.gov.uk/v1/file/50104486)
 
-### What this school needs to improve
+Direct quotes from the report. Use these in outreach without paraphrasing — they're exactly what the inspector wrote.
+
+### What this provider needs to improve
 
 > What does the provider need to do to improve further?
 >
->  Increase the proportion of apprentices who complete their apprenticeship within the planned
-> time to a high standard; ensure that they develop their English and mathematics skills from
-> their starting points and make the best possible progress to reach their potential.
->  Further develop the quality of teaching, learning and assessment by:
-> – planning and providing learning to ensure that apprentices receive sufficient challenge to
-> deepen and consolidate their knowledge
-> – increasing the number and relevance of assessment opportunities available to apprentices
-> to help them make the best possible progress
-> – providing apprentices with detailed feedback on their work and better targets to enable
-> them to improve and progress.
->  Ensure that all apprentices benefit from impartial careers information, advice and guidance
-> throughout their learning programme to enable them to understand all the further study and
-> employment choices available for them.
->  Further develop apprentices’ awareness of how to identify the signs of possible
-> radicalisation.
->  Leaders and managers should make effective use of information on apprentices’
-> achievements and the quality of teaching, learning and assessment to evaluate the provision
-> fully and to focus on the identified key
+>  Ensure that all apprentices receive impartial careers education, advice and guidance to
+> enable them to make informed choices about their next steps.
+>  Ensure that all apprentices are supported to improve their English and mathematics skills
+> to the level of which they are capable.
+>  Ensure good-quality improvement plans focus on setting precise targets to improve the
+> provision further and enable leaders and managers to measure the impact of the actions
+> taken.
 
-### Areas for improvement
+### Leadership and management
 
-> areas for improvement. Governors should use this
-> information to challenge leaders to improve all aspects of the learning programme quickly.
->  Leaders and managers should measure the impact that teaching, learning and assessment
-> have on apprenticeship outcomes.
+> leadership and
+> management
+> Good Apprenticeships Good
 >
+> Quality of teaching, learning and
+> assessment
+> Good
+> Personal development, behaviour and
+> welfare
+> Good
+> Outcomes for learners Good
+> Overall effectiveness at previous inspection Requires improvement
 >
+> Summary of key findings
 >
+> This is a good provider
 >
+>  Senior leaders and board members have acted
+> swiftly to rectify most of the areas for
+> improvement from the previous inspection.
+>  The board members’ establishment of the
+> Training Advisory Board has led to the effective
+> recruitment of experienced board members,
+> who have driven the pace of change.
+>  The board members’ swift recruitment of an
+> experienced management team has led to
+> significant improvements in the quality of
+> provision and outcomes for apprentices.
+>  Senior leaders and board members have
+> developed a highly responsive curriculum to
+> meet the training needs of the printing industry.
+> The British Printing Industries Federation Ltd
+> (BPIF) works extensively with employers across
+> the industry to meet national and local needs.
+>  The large majority of apprentices make
+> expected or better progress on their
+> programmes. Most apprentices develop new
+> skills, knowledge and behaviours through wellconsidered on-the-job training.
+>  Training coordinators benefit from extensive
+> training and professional development
+> activities. They value the training, which helps
+> them to support apprentices more effectively.
+>  Training coordinators plan training programmes
+> well. They provide helpful feedback to
+> apprentices, which helps them to improve their
+> skills and knowledge at work. As a result, most
+> apprentices achieve well on their programmes.
+>  Apprentices have a good understanding of their
+> role as citizens, as employees working in the
+> printing indus…
+
+### Safeguarding
+
+> Safeguarding
 >
->
->
->
-> Inspection report: British Printing Industries Federation Ltd., 6–9 March 2018
->
-> Page 3 of 11
->
->
->
->
-> Inspection judgements
->
-> Effectiveness of leadership and management Requires improvement
->
->  Senior leaders’ and managers’ use of data to monitor and evaluate the full range of
-> outcomes that apprentices achieve is not yet robust enough. As a consequence, leaders
-> and managers do not have a sufficiently good understanding of how different groups of
-> apprentices achieve or progress with their careers. Similarly, managers do not monitor
-> whether all apprentices receive their off-the-job training entitlement. Leaders and
-> managers have identified the need to improve this and have plans to recruit four new
-> posts to strengthen the management team.
->  The effectiveness of BPIF’s quality improvement plan is limited because managers’ narrow
-> evaluation of their provision means that the plan does not include all the necessary key
-> areas for improvement. In addition, managers do not set appropriate incremental targets
-> to enable the close monitoring of improvement by governors and leaders.
->  Managers’ implementation of the English and mathematics strategy requires further
-> improvement to ensure that all apprentices develop these skills further and achieve the
-> relevant qualifications. Training coordinators do not sufficiently support apprentices who
-> have already achieved the required English and mathematics qualifications to continue
-> developing these skills. Managers have identified gaps in their staff’s skills in these
-> subjects; they recognise the need to address this issue so that they improve the delivery
-> of English and mathematics lessons.
->  Since the previous inspection, managers have b…
+>  The arrangements for safeguarding are effective.
+>  Leaders, managers, board members and staff have developed a strong organisational
+> culture of safeguarding. This is well supported by recently updated policies and
+> procedures. Leaders, managers and staff place high priority on ensuring the health, safety
+> and welfare of apprentices. They work effectively with employers to ensure that
+> apprentices are safe. As a result, apprentices know how to keep themselves safe,
+> including online. They know who to contact if they have any concerns.
+>  Staff are well trained and vigilant to identify safeguarding risks. They quickly report any
+> concerns to the designated safeguarding lead (DSL). The DSL records all incidents
+> carefully and takes appropriate action to resolve incidents. The DSL maintains appropriate
+> links with external agencies. They channel all queries through agencies such as NSPCC,
+> due their knowledge of national support and advisory agencies. As a result, the DLS can
+> quickly identify the most appropriate agency to support apprentices.
 
 ## Compliance signals
 
@@ -129,22 +147,22 @@ _No high-trigger news matched in the last extraction pass._
 
 Quotes you can drop directly into outreach. Severity drives the score.
 
-- **emp.itp_apprentices_progress_slow** (severity 6.0, what_school_needs_to_improve)
+- **emp.itp_apprentices_progress_slow** (severity 6.0, what_provider_needs_to_improve)
   > Quality of teaching, learning and assessment requires improvement  Training coordinators do not use the outcomes of initial assessment to set clear and stretching targets for each apprentice, or to develop individualised training plans that ensure links between theory and practice are developed. As a result, apprentices make slow progress through their prog
 
-- **os.extremism** (severity 4.0, what_school_needs_to_improve)
+- **os.extremism** (severity 4.0, what_provider_needs_to_improve)
   >  Apprentices have a basic understanding of equality and diversity, although opportunities to reinforce this are often not identified. Apprentices do not sufficiently understand aspects such as radicalisation, extremism and British values. Training coordinators do not explore or assess these aspects during the frequent progress reviews undertaken in the work
 
-- **os.extremism** (severity 4.0, what_school_needs_to_improve)
+- **os.extremism** (severity 4.0, what_provider_needs_to_improve)
   > As a result, apprentices are unable to refer back at a later date to a permanent record of what they need to do to improve their performance.  Apprentices’ knowledge and understanding of equality and diversity, e-safety, British values and the dangers posed by the risks of radicalisation and extremism are not developed or reinforced well during the apprenti
 
-- **os.extremism** (severity 4.0, what_school_needs_to_improve)
+- **os.extremism** (severity 4.0, what_provider_needs_to_improve)
   > All staff who work with apprentices are subject to Disclosure and Barring Service (DBS) checks to confirm their suitability to work with young people. Staff have received relevant training to introduce apprentices to the concept of fundamental British values and the risks associated with radicalisation and extremism. These topics are introduced to apprentice
 
-- **os.extremism** (severity 4.0, what_school_needs_to_improve)
+- **os.extremism** (severity 4.0, what_provider_needs_to_improve)
   >  Improve English and mathematics provision by ensuring that: – training coordinators routinely develop apprentices’ skills in English and mathematics much earlier in the apprenticeship programme by planning challenging learning that highlights how important these essential skills are to everyday life and work – training coordinators routinely mark and, wher
 
-- **os.radicalisation** (severity 4.0, what_school_needs_to_improve)
+- **os.radicalisation** (severity 4.0, what_provider_needs_to_improve)
   > As a result, apprentices do not develop their confidence or fully appreciate the importance of these essential skills in everyday work activities.  Apprentices have a basic understanding of equality and diversity, although opportunities to reinforce this are often not identified. Apprentices do not sufficiently understand aspects such as radicalisation, ext
 
 ---

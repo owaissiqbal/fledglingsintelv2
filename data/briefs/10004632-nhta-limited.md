@@ -49,11 +49,50 @@
 
 _+ 6 earlier inspections in the database._
 
-## Verbatim from the inspector
+## Verbatim from the latest inspection report
 
-Direct quotes from the latest published report. Use these in outreach without paraphrasing.
+Inspection of NHTA Limited · 2023-08-30 · grade: **🟠 requires improvement**.
+[Full report](https://files.ofsted.gov.uk/v1/file/50226935)
 
-### Main findings
+Direct quotes from the report. Use these in outreach without paraphrasing — they're exactly what the inspector wrote.
+
+### What this provider needs to improve
+
+> What does the provider need to do to improve?
+>
+>  Leaders should ensure that areas for improvement that were identified during
+> quality assurance activities are actioned promptly.
+
+### Areas for improvement
+
+> areas for improvement, leaders do not respond quickly enough. For example,
+> consultants identified that theory lessons were not sufficient and frequent enough.
+> This continues to be an area that requires improvement.
+>
+> Leaders and managers do not ensure that tutors are suitably qualified or receive
+> sufficient training to improve their teaching skills. This limits the ability of tutors to
+> prepare appropriate teaching resources and assessment materials. As a result,
+> apprentices do not develop their knowledge, skills and behaviours consistently well.
+
+### Safeguarding
+
+> Safeguarding
+>
+> The arrangements for safeguarding are effective.
+>
+> Leaders and managers understand their roles and responsibilities for safeguarding.
+> They set out relevant safeguarding policies and procedures and undertake
+> appropriate pre-employment checks.
+>
+> The designated safeguarding lead, deputies and staff undertake appropriate
+> training. Leaders make employers aware of their responsibilities with regard to
+> safeguarding.
+>
+> Leaders and managers provide staff with useful guidance on how to report a
+> safeguarding concern. Where safeguarding concerns are raised, actions are timely,
+> detailed notes are taken and appropriate support is put into place.
+
+### What is it like to be a learner here / What does the provider do well
 
 > What is it like to be a learner with this provider?
 >
@@ -92,134 +131,7 @@ Direct quotes from the latest published report. Use these in outreach without pa
 > this.
 >
 > The activities of leaders and managers to evaluate and improve the quality of
-> teachin…
-
-### Areas for improvement
-
-> areas for improvement, leaders do not respond quickly enough. For example,
-> consultants identified that theory lessons were not sufficient and frequent enough.
-> This continues to be an area that requires improvement.
->
-> Leaders and managers do not ensure that tutors are suitably qualified or receive
-> sufficient training to improve their teaching skills. This limits the ability of tutors to
-> prepare appropriate teaching resources and assessment materials. As a result,
-> apprentices do not develop their knowledge, skills and behaviours consistently well.
->
->
->
->
->
->
-> Inspection report: NHTA Limited
-> 18 to 21 July 2023
-> 3
->
->
-> Managers identify the relevant knowledge, skills and behaviours that apprentices
-> need. Despite this, they do not use this information to plan apprentices’ studies
-> effectively. For example, hairdressing apprentices confidently shampoo hair but do
-> not learn the underlying principles at the same time. As a result, apprentices do not
-> develop a timely enough understanding of key theories.
->
-> Tutors do not plan sessions well enough. They do not take into account existing
-> knowledge and skills of apprentices. For example, level 4 assessor coach apprentices
-> with experience of teaching study the same course as those without. This means
-> that apprentices do not develop new knowledge and skills as quickly as they could.
->
-> Managers and tutors make suitable adjustments to support apprentices with special
-> educational needs and/or disabilities. For example, tutors use coloured overlays or
-> provide extra one-to-one support where apprentices need it. These adjustments
-> allow them to make progress at least in line with their peers.
->
-> The teaching of theory by tutors in hairdressing varies too much. There is an
-> overreliance on note taking. Apprentices have access to useful virtual learning
-> resources, but it is unclear how, and if, they make effective use of these. Too many
-> hairdressing apprentices are unable to recall theory in detail.
->
-> Tutors in hairdre…
-
-### What this school needs to improve
-
-> What does the provider need to do to improve?
->
->  Leaders should ensure that areas for improvement that were identified during
-> quality assurance activities are actioned promptly.
->
->
->
->
->
->
-> Inspection report: NHTA Limited
-> 18 to 21 July 2023
-> 5
->
->
->  Managers and tutors should plan to teach both theory and practice in a logical
-> order so that apprentices can build their knowledge and skills over time.
->  Leaders should use apprentices’ starting points to inform the planning and design
-> of training to support apprentices to build on what they already know.
->  Managers must ensure that apprentices have access to suitable careers guidance
-> to support them to make informed choices about their careers.
->  Leaders and managers should prioritise training for tutors to further develop their
-> teaching, learning and assessment practice to help apprentices learn more and
-> remember more.
->
->
->
->
->
->
->
->
-> Inspection report: NHTA Limited
-> 18 to 21 July 2023
-> 6
->
->
->
-> Provider details
->
-> Unique reference number 53671
->
-> Address 18 Pelham Road
-> Sherwood Rise
-> Nottingham
-> NG5 1AP
->
-> Contact number 01159691650
->
-> Website www.nhta.org.uk
->
-> Principal, CEO or equivalent Charlotte Moreland
->
-> Provider type Independent learning provider
->
-> Date of previous inspection 18 May 2015
->
-> Main subcontractors None
->
->
->
->
->
->
->
-> Inspection report: NHTA Limited
-> 18 to 21 July 2023
-> 7
->
->
->
-> Information about this inspection
->
-> The inspection team was assisted by the managing director as nominee. Inspectors
-> took account of the provider’s most recent self-assessment report and development
-> plans, and the previous inspection report. The inspection was carried out using the
-> further education and skills inspection handbook and took into account all relevant
-> provision at the provider. Inspectors collected a wide range of evidence to inform
-> judgements, including visiting learning sessions, scrutinising learners’ work, seeking
-> the views of learners, staff and other stakeholders, and examining t…
+> teaching and learning are not yet effective. Where external consultants identify
 
 ## Compliance signals
 
@@ -233,7 +145,7 @@ _No high-trigger news matched in the last extraction pass._
 
 Quotes you can drop directly into outreach. Severity drives the score.
 
-- **emp.careers_guidance** (severity 4.0, what_school_needs_to_improve)
+- **emp.careers_guidance** (severity 4.0, what_provider_needs_to_improve)
   >  Leaders should use apprentices’ starting points to inform the planning and design of training to support apprentices to build on what they already know.  Managers must ensure that apprentices have access to suitable careers guidance to support them to make informed choices about their careers.  Leaders and managers should prioritise training for tutors t
 
 - **emp.itp_off_the_job** (severity 3.0, areas_for_improvement)
@@ -248,8 +160,8 @@ Quotes you can drop directly into outreach. Severity drives the score.
 - **cr.mental_health** (severity 3.0, areas_for_improvement)
   > The vast majority of apprentices understand how this applies to their daily role and the considerations that they might need to make when working with clients. Tutors use a range of online resources to inform apprentices about physical and mental health and healthy relationships. A small minority of younger apprentices do not have a secure enough understandi
 
-- **cr.personal_development_strengthen** (severity 3.0, personal_development)
-  > Personal development Requires improvement Leadership and management Requires improvement Apprenticeships Requires improvement Overall effectiveness at previous inspection Outstanding
+- **emp.itp_off_the_job** (severity 2.0, safeguarding)
+  >  Improve the quality of teaching and learning by training staff to make better use of a range of activities, effective questioning and by conducting ample checks on learning to fully engage learners. Monitor and enhance tutors’ performance through focused observations, accurate grading and effective support.  Plan on and off-the-job training in detail to i
 
 ---
 

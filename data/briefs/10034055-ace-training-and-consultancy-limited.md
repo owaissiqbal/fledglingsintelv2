@@ -1,6 +1,6 @@
 # ACE Training and Consultancy Limited
 
-**🟠 HIGH** · score **95** · urgency 67 · pipeline 100
+**🔴 CRITICAL** · score **95** · urgency 70 · pipeline 100
 
 ## Identity
 
@@ -13,12 +13,12 @@
 
 ## Lead-with curriculum
 
-**Employability Skills** (sub-score 67)
+**Employability Skills** (sub-score 70)
 
 - Financial Literacy: 55
-- Employability Skills: 67
-- Confidence & Resilience: 55
-- Online Safety: 55
+- Employability Skills: 70
+- Confidence & Resilience: 65
+- Online Safety: 63
 
 ## Why this is on the list
 
@@ -49,11 +49,26 @@
 
 _+ 2 earlier inspections in the database._
 
-## Verbatim from the inspector
+## Verbatim from the latest inspection report
 
-Direct quotes from the latest published report. Use these in outreach without paraphrasing.
+Inspection of ACE Training and Consultancy Limited · 2024-10-11 · grade: **🟠 requires improvement**.
+[Full report](https://files.ofsted.gov.uk/v1/file/50259126)
 
-### Main findings
+Direct quotes from the report. Use these in outreach without paraphrasing — they're exactly what the inspector wrote.
+
+### What this provider needs to improve
+
+> What does the provider need to do to improve?
+>
+>  Make sure that more learners complete their programmes and achieve their
+
+### Safeguarding
+
+> Safeguarding
+>
+> The arrangements for safeguarding are effective.
+
+### What is it like to be a learner here / What does the provider do well
 
 > What is it like to be a learner with this provider?
 >
@@ -87,146 +102,12 @@ Direct quotes from the latest published report. Use these in outreach without pa
 > What does the provider do well and what does it need to do
 > better?
 >
-> Leaders have high aspirations for all learners and appren…
-
-### What this school needs to improve
-
-> What does the provider need to do to improve?
->
->  Make sure that more learners complete their programmes and achieve their
->
->
->
->
->
->
-> Inspection report: ACE Training and Consultancy Limited
-> 10 to 13 September 2024
-> 4
->
->
-> qualifications.
->  Develop the personal development curriculum further for all apprentices so that
-> they benefit from consistent, age-appropriate opportunities to develop knowledge
-> and skills beyond the vocational curriculum.
->
->
->
->
->
->
->
->
-> Inspection report: ACE Training and Consultancy Limited
-> 10 to 13 September 2024
-> 5
->
->
->
-> Provider details
->
-> Unique reference number 59109
->
-> Address 15a Station Field Industrial Estate
-> Kidlington
-> Oxford
-> Oxfordshire
-> OX5 1JD
->
-> Contact number 01865 370040
->
-> Website www.acetraining.co.uk
->
-> Principal, CEO or equivalent Adam Marsh
->
-> Provider type Independent learning provider
->
-> Date of previous inspection 15 to 18 January 2019
->
-> Main subcontractors Engineering Trust Training Limited
->
->
->
->
->
->
->
-> Inspection report: ACE Training and Consultancy Limited
-> 10 to 13 September 2024
-> 6
->
->
->
->
-> Information about this inspection
->
-> The inspection team was assisted by the training director, as nominee. Inspectors
-> took account of the provider’s most recent self-assessment report and development
-> plans, and the previous inspection report. The inspection was carried out using the
-> further education and skills inspection handbook and took into account all relevant
-> provision at the provider. Inspectors collected a wide range of evidence to inform
-> judgements, including visiting learning sessions, scrutinising learners’ work, seeking
-> the views of learners, staff and other stakeholders, and examining the provider’s
-> documentation and records.
->
-> Inspection team
->
-> Emma Leavey, lead inspector His Majesty’s Inspector
-> Roland White His Majesty’s Inspector
-> Richard Kirkham His Majesty’s Inspector
->
->
->
->
->
->
->
->
-> Inspection report: ACE Training and Consultancy Limited
-> 10 to 13 September 2024
-> 7
->
->
->
->
->
->
->
->
-> …
-
-### Areas for improvement
-
-> areas for improvement.
->
-> Inspection judgements
-> Outcomes for learners
-> Requires improvement
->  Learners’ achievement of qualifications requires improvement. An increased number of learners
-> achieve their foundation level English qualification in 2011/12, but achievement rates for
-> mathematics at this level remain low. A satisfactory number of learners achieved their carpentry
-> and joinery diploma at foundation level in 2011/12, but too few learners achieved their
-> brickwork Diploma level 1.
->  The number of learners progressing is increasing with half of leavers in the current year finding
-> employment or going into further education or training. Those employed as bricklayers or
-> carpenters remain with ACE Training on an apprenticeship programme. Almost all these
-> apprentices have successfully completed their apprenticeship programme and a few have
-> progressed onto advanced apprenticeships.
->  Too many learners stop attending the training centre and leave the programmes early.
-> Managers are not always sure of the reasons why learners stop attending and leave.
->  Current learners are making good progress in developing social, personal and employability skills
-> including awareness of the construction industry, communication, application of mathematics
-> and information and communication technology (ICT).
->  Staff record attendance and punctuality but do not collate the data to calculate attendance and
-> punctuality rates for individuals or groups of learners. Data are not analysed to monitor trends
-> over time or to check if ACE Training is achieving the targets it has set. Attendance and
-> punctuality were satisfactory in the lessons observed.
->
-> The quality of teaching, learning and assessment
-> Good
->  Teaching, learning and assessment are good. ACE Training has recently increased the number of
-> construction trade training staff, all have recent and relevant trade experience and are working
-> towards teaching qualifications. Tutors are enthusiastic about the construction…
+> Leaders have high aspirations for all learners and apprentices, including those with
+> special educational needs and/or disabilities and those who face disadvantage.
+> Leaders aspire to provide programmes that allow young learners to start learning
+> throughout the year and then move on to an apprenticeship, work or further
+> learning when they are ready. Leaders acknowledge that they have not selected
+> qualifications that best meet the needs of their learn…
 
 ## Compliance signals
 
@@ -240,23 +121,23 @@ _No high-trigger news matched in the last extraction pass._
 
 Quotes you can drop directly into outreach. Severity drives the score.
 
-- **emp.work_experience** (severity 4.0, what_school_needs_to_improve)
+- **emp.itp_skills_knowledge_gaps** (severity 4.5, areas_for_improvement)
+  > A new entry level 3 construction qualification introduced in August this year is proving very successful, enabling learners to achieve early in the programme before progressing onto a new level 1 qualification and also greatly reducing the number of learners who leave their programme early.  Partnership working is very effective. Directors and managers have
+
+- **emp.work_experience** (severity 4.0, what_provider_needs_to_improve)
   >  Ensure staff have the right skills and knowledge to provide appropriate information, advice and guidance to learners on progression opportunities.  Develop a more robust approach to managing work experience opportunities and ensure staff recognise the knowledge gained by learners during work experience and use this to enhance the learning in the training 
 
-- **emp.work_experience** (severity 4.0, what_school_needs_to_improve)
+- **emp.work_experience** (severity 4.0, what_provider_needs_to_improve)
   >  Better coordinate the information available on learners during formal reviews in order to identify any potential barriers to learning that may impact on learners’ ability to achieve their objectives and progress.  Ensure staff have the right skills and knowledge to provide appropriate information, advice and guidance to learners on progression opportuniti
 
-- **emp.itp_assessment_weak** (severity 3.0, areas_for_improvement)
-  > Tutors show patience and skill in supporting learners as they adjust their behaviour to the demands of the workplace. Learners enjoy their learning, behave well and appreciate the more adult expectations that staff have of them.  Initial assessment is effective in determining learners’ starting points, but tutors do not always use this information sufficien
+- **emp.work_experience** (severity 4.0, what_provider_needs_to_improve)
+  > For those wishing to progress into construction the training provides effective pre-apprentice experiences closely matched to skills shortages identified by employers. Strong links with schools, local authorities, employers and trade organisations are particularly effective at providing work experience and real work tasks, some of which benefit local communi
 
-- **emp.work_experience** (severity 3.0, areas_for_improvement)
-  > They are finding work placements and other opportunities to provide learners with real work experiences, some of which benefit the local community. Using their emerging skills in brickwork, learners rebuilt the wall of a local village hall damaged in a road traffic accident.  The management and recording of work experience are weak. Managers do not maintain
+- **cr.self_esteem** (severity 4.0, what_provider_needs_to_improve)
+  > Too many learners leave the programmes early without achieving all of their planned qualifications.  The progress that retained learners make from their starting points is good, many coming to ACE Training with poor experiences of their previous education together with low expectations and self-esteem. They gain confidence and improved social skills, increa
 
-- **emp.work_experience** (severity 3.0, areas_for_improvement)
-  >  Managers and tutors are developing increasingly stronger links with schools, local communities, employers and tradesmen. They are finding work placements and other opportunities to provide learners with real work experiences, some of which benefit the local community. Using their emerging skills in brickwork, learners rebuilt the wall of a local village ha
-
-- **emp.work_experience** (severity 3.0, areas_for_improvement)
-  > Learners’ development of number skills is slower with some still showing confusion between using millimetres, centimetres and metres when working from scale plans.  More learners are starting to benefit from good work experience placements lasting two to three weeks. This is effective in ensuring they have a good understanding of the demands that accompany 
+- **emp.work_experience** (severity 4.0, what_provider_needs_to_improve)
+  >  Make better use of the results of assessments of learners’ starting points in English and mathematics to deliver learning and support more effectively.  Make more effective use of learners’ reviews by better recording and evaluating their progress on the study programme. For example, to evaluate work experience, and to provide more written feedback and cl
 
 ---
 

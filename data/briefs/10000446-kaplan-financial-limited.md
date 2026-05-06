@@ -13,10 +13,10 @@
 
 ## Lead-with curriculum
 
-**Confidence & Resilience** (sub-score 55)
+**Employability Skills** (sub-score 55)
 
-- Financial Literacy: 19
-- Employability Skills: 40
+- Financial Literacy: 13
+- Employability Skills: 55
 - Confidence & Resilience: 55
 - Online Safety: 55
 
@@ -47,157 +47,77 @@
 
 _+ 3 earlier inspections in the database._
 
-## Verbatim from the inspector
+## Verbatim from the latest inspection report
 
-Direct quotes from the latest published report. Use these in outreach without paraphrasing.
+Inspection of Kaplan Financial Limited · 2024-11-05 · grade: **🔵 good**.
+[Full report](https://files.ofsted.gov.uk/v1/file/50260749)
 
-### Main findings
+Direct quotes from the report. Use these in outreach without paraphrasing — they're exactly what the inspector wrote.
+
+### What this provider needs to improve
+
+> What does the provider need to do to improve?
+>
+>  Reduce the number of times apprentices change their talent coaches during their
+> apprenticeship.
+>  Increase apprentices’ attendance to live online learning sessions.
+>  Continue to increase the number of apprentices who achieve their apprenticeship
+> successfully.
+>  Reduce the number of apprentices who have gone past their end date.
+
+### Areas for improvement
+
+> areas for improvement. Board members participate
+> in lesson observations and provide helpful feedback to leaders. As a result, they
+> have provided leaders with the necessary support and challenge to improve the
+> quality of education apprentices receive.
+
+### Safeguarding
+
+> Safeguarding
+>
+> The arrangements for safeguarding are effective.
+
+### What is it like to be a learner here / What does the provider do well
 
 > What is it like to be a learner with this provider?
 >
-> Most apprentices have positive attitudes to learning. They are ambitious and
-> motivated to learn. Apprentices use feedback from colleagues to develop their
-> behaviours to become more successful at work. They routinely demonstrate the
-> behaviours and attitudes their employers require in the workplace, becoming more
-> independent when completing tasks at work.
+> Apprentices who attend in-person training are enthusiastic and enjoy a calm and
+> comfortable learning environment. They have opportunities to develop valuable
+> networking skills and relax between sessions. Apprentices value their learning
+> experience and have positive relationships with their tutors. Attendance to in-person
+> training is high. However, too many apprentices do not attend the live online
+> sessions. Therefore, they miss valuable learning opportunities.
 >
-> Apprentices gain confidence and improve their communication skills as a result of
-> their apprenticeship programmes. Finance assistant apprentices learn how to send
-> professional emails and communicate effectively on the telephone with clients. As a
-> result, a few apprentices secure additional responsibilities and gain promotions at
-> work.
+> Apprentices demonstrate an excellent understanding of their sectors' expectations
+> and professional values. They have a robust understanding of fundamental British
+> values and how these apply to the workplace. They adhere to their employers' and
+> professional bodies' codes of conduct by embodying professional behaviours,
+> respect, integrity, ethics, and confidentiality. Apprentices develop relevant
+> professional behaviours and become credible and competent professionals.
 >
-> Data technician and business analyst apprentices receive useful support when they
-> fall behind. Actions are put in place to help them catch up. As a result, they make
-> good progress, and most pass exams on their first attempt. Conversely, level 7
-> accounting apprentices and a few apprentices at lower levels, do not receive
-> effective support when they fall behind or when they fail examinations. They do not
-> receive useful guidance from staff to know what they need to do to improve. Many
-> accounting apprentices do not make the expected progress or complete their
-> apprenticeship.
+> Apprentices have access to additional learning experiences that develop their
+> broader skills successfully. They participate in charity events and volunteer to give
+> presentations at career sessions to prospective apprentices. They act as mentors
+> and provide helpful advice to less experienced apprentices. Accounting apprentices
+> enter skills competitions, and a few are successful. Because of these experiences,
+> apprentices develop confidence in their abilities to succeed.
 >
-> Most apprentices do not receive effective ongoing careers advice and guidance to
-> help them make informed decisions about their next steps. In most cases,
-> apprentices are directed to the internal careers site. A few apprentices who are
-> ambitious to progress to higher qualifications do not receive guidance on how to
-> access these programmes.
->
-> Apprentices feel safe and know how to stay safe. Data technician apprentices know
-> the importance of data security. They take appropriate steps in the workplace to
-> ensure data remains secure.
->
+> Apprentices have a solid understanding of healthy relationships. They recognise the
+> appropriate professional and personal behaviours that they should expect from their
+> colleagues. Younger apprentices learn about consent. They know the signs of abuse
+> and who to go to should they need support. On the rare occasions that apprentices
+> may witness inappropriate behaviour, they are confident that staff will deal with it
+> effectively. As a result, apprentices say they feel safe.
 >
 > What does the provider do well and what does it need to do
 > better?
 >
-> Senior leaders do not have an eff…
-
-### What this school needs to improve
-
-> What does the provider need to do to improve?
->
->  Leaders should quickly establish robust quality assurance processes so that they
-> make swift progress to improve apprentices’ learning experience. They should
-> ensure that they provide accurate and useful reports to the advisory board that
-> include all information relevant to apprenticeships so that the board can provide
-> effective scrutiny and challenge.
->  Leaders should ensure tutors and talent coaches use information on what
-> apprentices already know and can do at the start of their programme so that all
-> apprentices achieve their potential and develop substantial new knowledge, skills
-> and behaviours on their apprenticeship.
->  Leaders should ensure employers are routinely involved in the planning and
-> coordination of on- and off-the-job training to support apprentices to make the
-> progress of which they are capable.
->  Leaders should improve the careers information, advice and guidance that
-> apprentices receive so they are aware of further study and career options
-> available to them.
->  Leaders should ensure tutors and talent coaches improve the use of assessments
-> to put in place appropriate support so that misconceptions and gaps in knowledge
->
->
->
->
->
->
-> Inspection report: Kaplan Financial Limited
-> 14 to 17 June 2022
-> 5
->
->
-> are rectified swiftly and effectively. Leaders should ensure talent coaches regularly
-> review the development of apprentices’ knowledge, skills and behaviours to
-> support apprentices to make swift progress.
->
->
->
->
->
->
->
-> Inspection report: Kaplan Financial Limited
-> 14 to 17 June 2022
-> 6
->
->
->
-> Provider details
->
-> Unique reference number 54838
->
-> Address 6th Floor
-> St James’ Building
-> 79, Oxford Street
-> Manchester
-> M1 6FQ
->
-> Contact number 07803 050250
->
-> Website www.kaplan.co.uk
->
-> CEO Kathy Walton
->
-> Provider type Independent learning provider
->
-> Date of previous inspection 24 to 27 July 2018
->
-> Main subcontractors
-> International Compliance Association
-> Tolleys
-> London Institute of …
-
-### Areas for improvement
-
-> areas for improvement to develop apprentices’
-> skills in these subjects further. Adult learners develop their English and mathematics
-> skills well, often from a low level.
->  Most adult learners and apprentices develop the confidence to reflect on their working
-> practices and seek improvements. For example, apprentices say that they are more
-> aware of how to write emails that do not unintentionally offend. Adult learners, many of
-> whom are long-term unemployed, quickly develop self-belief and improve their chances
-> of gaining a job.
->  Adult learners’ and apprentices’ attendance and punctuality at their lessons are good.
-> Staff quickly and effectively follow up with employers any absences to ensure regular
-> attendance and punctuality. Apprentices and adult learners understand the importance
-> of these key employability skills.
->  Adult learners benefit from well-organised work placements. Collaboration with
-> employers and other partners, such as referral agencies, ensures that the adult learning
-> curriculum responds to local skills requirements in a range of relevant sectors.
->  Apprentices’ and adult learners’ conduct is very good. They demonstrate appropriate
-> behaviour in lessons and respect for each other and their tutors. Tutors quickly and
-> effectively deal with poor behaviour so that any disruption to learning is minimised.
->
-> Outcomes for learners
-> Requires
-> improvement
->
->  The proportion of apprentices and adult learners who make the expected progress
-> towards completing their qualifications requires improvement.
->  Apprentices aged 16 to 18 achieve well. While the achievement rate of apprentices
-> aged 19 and over has increased steadily in recent years, it remains too low. The
-> proportion of apprentices who achieved their qualification within the planned time was
-> not high enough in 2016/17. Apprentices on level 4 programmes do not achieve as well
-> as those on level 2 and level 3 programmes.
->  Overall, the achievement of apprentices studying at Kaplan’s su…
+> Leaders have a clear and ambitious vision to develop highly skilled apprentices.
+> Apprentices and employers value the knowledge and skills apprentices learn. They
+> recognise how this helps them to prepare for work and contribute to their
+> organisations. Leaders in digital learning work closely with industry specialists, such
+> as the British Computer Societ…
 
 ## Compliance signals
 
@@ -211,23 +131,23 @@ _No high-trigger news matched in the last extraction pass._
 
 Quotes you can drop directly into outreach. Severity drives the score.
 
-- **os.extremism** (severity 4.0, what_school_needs_to_improve)
+- **os.extremism** (severity 4.0, what_provider_needs_to_improve)
   >  Improve adult learners’ and apprentices’ experiences and outcomes by ensuring that tutors and talent coaches: – use information about adult learners’ and apprentices’ starting points to develop appropriate learning activities and deliver consistently high-quality training – set challenging targets and monitor adult learners and apprentices’ progress effect
 
-- **os.radicalisation** (severity 4.0, what_school_needs_to_improve)
+- **os.radicalisation** (severity 4.0, what_provider_needs_to_improve)
   >  Improve adult learners’ and apprentices’ experiences and outcomes by ensuring that tutors and talent coaches: – use information about adult learners’ and apprentices’ starting points to develop appropriate learning activities and deliver consistently high-quality training – set challenging targets and monitor adult learners and apprentices’ progress effect
 
-- **emp.itp_off_the_job** (severity 4.0, what_school_needs_to_improve)
+- **emp.itp_off_the_job** (severity 4.0, what_provider_needs_to_improve)
   >  Leaders should ensure tutors and talent coaches use information on what apprentices already know and can do at the start of their programme so that all apprentices achieve their potential and develop substantial new knowledge, skills and behaviours on their apprenticeship.  Leaders should ensure employers are routinely involved in the planning and coordin
 
-- **fin_lit.financial_decisions** (severity 3.0, areas_for_improvement)
-  >  Tutors who provide training to develop apprentices’ technical skills are highly competent Inspection report: Kaplan Financial Limited, 24–27 July 2018 Page 9 of 12 and have extensive experience in the financial services sector that employers value. Tutors are adept at ensuring their apprentices can relate theory to practice and they make good use of releva
+- **os.radicalisation** (severity 3.0, areas_for_improvement)
+  > Next steps for the provider Leaders and those responsible for governance should ensure that:  more apprentices gain higher-level qualifications, by ensuring that initial assessment examines closely the motivation and career aspirations of entrants to apprenticeships at this level; by carefully determining the commitment to completing the full qualification,
+
+- **emp.itp_assessment_weak** (severity 3.0, areas_for_improvement)
+  > Managers have put in place sound strategies to develop a range of career pathways, which are broadening the scope of the opportunities the programme provides for learners. Plans to evaluate the early implementation of the programme are in place.  The quality of teaching, learning and assessment is consistently good for apprentices and all other learners. As
 
 - **emp.itp_off_the_job** (severity 3.0, areas_for_improvement)
-  > Tutors are adept at ensuring their apprentices can relate theory to practice and they make good use of relevant examples to demonstrate how theory informs financial decisions.  Apprentices regularly attend their off-the-job training and are motivated to pass their accountancy qualifications. Through high-quality online learning resources and classroom lesso
-
-- **cr.personal_development_strengthen** (severity 3.0, personal_development)
-  > Personal development Requires improvement Leadership and management Requires improvement Apprenticeships Requires improvement Overall effectiveness at previous inspection Requires improvement
+  > Apprentices value the skills and experience of their teachers and assessors, who are well qualified and use their expertise and current industry practices to support apprentices’ learning and development very effectively. Employers contribute well to the apprenticeship programme and on- and off-the-job training are planned and integrated effectively.  Appre
 
 ---
 

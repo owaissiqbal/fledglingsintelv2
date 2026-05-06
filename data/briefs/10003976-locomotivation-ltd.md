@@ -1,6 +1,6 @@
 # Locomotivation Ltd
 
-**🟠 HIGH** · score **75** · urgency 35 · pipeline 100
+**🟠 HIGH** · score **75** · urgency 55 · pipeline 100
 
 ## Identity
 
@@ -13,12 +13,12 @@
 
 ## Lead-with curriculum
 
-**Confidence & Resilience** (sub-score 35)
+**Confidence & Resilience** (sub-score 55)
 
 - Financial Literacy: 13
-- Employability Skills: 23
-- Confidence & Resilience: 35
-- Online Safety: 21
+- Employability Skills: 47
+- Confidence & Resilience: 55
+- Online Safety: 55
 
 ## Why this is on the list
 
@@ -47,11 +47,29 @@
 
 _+ 5 earlier inspections in the database._
 
-## Verbatim from the inspector
+## Verbatim from the latest inspection report
 
-Direct quotes from the latest published report. Use these in outreach without paraphrasing.
+Inspection of Locomotivation Ltd · 2025-09-12 · grade: **🔵 good**.
+[Full report](https://files.ofsted.gov.uk/v1/file/50286782)
 
-### Main findings
+Direct quotes from the report. Use these in outreach without paraphrasing — they're exactly what the inspector wrote.
+
+### What this provider needs to improve
+
+> What does the provider need to do to improve?
+>
+>  Sustain improvements to increase further the proportion of apprentices who
+> successfully complete their apprenticeship.
+>  Provide apprentices with clear and relevant targets and feedback to support their
+> development.
+
+### Safeguarding
+
+> Safeguarding
+>
+> The arrangements for safeguarding are effective.
+
+### What is it like to be a learner here / What does the provider do well
 
 > What is it like to be a learner with this provider?
 >
@@ -85,114 +103,13 @@ Direct quotes from the latest published report. Use these in outreach without pa
 >
 > Leaders consult effectively with employers when designing or reviewing
 > programmes, which helps shape content and delivery to reflect current sector
-> expectat…
-
-### What this school needs to improve
-
-> What does the provider need to do to improve?
+> expectations. This collaborative approach strengthens the relevance of training and
+> supports apprentices to make a stronger impact in the workplace.
 >
->  Sustain improvements to increase further the proportion of apprentices who
-> successfully complete their apprenticeship.
->  Provide apprentices with clear and relevant targets and feedback to support their
-> development.
->
->
->
->
->
->
->
-> Inspection report: Locomotivation Ltd
-> 22 to 25 July 2025
-> 5
->
->
->
-> Provider details
->
-> Unique reference number 53094
->
-> Address 3 Parkstone Road
-> Poole
-> BH15 2NN
->
-> Contact number 01202 567204
->
-> Website www.locomotivation.co.uk
->
-> Principal, CEO or equivalent Sue Ricks
->
-> Provider type Independent learning provider
->
-> Date of previous inspection Not previously inspected
->
-> Main subcontractors None
->
->
->
->
->
->
->
-> Inspection report: Locomotivation Ltd
-> 22 to 25 July 2025
-> 6
->
->
->
->
-> Information about this inspection
->
-> The inspection team was assisted by the head of quality, as nominee. Inspectors
-> took account of the provider’s most recent self-assessment report and development
-> plans, and the previous inspection report. The inspection was carried out using the
-> further education and skills inspection handbook and took into account all relevant
-> provision at the provider. Inspectors collected a wide range of evidence to inform
-> judgements, including visiting learning sessions, scrutinising apprentices’ work,
-> seeking the views of apprentices, training specialists and other stakeholders, and
-> examining the provider’s documentation and records.
->
-> Inspection team
->
-> Paul James, lead inspector His Majesty’s Inspector
-> Rebecca Clare His Majesty’s Inspector
-> Mark Hillman His Majesty’s Inspector
-> Paul Manning His Majesty’s Inspector
-> Matt Hann His Majesty’s Inspector
->
->
->
->
->
->
->
->
-> Inspection report: Locomotivation Ltd
-> 22 to 25 July 2025
-> 7
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
-> The Office for Standards in Education, Children’s Services and Skills (Ofsted)
-> regulates and inspects to achieve excellence in the care of children and young
-> people, and in education and skills for apprentices …
+> Leaders and managers plan training in a logical sequence so that apprentices can
+> apply new knowledge and skills confidently in their roles. Training specialists use
+> their vocational expertise well to explain technical content clearly and make learning
+> …
 
 ## Compliance signals
 
@@ -206,23 +123,23 @@ _No high-trigger news matched in the last extraction pass._
 
 Quotes you can drop directly into outreach. Severity drives the score.
 
-- **fin_lit.budgeting** (severity 2.0, main_findings)
-  > As well as providing effective specialist teaching, staff reinforce learning well through the vocational curriculum to help apprentices prepare for and achieve these qualifications. Training specialists help apprentices improve their communication by embedding report writing and presentation tasks into training. In practical sessions, they revisit mathematic
+- **emp.itp_off_the_job** (severity 4.0, what_provider_needs_to_improve)
+  > What does the provider need to do to improve?  Leaders should redouble their efforts to ensure that all employers routinely provide apprentices with the time expected for off-the-job training.  Improve the quality of monitoring records by ensuring that trainers focus strongly on recording the quality of education and its impact on developing apprentices’ n
 
-- **emp.itp_off_the_job** (severity 2.0, main_findings)
-  > Most apprentices respond positively and enjoy strong relationships with their trainers and peers, which helps them build confidence, resilience and stay motivated. In most instances, apprentices quickly develop relevant knowledge, skills and professional behaviours because of well-aligned and thoughtfully planned on- and off-the-job training. Training specia
+- **emp.itp_assessment_weak** (severity 3.0, areas_for_improvement)
+  > However, lesson planning in some theory lessons gives insufficient focus to meeting individual Inspection Report:Locomotivation, 19 March 201011 of 16 learners’ needs and some sessions lacked pace and challenge. Staff and learners make limited use of technology to support learning. Assessment is effective, well recorded and thoroughly planned. Most training
 
-- **emp.cv_interview_skills** (severity 2.0, main_findings)
-  > Training specialists provide apprentices with effective careers information, advice and guidance. They help apprentices identify suitable progression routes and give meaningful support to those aiming for promotion or further study. They also offer targeted help with CV writing and interview preparation, which enables apprentices to plan confidently and take
+- **emp.careers_guidance** (severity 3.0, areas_for_improvement)
+  > Airport staff who work in very pressured working environments receive good mentoring support from training co-ordinators, who ensure that they have time and a suitable space to study. Training co-ordinators are very familiar with the commercial environments where they operate and give good careers advice and guidance on progression. Leadership and management
 
-- **cr.confidence** (severity 2.0, main_findings)
-  > Training specialists use assessments well to monitor apprentices’ progress and guide their development. They provide regular verbal feedback and one-to-one coaching, which apprentices value and use to improve their performance and build confidence. In most cases, feedback is timely and specific, helping apprentices understand what they are doing well and wha
+- **emp.employer_engagement** (severity 2.0, leadership_management)
+  > Response rates by learners to feedback questionnaires are low. 19. Locomotivation’s engagement with employers and other external partners is satisfactory. The self-assessment report recognises the need to improve employer engagement, particularly with smaller companies. Some training co-ordinators make insufficient use of evidence from employers, including w
 
-- **cr.confidence** (severity 2.0, main_findings)
-  > Training specialists know their apprentices well and set clear expectations for professional conduct, attendance and participation. Most apprentices respond positively and enjoy strong relationships with their trainers and peers, which helps them build confidence, resilience and stay motivated. In most instances, apprentices quickly develop relevant knowledg
+- **os.extremism** (severity 2.0, safeguarding)
+  > Next steps for the provider Leaders and governors should ensure that:  the analysis of learners’ destination data is extended to include promotion and additional responsibility within employment  learners’ understanding of extremism and radicalisation is further enhanced. Yours sincerely Charles Clark Her Majesty’s Inspector Information about the inspectio
 
-- **cr.resilience** (severity 2.0, main_findings)
-  > Training specialists know their apprentices well and set clear expectations for professional conduct, attendance and participation. Most apprentices respond positively and enjoy strong relationships with their trainers and peers, which helps them build confidence, resilience and stay motivated. In most instances, apprentices quickly develop relevant knowledg
+- **os.extremism** (severity 2.0, safeguarding)
+  > Staff demonstrate a good understanding of safeguarding procedures and the few potential safeguarding concerns reported have been dealt with appropriately. All staff have completed ‘Channel’ training as part of the providers’ response to the ‘Prevent’ strategy. Learners are better informed about extremism and radicalisation and this work is being further deve
 
 ---
 

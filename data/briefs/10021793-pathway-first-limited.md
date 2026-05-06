@@ -50,11 +50,45 @@
 
 _+ 1 earlier inspection in the database._
 
-## Verbatim from the inspector
+## Verbatim from the latest inspection report
 
-Direct quotes from the latest published report. Use these in outreach without paraphrasing.
+Inspection of Pathway First Limited · 2025-08-18 · grade: **🟠 requires improvement**.
+[Full report](https://files.ofsted.gov.uk/v1/file/50284857)
 
-### Main findings
+Direct quotes from the report. Use these in outreach without paraphrasing — they're exactly what the inspector wrote.
+
+### What this provider needs to improve
+
+> What does the provider need to do to improve?
+>
+>  Plan curriculums that prepare learners well for progression to sustained
+> employment or further training, particularly on courses designed to get learners
+> into work.
+>  Design ambitious curriculums that challenge learners, build on their knowledge
+> and skills incrementally and enable them to recall and apply their learning
+> effectively.
+>  Use information about what learners and apprentices already know and can do to
+> tailor learning that addresses identified skills and knowledge gaps.
+>  Use assessment to check learning, identify learners’ misconceptions and plan
+> further teaching and learning.
+>  Give learners helpful feedback that tells them how to improve their work so that
+> they do not continue to make the same mistakes.
+>  Ensure that learners and apprentices achieve their qualification in the planned
+> time.
+
+### Areas for improvement
+
+> areas for improvement. They have
+> begun to support leaders and managers and have already influenced positive
+> changes in quality monitoring and staff performance management.
+
+### Safeguarding
+
+> Safeguarding
+>
+> The arrangements for safeguarding are effective.
+
+### What is it like to be a learner here / What does the provider do well
 
 > What is it like to be a learner with this provider?
 >
@@ -91,88 +125,13 @@ Direct quotes from the latest published report. Use these in outreach without pa
 > Leaders have not ensured that the curriculums are ambitious enough for all learners
 > and apprentices. The level 3 business and management curriculum, for example, is
 > not sufficiently challenging. Tutors do not sequence learning effectively. Learners
-> first lear…
-
-### Areas for improvement
-
-> areas for improvement. They have
-> begun to support leaders and managers and have already influenced positive
-> changes in quality monitoring and staff performance management.
-
-### What this school needs to improve
-
-> What does the provider need to do to improve?
->
->  Plan curriculums that prepare learners well for progression to sustained
-> employment or further training, particularly on courses designed to get learners
-> into work.
->  Design ambitious curriculums that challenge learners, build on their knowledge
-> and skills incrementally and enable them to recall and apply their learning
-> effectively.
->  Use information about what learners and apprentices already know and can do to
-> tailor learning that addresses identified skills and knowledge gaps.
->  Use assessment to check learning, identify learners’ misconceptions and plan
-> further teaching and learning.
->  Give learners helpful feedback that tells them how to improve their work so that
-> they do not continue to make the same mistakes.
->  Ensure that learners and apprentices achieve their qualification in the planned
+> first learn about the stakeholders of a business before learning about fundamental
+> aspects such as the business environment. They do not build their knowledge
+> incrementally or deepen their knowledge as their learning progresses. As a
+> consequence of curriculums that are insufficiently ambitious and challenging, too
+> many learners and apprentices do not achieve their qualifications in the planned
 > time.
->
->
->
->
->
->
->
-> Inspection report: Pathway First Limited
-> 30 June to 3 July 2025
-> 5
->
->
->
-> Provider details
->
-> Unique reference number 59176
->
-> Address Amington House
-> 95 Amington Road
-> Birmingham
-> B25 8EP
->
-> Contact number 0121 707 0550
->
-> Website www.pathwayskillszone.ac.uk
->
-> Principal, CEO or equivalent Safaraz Ali
->
-> Provider type Independent learning provider
->
-> Date of previous inspection 21 to 24 February 2023
->
-> Main subcontractors Not applicable
->
->
->
->
->
->
->
-> Inspection report: Pathway First Limited
-> 30 June to 3 July 2025
-> 6
->
->
->
->
-> Information about this inspection
->
-> The inspection team was assisted by the chief projects officer, as nominee.
-> Inspectors took account of the provider’s most recent self-assessment report and
-> development plans, and the previous inspection report. The inspection was carried
-> out using the further education and skills inspection handbook and took into account
-> all relevant provision at the provider. Inspectors collected a wide range of evidence
-> to inform judgements, including visiting learning sessions, scrutinising learners’
-> work, seeking the views of learner…
+> …
 
 ## Compliance signals
 
@@ -189,23 +148,23 @@ _No public regulatory or financial-health notices on file._
 
 Quotes you can drop directly into outreach. Severity drives the score.
 
-- **emp.itp_apprentices_progress_slow** (severity 6.0, what_school_needs_to_improve)
+- **emp.itp_apprentices_progress_slow** (severity 6.0, what_provider_needs_to_improve)
   >  The majority of apprentices develop good employment and personal skills such as proficiency in the professional use of spreadsheets. Business administration apprentices develop good technical business skills, but too many are slow to develop sufficient personal skills such as time management.  Too many apprentices make slow progress on the functional skil
 
-- **emp.itp_skills_knowledge_gaps** (severity 6.0, what_school_needs_to_improve)
+- **emp.itp_skills_knowledge_gaps** (severity 6.0, what_provider_needs_to_improve)
   >  Design ambitious curriculums that challenge learners, build on their knowledge and skills incrementally and enable them to recall and apply their learning effectively.  Use information about what learners and apprentices already know and can do to tailor learning that addresses identified skills and knowledge gaps.  Use assessment to check learning, iden
 
-- **emp.careers_guidance** (severity 4.0, what_school_needs_to_improve)
+- **os.extremism** (severity 4.0, what_provider_needs_to_improve)
+  > What does the provider need to do to improve further?  Ensure that all apprentices have a good understanding of modern British values and of the dangers of extremism and radicalisation.  Ensure that all apprentices have access to a broad range of learning resources and all subcontractors share examples of good practice in teaching, learning and assessment.
+
+- **os.radicalisation** (severity 4.0, what_provider_needs_to_improve)
+  > What does the provider need to do to improve further?  Ensure that all apprentices have a good understanding of modern British values and of the dangers of extremism and radicalisation.  Ensure that all apprentices have access to a broad range of learning resources and all subcontractors share examples of good practice in teaching, learning and assessment.
+
+- **emp.careers_guidance** (severity 4.0, what_provider_needs_to_improve)
   > They should ensure that rigorous systems are in place and used appropriately to hold tutors and assessors to account for how well apprentices are progressing and achieving in line with their abilities.  Leaders should implement a clear framework setting out how all learners and apprentices can access and benefit from high-quality, impartial careers advice a
 
 - **cr.attendance_poor** (severity 3.0, main_findings)
   > For example, adult learners on level 3 nail and beauty therapy benefit from access to industry standard treatment rooms where they develop the confidence to provide clients with a range of personalised treatments, such as pedicures, nail extensions or Indian head massages. Learners’ attendance at planned learning requires improvement. Although tutors continu
-
-- **cr.personal_development_strengthen** (severity 3.0, personal_development)
-  > Personal development Requires improvement Leadership and management Requires improvement Education programmes for young people Requires improvement Adult learning programmes Requires improvement Apprenticeships Requires improvement Overall effectiveness at previous inspection Good
-
-- **cr.behaviour_attitudes_concern** (severity 3.0, behaviour_attitudes)
-  > Behaviour and attitudes Requires improvement
 
 ---
 

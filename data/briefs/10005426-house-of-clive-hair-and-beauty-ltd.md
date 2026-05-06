@@ -1,6 +1,6 @@
 # House of Clive (Hair and Beauty) Ltd
 
-**🟠 HIGH** · score **75** · urgency 31 · pipeline 100
+**🟠 HIGH** · score **75** · urgency 42 · pipeline 100
 
 ## Identity
 
@@ -13,12 +13,12 @@
 
 ## Lead-with curriculum
 
-**Confidence & Resilience** (sub-score 31)
+**Confidence & Resilience** (sub-score 42)
 
 - Financial Literacy: 0
-- Employability Skills: 24
-- Confidence & Resilience: 31
-- Online Safety: 17
+- Employability Skills: 36
+- Confidence & Resilience: 42
+- Online Safety: 19
 
 ## Why this is on the list
 
@@ -47,121 +47,81 @@
 
 _+ 1 earlier inspection in the database._
 
-## Verbatim from the inspector
+## Verbatim from the latest inspection report
 
-Direct quotes from the latest published report. Use these in outreach without paraphrasing.
+Inspection of House of Clive (Hair and Beauty) Ltd · 2024-08-16 · grade: **🔵 good**.
+[Full report](https://files.ofsted.gov.uk/v1/file/50254978)
 
-### Main findings
+Direct quotes from the report. Use these in outreach without paraphrasing — they're exactly what the inspector wrote.
 
-> What is it like to be a learner with this provider?
->
-> Apprentices do not all benefit from a consistently high-quality education. Learners’
-> experience varies too much depending on the programme they are following.
-> Learners aged 16 to 18 years old on study programmes and adults on learner loan
-> programmes do well, whereas apprentices do not all have a consistently good
-> experience.
->
-> Learners attend regularly and display positive attitudes toward their learning. They
-> benefit from tutors that are consistently supportive. As a result, they develop
-> confidence, social skills and technical expertise and are ambitious for their future
-> careers in hairdressing, barbering, administration, customer service, team leading
-> and digital marketing.
->
-> Learners value the high levels of support for their personal health and well-being.
-> For example, tutors support learners to understand important issues such as healthy
-> relationships and know how to recognise the signs of someone in a controlling
-> relationship. As a result, most learners understand how to keep themselves safe.
->
-> Learners aged 16 to 18 years old study a curriculum that prepares them well for
-> their next steps. Those learners who remain on programme achieve qualifications in
-> employability and personal development. Most of these learners progress to
-> traineeships, employment and a few to apprenticeships.
->
-> Adult learners are well prepared for careers in barbering. Learners with no prior
-> experience in the sector develop new knowledge and skills and learn to carry out
-> complex cutting, including scissor cuts, high skin fade and full wet shaves using a razor.
-> Those learners who remain on programme achieve their qualifications and obtain
-> work in the barbering sector.
->
-> Apprentices who remain on programme do not always know what they need to do to
-> achieve higher grades. Too many repeat final assessments before gaining the skills
-> they need to pass. Apprentices do not receive helpful feedback from their tutors t…
-
-### What this school needs to improve
+### What this provider needs to improve
 
 > What does the provider need to do to improve?
 >
->  Leaders and governors should swiftly improve the quality of education and
-> training so that all learners benefit from high-quality education and training.
->  Leaders should ensure the curriculum is planned so that tutors continue to
-> develop all learners’ mathematics and English skills so that learning is developed
-> beyond the minimum requirements to help support higher career aspirations.
->  Leaders should ensure that learners’ initial assessments of skills, knowledge and
-> behaviours are used to plan and implement a curriculum that is ambitious and
-> supports learners in attaining high grades.
->  Leaders should support staff to provide apprentices with good-quality reviews
-> that give them specific targets and allow them to practise their new skills in the
-> workplace.
->  Leaders should ensure that apprentices receive appropriate impartial, careers
-> information, advice and guidance at the start, throughout and at the end of their
-> programmes.
->  Leaders should further develop governance arrangements so that they gain high
-> levels of support and challenge to deliver rapid quality improvements, including
-> arrangements for monitoring safeguarding.
+>  Ensure all learners and apprentices receive feedback from tutors, which tells them
+> what they need to do to improve their work.
+>  Ensure tutors use the information about what apprentices, learners and adults
+> already know and can do at the start of their programme to plan and provide
+> them with highly effective training.
+>  Ensure that English and mathematics are taught early enough in training so that
+> learners and apprentices can develop and utilise the new skills and knowledge
+> throughout their training.
+
+### Areas for improvement
+
+> areas for improvement and measuring the impacts of the
+> changes they make.
 >
+> Leaders have developed high-quality training, which helps to address regional skills
+> shortages, particularly in the hairdressing industry, and meets the needs of
+
+### Safeguarding
+
+> Safeguarding
 >
+> The arrangements for safeguarding are effective.
+
+### What is it like to be a learner here / What does the provider do well
+
+> What is it like to be a learner with this provider?
 >
+> Apprentices, learners and adults learn significant new knowledge and develop a
+> good or better standard of practical hairdressing skills because of the training they
+> receive at work from employers and from House of Clive tutors. Tutors provide them
+> with effective and engaging learning sessions, and practical sessions take place in
+> high-quality training salons. They master their skills by working on a diverse range
+> of fee-paying clients at training centres and at work.
 >
+> Tutors challenge apprentices, adults and learners to be creative and thoughtful in
+> how they apply their new knowledge in a way that supports the wider community.
+> For example, apprentices studying in Birmingham took part in an initiative to provide
+> a free haircut to people who were homeless, while learners in Bristol worked with a
+> charity to provide wigs for children with cancer. This has contributed to them
+> building their character and resilience, while improving substantially their
+> interpersonal skills and developing an increased understanding of their clients’
+> needs.
 >
+> Tutors provide most apprentices, learners and adults with a wide range of relevant
+> and interesting opportunities to develop their interests. Most of the learners and
+> apprentices studying hairdressing take part in national skills competitions and skills
+> workshops. This helps them to explore new techniques and develop their knowledge
+> and expertise, such as creative colouring and precision cutting techniques.
+> Apprentices, learners and adults enjoy taking part in skills competitions, growing in
+> confidence as they compete with their peers. The minority of apprentices, studying
+> non-hairdressing-related apprenticeships do not take part in the same wide range of
+> learning experiences.
 >
+> Apprentices, learners and adults feel safe and know who to contact if they have any
+> concerns. They feel valued and enjoy their training because tutors support them,
+> with care, to overcome any difficulties that they face in learning the new skills
+> knowledge and behaviours they need to be successful in their next steps. Adults and
+> learners develop the knowledge and skills they need to progress within the hair
+> dressing industry, despite many of them having no prior experience.
 >
-> Inspection report: House of Clive (Hair and Beauty) Ltd
-> 2 to 5 August 2022
-> 6
+> What does the provider do well and what does it need to do
+> better?
 >
->
->
-> Provider details
->
-> Unique reference number 54096
->
-> Address 26 Oakfield Road
-> Clifton
-> Bristol
-> BS8 2AT
->
-> Contact number 01216432147
->
-> Website
-> www.reflectionstraining.co.uk
-> www.nextleveltraining.uk.com
->
-> Principal/CEO Clare Barrett
->
-> Provider type Independent training provider
->
-> Date of previous inspection 3 February 2012
->
-> Main subcontractors None
->
->
->
->
->
->
->
-> Inspection report: House of Clive (Hair and Beauty) Ltd
-> 2 to 5 August 2022
-> 7
->
->
->
->
-> Information about this inspection
->
-> The inspection team was assisted by the divisional director, as nominee. Inspectors
-> took account of the provider’s most recent self-assessment report and development
-> plans, and the pre…
+> Leaders have an ambitious…
 
 ## Compliance signals
 
@@ -175,7 +135,13 @@ _No high-trigger news matched in the last extraction pass._
 
 Quotes you can drop directly into outreach. Severity drives the score.
 
-- **emp.careers_information** (severity 2.0, what_school_needs_to_improve)
+- **emp.itp_apprentices_progress_slow** (severity 4.5, areas_for_improvement)
+  > They rapidly develop new skills knowledge and behaviours, becoming more effective employees and taking on additional responsibilities in their workplace. However, in a minority of instances, tutors do not give enough consideration to what a few apprentices may already know to plan their learning. Consequently, these apprentices do not make progress at the ex
+
+- **emp.itp_off_the_job** (severity 2.0, leadership_management)
+  > A health and safety manager, together with a staff team of three, monitors health and safety for salon work placements and the training centres. Each of the training centres has a manager, tutor/assessors and work-placement personnel. Learners attend the centres for off-the-job training every two weeks for background knowledge, key skills and practical train
+
+- **emp.careers_information** (severity 2.0, what_provider_needs_to_improve)
   >  Leaders should support staff to provide apprentices with good-quality reviews that give them specific targets and allow them to practise their new skills in the workplace.  Leaders should ensure that apprentices receive appropriate impartial, careers information, advice and guidance at the start, throughout and at the end of their programmes.  Leaders sh
 
 - **shared.wider_personal_development** (severity 2.0, main_findings)
@@ -186,12 +152,6 @@ Quotes you can drop directly into outreach. Severity drives the score.
 
 - **cr.confidence** (severity 2.0, main_findings)
   > As a result, not all apprentices value their programme and a significant number drop out or leave the sector. However, learners on study programmes learn essential skills in communication and working together to build confidence before moving on to work experience. Tutors do not ensure that links are made between what apprentices learn in the training academ
-
-- **shared.healthy_relationships** (severity 1.0, main_findings)
-  > As a result, they develop confidence, social skills and technical expertise and are ambitious for their future careers in hairdressing, barbering, administration, customer service, team leading and digital marketing. Learners value the high levels of support for their personal health and well-being. For example, tutors support learners to understand importan
-
-- **shared.rshe_curriculum** (severity 1.0, main_findings)
-  > Leaders have not ensured this is included in the curriculum to allow apprentices to research and discuss wider career options, such as becoming self-employed, working on cruise liners or advancing to management roles. However, adult learners and those learners on study programmes do receive guidance and support about how they can progress within the Reflecti
 
 ---
 

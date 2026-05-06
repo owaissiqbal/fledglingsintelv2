@@ -40,9 +40,12 @@
 - Safeguarding: Met
 - [Report](https://reports.ofsted.gov.uk/provider/33/2654190)
 
-## Verbatim from the inspector
+## Verbatim from the latest inspection report
 
-Direct quotes from the latest published report. Use these in outreach without paraphrasing.
+Inspection of Universal Vibes Limited · 2026-01-13 · grade: **🔵 good**.
+[Full report](https://reports.ofsted.gov.uk/provider/33/2654190)
+
+Direct quotes from the report. Use these in outreach without paraphrasing — they're exactly what the inspector wrote.
 
 ### Areas for improvement
 
@@ -71,9 +74,82 @@ Direct quotes from the latest published report. Use these in outreach without pa
 > valued. Leaders and tutors know apprentices well and understand their needs. They use the
 > wide range of information they gather from apprentices to effectively put in place bespoke
 > support for them. Tutors make sure apprentices access the curriculum by, for example,
-> teaching them through more frequent one to ones if they struggle to learn in group sessions.
-> They tailor the curriculum well to meet apprentices’ individual needs. Tutors frequently
-> assess apprentices’ progress, wellbeing and welfare. T…
+> teaching them through more frequent …
+
+### Apprenticeships
+
+> Apprenticeships
+> 62
+> Percentage of learning aims successfully achieved
+> Apprenticeships overall achievement rate
+> YearThis providerNational averageCompared with
+> national average
+> 2023/249261Above
+> 2022/233955Below
+> 2021/22S53S
+> 'This provider' and 'national average' figures are taken from the publicly available DfE
+> achievement rates. Where the DfE have supressed the figures, usually due to small cohorts,
+> this has been mirrored in the Report Card and will be shown by an 'S'.
+> Apprenticeships pass rate
+> YearThis providerNational average
+> 2023/2410098
+> 2022/2310097
+> 2021/22S98
+> 'This provider' and 'national average' figures are taken from the publicly available DfE
+> achievement rates. Where the DfE have supressed the figures, usually due to small cohorts,
+> this has been mirrored in the Report Card and will be shown by an 'S'.
+>
+> Our grades explained
+> Exceptional
+> Practice is exceptional: of the highest standard nationally. Other providers can learn from it.
+> Strong standard
+> The provider reaches a strong standard. Leaders are working above the standard expected
+> of them.
+> Expected standard
+> The provider is fulfilling the expected standard of education and/or care. This means they
+> are following the standard set out in statutory and non‑statutory legislation and the
+> professional standards expected of them.
+> Needs attention
+> The expected standards are not met but leaders are likely able to make the necessary
+> improvements.
+> Urgent improvement
+> The provider needs to make urgent improvements to provide the expected standard of
+> education and/or care.
+> The Office for Standards in Education, Children's Services and Skills (Ofsted) inspects
+> services providing education and skills for children and learners of all ages, and inspects
+> and regulates services that care for children and young people.
+> If you would like …
+
+### Safeguarding
+
+> Safeguarding standards met
+> The safeguarding standards are met. This means that leaders and/or those responsible for
+> governance and oversight fulfil their specific responsibilities and have established an open
+> culture in which safeguarding is everyone's responsibility and concerns are actively
+> identified, acted upon and managed. As a result, learners are made safer and feel safe.
+> How we evaluate safeguarding
+> When we inspect providers for safeguarding, they can have the following outcomes:
+> Met: The provider has an open and positive culture of safeguarding.
+> Not met: The provider has not created an open and positive culture of safeguarding. Not
+> all legal requirements are met.
+>
+> 1. Inclusion, and leadership and governance
+> Strong standard
+> Expected standard
+> Strong standard
+> Expected standard
+> Leadership and governance
+> Strong standard
+> Leaders and managers have very high aspirations for their apprentices. They ensure that
+> the education they provide improves the lives and life chances of those who train with them.
+> Leaders have put in place a very well-considered strategy to develop and grow the
+> provision. Since the previous inspection, they have made sure that apprentices consistently
+> receive a high-quality curriculum and achieve very well.
+> Leaders understand the quality of the provision very well. They have established a highly
+> effective culture of continuous improvement. Leaders work very well with external
+> consultants to scrutinise the provision and make improvements. They use a wide range of
+> high-quality data and first-hand knowledge of the quality of provision to inform
+> improvements. They have dealt with the
 
 ## Compliance signals
 

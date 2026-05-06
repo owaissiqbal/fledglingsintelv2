@@ -13,12 +13,12 @@
 
 ## Lead-with curriculum
 
-**Confidence & Resilience** (sub-score 55)
+**Employability Skills** (sub-score 55)
 
 - Financial Literacy: 0
-- Employability Skills: 33
+- Employability Skills: 55
 - Confidence & Resilience: 55
-- Online Safety: 47
+- Online Safety: 55
 
 ## Why this is on the list
 
@@ -47,66 +47,84 @@
 
 _+ 6 earlier inspections in the database._
 
-## Verbatim from the inspector
+## Verbatim from the latest inspection report
 
-Direct quotes from the latest published report. Use these in outreach without paraphrasing.
+Inspection of Rochdale Training Association Limited · 2022-06-22 · grade: **🔵 good**.
+[Full report](https://files.ofsted.gov.uk/v1/file/50186446)
 
-### Areas for improvement
+Direct quotes from the report. Use these in outreach without paraphrasing — they're exactly what the inspector wrote.
 
-> areas for improvement ..................................................................................................... 7
-> Main findings ............................................................................................................................ 8
-> Achievement and standards ................................................................................................... 8
-> Quality of provision............................................................................................................... 8
-> Leadership and management ................................................................................................. 8
-> Equality of opportunity ....................................................................................................... 9
-> What learners like .................................................................................................................. 11
-> What learners think could improve...................................................................................... 11
-> Sector subject areas................................................................................................................ 12
-> Engineering and manufacturing technologies ..................................................................... 12
-> Information and communication technology....................................................................... 15
-> Business, administration and law ........................................................................................ 18
-> Learners’ achievements ......................................................................................................... 21
+### What this provider needs to improve
+
+> What does the provider need to do to improve?
 >
-> Inspection report:Rochdale Training Association, 23 November 20073 of 23
-> Background information
-> Inspection judgements
-> Inspectors use a four-point scale to summarise their judgements about achievement and
-> standards, the quality of provision, and leadership and management, which includes a grade
-> for equality of opportunity
-> .
-> Key…
+>  Leaders and managers need to make sure that the teaching of mathematics
+> supports apprentices to quickly develop their mathematical skills so that
+> apprentices are well prepared for their mathematics examinations.
+>  Tutors should ensure that the targets set for, and with, apprentices and their
+> employers are personalised and based on the knowledge, skills and behaviours
+> that apprentices need to develop.
+>  Tutors should ensure that the feedback that level 2 engineering and level 2 and
+> level 3 adult care worker apprentices receive identifies what they have done well
+> and what they need to do to improve the quality of their work.
 
-### Recommendations
+### Safeguarding
 
-> recommendations are made to improve the effectiveness of the process.
-> 46. Equality of opportunity arrangements are satisfactory. Most learners have a satisfactory
-> understanding of equality and diversity through their induction and review. However, data
-> is not used effectively to monitor equality and diversity. The numbers of learners from a
-> minority ethnic background are under-represented at 7%. The figure for the Rochdale area
-> is 13%. Local and internal data is not used in the quality review process to inform
-> planning and marketing of programmes.
+> safeguarding and ‘Prevent’ duty training. Board members know the strengths and
+> weaknesses of the provision. They receive clear and accurate reports from leaders
+> that they use to provide high levels of challenge and to hold leaders and managers
+> to account. For example, they set clear and measurable targets for leaders and
+> managers to improve further apprentices’ achievement of merit and distinction
+> grades in their final assessments.
 >
-> Inspection report:Rochdale Training Association, 23 November 200717 of 23
-> 47. A quality review process is in place and is used to develop the self-assessment report. The
-> self-assessment report is broadly accurate although some key strengths identified in the
-> report were merely satisfactory.
-> 48. The observation of teaching and learning scheme insufficiently promotes the sharing of
-> good practice and quality improvement. Feedback from observers often concentrates on
-> the use of paperwork rather than the promotion of good teaching and learning. Grading of
-> observations is inconsistent. In many cases the grade awarded does not reflect the
-> comments made by the observer. Action plans are brief and focus on the administrative
-> process rather than improvement in training. In most cases there were few
-> recommendations for quality improvement or for continuous professional development.
+> Safeguarding
 >
-> Inspection report:Rochdale Training Association, 23 November 200718 of 23
-> Business, administration and law
-> Good: Grade 2
-> Context
-> 49. Currently 89 learners are on work-based learning programmes, of whom 72 adult learners
-> are on Train to Gain programmes. Of the remainder, four are on the business
-> administration apprenticeship programme and seven are on the advanced apprenticeship
-> programme, one learner is on the customer service apprenticeship programme and five are
-> on the advanced programme. All learners are employed and work in a range …
+> The arrangements for safeguarding are effective.
+>
+> Leaders and managers have established a culture of safeguarding and protection.
+> The designated safeguarding team has received appropriate training and has the
+> experience to carry out its role effectively. The board receives termly reports on
+
+### What is it like to be a learner here / What does the provider do well
+
+> What is it like to be a learner with this provider?
+>
+> Apprentices and trainees benefit from and value the highly effective support from
+> their tutors. They receive swift and effective pastoral support when they need extra
+> help. For example, trainees and apprentices who experience poor mental health that
+> affects their well-being are supported skilfully by tutors who are trained mental
+> health first aiders or are referred to specialist external agencies. As a result, trainees
+> and apprentices who may have otherwise left their programmes remain and achieve.
+>
+> Apprentices and trainees complete additional training and qualifications such as
+> paediatric first aid, mental health awareness and working with children with special
+> educational needs and/or disabilities (SEND), which makes them more employable.
+>
+> Apprentices and trainees become responsible and caring citizens. They enjoy
+> participating in community and charity events and voluntary work. For example,
+> engineering apprentices work on project briefs as they refurbish church bells and
+> make ramps for wheelchairs at care homes. Trainees and business administrator
+> apprentices raise money during charity coffee mornings for cancer charities.
+>
+> Apprentices and trainees feel safe. They have a good understanding of sexual
+> harassment, safeguarding and the dangers associated with radicalisation and
+> extremism, such as being alert to changes to behaviour in colleagues and peers.
+> They know how to report concerns about their safety and are confident that any
+> concerns are dealt with quickly and appropriately. For example, engineering
+> apprentices understand the importance of using the correct personal protection
+> equipment and working safely with and around machinery. They know to whom they
+> should report safety breaches.
+>
+> What does the provider do well and what does it need to do
+> better?
+>
+> Leaders and managers work collaboratively with employers and external
+> organisations such as the local council and the Mayoral Combined Authority to
+> ensure that apprenticeships and traineeships meet the needs of employers,
+> apprentices, trainees and local and regional priorities. For example, they provide
+> teaching assistant apprenticeships for the local council to help resolve skills
+> shortages and fill vacancies across Rochdale. Engineering apprenticeships are
+> designed carefully with employers to reduce skills gaps …
 
 ## Compliance signals
 
@@ -120,23 +138,23 @@ _No high-trigger news matched in the last extraction pass._
 
 Quotes you can drop directly into outreach. Severity drives the score.
 
-- **emp.itp_off_the_job** (severity 3.0, areas_for_improvement)
-  > The Train to Gain programme has two-weekly reviews arranged flexibly to accommodate any work issues, including visits to meet shift patterns. The NVQ material has been written to reflect the age and vocational experience of the learners. Apprenticeship programmes have a range of modes of attendance for off-the-job training to accommodate both learners’ and e
+- **emp.itp_off_the_job** (severity 4.0, what_provider_needs_to_improve)
+  > In the well-planned and very effective training sessions learners benefit from a wide range of stimulating activities that engage their interest, motivate them, developing their confidence and skills and enabling them to learn and make progress.  Most of the on- and off-the-job training sessions observed were judged good or outstanding. Training and coachin
 
-- **emp.itp_off_the_job** (severity 3.0, areas_for_improvement)
-  > Inspection report:Rochdale Training Association, 23 November 200713 of 23 24. Some learners gain qualifications in addition to their framework requirements. This includes apprentices achieving additional level 2 units during off-the-job training and apprentices progressing to higher level technical certificates. The quality of learners’ work is satisfactory.
+- **emp.itp_assessment_weak** (severity 3.0, apprenticeships)
+  >  RTA engages very well with employers. Employers take an active role in the review process and have a good understanding of the apprentice’s progress and what is required to move forward. Initial assessment is effective and, where required, clearly identifies learners who may require additional learning support, which is then provided effectively.  Assessm
 
-- **emp.itp_off_the_job** (severity 3.0, areas_for_improvement)
-  > Currently 41 adult learners are on Train to Gain programmes in manufacturing, of whom 39 are on national vocational qualification (NVQ) level 2 programmes and two are on NVQ level 3 programmes. Some 14 women are enrolled in this area, including two advanced apprentices. 21. Currently one manager is responsible for off-the-job training, the training workshop 
+- **emp.itp_off_the_job** (severity 3.0, apprenticeships)
+  > For example, apprentices take part in very effective coaching sessions after which they are able to use and maintain databases, record customer information and produce reports to inform business planning to support managers in the workplace.  Assessors use good-quality resources very well to support learning at work and in off-the-job training. RTA’s traini
 
-- **cr.disengaged** (severity 3.0, areas_for_improvement)
-  > RTA works particularly well with partner organisations to promote work-based learning in the community and is a key partner in the local consortium to develop the local 14-19 curriculum. Partnership work was accurately identified as a strength in the self-assessment report. RTA has engaged in a wide range of activities to reach disengaged learners. However, 
+- **emp.itp_off_the_job** (severity 3.0, apprenticeships)
+  >  RTA holds individual coaching and training sessions near to the job and these take place at work regularly for learners who do not attend off-the-job sessions at RTA. These sessions are organised and planned particularly effectively. They clearly link in to the scheme of work and enable strong links to be made between on- and off-the-job training. Learners
 
-- **shared.diversity** (severity 1.5, recommendations)
-  > The self-assessment report is broadly accurate, however, some of the key strengths identified in the self-assessment report, were considered satisfactory. 59. Equality of opportunity is satisfactory. Most learners have a satisfactory understanding of equality and diversity through their induction. However, learners’ wider understanding is not always develope
+- **emp.itp_off_the_job** (severity 3.0, apprenticeships)
+  > RTA staff discuss topics such as employment prospects and college and university courses with learners during their programmes.  Apprentices and workplace learners have a satisfactory understanding and awareness of equality and diversity which are covered well in induction and off-the-job training, and are reinforced in most of the media and resources RTA p
 
-- **shared.diversity** (severity 1.5, recommendations)
-  > Equality of opportunity arrangements are satisfactory. Most learners have a satisfactory understanding of equality and diversity through their induction and review. However, data is not used effectively to monitor equality and diversity. The numbers of learners from a minority ethnic background are under-represented at 7%. The figure for the Rochdale area is
+- **emp.itp_off_the_job** (severity 3.0, apprenticeships)
+  >  Apprentices make good progress, and much of their on-the-job training is challenging. Learners are constantly improving their workplace and personal skills as well as extending their knowledge and understanding of engineering. In off-the-job training practical workshop sessions, learners demonstrate high standards of work. They design and make useful produ
 
 ---
 

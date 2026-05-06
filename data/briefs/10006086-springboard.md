@@ -46,122 +46,78 @@
 
 _+ 5 earlier inspections in the database._
 
-## Verbatim from the inspector
+## Verbatim from the latest inspection report
 
-Direct quotes from the latest published report. Use these in outreach without paraphrasing.
+Inspection of Springboard · 2024-10-16 · grade: **🔵 good**.
+[Full report](https://files.ofsted.gov.uk/v1/file/50259395)
 
-### Main findings
+Direct quotes from the report. Use these in outreach without paraphrasing — they're exactly what the inspector wrote.
 
-> What is it like to be a learner with this provider?
->
-> Leaders and managers have created a culture of care and respect. Staff set high
-> expectations and promote these through positive reinforcement when dealing with
-> issues, such as poor attendance and behaviour. Learners and apprentices have
-> positive attitudes to learning. They demonstrate a high level of respect for staff,
-> work collaboratively with their peers, and listen and respond appropriately during
-> discussions. Learners and apprentices, many of whom face a range of significant
-> challenges, including mental health concerns, benefit from effective support from
-> their tutors and a well-being and safeguarding coordinator.
->
-> In the specialist provision for learners with high needs, relationships between staff
-> and learners are very positive. Support staff manage behaviour and conduct well
-> through the use of supportive interventions and management strategies. As a result,
-> learners with complex needs engage fully in their learning, overcome a range of
-> barriers and achieve their goals. However, too many learners with high needs, who
-> are enrolled on vocational courses, do not benefit from sufficiently effective support
-> and, therefore, do not make the progress that they could. Too few learners with
-> high needs progress on to other education programmes, employment or
-> traineeships.
->
-> Most learners and apprentices take pride in their work, which improves over time.
-> Learners and apprentices develop their technical language and become fluent in
-> using technical terms correctly and in the right context. For example, on level 2
-> hairdressing programmes, both learners and apprentices understand the meanings
-> of and can hold discussions about terms, such as effleurage and petrissage.
->
-> Learners and apprentices feel safe in learning. Tutors are vigilant in spotting signs of
-> concern and make themselves readily available to discuss any issues which may be
-> barriers to learning. Learners and apprentices understand we…
-
-### What this school needs to improve
+### What this provider needs to improve
 
 > What does the provider need to do to improve?
 >
->  Ensure that leaders, managers and trustees intensify the speed at which they
-> improve the weaker aspects of the provision.
->  Ensure that the information collected about learners’ and apprentices’ starting
-> points is used effectively to plan and provide teaching that enables learners and
-> apprentices to achieve their full potential.
->  Ensure that tutors are provided with the support and guidance that they need to
-> improve their teaching practice and the quality of the feedback that they give to
-> learners and apprentices.
->  Improve the quality of apprenticeship training, so that apprentices are better
-> prepared for their end-point assessment.
->  Ensure that all employers are fully committed to supporting their apprentices to
-> develop the knowledge, skills and behaviours that they need to be successful.
->  Provide effective tuition and support to enable a higher proportion of learners and
-> apprentices to achieve their functional skills qualifications at the first attempt.
->  Ensure that all learners with high needs on vocational programmes receive the
-> support they need to prepare them for their next steps, so that a much higher
-> proportion progress successfully.
->  Provide learners and apprentices with helpful careers advice and guidance.
+>  Identify and implement actions to increase further the proportion of learners who
+> complete their programme successfully.
+>  Increase the proportion of apprentices who complete their programmes and the
+> proportion that achieve high grades.
+
+### Adult learning programmes
+
+> adult learning programmes from entry level to level 3. At the time of the
+> inspection, there were 77 young learners on a range of courses in health and social
+> care, children’s and young people’s settings, and hairdressing and beauty. There
+> were 16 apprentices studying on four programmes and 19 learners with high needs.
+> At the subcontracted provision, there were 14 learners studying on a level 1
+> construction skills programme. At the time of the inspection, there were no adult
+> learners enrolled.
+
+### Safeguarding
+
+> Safeguarding
 >
+> The arrangements for safeguarding are effective.
+
+### What is it like to be a learner here / What does the provider do well
+
+> What is it like to be a learner with this provider?
 >
+> Learners and apprentices benefit from calm and welcoming environments. Staff set
+> clear expectations early in the programme for attendance and behaviour, to which
+> most learners and apprentices adhere. Learners and apprentices demonstrate
+> respectful attitudes towards staff and each other. They take their learning seriously
+> and comply with safe working practices.
 >
+> Learners and apprentices follow programmes that meet their specific needs. Leaders
+> and managers gather information about learners’ and apprentices’ starting points
+> from stakeholders such as local authorities and schools and use the information well
+> to select the correct level of course. Teachers plan personal targets and provide
+> individual support based on learners’ and apprentices’ starting points. This helps
+> learners and apprentices, including those with special educational needs, to make
+> good progress towards their goals.
 >
+> Most learners on education programmes for young people participate in useful work
+> experience and, as a result, develop skills that prepare them well for future
+> employment. Learners complete a helpful reflective journal to identify what they
+> have learned. Those with high needs carry out useful placements in a foodbank, a
+> charity shop and a care home. However, too many learners on construction courses
+> do not participate in work experience.
 >
+> Learners and apprentices feel safe and know who they should report any concerns
+> to. They develop a good understanding of potential risks through a range of
+> activities, including guest speaker visits, drop-in sessions and workshops. For
+> example, local organisations provide helpful information on alcohol and drug misuse,
+> drink spiking and the impact of knife crimes. As a result, learners and apprentices
+> develop resilience and confidence to make informed choices about their interactions
+> with people in the communities in which they live.
+> What does the provider do well and what does it need to do
+> better?
 >
->
->
-> Inspection report: Springboard
-> 5 to 8 July 2022
-> 6
->
->
->
-> Provider details
->
-> Unique reference number 50199
->
-> Address Unit 1-2
-> East Way
-> Rivergreen Industrial Estate
-> Sunderland
-> SR4 6AD
->
-> Contact number 0191 515 5300
->
-> Website www.springboard-ne.org.uk
->
-> Principal/CEO Steve Reay
->
-> Provider type Independent learning provider
->
-> Date of previous inspection 5–8 March 2019
->
-> Main subcontractors
-> Foundation of Light
-> Sporting Chances North East CIC
-> Sunderland Training and Education Farm
-> Limited
-> Oxclose and District Young People Project
-> Limited
-> Boldon School
->
->
->
->
->
->
->
-> Inspection report: Springboard
-> 5 to 8 July 2022
-> 7
->
->
->
->
-> Information about thi…
+> Leaders have a clear intent to deliver learning programmes for the most
+> disadvantaged and disengaged young people and adults in the local community.
+> Many learners have had a poor previous experience of education and have not
+> developed the routine of attending learning settings for a significant length of time.
+> Leaders and managers provide an opportunity to part…
 
 ## Compliance signals
 
@@ -175,23 +131,23 @@ _No high-trigger news matched in the last extraction pass._
 
 Quotes you can drop directly into outreach. Severity drives the score.
 
-- **emp.careers_provision_weak** (severity 6.0, what_school_needs_to_improve)
+- **shared.british_values_weak** (severity 6.0, what_provider_needs_to_improve)
+  > For example, one is actively seeking work after completing a study programme in construction and being directed towards specific local employers, who are likely to have appropriate vacancies.  While staff promote a general culture of respect and tolerance, the specific promotion of fundamental Inspection Report: Springboard Limited, 1–4 March 2016 Page 6 of
+
+- **emp.careers_provision_weak** (severity 6.0, what_provider_needs_to_improve)
   >  Leaders and managers do not ensure that learners on study programmes consistently receive effective careers advice to enable them to identify their next steps into further education, training or employment. Impartial and timely careers advice is not routinely planned or available for all learners. Initial information and advice are effective in getting lea
 
-- **emp.careers_guidance** (severity 4.0, what_school_needs_to_improve)
-  >  Leaders and managers do not ensure that learners on study programmes consistently receive effective careers advice to enable them to identify their next steps into further education, training or employment. Impartial and timely careers advice is not routinely planned or available for all learners. Initial information and advice are effective in getting lea
+- **os.extremism** (severity 4.0, what_provider_needs_to_improve)
+  > Learners are well aware of how to raise concerns about their personal safety, for example if they were to experience bullying or harassment. However, not all learners are aware sufficiently of the specific dangers of radicalisation and extremism.  Tutors promote a culture of mutual respect and set high expectations for standards of professional behaviour. L
 
-- **emp.careers_guidance** (severity 4.0, what_school_needs_to_improve)
-  > These include Skills 4U, where learners on study programmes make slow progress, and Trade Techs Northern, where not enough apprentices completed their qualifications within the planned timescales.  Leaders and managers do not ensure that learners on study programmes consistently receive effective careers advice to enable them to identify their next steps in
+- **os.radicalisation** (severity 4.0, what_provider_needs_to_improve)
+  > Learners are well aware of how to raise concerns about their personal safety, for example if they were to experience bullying or harassment. However, not all learners are aware sufficiently of the specific dangers of radicalisation and extremism.  Tutors promote a culture of mutual respect and set high expectations for standards of professional behaviour. L
 
-- **emp.careers_guidance** (severity 4.0, what_school_needs_to_improve)
-  >  Managers should intensify their monitoring of subcontractors so that they can intervene more quickly and effectively when their performance starts to decline.  Leaders and managers should ensure that all learners on study programmes receive impartial and timely careers advice that enables them to make informed decisions about their next steps into further
+- **os.radicalisation** (severity 4.0, what_provider_needs_to_improve)
+  > All staff have completed an online ‘Prevent’ duty training programme. Staff are not yet confident in how or when to incorporate ‘Prevent’ duty issues in their teaching; a few learners do not have a good enough understanding of the dangers and risks of radicalisation. The Trust carries out detailed risk assessments for all centres, activities and learning pro
 
-- **emp.careers_guidance** (severity 4.0, what_school_needs_to_improve)
-  >  Ensure that all learners with high needs on vocational programmes receive the support they need to prepare them for their next steps, so that a much higher proportion progress successfully.  Provide learners and apprentices with helpful careers advice and guidance. Inspection report: Springboard 5 to 8 July 2022 6 Provider details Unique reference number 
-
-- **cr.attendance_poor** (severity 3.0, main_findings)
-  > Tutors have high aspirations for their learners and apprentices to overcome any personal challenges and to achieve on their programmes. Learners and apprentices are expected to attend and to work hard to improve their life and career opportunities. However, attendance is too low on a few education programmes for Inspection report: Springboard 5 to 8 July 202
+- **emp.transition_to_work** (severity 4.0, what_provider_needs_to_improve)
+  >  The vast majority of learners on the 16–19 study programmes enjoy their learning and make good progress in developing their vocational competencies, knowledge and employability skills to support their effective transition into employment. A minority of learners gain employment prior to the completion of their programme or progress onto an apprenticeship. S
 
 ---
 

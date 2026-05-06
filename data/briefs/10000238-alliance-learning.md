@@ -1,6 +1,6 @@
 # Alliance Learning
 
-**🟠 HIGH** · score **75** · urgency 44 · pipeline 100
+**🟠 HIGH** · score **75** · urgency 55 · pipeline 100
 
 ## Identity
 
@@ -13,12 +13,12 @@
 
 ## Lead-with curriculum
 
-**Confidence & Resilience** (sub-score 44)
+**Employability Skills** (sub-score 55)
 
 - Financial Literacy: 0
-- Employability Skills: 34
-- Confidence & Resilience: 44
-- Online Safety: 9
+- Employability Skills: 55
+- Confidence & Resilience: 55
+- Online Safety: 40
 
 ## Why this is on the list
 
@@ -47,87 +47,72 @@
 
 _+ 7 earlier inspections in the database._
 
-## Verbatim from the inspector
+## Verbatim from the latest inspection report
 
-Direct quotes from the latest published report. Use these in outreach without paraphrasing.
+Inspection of Alliance Learning · 2024-06-24 · grade: **🔵 good**.
+[Full report](https://files.ofsted.gov.uk/v1/file/50250501)
 
-### Main findings
+Direct quotes from the report. Use these in outreach without paraphrasing — they're exactly what the inspector wrote.
 
-> What is it like to be a learner with this provider?
->
-> Apprentices develop professional behaviours and positive attitudes that prepare
-> them well for work. They demonstrate respect for their peers and tutors. Level 3
-> metal fabricator apprentices are considerate of their peers when operating
-> machinery in the workshop. Apprentices understand the importance of attendance
-> and punctuality at the training centre and at work. Attendance for most apprentices
-> is high.
->
-> Apprentices value the support they receive from their tutors. They benefit from oneto-one support sessions by tutors which help them to understand theoretical
-> concepts and to catch up if they fall behind. Level 3 business administrator
-> apprentices appreciate the flexibility of online learning resources and use recorded
-> training sessions to consolidate their learning.
->
-> Apprentices develop their confidence because of their apprenticeship. This results in
-> apprentices making a positive contribution to their employers’ businesses. Level 3
-> maintenance and operations engineering technician apprentices can independently
-> replace a bearing on a set of rollers for a blower motor at work.
->
-> Engineering apprentices have experienced significant disruption to their learning.
-> They have experienced numerous changes to staff and infrequent progress reviews
-> which has impeded the progress they have made on their apprenticeship. While new
-> staff have now been appointed to strengthen and stabilise apprentices’ learning
-> experiences, this has not yet ensured that all apprentices receive the same highquality training.
->
-> Most apprentices do not have the opportunity to complete additional activities
-> beyond their main vocational curriculum. Apprentices are unable to develop their
-> interests and talents further. More recently, first year engineering apprentices have
-> participated in an outward-bound team-building activity to form positive
-> relationships with their peers.
->
-> Apprentices do not benefit from well-planned …
-
-### What this school needs to improve
+### What this provider needs to improve
 
 > What does the provider need to do to improve?
 >
->  As a matter of utmost urgency, leaders should strengthen their safeguarding
-> processes and procedures to ensure that apprentices are safe.
->  Leaders should ensure that all staff have the knowledge and understanding they
-> need to identify, report and follow up safeguarding concerns effectively.
+>  Ensure that tutors consistently provide useful developmental feedback so that
+> apprentices know what they need to do to improve their work.
+>  Continue to develop the personal development curriculum for all apprentices,
+> including those who have been on programme for more than a year.
+>  Ensure that all apprentices benefit from effective careers advice and guidance.
+>  Increase the number of apprentices who remain on programme and achieve their
+> apprenticeship on time.
+
+### Safeguarding
+
+> Safeguarding
 >
+> The arrangements for safeguarding are effective.
+
+### What is it like to be a learner here / What does the provider do well
+
+> What is it like to be a learner with this provider?
 >
+> Apprentices benefit from well-equipped workshops, tools and resources that
+> replicate those used in industry. They are very well supported by tutors who are
+> responsive to their needs and approachable. Tutors know apprentices and the
+> organisations they work for very well and use this knowledge effectively to
+> contextualise learning. This helps apprentices to develop significant new knowledge
+> and skills that directly relate to what they do at work.
 >
+> Apprentices share a positive working environment with peers and staff. They
+> develop professional, work-ready behaviours and demonstrate positive attitudes to
+> their learning. Engineering apprentices are attentive, contribute professionally to
+> class discussion and are courteous. Management apprentices present their ideas
+> professionally. They explain how their newly developed insight helps them to be
+> mindful of, and celebrate, the similarities and differences in the people they manage.
+> Apprentices’ attendance at work and in training is high. They become valued
+> employees, regarded as integral to the future success of their organisations.
 >
+> Apprentices enjoy their apprenticeships. Most apprentices now benefit from a varied
+> personal development programme relevant to their apprenticeship and life
+> experiences. They have guest speaker sessions about finance, unions, the minimum
+> wage, working hours, annual leave, and support for gambling. Apprentices learn
+> about healthy relationships, sexual harassment, coercive and controlling
+> relationships and domestic violence.
 >
+> Apprentices feel safe and know how to report any concerns they may have. They
+> learn in an inclusive and respectful environment. Staff ensure that apprentices are
+> well looked after and cared for and that their concerns are reported, recorded and
+> actioned effectively.
 >
-> Inspection report: Alliance Learning
-> 7 to 10 February 2023
-> 5
+> What does the provider do well and what does it need to do
+> better?
 >
->
->  Leaders and managers should ensure that tutors use apprentices’ starting points
-> effectively to plan an individualised curriculum for all apprentices.
->  Leaders should ensure that apprentices’ on- and off-the-job training is planned
-> and coordinated effectively so that apprentices can swiftly practise, improve and
-> master the knowledge, skills and behaviours they need to be a productive
-> employee.
->  Leaders should ensure that tutors provide apprentices with effective feedback on
-> their written work, so that they know what they have done well and what they
-> need to do to improve.
->  Leaders and managers should ensure that all apprentices have a thorough
-> understanding of the requirements of their final assessments and the grades that
-> they could achieve in their apprenticeship.
->  Tutors should plan to teach English and mathematics functional skills earlier in the
-> apprenticeship to develop apprentices’ English and mathematical skills swiftly.
->  Leaders should ensure that they provide a personal development curriculum that
-> apprentices can participate in and benefit from to broaden their experience
-> beyond the requirements of their apprenticeship.
->  Leaders should provide high-quality, impartial careers information, advice and
-> guidance to apprentices throughout their programme, so that apprentices know
-> the full range of opportunities and career pathways that are available to them.
->  Board members should provide sufficient challenge to leaders and hold them to
-> account to ensure that rapid improvements to safeguarding arrangements and the
-> …
+> Leaders have a clear vision for the curriculums they offer, using their expertise in
+> engineering and business management to provide apprentices with the training that
+> they need to be successful at work. Leaders design ambitious curriculums that meet
+> the needs of employers, apprentices and their industry sectors. Staff regularly
+> review the curriculums with employers to fill skills gaps and emerging training
+> needs. They adapt and alter delivery model…
 
 ## Compliance signals
 
@@ -141,23 +126,23 @@ _No high-trigger news matched in the last extraction pass._
 
 Quotes you can drop directly into outreach. Severity drives the score.
 
-- **emp.itp_off_the_job** (severity 4.0, what_school_needs_to_improve)
+- **emp.itp_off_the_job** (severity 4.0, what_provider_needs_to_improve)
   > Inspection report: Alliance Learning 7 to 10 February 2023 5  Leaders and managers should ensure that tutors use apprentices’ starting points effectively to plan an individualised curriculum for all apprentices.  Leaders should ensure that apprentices’ on- and off-the-job training is planned and coordinated effectively so that apprentices can swiftly pract
 
-- **cr.personal_development_strengthen** (severity 3.0, personal_development)
-  > Personal development Requires improvement Leadership and management Inadequate Apprenticeships Requires improvement Overall effectiveness at previous inspection Good
+- **emp.careers_guidance** (severity 4.0, what_provider_needs_to_improve)
+  >  Continue to develop the personal development curriculum for all apprentices, including those who have been on programme for more than a year.  Ensure that all apprentices benefit from effective careers advice and guidance.  Increase the number of apprentices who remain on programme and achieve their apprenticeship on time. Inspection report: Alliance Lea
 
-- **cr.behaviour_attitudes_concern** (severity 3.0, behaviour_attitudes)
-  > Behaviour and attitudes Requires improvement
+- **emp.itp_skills_knowledge_gaps** (severity 3.0, main_findings)
+  > Leaders have a clear vision for the curriculums they offer, using their expertise in engineering and business management to provide apprentices with the training that they need to be successful at work. Leaders design ambitious curriculums that meet the needs of employers, apprentices and their industry sectors. Staff regularly review the curriculums with em
 
-- **emp.careers_information** (severity 2.0, what_school_needs_to_improve)
-  >  Leaders should ensure that they provide a personal development curriculum that apprentices can participate in and benefit from to broaden their experience beyond the requirements of their apprenticeship.  Leaders should provide high-quality, impartial careers information, advice and guidance to apprentices throughout their programme, so that apprentices k
+- **shared.diversity** (severity 2.0, what_provider_needs_to_improve)
+  > For example, in one learning session engineering learners identified the strengths of prominent figures in society and discussed their learning difficulties or disabilities. Learners develop a good understanding of equality and diversity; they respect each other and have a good understanding of their rights and responsibilities. However, in health and social
 
-- **cr.personal_development** (severity 2.0, what_school_needs_to_improve)
-  >  Tutors should plan to teach English and mathematics functional skills earlier in the apprenticeship to develop apprentices’ English and mathematical skills swiftly.  Leaders should ensure that they provide a personal development curriculum that apprentices can participate in and benefit from to broaden their experience beyond the requirements of their app
+- **shared.diversity** (severity 2.0, what_provider_needs_to_improve)
+  > While on programme they are given good advice by their tutors and assessors, ensuring they continue to work towards the most appropriate qualifications or make timely applications to higher education providers.  Equality and diversity are promoted well, particularly in engineering. For example, in one learning session engineering learners identified the str
 
-- **cr.mental_health** (severity 2.0, safeguarding)
-  > The DSL has established effective links with a range of external agencies to help keep apprentices safe. For example, local organisations support apprentices who need support with housing or require mental health services. Leaders ensure that there are appropriate pre-employment checks carried out so that staff are suitable to work with apprentices.
+- **shared.rshe_curriculum** (severity 2.0, what_provider_needs_to_improve)
+  > The standard of learners’ work is high and many progress to higher-level qualifications.  Engineering learners are challenged to achieve demanding targets. Many engineering learners progress to higher-level courses. Apprentices develop good skills through knowledgeable and skilled teachers and assessors. Teachers use their vocational experience effectively,
 
 ---
 

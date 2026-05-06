@@ -1,6 +1,6 @@
 # SW Durham Training Limited
 
-**🟠 HIGH** · score **75** · urgency 35 · pipeline 100
+**🟠 HIGH** · score **75** · urgency 34 · pipeline 100
 
 ## Identity
 
@@ -13,12 +13,12 @@
 
 ## Lead-with curriculum
 
-**Confidence & Resilience** (sub-score 35)
+**Confidence & Resilience** (sub-score 34)
 
 - Financial Literacy: 0
-- Employability Skills: 13
-- Confidence & Resilience: 35
-- Online Safety: 15
+- Employability Skills: 25
+- Confidence & Resilience: 34
+- Online Safety: 29
 
 ## Why this is on the list
 
@@ -47,39 +47,87 @@
 
 _+ 5 earlier inspections in the database._
 
-## Verbatim from the inspector
+## Verbatim from the latest inspection report
 
-Direct quotes from the latest published report. Use these in outreach without paraphrasing.
+Inspection of SW Durham Training Limited · 2023-05-05 · grade: **🔵 good**.
+[Full report](https://files.ofsted.gov.uk/v1/file/50215846)
 
-### What this school needs to improve
+Direct quotes from the report. Use these in outreach without paraphrasing — they're exactly what the inspector wrote.
 
-> What does the provider need to do to improve further?
->  Increase the number of learners who successfully complete their programmes, particularly for
-> learners aged 16 to 18 following advanced programmes. Ensure through clear target-setting and
-> close monitoring of learner progress that learners achieve within their planned end dates.
->  Improve the delivery of theory classes by more effective use of questioning and checking of
-> learner understanding. Make better use of interactive technologies to enliven lessons, to support
-> assessment and to enhance workplace coaching sessions. Provide more detailed narrative on
-> learners’ written assignments enabling learners to understand how to improve.
->  Improve the proportion of outstanding lessons by ensuring that lesson observations lead to high
-> quality action planning and training. Link action plans closely to staff appraisals and subsequent
-> development activities which support tutors and assessors to become more reflective
-> practitioners so that they recognise what they need to do to improve practice.
->  Further improve learners’ understanding and awareness of equality and diversity themes in
-> theory sessions by more effective embedding of the topic within a vocational context. Ensure
-> tutors systematically, through lessons and reviews, develop and embed a thorough
-> understanding by learners of equality and diversity.
->  Improve performance management by better use of data to further develop the accountability of
-> staff and managers for performance within their areas. Ensure staff understand organisational
-> and individual targets to increase success rates. Extend the collection and use of data to include
-> learners’ progression onto higher education to provide a fuller picture of the success of the
-> organisation.
+### What this provider needs to improve
+
+> What does the provider need to do to improve?
 >
-> Inspection judgements
-> Outcomes for learners
-> Requires improvement
->  Overall success on apprenticeships has declined from above national rates in 2009/10 to be 5%
-> below the national rate in 2011/12. The pr…
+>  Ensure that leaders and managers swiftly put support in place for learners and
+> apprentices with SEND so that these learners or apprentices can make rapid
+> progress from their starting points.
+>  Ensure that all apprentices and learners know what they need to do to improve
+> their work so that they can aspire to and achieve the highest grades of which
+> they are capable.
+>  Ensure that employers receive the timely information that they need about their
+> apprentices’ progress so that they are promptly advised of any issues and can
+> support their apprentices’ development in the workplace.
+
+### Safeguarding
+
+> Safeguarding
+>
+> The arrangements for safeguarding are effective.
+>
+> SWDT has a strong culture of safeguarding. Thorough safeguarding, safe
+> recruitment and ‘Prevent’ duty policies and procedures are in place. Staff receive
+> comprehensive training on how to keep learners and apprentices safe, including
+> from the risks of radicalisation and extremism. Leaders ensure that learners and
+> apprentices have trusted named adults that they can contact should they have any
+> concerns. The designated safeguarding lead (DSL) and deputy DSL have received
+> training that equips them for their roles.
+>
+> Staff teach learners and apprentices during tutorial sessions about countering sexual
+> harassment and abuse. Learners and apprentices have an appropriate
+> understanding of what constitutes acceptable and unacceptable behaviour and what
+> consent is in sexual relationships.
+
+### What is it like to be a learner here / What does the provider do well
+
+> What is it like to be a learner with this provider?
+>
+> Apprentices and learners value their calm and professional learning environment and
+> are highly motivated to develop their engineering skills. Tutors have high
+> expectations of learners and apprentices, who in turn behave in a safe and orderly
+> manner in workshops, replicating the behaviour that is expected in industry.
+>
+> Learners and apprentices benefit from a well-resourced and spacious learning and
+> training environment. They practise and apply their understanding in a realistic
+> workplace setting. As a result, they are well prepared for employment in a range of
+> engineering contexts.
+>
+> Learners and apprentices develop their skills and grow in confidence. Learners on
+> study programmes develop their mathematical skills beyond GCSE so that they can
+> apply complex mathematical formulas in electrical principles. Apprentices on level 3
+> standards are encouraged to enter computer-aided design (CAD) competitions
+> where they can showcase and develop further their individual talents.
+>
+> Apprentices and learners benefit from an effective careers programme which
+> encourages them to aspire and to understand what they need to do to progress in
+> their chosen career. Careers progression coaches arrange appropriate and highquality work placements for learners on study programmes so that they broaden
+> their insights into engineering working environments. Careers staff support learners
+> and apprentices to compose good quality curriculum vitae and applications for jobs
+> or higher education.
+>
+> Learners and apprentices feel safe in training and know who to contact at SWDT if
+> they have any concerns. Apprentices understand how to keep safe in their
+> workplaces. They follow strict operating procedures and complete risk assessments
+> before taking on new tasks.
+>
+> What does the provider do well and what does it need to do
+> better?
+>
+> Leaders and managers have a clear strategic intent to address the skills
+> development needs in the pharmaceutical, electrical and mechanical engineering
+> sectors. Leaders collaborate well with employers to plan the training that their
+> apprentices need. Employers appreciate how well apprentices develop the
+> professional behaviours and attitudes that they need to work safely in often highrisk industries. Apprentices develop skills that allow them to progress to roles
+> including automation engin…
 
 ## Compliance signals
 
@@ -93,23 +141,23 @@ _No high-trigger news matched in the last extraction pass._
 
 Quotes you can drop directly into outreach. Severity drives the score.
 
-- **shared.diversity** (severity 2.0, what_school_needs_to_improve)
-  > Case study materials are used effectively to check learner understanding during workplace progress reviews. However, whilst much good development work is taking place, the embedding of equality and diversity in theory sessions requires improvement.  Most apprentices make effective use of SWDT’s virtual learning environment which is populated with an effecti
-
-- **shared.diversity** (severity 2.0, what_school_needs_to_improve)
-  > However, SWDT recognise that a very small minority of learners on fabrication and welding programmes were placed on a technical certificate which did not meet their individual needs and ability. This has now been addressed.  Equality, diversity and safeguarding are promoted well during induction and reinforced appropriately with posters in the workshop area
-
-- **shared.diversity** (severity 2.0, what_school_needs_to_improve)
-  >  Further improve learners’ understanding and awareness of equality and diversity themes in theory sessions by more effective embedding of the topic within a vocational context. Ensure tutors systematically, through lessons and reviews, develop and embed a thorough understanding by learners of equality and diversity.  Improve performance management by bette
-
-- **shared.diversity** (severity 2.0, what_school_needs_to_improve)
-  > Link action plans closely to staff appraisals and subsequent development activities which support tutors and assessors to become more reflective practitioners so that they recognise what they need to do to improve practice.  Further improve learners’ understanding and awareness of equality and diversity themes in theory sessions by more effective embedding 
-
-- **emp.itp_assessment_weak** (severity 1.0, summary)
+- **emp.itp_assessment_weak** (severity 2.0, leadership_management)
   > SWDT uses a range of information to match assessors to learners, including assessors’ self-assessments and learners’ initial assessments. 13. Support for learners with learning needs and disabilities is particularly good. Initial assessment is effective in identifying support needs, and well-trained staff provide sensitive and highly effective support. 14. A
 
-- **emp.itp_assessment_weak** (severity 1.0, summary)
+- **emp.itp_assessment_weak** (severity 2.0, leadership_management)
   > Retention and achievement rates have been consistently poor since the previous inspection. However, there has been a gradual improvement following improvements to key skills training. 0.00 The quality of provision 9. Recruitment at SWDT is thorough and initial assessment is effective. These factors help to ensure that the organisation recruits learners to ap
+
+- **emp.itp_off_the_job** (severity 2.0, leadership_management)
+  > In engineering, there is little co-ordination of on- and off-the-job training. Employers 0.00 Page 3 of 17 3© 2006 ADULT LEARNING INSPECTORATE SOUTH WEST DURHAM TRAINING LIMITED do not have sufficient information about off-the-job training for them to participate effectively. Similarly, tutors in the training centre do not pay sufficient attention to the on-
+
+- **emp.itp_off_the_job** (severity 2.0, leadership_management)
+  > Discussions of equal opportunities at reviews are superficial and do little to broaden the learners’ understanding of the wider issues in equality and diversity. 17. In engineering, there is little co-ordination of on- and off-the-job training. Employers 0.00 Page 3 of 17 3© 2006 ADULT LEARNING INSPECTORATE SOUTH WEST DURHAM TRAINING LIMITED do not have suff
+
+- **emp.itp_off_the_job** (severity 2.0, leadership_management)
+  > Since then a new management team has made improvements, but the pace of improvement remains slow KEY CHALLENGES FOR SOUTH WEST DURHAM TRAINING LIMITED: improve the learners’ achievement and progress rates • improve the use of data in managing the organisation • improve the quality of data • monitor the progress of learners more effectively • establish formal
+
+- **shared.diversity** (severity 2.0, what_provider_needs_to_improve)
+  > Case study materials are used effectively to check learner understanding during workplace progress reviews. However, whilst much good development work is taking place, the embedding of equality and diversity in theory sessions requires improvement.  Most apprentices make effective use of SWDT’s virtual learning environment which is populated with an effecti
 
 ---
 

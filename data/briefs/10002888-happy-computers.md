@@ -1,6 +1,6 @@
 # Happy Computers
 
-**🟠 HIGH** · score **75** · urgency 51 · pipeline 100
+**🟠 HIGH** · score **75** · urgency 55 · pipeline 100
 
 ## Identity
 
@@ -13,12 +13,12 @@
 
 ## Lead-with curriculum
 
-**Confidence & Resilience** (sub-score 51)
+**Confidence & Resilience** (sub-score 55)
 
 - Financial Literacy: 0
-- Employability Skills: 26
-- Confidence & Resilience: 51
-- Online Safety: 24
+- Employability Skills: 43
+- Confidence & Resilience: 55
+- Online Safety: 33
 
 ## Why this is on the list
 
@@ -45,165 +45,68 @@
 
 - [Report](https://files.ofsted.gov.uk/v1/file/1994211)
 
-## Verbatim from the inspector
+## Verbatim from the latest inspection report
 
-Direct quotes from the latest published report. Use these in outreach without paraphrasing.
+Inspection of Happy Computers · 2024-09-06 · grade: **🔵 good**.
+[Full report](https://files.ofsted.gov.uk/v1/file/50256262)
 
-### Main findings
+Direct quotes from the report. Use these in outreach without paraphrasing — they're exactly what the inspector wrote.
+
+### What this provider needs to improve
+
+> What does the provider need to do to improve?
+>
+>  Continue to increase the proportion of apprentices who achieve within the
+> planned time, and continue to support apprentices who are passed their planned
+> time to achieve.
+>  Use management information to gain a more comprehensive overview of the
+> provision and to improve any underperforming areas.
+
+### Safeguarding
+
+> Safeguarding
+>
+> The arrangements for safeguarding are effective.
+
+### What is it like to be a learner here / What does the provider do well
 
 > What is it like to be a learner with this provider?
 >
-> Apprentices enjoy Happy’s ethos and values. They appreciate that the
-> apprenticeship programmes help them to develop the attitudes and behaviours they
-> need to become more effective leaders. For example, team leader apprentices have
-> learned to adjust their behaviour in certain situations, such as being more
-> considerate of their team members’ personalities when organising projects and
-> meetings.
+> Apprentices learn in well-managed and respectful environments in both face-to-face
+> and online lessons. This is because tutors set clear expectations for participation and
+> respectful communication at the beginning of each lesson. As a result, apprentices
+> engage positively which leads to a productive online learning experience. Most
+> apprentices have good attendance and attitudes to their studies and development.
+> Leaders, managers and tutors suitably challenge and resolve non-attendance and
+> engagement to promote a culture of responsibility and commitment to learning
+> among apprentices.
 >
-> Apprentices value the expertise of their facilitators. They benefit from industry
-> leaders sharing their experiences. In online lessons, facilitators create a safe space
-> for apprentices to challenge traditional techniques and to explore new approaches.
-> Apprentices are supported and encouraged to learn, apply and reflect on their
-> practice. Staff are friendly, approachable and responsive to suggestions for
-> improvement. Staff and apprentices have a high level of respect for one another.
+> Apprentices study a curriculum that meets their and their employers’ needs well,
+> particularly for those in the charity and local authority sectors. They learn significant
+> new knowledge and skills incrementally throughout the programme. This is because
+> staff work closely with employers to design each curriculum. Staff get to know the
+> needs of employers’ organisations in depth and accurately identify what apprentices
+> already know and can do. They use this information to good effect to design
+> bespoke curriculums. For example, level 5 operations or departmental manager
+> tutors use case studies in their training related to charities. This helps apprentices to
+> apply the business elements of the curriculum to the context in which they work.
 >
-> Apprentices are not always set clear and demanding tasks and targets. Where
-> apprentices have fallen behind with their work, staff do not set sufficiently detailed
-> targets with clear steps on how to catch up. When apprentices ask for clearer
-> guidance, this does not always happen, and as a result, they remain behind.
->
-> In some instances, leaders and managers have not made clear the expectations of
-> the apprenticeship to apprentices and their managers. A few apprentices are not in
-> roles which enable them to put into practice enough of what they have learned
-> through their training. As a result, too many apprentices have left the programme.
->
-> Apprentices feel safe as they trust staff take any concerns they have seriously. When
-> apprentices face difficult challenges at work, facilitators encourage discussion to help
-> them resolve any problems. Staff speak with apprentices frequently to check on
-> their mental health.
+> Apprentices feel safe in learning and the workplace. Tutors teach apprentices well
+> about the dangers and risks associated with radicalisation and extremism.
+> Apprentices understand fundamental British values. Many apprentices work for large
+> public organisations or charities where the service users are from disadvantaged
+> backgrounds and at risk of exploitation, for example through modern slavery and
+> people trafficking. Apprentices value the discussions they have with tutors and their
+> peers on these topics during their training, which helps to further their knowledge of
+> the rule of law, tolerance and respect.
 >
 > What does the provider do well and what does it need to do
 > better?
 >
-> Leaders and managers offer appropriate ap…
-
-### What this school needs to improve
-
-> What does the provider need to do to improve?
->
->  Staff need to use the information they have about what apprentices know and
-> can do at the start of their course to create a personalised and demanding
-> programme that builds on apprentices’ existing skills and knowledge.
->  Leaders should develop a comprehensive curriculum of personal development to
-> support all learners, which includes impartial careers advice and guidance, to help
-> apprentices understand the opportunities available to them and to prepare for
-> them for their next steps.
->  Leaders and those who provide governance need to be more rigorous in their
-> approach to quality assurance to improve their understanding of the provider’s
-
-### Areas for improvement
-
-> areas for improvement.
->  Leaders need to ensure that apprentices and their managers understand the
-> requirements and expectations of their apprenticeship. They need to ensure that
-> all apprentices can apply their new knowledge at work and can learn effectively
-> from valuable training outside work to achieve their programme.
->
->
->
->
->
->
->
-> Inspection report: Happy Computers
-> 6 to 8 April 2022
-> 5
->
->
->
-> Provider details
->
-> Unique reference number 58502
->
-> Address 3rd Floor Robert Dolan House
-> 9 Alie Street
-> London
-> E1 8DE
->
-> Contact number 020 7375 7300
->
-> Website www.happy.co.uk
->
-> Principal/CEO Henry Stewart
->
-> Provider type Independent learning provider
->
-> Date of previous inspection Not previously inspected
->
-> Main subcontractors None
->
->
->
->
->
->
->
-> Inspection report: Happy Computers
-> 6 to 8 April 2022
-> 6
->
->
->
->
-> Information about this inspection
->
-> The inspection team was assisted by the Apprenticeship Director, as nominee.
-> Inspectors took account of the provider’s most recent self-assessment report and
-> development plans, and the previous inspection report. The inspection was carried
-> out using the further education and skills inspection handbook and took into account
-> all relevant provision at the provider. Inspectors collected a wide range of evidence
-> to inform judgements, including visiting learning sessions, scrutinising learners’
-> work, seeking the views of learners, staff and other stakeholders, and examining the
-> provider’s documentation and records.
->
-> Inspection team
->
-> Rebecca Jennings, lead inspector Her Majesty’s Inspector
-> Jane Hughes Her Majesty’s Inspector
-> Steve Lambert Her Majesty’s Inspector
->
->
->
->
->
->
->
->
-> Inspection report: Happy Computers
-> 6 to 8 April 2022
-> 7
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
-> If you are not happy with the inspection or the report, you can complain to Ofsted.
->
->
-> The Office for Standards in Education, Children’s Services and Skills (Ofsted)
-> regulates and inspects to achieve excellence in the care of children and youn…
+> Leaders and managers have a clear vision for the apprenticeships. Leaders integrate
+> into each management apprenticeship the company’s unique set of core
+> management principles. Through the training, they aim to equip apprentices with
+> the knowledge, skills and behaviours beyond conventional mana…
 
 ## Compliance signals
 
@@ -217,23 +120,23 @@ _No high-trigger news matched in the last extraction pass._
 
 Quotes you can drop directly into outreach. Severity drives the score.
 
-- **emp.careers_guidance** (severity 4.0, what_school_needs_to_improve)
+- **emp.itp_skills_knowledge_gaps** (severity 4.5, areas_for_improvement)
+  > Internal verification is satisfactory with appropriate feedback to assessors and standardisation meetings. 13. Initial assessment is satisfactory. This was recognised as good in the selfassessment report. The IT skills assessment completed by apprentices is used to identify skills gaps. However, the initial assessment process does not effectively inform indi
+
+- **emp.careers_guidance** (severity 4.0, what_provider_needs_to_improve)
   >  Staff need to use the information they have about what apprentices know and can do at the start of their course to create a personalised and demanding programme that builds on apprentices’ existing skills and knowledge.  Leaders should develop a comprehensive curriculum of personal development to support all learners, which includes impartial careers advi
 
-- **cr.personal_development_strengthen** (severity 3.0, personal_development)
-  > Personal development Requires improvement Leadership and management Requires improvement Apprenticeships Requires improvement Overall effectiveness at previous inspection Not previously inspected
+- **cr.self_esteem** (severity 3.0, areas_for_improvement)
+  > Many of the apprentices are mature returners to learning and often lack confidence. The trainers demonstrate good empathy with these apprentices and are sensitive to their needs. Apprentices quickly gain in confidence and self-esteem and acquire good skills to be more effective in their workplaces. Employers often select Happy Computers as their provider of 
 
-- **shared.rshe_curriculum** (severity 2.0, what_school_needs_to_improve)
-  > What does the provider need to do to improve?  Staff need to use the information they have about what apprentices know and can do at the start of their course to create a personalised and demanding programme that builds on apprentices’ existing skills and knowledge.  Leaders should develop a comprehensive curriculum of personal development to support all l
+- **cr.self_esteem** (severity 3.0, areas_for_improvement)
+  > The development of vocational skills is good and apprentices make good progress. Apprentice involvement and participation in their training is good. All apprentices are motivated to succeed. They develop good employment skills, including confidence and improved self-esteem, contributing to their economic and social well-being. Apprentices produce work of a h
 
-- **cr.personal_development** (severity 2.0, what_school_needs_to_improve)
-  >  Staff need to use the information they have about what apprentices know and can do at the start of their course to create a personalised and demanding programme that builds on apprentices’ existing skills and knowledge.  Leaders should develop a comprehensive curriculum of personal development to support all learners, which includes impartial careers advi
+- **emp.itp_skills_knowledge_gaps** (severity 3.0, safeguarding)
+  > Apprentices progress at the same pace and there is little differentiation to extend learning. Employers are not engaged in the assessment process and there is insufficient use of workplace evidence.  On joining, apprentices complete an IT skills assessment, which is used to identify skills gaps. However, the initial assessment process does not effectively i
 
-- **cr.mental_health** (severity 2.0, safeguarding)
-  > Staff working directly with learners know how to recognise any concerns and follow suitable procedures. Leaders recognise that some learners struggle with their mental health and have trained staff to be mental health first aiders who offer suitable support to apprentices through additional check-ins and more frequent calls. Staff are part of suitable networ
-
-- **cr.mental_health** (severity 2.0, safeguarding)
-  > Leaders adequately promote a culture of safeguarding. Staff working directly with learners know how to recognise any concerns and follow suitable procedures. Leaders recognise that some learners struggle with their mental health and have trained staff to be mental health first aiders who offer suitable support to apprentices through additional check-ins and 
+- **cr.self_esteem** (severity 2.0, safeguarding)
+  > Target setting is not individualised or linked to initial assessments. Targets are often too vague and not measurable.  Provision meets the needs of users well. Apprentices quickly gain in confidence and self-esteem and acquire good skills to be more effective in their workplaces. Employers often select Happy Computers as their provider of choice. They supp
 
 ---
 

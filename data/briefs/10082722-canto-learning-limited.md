@@ -1,6 +1,6 @@
 # Canto Learning Limited
 
-**🟠 HIGH** · score **75** · urgency 51 · pipeline 76
+**🟠 HIGH** · score **75** · urgency 55 · pipeline 76
 
 ## Identity
 
@@ -11,12 +11,12 @@
 
 ## Lead-with curriculum
 
-**Employability Skills** (sub-score 51)
+**Employability Skills** (sub-score 55)
 
-- Financial Literacy: 14
-- Employability Skills: 51
-- Confidence & Resilience: 50
-- Online Safety: 30
+- Financial Literacy: 17
+- Employability Skills: 55
+- Confidence & Resilience: 55
+- Online Safety: 55
 
 ## Why this is on the list
 
@@ -41,69 +41,87 @@
 
 _+ 5 earlier inspections in the database._
 
-## Verbatim from the inspector
+## Verbatim from the latest inspection report
 
-Direct quotes from the latest published report. Use these in outreach without paraphrasing.
+Inspection of Canto Learning Limited · 2023-07-07 · grade: **🔵 good**.
+[Full report](https://files.ofsted.gov.uk/v1/file/50222654)
 
-### What this school needs to improve
+Direct quotes from the report. Use these in outreach without paraphrasing — they're exactly what the inspector wrote.
 
-> What does the provider need to do to improve further?
->  Increase the proportion of leavers who progress into employment by implementing plans for
-> work experience and adjusting the curriculum to give a more vocational focus.
->  Improve teaching, learning and assessment by providing more staff training and bring internal
-> lesson observation grades in line with those of other providers.
->  Share good practice in teaching, learning and assessment, both internally and externally.
->  Impose higher standards of quality and performance by better setting and use of performance
-> targets.
+### What this provider needs to improve
+
+> What does the provider need to do to improve?
 >
->
-> Inspection judgements
-> Outcomes for learners
-> Requires improvement
->
->  Learners progress well and many are successful in achieving their key objectives identified at
-> the beginning of their programme. In particular, a high proportion of learners achieve
-> qualifications in a wide range of subjects including functional skills, creative craft, performance
-> skills and personal and social development. Many learners make good progress in objectives
-> relating to their attendance, punctuality and attitudes.
->  There are no achievement gaps as all learners progress and achieve their objectives at similar
-> rates. The vast majority of learners are white British. The very small number of learners from
-> black and minority ethnic backgrounds makes any comparative analysis of their achievement as
-> a group statistically unsound.
->  Learners develop their personal and social skills well. In particular, they demonstrate significant
-> improvements in behaviour, confidence and social skills. They enjoy demonstrating their new
-> found confidence and skills through regular music and drama performances. Learners recognise
-> and value these gains considerably and talk enthusiastically about the fact that the provider has
-> transformed their lives. In some instances learners gain skills that help them live more
-> independently. In functional skills, learners are often successful in achieving qualifications at a
-> s…
+>  Leaders should ensure that students on pathway two courses benefit from the
+> same high-quality education as other students.
+>  Teachers should consider how they plan and introduce activities so that all
+> students can understand and participate in them.
+>  Leaders should review how the key worker sessions are used to support students’
+> learning.
+>  Leaders should ensure that high-quality, supported internships are available for
+> students to complete and achieve their potential.
 
-### Areas for improvement
+### Safeguarding
 
-> areas for improvement identified through observation.
-> They link them to individual staff and organisational training plans and use them to inform staff
-> annual appraisals. Previously the organisation did not retain teaching staff whose performance
-> did not improve from inadequate despite a number of interventions. Recent policy changes
-> require a tutor whose session has been graded as requiring improvement to be observed again
-> within three months, but so far this has had little impact on improving the quality of teaching
-> and learning.
->  Staff involvement in the self-assessment process is good. The self-assessment report and
-> associated improvement plan are reviewed regularly throughout the year at staff meetings. Staff
-> incorporate users’ views gathered through one-to-one sessions with their key workers. The
-> report is self-critical and largely accurate; however some of the areas for improvement have
-> persisted due to the financial cost of addressing them.
->  An unusual breadth of curriculum for this type of programme has evolved from previous offers
-> and in response to requests from learners. Subjects such as drama and music help learners with
-> very low levels of self-confidence to gain in confidence and their ability to communicate. Others
-> such as photography and French help to engage learners through a subject that interests them.
-> However it is not evident how these programmes directly improve learners’ employability skills.
-> It is too early to judge the impact of recent good initiatives to increase work placement
-> opportunities for learners.
->  The promotion of equality and diversity is good. Posters, including a locally well-designed
-> diversity wheel which includes deprivation as well as the legally defined protected characteristics
-> and others about different cultures, religions and cuisines, are displayed prominently around the
-> building. Staff include these themes frequently as topics in teaching and learning sessions. Staff
-> have frequent refresher tr…
+> Safeguarding
+>
+> The arrangements for safeguarding are effective.
+>
+> Leaders develop clear policies and procedures to safeguard their students. The
+> designated safeguarding leads are appropriately trained. Staff complete suitable
+> annual safeguarding training and receive frequent and relevant updates. Staff are
+> clear about what to do if they have any safeguarding concerns. Leaders keep
+> detailed notes of any incidents and actions.
+>
+> Staff know their students’ needs and behaviours well. They ensure that students
+> receive timely support when they need it. Leaders carefully consider what their
+> students are most at risk from and frequently revisit these topics. For example,
+> students often learn about internet safety or the risk of fraud and exploitation.
+
+### What is it like to be a learner here / What does the provider do well
+
+> What is it like to be a learner with this provider?
+>
+> Students enjoy their time at CANTO. They value the support of enthusiastic and
+> friendly staff who help them to become more confident. Over time, students who
+> initially find it difficult to speak to anybody in class join in with group activities,
+> critique their peers’ work and speak to unfamiliar people.
+>
+> Students use their new knowledge, skills and behaviours to benefit their wider lives.
+> For example, they begin to prepare and cook dishes more independently or assist
+> their parents or carers at home. Students who undertake external work experience
+> benefit greatly from these activities. They complete the tasks set for them diligently
+> and work effectively to support their peers.
+>
+> Staff skilfully help students to learn how to manage their behaviours well. Students
+> receive high-quality guidance that enables them to understand their feelings and
+> emotions. Over time, they develop useful methods to better manage these.
+>
+> Students rightly value the many opportunities they get to take part in physical
+> activities. They play a wide range of sports or go on mindfulness walks. This helps
+> them to understand how to stay fit and healthy.
+>
+> Students feel safe attending their classes, while on work experience and when they
+> go on visits. They learn valuable information to keep themselves safe when online.
+>
+> What does the provider do well and what does it need to do
+> better?
+>
+> Leaders pride themselves on their capacity to meet a wide range of students’ needs.
+> They plan curriculums flexibly and make effective adjustments to support students
+> into education. For example, those with the highest level of need focus on
+> communication and life skills. Students with less complex needs follow a curriculum
+> that enables them to prepare for employment or further education.
+>
+> Most teachers plan subject curriculums well. In photography, students start with
+> basic camera operations and how to use a camera safely before learning about the
+> exposure triangle. On courses such as those for woodwork and mathematics,
+> students benefit from similar good planning. As a result, students incrementally build
+> substantial new knowledge, skills and behaviours.
+>
+> In most cases, staff ensure that students’ EHC plan targets are interwoven
+> effectively with the curriculum content. However, a small minority of teachers’
+> planning is…
 
 ## Compliance signals
 
@@ -117,23 +135,23 @@ _No high-trigger news matched in the last extraction pass._
 
 Quotes you can drop directly into outreach. Severity drives the score.
 
-- **emp.employer_engagement** (severity 4.0, what_school_needs_to_improve)
+- **emp.employer_engagement** (severity 4.0, what_provider_needs_to_improve)
   > CANTO has good links with a local college and encourages learners to attend appropriate taster sessions. Staff provide useful help with completing application forms for courses. CANTO has good links with the Connexions service. The newly appointed employer engagement lead has a key role in providing information advice and guidance for learners, particularly 
 
-- **emp.work_experience** (severity 4.0, what_school_needs_to_improve)
+- **emp.work_experience** (severity 4.0, what_provider_needs_to_improve)
   > A part-time staff member has been appointed recently to find suitable placements for learners, where appropriate, and to support learners through the process of settling into their posts. So far, only a few current learners have had work experience, but plans are in place for around ten learners to do so.  Resources to support learning are satisfactory over
 
-- **emp.work_experience** (severity 4.0, what_school_needs_to_improve)
+- **emp.work_experience** (severity 4.0, what_provider_needs_to_improve)
   > For example, in a mathematics lesson, learners produced some good work on lines of symmetry using mirrors which they found interesting, but they were unaware of how this work fits into their qualification aim, or its use in everyday life. In some instances, handouts are not sufficiently adult focused.  Work experience arrangements are not yet fully establis
 
-- **emp.work_experience** (severity 4.0, what_school_needs_to_improve)
+- **emp.work_experience** (severity 4.0, what_provider_needs_to_improve)
   > The range of subjects offered and learning activities undertaken during sessions do not have a sufficiently strong vocational focus to prepare learners for work in the future. Until recently too few learners have had a work experience placement.  The proportion of learners who progressed into further education or employment rose significantly in 2011/12 but
 
-- **emp.work_experience** (severity 4.0, what_school_needs_to_improve)
+- **emp.work_experience** (severity 4.0, what_provider_needs_to_improve)
   > What does the provider need to do to improve further?  Increase the proportion of leavers who progress into employment by implementing plans for work experience and adjusting the curriculum to give a more vocational focus.  Improve teaching, learning and assessment by providing more staff training and bring internal lesson observation grades in line with t
 
-- **shared.diversity** (severity 2.0, what_school_needs_to_improve)
-  >  Learners have a good understanding of equality and diversity which is introduced at induction and reinforced, where appropriate, during lessons and through involvement in projects such as one planned currently to celebrate the Chinese New Year. Resources include books on different religions and posters which are displayed to promote diversity. Learners tre
+- **emp.work_experience** (severity 4.0, what_provider_needs_to_improve)
+  > Inspection report: CANTO LIMITED, 08 – 10 July 2014 4 of 10  Learners receive good advice and guidance. Specialist staff meet very frequently with learners to monitor their progress in developing employability and volunteering skills through accredited courses, work experience and community projects. Advice and guidance is realistic and matches learners’ in
 
 ---
 

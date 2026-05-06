@@ -142,29 +142,55 @@ async function loadFindings(institutionId: number) {
   return r.rows as unknown as Record<string, unknown>[];
 }
 
-// Pull the verbatim "what the provider/school needs to improve" section
-// (and "areas for action" / "areas for improvement" — Ofsted's language
-// varies by framework) for the LATEST inspection. This is the single
-// most useful piece of report text for sales — it tells us in the
-// inspector's own words what the institution is being told to fix.
+// Pull verbatim narrative sections for the LATEST inspection only.
+// We pull the action sections first (what to improve) then the framework
+// narrative (apprenticeships, adult learning, quality of education,
+// behaviour, leadership) — every block a sales rep might quote.
 async function loadKeyReportSections(institutionId: number) {
-  const r = await client.execute({
-    sql: `SELECT rs.section_key, rs.section_title, rs.section_text, rs.order_index
+  // Latest inspection that has any sections at all
+  const latestRow = await client.execute({
+    sql: `SELECT insp.id AS inspection_id, insp.inspection_start_date,
+                 insp.overall_grade, insp.report_url
           FROM inspections insp
-          JOIN report_sections rs ON rs.inspection_id = insp.id
           WHERE insp.institution_id = ?
-            AND rs.section_key IN (
+            AND EXISTS (SELECT 1 FROM report_sections rs WHERE rs.inspection_id = insp.id)
+          ORDER BY insp.inspection_start_date DESC
+          LIMIT 1`,
+    args: [institutionId],
+  });
+  const latest = latestRow.rows[0] as unknown as
+    | { inspection_id: number; inspection_start_date: string; overall_grade: string | null; report_url: string | null }
+    | undefined;
+  if (!latest) return { latest: null, sections: [] };
+
+  const r = await client.execute({
+    sql: `SELECT section_key, section_title, section_text, order_index
+          FROM report_sections
+          WHERE inspection_id = ?
+            AND section_key IN (
               'what_provider_needs_to_improve',
               'what_school_needs_to_improve',
               'areas_for_action',
               'areas_for_improvement',
               'recommendations',
-              'main_findings'
+              'main_findings',
+              'apprenticeships',
+              'adult_learning',
+              'young_peoples_provision',
+              'high_needs_provision',
+              'quality_of_education',
+              'behaviour_attitudes',
+              'personal_development',
+              'leadership_management',
+              'safeguarding'
             )
-          ORDER BY insp.inspection_start_date DESC, rs.order_index ASC`,
-    args: [institutionId],
+          ORDER BY order_index ASC`,
+    args: [latest.inspection_id],
   });
-  return r.rows as unknown as Record<string, unknown>[];
+  return {
+    latest,
+    sections: r.rows as unknown as Record<string, unknown>[],
+  };
 }
 
 async function loadCompliance(institutionId: number) {
@@ -200,7 +226,46 @@ const SECTION_LABEL: Record<string, string> = {
   areas_for_action: "Areas for action",
   areas_for_improvement: "Areas for improvement",
   recommendations: "Recommendations",
-  main_findings: "Main findings",
+  main_findings: "What is it like to be a learner here / What does the provider do well",
+  apprenticeships: "Apprenticeships",
+  adult_learning: "Adult learning programmes",
+  young_peoples_provision: "Education programmes for young people",
+  high_needs_provision: "Provision for learners with high needs",
+  quality_of_education: "Quality of education",
+  behaviour_attitudes: "Behaviour and attitudes",
+  personal_development: "Personal development",
+  leadership_management: "Leadership and management",
+  safeguarding: "Safeguarding",
+};
+
+// Render order — most actionable first (what they need to fix),
+// then framework narrative for context.
+const SECTION_ORDER = [
+  "what_provider_needs_to_improve",
+  "what_school_needs_to_improve",
+  "areas_for_action",
+  "areas_for_improvement",
+  "recommendations",
+  "apprenticeships",
+  "adult_learning",
+  "young_peoples_provision",
+  "high_needs_provision",
+  "quality_of_education",
+  "behaviour_attitudes",
+  "personal_development",
+  "leadership_management",
+  "safeguarding",
+  "main_findings",
+];
+
+type SectionsBundle = {
+  latest: {
+    inspection_id: number;
+    inspection_start_date: string;
+    overall_grade: string | null;
+    report_url: string | null;
+  } | null;
+  sections: Record<string, unknown>[];
 };
 
 function renderBrief(
@@ -209,7 +274,7 @@ function renderBrief(
   finds: Record<string, unknown>[],
   comp: Record<string, unknown>[],
   news: Record<string, unknown>[],
-  sections: Record<string, unknown>[],
+  bundle: SectionsBundle,
 ): string {
   const out: string[] = [];
   const name = inst.name as string;
@@ -303,28 +368,41 @@ function renderBrief(
     }
   }
 
-  // Verbatim "what this provider needs to improve" / "areas for action"
-  // section from the latest report. This is the inspector's own words —
-  // the gold for outreach. We dedup by section_key (in case two latest-
-  // tied inspections each have one).
-  if (sections.length > 0) {
-    out.push("## Verbatim from the inspector");
+  // Verbatim narrative from the latest published report. We render in a
+  // deliberate order: what they need to improve first (action sections),
+  // then F&S framework narrative (apprenticeships, quality of education,
+  // behaviour, etc.). Each section is its own quote block — the
+  // inspector's own words ready for outreach.
+  if (bundle.latest && bundle.sections.length > 0) {
+    out.push("## Verbatim from the latest inspection report");
     out.push("");
-    out.push("Direct quotes from the latest published report. Use these in outreach without paraphrasing.");
+    out.push(
+      `Inspection of ${inst.name} · ${bundle.latest.inspection_start_date} · grade: **${gradeBadge(bundle.latest.overall_grade)}**.`,
+    );
+    if (bundle.latest.report_url) {
+      out.push(`[Full report](${bundle.latest.report_url})`);
+    }
     out.push("");
-    const seen = new Set<string>();
-    for (const s of sections) {
+    out.push(
+      "Direct quotes from the report. Use these in outreach without paraphrasing — they're exactly what the inspector wrote.",
+    );
+    out.push("");
+    // Group sections by key, render in the SECTION_ORDER sequence.
+    const byKey = new Map<string, Record<string, unknown>>();
+    for (const s of bundle.sections) {
       const key = s.section_key as string;
-      if (seen.has(key)) continue;
-      seen.add(key);
+      if (!byKey.has(key)) byKey.set(key, s);
+    }
+    for (const key of SECTION_ORDER) {
+      const s = byKey.get(key);
+      if (!s) continue;
       const label = SECTION_LABEL[key] ?? key;
       const text = ((s.section_text as string) ?? "").trim();
       if (!text || text.length < 30) continue;
       out.push(`### ${label}`);
       out.push("");
-      // Render as a quote block, line by line so the markdown stays clean.
-      // Cap each section to 2,000 chars so a brief is readable.
-      const trimmed = text.length > 2000 ? text.slice(0, 2000) + "…" : text;
+      const cap = key === "main_findings" ? 2400 : 1800;
+      const trimmed = text.length > cap ? text.slice(0, cap) + "…" : text;
       for (const line of trimmed.split(/\r?\n/)) {
         const t = line.trim();
         if (!t) {
@@ -415,14 +493,14 @@ async function main() {
   let written = 0;
   for (const inst of cohort) {
     const id = inst.id as number;
-    const [insps, finds, comp, news, sections] = await Promise.all([
+    const [insps, finds, comp, news, bundle] = await Promise.all([
       loadInspectionHistory(id),
       loadFindings(id),
       loadCompliance(id),
       loadNews(id),
       loadKeyReportSections(id),
     ]);
-    const md = renderBrief(inst, insps, finds, comp, news, sections);
+    const md = renderBrief(inst, insps, finds, comp, news, bundle);
     const slug = slugify(inst.name as string);
     const ukprn = (inst.ukprn as string) || `id${id}`;
     const filename = `${ukprn}-${slug}.md`;

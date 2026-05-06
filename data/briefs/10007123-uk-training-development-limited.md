@@ -15,7 +15,7 @@
 
 **Employability Skills** (sub-score 68)
 
-- Financial Literacy: 4
+- Financial Literacy: 16
 - Employability Skills: 68
 - Confidence & Resilience: 68
 - Online Safety: 55
@@ -48,71 +48,88 @@
 
 _+ 8 earlier inspections in the database._
 
-## Verbatim from the inspector
+## Verbatim from the latest inspection report
 
-Direct quotes from the latest published report. Use these in outreach without paraphrasing.
+Inspection of UK Training & Development Limited · 2023-06-06 · grade: **🔵 good**.
+[Full report](https://files.ofsted.gov.uk/v1/file/50219233)
 
-### What this school needs to improve
-
-> What does the provider need to do to improve further?
->
->  Rapidly increase the proportion of apprentices who achieve their qualifications.
->  Leaders should swiftly improve the quality of teaching and learning, by:
-> – focusing on learners and the quality of their learning when observing training
-> – accurately identifying and providing the specific training required for individual tutors
-> to improve their teaching skills
-> – ensuring that tutors share existing best practice in teaching and learning.
->  Ensure that apprentices are provided with ongoing impartial careers guidance about the
-> full range of options available to them when they complete their studies.
->  Provide further training for tutors to enable them to help apprentices quickly improve
-> their skills in written English.
->  Use more challenging activities to enable apprentices to make more rapid progress
-> towards achieving high grades.
->  Identify apprentices’ specific learning needs more promptly and provide effective, timely
-> support to enable them to make good progress.
->
->
->
->
->
->
->
->
->
-> Inspection report: UK Training & Development Limited, 14–17 May 2019
->
-> Page 3 of 10
->
->
->
->
-> Inspection judgements
->
-> Effectiveness of leadership and management Requires improvement
->
->  Although leaders have dealt effectively with many of the weaknesses from the previous
-> inspection, there remain aspects which require further improvement for provision to be
-> good.
->  Leaders have not established a clear and consistent approach to quality improvement. For
-> example, they do not set measurable success criteria or target completion dates for their
-> improvement actions. Staff are not effectively involved in improvement planning. Leaders
-> do not ensure that staff are clear about their targets or how they contribute to the overall
-> improvement process.
->  Leaders’ actions have not improved the quality of teaching, learning and assessment
-> rapidly enough. Leaders have made improvements in how they monitor quality. For
-> examp…
+Direct quotes from the report. Use these in outreach without paraphrasing — they're exactly what the inspector wrote.
 
 ### Areas for improvement
 
-> areas for improvement.
-> 38. The current self-assessment report was produced in May 2006. Some staff are
-> unaware of the self-assessment report. There is little evidence that the views of learners
-> and employers have been taken into account in the production of the report. A number
-> of the judgements in the report matched the findings of the inspection, although a few of
-> the strengths identified by UKTD were judged by inspectors to be no more than normal
-> practice.
-> Leadership and Management
-> Leadership and management
+> areas for improvement within the apprenticeship programmes.
+>
+> Leaders give staff good support and professional development opportunities.
+> Provider staff appreciate these opportunities and enjoy working at UKTD. Tutors
+> have recently enrolled on an assessor coaching apprenticeship to enhance their skills
+> in these areas. New members of staff enjoy a thorough induction and effective
+> support to help them conduct their roles.
+
+### Safeguarding
+
+> Safeguarding
+>
+> The arrangements for safeguarding are effective.
+>
+> Leaders have put in place appropriate policies and procedures. When safeguarding
+> concerns arise, staff follow these correctly. The designated safeguarding lead is
+> knowledgeable and understands the requirements to safeguard apprentices. Staff
+> undergo appropriate safeguarding and ‘Prevent’ duty training.
+>
+> Apprentices complete mandatory safeguarding training during their induction. This
+> includes how to stay safe online and knowledge of the dangers associated with
+> extremism and radicalisation. They also receive information about organised crime,
+> modern day slavery and county lines. Apprentices have a good understanding of
+> how to work safely at work.
+>
+> Many apprentices know what constitutes a healthy relationship and sexual
+> harassment. They have received information about bullying and coercive control.
+> However, leaders recognise they need to do more in this area to ensure all
+> apprentices fully understand these topics.
+
+### What is it like to be a learner here / What does the provider do well
+
+> What is it like to be a learner with this provider?
+>
+> The majority of apprentices quickly gain highly relevant and up-to-date practical
+> hairdressing and barbering skills. This is because employers’ salon trainers teach
+> them commercial practical skills frequently in the workplace. Apprentices have
+> sufficient opportunities to practise their new skills on models and paying clients.
+> Apprentices demonstrate a high level of technical skills. They produce good
+> standards of work in techniques such as colouring, cutting and styling. For example,
+> apprentices on the level 2 programme apply toners correctly and assist their more
+> senior stylists effectively in techniques such as root tints. Apprentices on the
+> barbering pathway successfully run a column of clients to offer services such as wet
+> shave and skin fades.
+>
+> Apprentices have very positive attitudes to their training. They take pride in their
+> work. They like to showcase work they are particularly proud of through
+> photographs in their portfolio. Apprentices adhere to the correct professional
+> behaviours and standards expected in their salons. They follow health and safety
+> requirements by wearing gloves and aprons when using hair colourants. Most
+> apprentices aim to gain high grades in their final assessments. They understand
+> what they need to do to gain these.
+>
+> Many apprentices learn from a range of extra activities beyond the requirements of
+> their course. For example, some apprentices attend training with product
+> manufacturers. More advanced apprentices attend sessions in colour correction,
+> balayage, creative cutting and hair extensions. A few apprentices enter and win
+> high-profile competitions.
+>
+> Apprentices enjoy working in salons where their employers value their work and with
+> provider staff who care about their well-being. They appreciate that tutors check
+> frequently on their mood and that tutors give them tips to help them cope with
+> pressure and anxiety. Apprentices feel safe and know who to contact if they have
+> concerns.
+>
+> Apprentices attend their one-to-one sessions and mandatory teaching sessions as
+> expected. However, they do not always turn up to the non-mandatory extra sessions
+> available to them when they have previously booked to attend.
+>
+> What does the provider do well and what does it need to do
+> better?
+>
+> Since the previous inspection, leaders have taken effective actio…
 
 ## Compliance signals
 
@@ -129,23 +146,23 @@ _No public regulatory or financial-health notices on file._
 
 Quotes you can drop directly into outreach. Severity drives the score.
 
-- **emp.itp_apprentices_progress_slow** (severity 6.0, what_school_needs_to_improve)
+- **emp.itp_apprentices_progress_slow** (severity 6.0, what_provider_needs_to_improve)
   > Managers do not all have a good understanding of the quality of employers’ practical training because they do not monitor sufficiently its effect on apprentices’ learning. A minority of employers do not understand the role of assessors and their contribution to apprentices’ learning. As a consequence, too many apprentices do not make good progress.  Leaders
 
-- **os.radicalisation** (severity 4.0, what_school_needs_to_improve)
+- **emp.itp_assessment_weak** (severity 4.0, what_provider_needs_to_improve)
+  > Salon owners and managers are very supportive of training and they provide good opportunities for learners to develop a wide range of skills, as well as additional training in the use of specialist hair products.  Initial assessment is effective in identifying learners’ needs and matching them to an appropriate apprenticeship programme. UKTD uses a more tho
+
+- **os.radicalisation** (severity 4.0, what_provider_needs_to_improve)
   > However, leaders do not have a sufficiently clear measure of the proportion of apprentices who move to higher levels of study and do not know the impact of their provision.  Managers promote well the importance of diversity in modern Britain. However, too many assessors lack confidence and experience in promoting British values and the dangers of radicalisa
 
-- **emp.itp_off_the_job** (severity 4.0, what_school_needs_to_improve)
+- **emp.itp_off_the_job** (severity 4.0, what_provider_needs_to_improve)
   > As a result, too many apprentices do not achieve or make the progress of which they are capable.  Leaders do not ensure that quality improvement actions secure good outcomes for apprentices. For example, too many assessors record the impact of apprentices’ off-thejob training to ensure that they make good progress. Managers do not all have a good understand
 
-- **emp.itp_off_the_job** (severity 4.0, what_school_needs_to_improve)
+- **emp.itp_off_the_job** (severity 4.0, what_provider_needs_to_improve)
   >  Train assessors to enable apprentices to improve their English and mathematics skills.  Ensure that managers and assessors record, monitor and improve significantly the quality of apprentices’ off-the-job training.  Identify the causes of underachievement by particular groups of apprentices, and take specific actions to make sure that all apprentices ach
 
-- **emp.itp_off_the_job** (severity 4.0, what_school_needs_to_improve)
+- **emp.itp_off_the_job** (severity 4.0, what_provider_needs_to_improve)
   > However, they do not implement actions to ensure that a greater proportion of these apprentices make at least good progress and achieve.  Leaders and managers ensure that the provision meets the requirements of apprenticeships. However, their planning of on- and off-the-job training is poor. As a result, too many apprentices do not develop new knowledge and
-
-- **emp.careers_guidance** (severity 4.0, what_school_needs_to_improve)
-  >  Leaders should swiftly improve the quality of teaching and learning, by: – focusing on learners and the quality of their learning when observing training – accurately identifying and providing the specific training required for individual tutors to improve their teaching skills – ensuring that tutors share existing best practice in teaching and learning. 
 
 ---
 

@@ -1,6 +1,6 @@
 # Barnardo's Employment, Training and Skills
 
-**🟠 HIGH** · score **95** · urgency 65 · pipeline 100
+**🔴 CRITICAL** · score **95** · urgency 70 · pipeline 100
 
 ## Identity
 
@@ -13,12 +13,12 @@
 
 ## Lead-with curriculum
 
-**Confidence & Resilience** (sub-score 65)
+**Employability Skills** (sub-score 70)
 
 - Financial Literacy: 55
-- Employability Skills: 58
+- Employability Skills: 70
 - Confidence & Resilience: 65
-- Online Safety: 55
+- Online Safety: 63
 
 ## Why this is on the list
 
@@ -49,11 +49,28 @@
 
 _+ 5 earlier inspections in the database._
 
-## Verbatim from the inspector
+## Verbatim from the latest inspection report
 
-Direct quotes from the latest published report. Use these in outreach without paraphrasing.
+Inspection of Barnardo's Employment, Training and Skills · 2025-05-19 · grade: **🟠 requires improvement**.
+[Full report](https://files.ofsted.gov.uk/v1/file/50277442)
 
-### Main findings
+Direct quotes from the report. Use these in outreach without paraphrasing — they're exactly what the inspector wrote.
+
+### What this provider needs to improve
+
+> What does the provider need to do to improve?
+>
+>  Provide effective support to learners across all training centres to improve their
+> attendance.
+>  Implement effective actions to improve the quality of education across all centres.
+
+### Safeguarding
+
+> Safeguarding
+>
+> The arrangements for safeguarding are effective.
+
+### What is it like to be a learner here / What does the provider do well
 
 > What is it like to be a learner with this provider?
 >
@@ -85,121 +102,12 @@ Direct quotes from the latest published report. Use these in outreach without pa
 > provide space in training centres for quiet time or prayer.
 >
 > Learners and apprentices feel safe and have a good understanding of how to protect
-> themselves from problems that may affect their lives, such as drugs,…
-
-### What this school needs to improve
-
-> What does the provider need to do to improve?
->
->  Provide effective support to learners across all training centres to improve their
-> attendance.
->  Implement effective actions to improve the quality of education across all centres.
->
->
->
->
->
->
-> Inspection report: Barnardo’s Employment, Training and Skills
-> 8 to 11 April 2025
-> 5
->
->
->  Instil high expectations among managers and staff of what learners can do and
-> achieve.
->  Improve the proportion of learners on education programmes for young people
-> who complete and achieve their programmes and progress to positive
-> destinations.
->  Ensure that all tutors plan and deliver an ambitious curriculum for learners.
->  Provide tutors with training to develop and improve their teaching skills.
->
->
->
->
->
->
->
-> Inspection report: Barnardo’s Employment, Training and Skills
-> 8 to 11 April 2025
-> 6
->
->
->
-> Provider details
->
-> Unique reference number 50604
->
-> Address Barnardo’s Youth Village
-> Hudson Street
-> North Shields
-> NE30 1DL
->
-> Contact number 0191 296 3367
->
-> Website www.barnardos.org.uk
->
-> Principal, CEO or equivalent Tommy McDade
->
-> Provider type Independent learning provider
->
-> Dates of previous inspection 16–19 July 2019
->
-> Main subcontractors
-> Northumbria Youth Action
-> Resources NE Limited
->
->
->
->
->
->
->
-> Inspection report: Barnardo’s Employment, Training and Skills
-> 8 to 11 April 2025
-> 7
->
->
->
->
-> Information about this inspection
->
-> The inspection team was assisted by the head of operations, as nominee. Inspectors
-> took account of the provider’s most recent self-assessment report and development
-> plans, and the previous inspection report. The inspection was carried out using the
-> further education and skills inspection handbook and took into account all relevant
-> provision at the provider. Inspectors collected a wide range of evidence to inform
-> judgements, including visiting learning sessions, scrutinising learners’ work, seeking
-> the views of learners, staff and other stakeholders, and examining the provider’s
-> docume…
-
-### Areas for improvement
-
-> areas for improvement
-> identified by inspectors. However, the use of data across the organisation is underdeveloped,
-> particularly the analysis and use of data to support judgements about learners’ achievements.
->  Managers make effective use of feedback from learners, employers and staff to make
-> improvements to the provision. Arrangements for collecting and using feedback have improved
-> since the last inspection through well-designed and timely learner questionnaires, staff surveys
-> following major changes to the organisation and the introduction of telephone surveys to
-> improve the response rate of employers. Staff make good use of learners’ and employers’
-> comments as supporting evidence for self-assessment judgements and to improve provision.
->  Target setting across the provider is weak. Organisational targets are usually too general and
-> not sufficiently well thought out. For example, a blanket target of 55% success rate is set for
-> subcontractors. Many have already exceeded this and so the target is irrelevant and counterproductive.
->  The new management team is bringing about significant improvements in the way that
-> Barnardo’s engages with employers. New managers have established a national strategy for
-> employer engagement; a pilot project has already successfully engaged with a major national
-> company and produced 12 apprenticeship opportunities.
->  Learners benefit from increased numbers of better work placements and job opportunities
-> arising from better engagement of employers. Regional managers are sharing good practice
->
-> Inspection report: Barnardo’s, 14–18 July 2014 8 of 13
->
-> more effectively and successful pilot initiatives are creating model arrangements to be shared
-> across the regions. Further development is needed to establish fully the initiative.
->  Arrangements for observing teaching and learning do not have enough impact on consistently
-> raising the overall quality of teaching and learning. Observers rely too much on a detailed and
-> cumb…
+> themselves from problems that may affect their lives, such as drugs, gangs and
+> knife crime. Staff work well with specialists, including the police, to raise learners’
+> understanding of topics such as county lines and child sexual exploitation. Learners
+> and apprentices understand how extremist groups use social media to radicalise
+> vulnerable individuals. Apprentices working at the Port of Tyne are alert to people
+> without security passes on site and know the act…
 
 ## Compliance signals
 
@@ -213,23 +121,23 @@ _No high-trigger news matched in the last extraction pass._
 
 Quotes you can drop directly into outreach. Severity drives the score.
 
-- **emp.itp_assessment_weak** (severity 4.0, what_school_needs_to_improve)
-  > Early indications are that the new quality assurance systems are already bringing about improvements in the quality of provision. However, systems are not yet fully established and have not had sufficient impact on consistently improving teaching, learning and assessment.  Self-assessment is accurate and leading to improvements. The process is inclusive and
+- **os.extremism** (severity 4.0, what_provider_needs_to_improve)
+  >  Enrichment and employability sessions also provide good coverage of citizenship, including British values, the Prevent duty and extremism, personal safety and e-safety, health and exercise and sexual health.  Staff at training centres promote safety and anti-extremism issues well via wall displays with details regarding further support, external agencies,
 
-- **emp.employer_engagement** (severity 3.0, areas_for_improvement)
-  > Many have already exceeded this and so the target is irrelevant and counterproductive.  The new management team is bringing about significant improvements in the way that Barnardo’s engages with employers. New managers have established a national strategy for employer engagement; a pilot project has already successfully engaged with a major national company
+- **os.extremism** (severity 4.0, what_provider_needs_to_improve)
+  >  All of the training sessions, as well as the dedicated enrichment programme, maintain a good emphasis on developing employability skills for learners; this approach is successful as demonstrated by the high positive progression rates.  Enrichment and employability sessions also provide good coverage of citizenship, including British values, the Prevent du
 
-- **cr.behaviour_attitudes_concern** (severity 3.0, behaviour_attitudes)
-  > Behaviour and attitudes Requires improvement
+- **os.extremism** (severity 4.0, what_provider_needs_to_improve)
+  > Inspection Report: Barnardo’s Employment Training and Skills, 17–20 November 2015 Page 4 of 9 – Senior managers have not ensured that all staff and subcontractors have received detailed training to improve their knowledge and skills in identifying, training and protecting learners in relation to radicalisation and extremism early enough. Quality of teaching,
 
-- **shared.diversity** (severity 2.0, what_school_needs_to_improve)
-  > Learners value the support provided which motivates them to achieve and progress to advanced apprenticeships and to take on additional responsibilities at work. Inspection report: Barnardo’s, 14–18 July 2014 7 of 13  Learners have a good awareness of equality and diversity and specific topics are included in discussions at learner reviews. However, assessor
+- **os.radicalisation** (severity 4.0, what_provider_needs_to_improve)
+  > Inspection Report: Barnardo’s Employment Training and Skills, 17–20 November 2015 Page 4 of 9 – Senior managers have not ensured that all staff and subcontractors have received detailed training to improve their knowledge and skills in identifying, training and protecting learners in relation to radicalisation and extremism early enough. Quality of teaching,
 
-- **shared.diversity** (severity 2.0, what_school_needs_to_improve)
-  > Guidance and support for personal and practical needs are good and Inspection report: Barnardo’s, 14–18 July 2014 6 of 13 include such as behavioural and emotional issues, improving group relationships and travel arrangements.  Staff promote equality and diversity very well. Learners treat each other, their tutors and employers with respect and courtesy. Le
+- **os.prevent_duty** (severity 4.0, what_provider_needs_to_improve)
+  >  All of the training sessions, as well as the dedicated enrichment programme, maintain a good emphasis on developing employability skills for learners; this approach is successful as demonstrated by the high positive progression rates.  Enrichment and employability sessions also provide good coverage of citizenship, including British values, the Prevent du
 
-- **shared.diversity** (severity 2.0, what_school_needs_to_improve)
-  > Guidance and support for personal and practical needs are good and Inspection report: Barnardo’s, 14–18 July 2014 6 of 13 include such as behavioural and emotional issues, improving group relationships and travel arrangements.  Staff promote equality and diversity very well. Learners treat each other, their tutors and employers with respect and courtesy. Le
+- **os.prevent_duty** (severity 4.0, what_provider_needs_to_improve)
+  > Subcontractors have been carefully selected to provide a wider range of provision than ETS can provide for learners; for example, in motor vehicle, construction, information and communication technology, and public services. Managers take swift action when they have concerns about the quality of a subcontractor’s provision. However, they have not ensured tha
 
 ---
 

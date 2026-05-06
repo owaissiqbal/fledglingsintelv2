@@ -48,11 +48,58 @@
 
 _+ 3 earlier inspections in the database._
 
-## Verbatim from the inspector
+## Verbatim from the latest inspection report
 
-Direct quotes from the latest published report. Use these in outreach without paraphrasing.
+Inspection of Salford and Trafford Engineering Group Training Association Limited · 2023-03-22 · grade: **🔴 inadequate**.
+[Full report](https://files.ofsted.gov.uk/v1/file/50212016)
 
-### Main findings
+Direct quotes from the report. Use these in outreach without paraphrasing — they're exactly what the inspector wrote.
+
+### What this provider needs to improve
+
+> What does the provider need to do to improve?
+>
+>  Leaders should urgently strengthen their safeguarding processes and procedures
+> to ensure that apprentices are safe.
+>  Leaders should urgently provide comprehensive training to ensure that all staff
+> have the knowledge and understanding to identify, report and follow up
+> safeguarding concerns effectively.
+>  Leaders should ensure that all members of the governing body and safeguarding
+> team are appropriately trained, experienced and qualified in safeguarding to carry
+> out their roles effectively.
+>  Leaders should ensure that apprentices’ knowledge and understanding of all
+> aspects of safeguarding are developed further.
+>  Leaders should strengthen their quality assurance processes, including for
+> subcontractors, to ensure that they have an accurate oversight of the quality of
+> training that apprentices receive.
+>  Leaders should work more closely with subcontractors to develop and provide
+> challenging and relevant curriculum content for all apprentices.
+>  Training officers should focus on challenging apprentices to develop their
+> knowledge and skills to a higher standard beyond the competencies demanded by
+> their qualifications.
+>  Training officers should plan to teach functional skills earlier in the programme in
+> order to develop apprentices’ English and mathematical skills swiftly.
+>  Leaders and training officers should provide a personal development curriculum in
+> which apprentices can participate and benefit from in order to broaden their
+> experience beyond the requirements of their apprenticeship.
+>  Leaders and training officers should ensure that they provide impartial
+> information, advice and guidance to apprentices throughout their programme, so
+> that apprentices are clear about the full range of opportun…
+
+### Safeguarding
+
+> Safeguarding
+>
+> The arrangements for safeguarding are not effective.
+>
+> Safeguarding processes and procedures are weak. Training for staff is not sufficiently
+> comprehensive to ensure that they have the knowledge and understanding of how
+> to identify and report safeguarding concerns, including about apprentices,
+> effectively. When staff have identified specific potential safeguarding concerns, they
+> do not routinely follow these up with decisive actions to ensure the safety of
+> apprentices. This puts apprentices at risk of harm.
+
+### What is it like to be a learner here / What does the provider do well
 
 > What is it like to be a learner with this provider?
 >
@@ -87,55 +134,14 @@ Direct quotes from the latest published report. Use these in outreach without pa
 > harassment in the training centre or the workplace. However, despite this, leaders’
 > processes and arrangements for safeguarding are ineffective.
 >
-> What does the provider do well …
-
-### What this school needs to improve
-
-> What does the provider need to do to improve?
+> What does the provider do well and what does it need to do
+> better?
 >
->  Leaders should urgently strengthen their safeguarding processes and procedures
-> to ensure that apprentices are safe.
->  Leaders should urgently provide comprehensive training to ensure that all staff
-> have the knowledge and understanding to identify, report and follow up
-> safeguarding concerns effectively.
->  Leaders should ensure that all members of the governing body and safeguarding
-> team are appropriately trained, experienced and qualified in safeguarding to carry
-> out their roles effectively.
->  Leaders should ensure that apprentices’ knowledge and understanding of all
-> aspects of safeguarding are developed further.
->  Leaders should strengthen their quality assurance processes, including for
-> subcontractors, to ensure that they have an accurate oversight of the quality of
-> training that apprentices receive.
->  Leaders should work more closely with subcontractors to develop and provide
-> challenging and relevant curriculum content for all apprentices.
->  Training officers should focus on challenging apprentices to develop their
-> knowledge and skills to a higher standard beyond the competencies demanded by
-> their qualifications.
->  Training officers should plan to teach functional skills earlier in the programme in
-> order to develop apprentices’ English and mathematical skills swiftly.
->  Leaders and training officers should provide a personal development curriculum in
-> which apprentices can participate and benefit from in order to broaden their
-> experience beyond the requirements of their apprenticeship.
->  Leaders and training officers should ensure that they provide impartial
-> information, advice and guidance to apprentices throughout their programme, so
-> that apprentices are clear about the full range of opportunities and career
-> pathways available to them.
->
->
->
->
->
->
->
-> Inspection report: Salford and Trafford Engineering Group Training Association
-> Limited
-> 24 to 27 January 2023
-> 6
->
->
->
-> Provider details
-> …
+> Leaders outline a clear rationale for the curriculum that they offer to meet the
+> growing demand for engineers and construction professionals in the region and
+> nationally. This ensures that employers have a pipeline of apprentices in training to
+> meet the requirements of their businesses. Following the completion of their
+> apprenticeships, many apprentices …
 
 ## Compliance signals
 
@@ -149,23 +155,23 @@ _No high-trigger news matched in the last extraction pass._
 
 Quotes you can drop directly into outreach. Severity drives the score.
 
-- **cr.personal_development_strengthen** (severity 3.0, personal_development)
-  > Personal development Requires improvement Leadership and management Inadequate Apprenticeships Good Overall effectiveness at previous inspection Good
+- **emp.itp_off_the_job** (severity 2.0, leadership_management)
+  > STEGTA has 120 work-based learners, 41 of whom are advanced apprentices, 20 are level 2 engineering apprentices, 38 are advanced apprentices and 17 are level 2 construction apprentices. STEGTA funds its training provision through Greater Manchester LSC. It subcontracts off-the-job training for engineering and construction through four local colleges of furth
 
-- **cr.personal_development** (severity 2.0, what_school_needs_to_improve)
-  >  Training officers should plan to teach functional skills earlier in the programme in order to develop apprentices’ English and mathematical skills swiftly.  Leaders and training officers should provide a personal development curriculum in which apprentices can participate and benefit from in order to broaden their experience beyond the requirements of the
+- **fin_lit.budgeting** (severity 2.0, safeguarding)
+  > Expertise and good practice is shared well across partners to develop staff and improve learners’ experiences. Inspection report: STEGTA Limited, 13–16 November 2012 7 of 12  Governors provide very high levels of support and expertise. They closely monitor financial performance and have influenced budgeting to benefit learners, for example, in the developme
 
-- **os.extremism** (severity 2.0, safeguarding)
-  > Leaders do not ensure that they regularly review their safeguarding policies and procedures to incorporate relevant updates in order to protect apprentices from potential harm. Leaders do not always provide sufficient information to help all apprentices understand safeguarding and the risks associated with radicalisation and extremism at the start of their a
+- **shared.diversity** (severity 2.0, what_provider_needs_to_improve)
+  >  Equality and diversity, although promoted and reinforced to a satisfactory level during induction and progress reviews, are not well recorded on the review documentation. Feedback on learners’ responses to equality and diversity questions is given verbally but the discussion is not well recorded on review documents. It fails to indicate the level of knowle
 
-- **os.radicalisation** (severity 2.0, safeguarding)
-  > Leaders do not ensure that they regularly review their safeguarding policies and procedures to incorporate relevant updates in order to protect apprentices from potential harm. Leaders do not always provide sufficient information to help all apprentices understand safeguarding and the risks associated with radicalisation and extremism at the start of their a
+- **shared.diversity** (severity 2.0, what_provider_needs_to_improve)
+  > Employers participate in, and make a good contribution to, the review process but Inspection report: STEGTA Limited, 13–16 November 2012 4 of 12 in some cases they lead the review discussion impacting on the learner’s focus and understanding.  Equality and diversity, although promoted and reinforced to a satisfactory level during induction and progress revi
 
-- **os.extremism** (severity 2.0, main_findings)
-  > They do not ensure that all apprentices benefit from training on healthy relationships, healthy lifestyles or fundamental British values. Apprentices cannot recall any opportunities for trips and visits, guest speakers or training sessions on topics such as mental health. Many apprentices know how to recognise the signs of extremism, such as changes in their
+- **shared.diversity** (severity 2.0, what_provider_needs_to_improve)
+  >  Ensure tutors systematically, through lessons and reviews, develop and embed a thorough understanding by learners of equality and diversity. Ensure discussions at reviews are recorded accurately to reflect learners’ knowledge and understanding of equality and diversity concepts. Inspection judgements Outcomes for learners Good  Overall success rates for a
 
-- **cr.resilience** (severity 2.0, main_findings)
-  > Most apprentices routinely demonstrate professional and courteous behaviour. Training officers, instructors and employers help apprentices to develop their character and confidence over time. They treat apprentices with respect and coach them to develop the resilience and aptitude they need in order to operate confidently in the workplace. Most apprentices b
+- **shared.diversity** (severity 2.0, what_provider_needs_to_improve)
+  > Support tutors to become more reflective practitioners so that they recognise what they need to do to improve practice.  Ensure tutors systematically, through lessons and reviews, develop and embed a thorough understanding by learners of equality and diversity. Ensure discussions at reviews are recorded accurately to reflect learners’ knowledge and understa
 
 ---
 

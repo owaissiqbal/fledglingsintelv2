@@ -1,6 +1,6 @@
 # Positive Approach Limited
 
-**🟠 HIGH** · score **95** · urgency 55 · pipeline 100
+**🟠 HIGH** · score **95** · urgency 65 · pipeline 100
 
 ## Identity
 
@@ -13,11 +13,11 @@
 
 ## Lead-with curriculum
 
-**Financial Literacy** (sub-score 55)
+**Confidence & Resilience** (sub-score 65)
 
 - Financial Literacy: 55
 - Employability Skills: 55
-- Confidence & Resilience: 55
+- Confidence & Resilience: 65
 - Online Safety: 55
 
 ## Why this is on the list
@@ -48,11 +48,54 @@
 
 _+ 4 earlier inspections in the database._
 
-## Verbatim from the inspector
+## Verbatim from the latest inspection report
 
-Direct quotes from the latest published report. Use these in outreach without paraphrasing.
+Inspection of Positive Approach Limited · 2022-04-11 · grade: **🟠 requires improvement**.
+[Full report](https://files.ofsted.gov.uk/v1/file/50181212)
 
-### Main findings
+Direct quotes from the report. Use these in outreach without paraphrasing — they're exactly what the inspector wrote.
+
+### What this provider needs to improve
+
+> What does the provider need to do to improve?
+>
+>  Improve the way that safeguarding incidents are recorded and tracked to their
+> conclusion, so that leaders and managers can be assured that apprentices receive
+> the support that they need and that lessons can be learned about the risks that
+> apprentices face.
+>  Provide sufficient oversight of what functional skills training is taking place, the
+> quality of this training and the progress that apprentices are making towards
+> achieving their functional skills qualifications.
+>  Put in place effective arrangements for oversight of the work of the organisation
+> so that leaders and managers are fully aware of the quality of the apprenticeship
+> programmes being delivered across all centres and can act to improve the quality
+> in centres where it is not high enough.
+>  Ensure that all apprentices are clear about what they need to do to make rapid
+> progress and achieve their apprenticeships within the planned time.
+>  Provide impartial careers guidance so that apprentices are fully aware of career
+> options beyond the hair and beauty industry.
+
+### Safeguarding
+
+> Safeguarding
+>
+> The arrangements for safeguarding are effective.
+>
+> Apprentices feel safe. They have a sound understanding of how to protect
+> themselves from risks such as sexual abuse. Staff are trained appropriately in
+> safeguarding, including protecting apprentices from a wide range of potential risks.
+>
+> Managers have suitable safe recruitment processes in place. However, these
+> processes have only recently been introduced, so their impact in ensuring that newly
+> recruited staff are safe to work with apprentices cannot yet be measured.
+>
+> Staff keep records of actions that they take in response to safeguarding concerns
+> that come to their attention. However, leaders and managers do not have sufficient
+> oversight of the reporting of safeguarding incidents. They do not ensure that all staff
+> keep accurate records of how concerns are dealt with. Therefore, there is a risk that
+> apprentices do not receive the support that they may need.
+
+### What is it like to be a learner here / What does the provider do well
 
 > What is it like to be a learner with this provider?
 >
@@ -86,81 +129,16 @@ Direct quotes from the latest published report. Use these in outreach without pa
 > that they receive on their mobile phones while in class, and this is not challenged
 > sufficiently by staff.
 >
-> Apprentices feel safe and well supported by s…
-
-### What this school needs to improve
-
-> What does the provider need to do to improve?
+> Apprentices feel safe and well supported by staff. They know how to report any
+> concerns and who to report these concerns to. Apprentices know how they would
+> protect themselves from risks that are relevant to them, such as being bullied
+> through social media and drink spiking.
 >
->  Improve the way that safeguarding incidents are recorded and tracked to their
-> conclusion, so that leaders and managers can be assured that apprentices receive
-> the support that they need and that lessons can be learned about the risks that
-> apprentices face.
->  Provide sufficient oversight of what functional skills training is taking place, the
-> quality of this training and the progress that apprentices are making towards
-> achieving their functional skills qualifications.
->  Put in place effective arrangements for oversight of the work of the organisation
-> so that leaders and managers are fully aware of the quality of the apprenticeship
-> programmes being delivered across all centres and can act to improve the quality
-> in centres where it is not high enough.
->  Ensure that all apprentices are clear about what they need to do to make rapid
-> progress and achieve their apprenticeships within the planned time.
->  Provide impartial careers guidance so that apprentices are fully aware of career
-> options beyond the hair and beauty industry.
+> What does the provider do well and what does it need to do
+> better?
 >
->
->
->
->
->
->
-> Inspection report: Positive Approach Academy for Hair Limited
-> 22 to 24 February 2022
-> 5
->
->
->
->
-> Provider details
->
-> Unique reference number 53945
->
-> Address
-> 14 Oswald Road
-> Scunthorpe
-> DN15 7PT
->
-> Contact number 01724 865 048
->
-> Website www.positiveapproachhair.co.uk
->
-> Principal/CEO Graham Daniels
->
-> Provider type Independent learning provider
->
-> Date of previous inspection 29 October 2010
->
-> Main subcontractors Not applicable
->
->
->
->
->
->
->
-> Inspection report: Positive Approach Academy for Hair Limited
-> 22 to 24 February 2022
-> 6
->
->
->
->
-> Information about this inspection
->
-> The inspection team was assisted by the quality manager, as nominee. Inspectors
-> took account of the provider’s most recent self-assessment report and development
-> plans, and the previous inspection report. The inspection was carried out using the
-> further education and skills inspection handbook and…
+> Leaders and managers do not have sufficient oversight of the organisation, and, as
+> a result…
 
 ## Compliance signals
 
@@ -174,23 +152,23 @@ _No high-trigger news matched in the last extraction pass._
 
 Quotes you can drop directly into outreach. Severity drives the score.
 
-- **emp.careers_guidance** (severity 4.0, what_school_needs_to_improve)
+- **emp.careers_guidance** (severity 4.0, what_provider_needs_to_improve)
   >  Put in place effective arrangements for oversight of the work of the organisation so that leaders and managers are fully aware of the quality of the apprenticeship programmes being delivered across all centres and can act to improve the quality in centres where it is not high enough.  Ensure that all apprentices are clear about what they need to do to mak
 
-- **shared.diversity** (severity 1.0, personal_development)
+- **shared.diversity** (severity 1.0, safeguarding)
   > Staff are not fully aware of PAAH’s new safeguarding policy which has not yet been fully implemented. The development, promotion and monitoring of equality and diversity are good. Promotion of equality and diversity with learners is good and very effectively reinforced. Learners have a good awareness of the meaning and implementation of legislation. The out
 
-- **shared.diversity** (severity 1.0, personal_development)
+- **shared.diversity** (severity 1.0, safeguarding)
   > However, other aspects of safeguarding relating to legislative requirements are not adequately covered. Staff are not fully aware of PAAH’s new safeguarding policy which has not yet been fully implemented. The development, promotion and monitoring of equality and diversity are good. Promotion of equality and diversity with learners is good and very effectiv
-
-- **cr.personal_development** (severity 1.0, personal_development)
-  > personal development. Performance management is good and supports staff in retaining and helping learners achieve. PAAH has very effective strategies to protect learners from bullying, harassment and unhealthy life styles.
 
 - **shared.diversity** (severity 1.0, safeguarding)
   > Safeguarding Equality and diversity 4 2 Subject areasGrade Service enterprises 2 Overall effectiveness 4.The overall effectiveness of the provision is inadequate. Learners enjoy their studies, gain increased confidence, work safely and demonstrate a high level of hairdressing skill.
 
-- **os.social_media** (severity 1.0, main_findings)
-  > Apprentices feel safe and well supported by staff. They know how to report any concerns and who to report these concerns to. Apprentices know how they would protect themselves from risks that are relevant to them, such as being bullied through social media and drink spiking. What does the provider do well and what does it need to do better? Leaders and manag
+- **cr.personal_development** (severity 1.0, safeguarding)
+  > Inspection Report:Positive Approach Academy for Hair, 1 October 20095 of 13 Senior managers successfully promote a culture of staff cohesion and shared responsibility. Partnership working with employers and external agencies is good. Staff benefit from meaningful personal development. Performance management is good and supports staff in retaining and helpin
+
+- **shared.diversity** (severity 1.0, safeguarding)
+  > 2 How effectively do governors and supervisory bodies provide leadership, direction and challenge?* n/a How effectively does the provider promote the safeguarding of learners? 2 How effectively does the provider actively promote equality and diversity, tackle discrimination and narrow the achievement gap? 2 How effectively does the provider engage with users
 
 ---
 

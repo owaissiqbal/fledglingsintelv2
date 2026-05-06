@@ -1,6 +1,6 @@
 # Pre-School Learning Alliance
 
-**🟠 HIGH** · score **95** · urgency 62 · pipeline 100
+**🟠 HIGH** · score **95** · urgency 65 · pipeline 100
 
 ## Identity
 
@@ -13,12 +13,12 @@
 
 ## Lead-with curriculum
 
-**Confidence & Resilience** (sub-score 62)
+**Confidence & Resilience** (sub-score 65)
 
 - Financial Literacy: 55
 - Employability Skills: 55
-- Confidence & Resilience: 62
-- Online Safety: 55
+- Confidence & Resilience: 65
+- Online Safety: 63
 
 ## Why this is on the list
 
@@ -48,11 +48,49 @@
 
 _+ 2 earlier inspections in the database._
 
-## Verbatim from the inspector
+## Verbatim from the latest inspection report
 
-Direct quotes from the latest published report. Use these in outreach without paraphrasing.
+Inspection of Pre-School Learning Alliance · 2023-08-15 · grade: **🟠 requires improvement**.
+[Full report](https://files.ofsted.gov.uk/v1/file/50225949)
 
-### Main findings
+Direct quotes from the report. Use these in outreach without paraphrasing — they're exactly what the inspector wrote.
+
+### What this provider needs to improve
+
+> What does the provider need to do to improve?
+>
+>  Leaders and managers should improve how they plan and teach the curriculum so
+> that learners and apprentices are taught the knowledge they need for the
+> assessments they complete.
+>  Leaders and managers should develop further the personal development
+> curriculum so that learners and apprentices have a firm understanding of topics
+> such as healthy relationships and those related to British values, including how
+> these apply to their lives.
+>  Staff should use the information they have on the knowledge and skills of
+> apprentices at the start of the course to plan their training and ensure that the
+> programme is suitably demanding for all apprentices.
+
+### Safeguarding
+
+> Safeguarding
+>
+> The arrangements for safeguarding are effective.
+>
+> Leaders and managers ensure that there is an effective safeguarding culture at the
+> provision. When safeguarding concerns arise, managers and staff respond well.
+> Tutors and apprentices are vigilant and know to whom they should refer any
+> concerns. Where necessary, they liaise effectively with outside agencies to safeguard
+> learners and apprentices.
+>
+> Leaders and managers have put in place suitable safeguarding policies, including in
+> relation to the ‘Prevent’ duty, that underpin safeguarding practices. For example,
+> they ensure that the staff they recruit are safe to work with their apprentices.
+>
+> Staff and designated safeguarding leads are suitably experienced and qualified.
+> They provide effective support to apprentices, where needed, offering, for example,
+> counselling and mental health support.
+
+### What is it like to be a learner here / What does the provider do well
 
 > What is it like to be a learner with this provider?
 >
@@ -86,91 +124,14 @@ Direct quotes from the latest published report. Use these in outreach without pa
 >
 > Leaders and managers have ensured that the very few learners aged 16 to 19 who
 > need to achieve qualifications in English and mathematics receive effective support.
-> As a result, learners make good progress in developing…
-
-### What this school needs to improve
-
-> What does the provider need to do to improve?
+> As a result, learners make good progress in developing these skills.
 >
->  Leaders and managers should improve how they plan and teach the curriculum so
-> that learners and apprentices are taught the knowledge they need for the
-> assessments they complete.
->  Leaders and managers should develop further the personal development
-> curriculum so that learners and apprentices have a firm understanding of topics
-> such as healthy relationships and those related to British values, including how
-> these apply to their lives.
->  Staff should use the information they have on the knowledge and skills of
-> apprentices at the start of the course to plan their training and ensure that the
-> programme is suitably demanding for all apprentices.
+> Apprentices feel safe, as they trust staff to take any concerns they have seriously.
+> They know about safeguarding in the context of their jobs.
 >
->
->
->
->
->
-> Inspection report: Pre-School Learning Alliance
-> 20 to 23 June 2023
-> 5
->
->
->  Leaders and managers should improve how they assess the quality of teaching
-> and provide training to tutors that helps them to further improve their teaching
-> skills.
->
->
->
->
->
->
->
->
-> Inspection report: Pre-School Learning Alliance
-> 20 to 23 June 2023
-> 6
->
->
->
-> Provider details
->
-> Unique reference number 50230
->
-> Address 50 Featherstone Street
-> London
-> EC1Y 8RT
->
-> Contact number 01732 363070
->
-> Website www.eyalliance.org.uk
->
-> Principal, CEO or equivalent Neil Leitch
->
-> Provider type Independent Learning Provider
->
-> Date of previous inspection 20 September 2016
->
-> Main subcontractors None
->
->
->
->
->
->
->
-> Inspection report: Pre-School Learning Alliance
-> 20 to 23 June 2023
-> 7
->
->
->
->
-> Information about this inspection
->
-> The inspection team was assisted by the director of quality and improvement, as
-> nominee. Inspectors took account of the provider’s most recent self-assessment
-> report and development plans, and the previous inspection report. The inspection
-> was carried out using the further education and skills inspection handbook and took
-> into account all relevant provision at the provider. Inspectors collected a wide range
-> of evidence to inform judgements, including visiting lear…
+> The number of learners and apprentices who pass their course is high. As a result of
+> achieving their qualifications, adult learners progress into further education or move
+> from voluntary to paid employment. Most apprentices remain w…
 
 ## Compliance signals
 
@@ -184,23 +145,23 @@ _No high-trigger news matched in the last extraction pass._
 
 Quotes you can drop directly into outreach. Severity drives the score.
 
-- **cr.personal_development_strengthen** (severity 3.0, personal_development)
-  > Personal development Requires improvement Leadership and management Requires improvement Education programmes for young people Requires improvement Adult learning programmes Requires improvement Apprenticeships Requires improvement Overall effectiveness at previous inspection Good
+- **cr.confidence** (severity 2.0, leadership_management)
+  > There is little evaluation of the quality of the learning taking place during the lesson or of learners’ attainment. Inspection report:The Pre-school Learning Alliance, 20 June 200710 of 14 What learners like: Good breakdown of work into manageable chunks Good group support to build confidence Flexibility to suit individuals Closeness of venues to home 
 
-- **shared.healthy_relationships** (severity 2.0, what_school_needs_to_improve)
+- **emp.itp_off_the_job** (severity 2.0, safeguarding)
+  > Through their use of information and communication technology, tutors engage and enthuse learners in lessons and create classes where learners are lively, enthusiastic and focused. Apprentices benefit from good off-the-job training closely linked to work roles. 12. Assessment is frequent, regular and well planned. Learners are able to dictate the pace of ass
+
+- **shared.healthy_relationships** (severity 2.0, what_provider_needs_to_improve)
   >  Leaders and managers should improve how they plan and teach the curriculum so that learners and apprentices are taught the knowledge they need for the assessments they complete.  Leaders and managers should develop further the personal development curriculum so that learners and apprentices have a firm understanding of topics such as healthy relationships
 
-- **shared.rshe_curriculum** (severity 2.0, what_school_needs_to_improve)
+- **shared.rshe_curriculum** (severity 2.0, what_provider_needs_to_improve)
   >  Leaders and managers should develop further the personal development curriculum so that learners and apprentices have a firm understanding of topics such as healthy relationships and those related to British values, including how these apply to their lives.  Staff should use the information they have on the knowledge and skills of apprentices at the start
 
-- **cr.personal_development** (severity 2.0, what_school_needs_to_improve)
+- **cr.personal_development** (severity 2.0, what_provider_needs_to_improve)
   >  Leaders and managers should improve how they plan and teach the curriculum so that learners and apprentices are taught the knowledge they need for the assessments they complete.  Leaders and managers should develop further the personal development curriculum so that learners and apprentices have a firm understanding of topics such as healthy relationships
 
 - **cr.mental_health** (severity 2.0, safeguarding)
   > For example, they ensure that the staff they recruit are safe to work with their apprentices. Staff and designated safeguarding leads are suitably experienced and qualified. They provide effective support to apprentices, where needed, offering, for example, counselling and mental health support.
-
-- **emp.work_experience** (severity 2.0, main_findings)
-  > Apprentices work with employers who are very supportive of them and their studies. They receive their full entitlement of time to complete activities related to their apprenticeship. Employers provide additional opportunities for apprentices to have relevant work experience in settings other than their own, to ensure they are aware of the demands of working 
 
 ---
 

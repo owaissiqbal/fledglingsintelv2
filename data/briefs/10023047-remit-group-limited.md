@@ -1,6 +1,6 @@
 # Remit Group Limited
 
-**🟠 HIGH** · score **60** · urgency 52 · pipeline 100
+**🟠 HIGH** · score **60** · urgency 55 · pipeline 100
 
 ## Identity
 
@@ -13,12 +13,12 @@
 
 ## Lead-with curriculum
 
-**Confidence & Resilience** (sub-score 52)
+**Confidence & Resilience** (sub-score 55)
 
 - Financial Literacy: 0
-- Employability Skills: 31
-- Confidence & Resilience: 52
-- Online Safety: 27
+- Employability Skills: 42
+- Confidence & Resilience: 55
+- Online Safety: 49
 
 ## Why this is on the list
 
@@ -47,40 +47,53 @@
 
 _+ 3 earlier inspections in the database._
 
-## Verbatim from the inspector
+## Verbatim from the latest inspection report
 
-Direct quotes from the latest published report. Use these in outreach without paraphrasing.
+Inspection of Remit Group Limited · 2018-03-05 · grade: **🔵 good**.
+[Full report](https://files.ofsted.gov.uk/v1/file/2758501)
 
-### What this school needs to improve
+Direct quotes from the report. Use these in outreach without paraphrasing — they're exactly what the inspector wrote.
 
-> What does the provider need to do to improve further?
->  Ensure all staff are given challenging and measurable personal performance targets in line with
-> the organisation’s strategic plan. Make sure staff performance is regularly monitored through
-> their monthly one-to-one meetings with managers.
->  Track progress more closely to improve the proportion of intermediate apprentices who
-> successfully complete their programmes; and respond quickly to those who fall behind,
-> concentrating equally on all subject areas and all subcontractors.
->  Improve the performance of women on advanced apprenticeships, and ensure that all learners
-> who have declared a learning difficulty or disability are supported to succeed.
->  Share good practice in the provision of advice and guidance across all subject areas. Ensure all
-> assessors are aware of both career and qualification opportunities within their own subject
-> areas.
->  Use better methods for collecting and interpreting data. Ensure that relevant staff and managers
-> are trained and competent in the production and use of data in order to monitor the full range
-> of performance criteria effectively.
->  Involve staff and subcontractors more in self-assessment and ensure that the quality
-> improvement plan is widely shared among managers and staff at both national and regional
-> level; and ensure it contains clearly defined targets.
+### Areas for improvement
+
+> areas for improvement. They have made good progress in addressing the areas
+> for improvement identified at the previous inspection. However, managers rightly
+> recognise that more needs to be done so that all training is of a consistently high
+> standard.
+
+### Safeguarding
+
+> Safeguarding is effective.
 >
-> Inspection judgements
-> Outcomes for learners
-> Requires improvement
->  In 2011/12 just over two thirds of apprentices successfully completed their apprenticeship. The
-> proportion who successfully complete has remained below the national average for all providers
-> for the previous three years. The number of apprentices who complete on time has also been
-> below the national rate for the previous three years. Data for the current year show that there
-> has been an improvement in the number of apprentices successfully completing in 2012/13.
->  The proportion of apprentices aged over 25 who are successful is ab…
+> Senior leaders and managers continue to give a very high priority to protecting all
+> apprentices from harm. Safeguarding arrangements are comprehensive and fit for
+> purpose. Managers use suitable policies and procedures to inform the safe
+> recruitment and vetting of staff.
+>
+> Managers assess the training centre for risks appropriately. Apprentices participating
+> in courses requiring them to be away from home overnight receive good support to
+> keep them safe. Since the previous inspection, managers have implemented quality
+> assurance processes that have raised the standard of care that apprentices receive.
+>
+> Designated safeguarding officers respond quickly to incidents where staff or
+> apprentices raise concerns. The detailed records kept by the officers show they
+> instigate well-considered and appropriate actions to protect apprentices. Managers
+> make very good use of external agencies to refer apprentices for specialist support.
+>
+> Apprentices report feeling protected during their training and at the workplace.
+> They know how to raise any concerns about their safety or welfare. Apprentices
+> have a good appreciation of how to protect themselves from the dangers posed by
+> radicalisation and extremism. Their understanding of fundamental British values is
+> good or better. Apprentices apply this knowledge appropriately when responding to
+> situations encountered in their workplace and personal lives. Apprentices have a
+> good appreciation of how to use both web-based and social media safely.
+> Apprentices adhere strictly to safe working practices.
+>
+> Inspection findings
+>
+>  The quality of taught sessions and individual coaching is good. Tutors plan
+> comprehensive off-the-job training sessions that link well with on-the-job
+> training. All tutors m…
 
 ## Compliance signals
 
@@ -94,23 +107,23 @@ _No high-trigger news matched in the last extraction pass._
 
 Quotes you can drop directly into outreach. Severity drives the score.
 
-- **emp.itp_assessment_weak** (severity 4.0, what_school_needs_to_improve)
+- **emp.itp_assessment_weak** (severity 4.0, what_provider_needs_to_improve)
   >  The development of learners’ English and mathematics is effective, but trainers do not always challenge learners to meet higher levels of achievement. Discrete functional skills sessions, in class and in the workplace, develop learners’ employability skills in English, mathematics and communication well.  Assessment is accurate and meets the requirements 
 
-- **emp.itp_off_the_job** (severity 4.0, what_school_needs_to_improve)
+- **emp.itp_off_the_job** (severity 4.0, what_provider_needs_to_improve)
+  > Written feedback is less effective and does not always ensure apprentices are clear about how to rectify errors or misunderstandings.  The provider’s processes for observing teaching, learning and assessment are highly effective in evaluating standards of practice in off-the-job learning, distance learning and apprentice progression activities. Feedback is 
+
+- **emp.itp_off_the_job** (severity 3.0, apprenticeships)
   > Inspectors identified good examples of learners’ views leading to programme improvements and a better experience for learners.  Links with employers are strong and good networking arrangements are in place with industry partners, including awarding bodies and trade organisations. Off-the-job training is well planned. Remit manages well the large number of f
 
-- **shared.diversity** (severity 2.0, what_school_needs_to_improve)
-  >  Equality and diversity are particularly well understood by all staff and learners and are promoted well in the workplace and at learners’ progress reviews. Regular bulletins covering a range of equality and diversity topics are produced and circulated. Good quality materials to promote equality and diversity are in place. However, differences in the progre
+- **os.cyber_bullying** (severity 3.0, apprenticeships)
+  >  The promotion, and subsequent development of, apprentices’ understanding of equality and diversity at induction and in progress reviews are very effective. Apprentices talk with confidence about the diversity themes and their application in the workplace. Trainers set themselves as good role models and routinely discuss ‘hot topics’ such as cyber bullying 
 
-- **shared.diversity** (severity 2.0, what_school_needs_to_improve)
-  >  Equality and diversity are particularly well understood by all staff and learners and are promoted well in the workplace and at learners’ progress reviews. Regular bulletins covering a range of equality and diversity topics are produced and circulated. Good quality materials to promote equality and diversity are in place. However, differences in the progre
+- **shared.diversity** (severity 2.0, what_provider_needs_to_improve)
+  >  Equality and diversity are promoted well throughout learners’ programmes and during learning sessions. Learners have a good understanding of their rights and responsibilities and demonstrate a good knowledge of diversity and respect for different cultures, beliefs and customs through their work. Health and social care
 
-- **shared.diversity** (severity 2.0, what_school_needs_to_improve)
-  > Core data regarding success rate information are regularly produced; however, data regarding the performance of a range of different groups of learners have not been routinely analysed.  Equality and diversity are particularly well understood by all staff and learners and are promoted well in the workplace and at learners’ progress reviews. Regular bulletin
-
-- **shared.diversity** (severity 2.0, what_school_needs_to_improve)
-  >  Access to wider impartial advice and guidance is limited; trainers are not sufficiently qualified or knowledgeable to support learners’ wider career development and aspirations. Inspection report: Retail Motor Industry Training (Remit) Limited, 15-19 July 2013 7 of 13  Equality and diversity are well promoted, providing learners with opportunities to refl
+- **shared.diversity** (severity 2.0, what_provider_needs_to_improve)
+  > Some assessors are not confident or knowledgeable enough to promote the next or longer-term career steps for learners, and are not in all cases familiar with qualification progression.  Equality and diversity are promoted well throughout learners’ programmes and during learning sessions. Learners have a good understanding of their rights and responsibilitie
 
 ---
 

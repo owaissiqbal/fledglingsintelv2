@@ -1,6 +1,6 @@
 # Yorkshire College of Beauty Limited
 
-**🟠 HIGH** · score **75** · urgency 37 · pipeline 100
+**🟠 HIGH** · score **75** · urgency 55 · pipeline 100
 
 ## Identity
 
@@ -13,12 +13,12 @@
 
 ## Lead-with curriculum
 
-**Online Safety** (sub-score 37)
+**Confidence & Resilience** (sub-score 55)
 
 - Financial Literacy: 0
-- Employability Skills: 21
-- Confidence & Resilience: 21
-- Online Safety: 37
+- Employability Skills: 43
+- Confidence & Resilience: 55
+- Online Safety: 55
 
 ## Why this is on the list
 
@@ -47,107 +47,70 @@
 
 _+ 4 earlier inspections in the database._
 
-## Verbatim from the inspector
+## Verbatim from the latest inspection report
 
-Direct quotes from the latest published report. Use these in outreach without paraphrasing.
+Inspection of Yorkshire College of Beauty Limited · 2025-02-14 · grade: **🔵 good**.
+[Full report](https://files.ofsted.gov.uk/v1/file/50269282)
 
-### Main findings
+Direct quotes from the report. Use these in outreach without paraphrasing — they're exactly what the inspector wrote.
 
-> What is it like to be a learner with this provider?
->
-> Apprentices and trainees develop new knowledge and skills in a wide range of
-> different beauty treatments that are in demand with employers. These require an
-> understanding of how to apply treatments, such as massage, facials and pedicures,
-> safely and to the satisfaction of paying customers.
->
-> Unemployed adults and those who want a change of career benefit from the way
-> that the sports and fitness programme is organised. Adults can take part-time and
-> full-time courses. They can access them on weekdays and at the weekend.
->
-> Apprentices discover how they can strengthen their resilience in a vocational area
-> where ideal types about body image are powerful. They attend presentations by
-> social media influencers who have overcome eating disorders and promote the idea
-> of being content with their own body shape and size. Both apprentices and trainees
-> develop an understanding of their own health and well-being and how they can
-> promote these by adopting good routines around nutrition, exercise and moderating
-> the alcohol that they drink.
->
-> Trainees develop useful employability skills. They are supported to prepare CVs and
-> learn how to prepare for an interview. They use these skills when they apply to
-> salons for work placements and apprenticeship opportunities.
->
-> At the subcontractor, hairdressing apprentices have very positive attitudes towards
-> their programme. Tutors support them to develop as employees at their existing
-> employers, to rent a chair in a salon or set up their own business.
->
-> Tutors create calm learning environments for apprentices and trainees who like the
-> small class sizes and the individual attention that they receive from tutors.
->
-> Although most trainees eventually progress onto an apprenticeship, the pace at
-> which they do this is slow. This leads to frustration for those trainees who get
-> multiple refusals from employers when they try to secure a placement.
->
-> What does the provider d…
-
-### What this school needs to improve
+### What this provider needs to improve
 
 > What does the provider need to do to improve?
 >
->  Ensure that all teachers receive continuous professional development to enable
-> them to improve their pedagogical knowledge and skills, including how to use
-> information communication technologies to enhance their teaching practice and
-> develop the digital skills that learners across all provision types will need at work.
->  Invest in updating the facilities and resources at the main college site so that
-> apprentices and trainees can benefit from being trained in state-of-the-art
-> facilities, using the latest industry-standard equipment.
->  Redesign the way the traineeship programme is organised and delivered so that
-> trainees can find a placement with an employer as soon as they are ready to do
-> so.
->  Establish quality assurance arrangements that enable leaders and managers to
-> evaluate the quality of education and identify areas in need of improvement.
->  Improve the way that managers and tutors track apprentices’ progress so that
-> they can identify accurately those apprentices who are falling behind and
-> intervene swiftly to get them back on track.
->  Ensure that all tutors on the sports and fitness programme deliver factually
-> accurate curriculum content to adult learners.
->  Set clear target grades for apprentices earlier in their programmes so that they
-> can aspire and be encouraged to achieve the highest possible outcomes at their
-> end-point assessment.
->  Provide more opportunities for apprentices and trainees to understand and recall
-> safeguarding risks that are relevant to them in their workplaces and the wider
-> community.
+>  Ensure that all adult learners benefit from sufficient and effective information,
+> advice and guidance at the start of their programme so they are clear on the
+> course content and expectations.
+>  Identify and implement actions to increase further the proportion of adult learners
+> who achieve their qualifications.
+>  Provide effective support to those new to teaching to develop their teaching skills.
+
+### Safeguarding
+
+> Safeguarding
 >
+> The arrangements for safeguarding are effective.
+
+### What is it like to be a learner here / What does the provider do well
+
+> What is it like to be a learner with this provider?
 >
+> Learners and apprentices display positive attitudes towards their learning and
+> respond well to the high expectations set by their tutors. They appreciate the
+> knowledge and skills they develop and value working towards recognised
+> qualifications, which support them in moving into employment. Learners and
+> apprentices welcome the calm, professional working environment. Adult learners,
+> many of whom are returning to education after a long break, appreciate the support
+> that staff provide.
 >
+> Learners and apprentices quickly learn the appropriate professional standards and
+> develop the knowledge, skills and behaviours required by the industry. They rapidly
+> develop an understanding of relevant terminology, which supports them in their
+> roles and contributes towards their credibility in the workplace. For example, level 3
+> personal training learners learn about the anatomy and physiology of the human
+> body, such as shoulder flexion, shoulder extension, hip abduction and spinal
+> extension, to help build suitable exercise regimes for their clients.
 >
+> Learners and apprentices benefit from programmes designed in collaboration with
+> industry specialists. Leaders work strategically with relevant stakeholders to design a
+> range of education programmes to meet the needs of the sports, health and beauty
+> sectors. Curriculum specialists engage with employers to help shape and influence
+> the curriculum content with guidance about the skills, knowledge and behaviours
+> needed for future employment and training.
 >
+> Tutors develop the character and confidence of learners and apprentices throughout
+> their programmes. They expose learners and apprentices to commercial settings
+> where they practise and hone their skills on paying clients. This enables learners and
+> apprentices to become confident with a wide range of customers and develop the
+> client care skills and professional behaviours they need to succeed in industry.
 >
+> Learners and apprentices feel safe at the provider and when at work. They know
+> how to keep themselves safe and who to report any concerns to. Through frequent
+> sessions with the provider, they develop their knowledge of important topics and
+> risks such as county lines illegal drug transportation, online safety, the consumption
+> of alcohol and its effects, consent and child sexual exploitation.
 >
-> Inspection report: Yorkshire College of Beauty Limited
-> 18 to 21 October 2022
-> 6
->
->
->
-> Provider details
->
-> Unique reference number 54956
->
-> Address Regency House
-> Kirk Lane
-> Yeadon
-> Leeds
-> LS19 7EP
->
-> Contact number 0113 250 9507
->
-> Website www.ycob.co.uk
->
-> Principal, CEO or equivalent Lewis Hatcher
->
-> Provider type Independent learning provider
->
-> Date of previous i…
+> What…
 
 ## Compliance signals
 
@@ -161,23 +124,23 @@ _No high-trigger news matched in the last extraction pass._
 
 Quotes you can drop directly into outreach. Severity drives the score.
 
-- **os.sexting** (severity 2.0, safeguarding)
-  > Inspection report: Yorkshire College of Beauty Limited 18 to 21 October 2022 5 All staff undertake training in safeguarding and the risks of radicalisation and extremism. There is a programme of updates on safeguarding concerns, such as county lines, sexting and how to stay safe online. Leaders and managers have carried out due diligence checks on the one su
+- **os.radicalisation** (severity 3.0, areas_for_improvement)
+  > These should be reviewed by the chief executive officer and directors in their weekly meetings and the progress made should be recorded subcontractors and employers develop a better understanding of the risks that radicalisation poses and how it applies to their apprentices’ lives and work. I am copying this letter to the Skills Funding Agency and the Educ
 
-- **os.extremism** (severity 2.0, safeguarding)
-  > They carry out the necessary checks to verify their identities, qualifications and previous employment. Inspection report: Yorkshire College of Beauty Limited 18 to 21 October 2022 5 All staff undertake training in safeguarding and the risks of radicalisation and extremism. There is a programme of updates on safeguarding concerns, such as county lines, sexti
+- **emp.itp_off_the_job** (severity 3.0, areas_for_improvement)
+  > Where the quality of apprenticeship training is not good enough, the partnership arrangements are discontinued. The implementation of the new standards for apprentices is effective. Tutors plan a programme that includes appropriate on- and off-the-job training with employers and as a result, apprentices develop a range of skills and become competent beauty
+
+- **emp.itp_completion_below_target** (severity 3.0, main_findings)
+  > Most learners and apprentices achieve their qualifications, with the proportion of apprentices who achieve having increased significantly since the previous academic year. On a few adult learning courses, achievement is too low. Leaders and managers have rightly recognised this and have implemented effective changes by improving quality and oversight and rev
 
 - **os.radicalisation** (severity 2.0, safeguarding)
-  > They carry out the necessary checks to verify their identities, qualifications and previous employment. Inspection report: Yorkshire College of Beauty Limited 18 to 21 October 2022 5 All staff undertake training in safeguarding and the risks of radicalisation and extremism. There is a programme of updates on safeguarding concerns, such as county lines, sexti
+  > All staff and partners have received basic training on the risks posed by radicalisation, and also on British values. However, apprentices and employers have a limited understanding of the risks posed by radicalisation and how British values are interpreted in the workplace. Inspection findings Teaching, learning and assessment is very effective. Apprentic
 
-- **emp.careers_guidance** (severity 2.0, main_findings)
-  > For example, those who run their own businesses inform apprentices about what is required if they want to become self-employed and the advantages and disadvantages of this career choice. Apprentices receive good careers advice on how to make progress within their industry, with external speakers providing them with information of the different options within
+- **os.radicalisation** (severity 2.0, safeguarding)
+  > You have revised the safeguarding policies and procedures since the last inspection and now work well with a range of external agencies. All staff and partners have received basic training on the risks posed by radicalisation, and also on British values. However, apprentices and employers have a limited understanding of the risks posed by radicalisation and 
 
-- **emp.careers_guidance** (severity 2.0, main_findings)
-  > Constant practice and assessment results in learners consolidating and being able to replicate these technical skills when they carry them out on clients in salons. Tutors use their own industry experience well to help provide careers advice to apprentices. For example, those who run their own businesses inform apprentices about what is required if they want
-
-- **cr.resilience** (severity 2.0, main_findings)
-  > Unemployed adults and those who want a change of career benefit from the way that the sports and fitness programme is organised. Adults can take part-time and full-time courses. They can access them on weekdays and at the weekend. Apprentices discover how they can strengthen their resilience in a vocational area where ideal types about body image are powerfu
+- **emp.itp_off_the_job** (severity 2.0, safeguarding)
+  > Apprentices appreciate the additional training they receive from employers in developing their specialist knowledge of premium products and services, for example gel and acrylic nail application, and specialised product brand facials. Tutors do not always take into account the knowledge that apprentices have acquired in their workplace when planning off-th
 
 ---
 

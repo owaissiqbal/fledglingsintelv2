@@ -18,7 +18,7 @@
 - Financial Literacy: 55
 - Employability Skills: 70
 - Confidence & Resilience: 65
-- Online Safety: 55
+- Online Safety: 63
 
 ## Why this is on the list
 
@@ -48,11 +48,35 @@
 
 _+ 1 earlier inspection in the database._
 
-## Verbatim from the inspector
+## Verbatim from the latest inspection report
 
-Direct quotes from the latest published report. Use these in outreach without paraphrasing.
+Inspection of Green Inc (EU) Limited · 2025-01-06 · grade: **🟠 requires improvement**.
+[Full report](https://files.ofsted.gov.uk/v1/file/50265764)
 
-### Main findings
+Direct quotes from the report. Use these in outreach without paraphrasing — they're exactly what the inspector wrote.
+
+### What this provider needs to improve
+
+> What does the provider need to do to improve?
+>
+>  Implement a fully individualised programme of work experience and work-related
+> activity to ensure that young learners and those with high needs build their skills
+> for, and gain a good understanding of, the world of work.
+>  Personalise all young learners’ programmes by capturing what they already know
+> and can do so their learning can build on that existing knowledge.
+>  Substantially improve the achievement of qualifications by young learners and
+> learners with high needs.
+>  Further improve the consistency and quality of teaching practice.
+>  Plan learning for learners with high needs so that it supports their achievement of
+> the specific outcomes in their EHC plan.
+
+### Safeguarding
+
+> Safeguarding
+>
+> The arrangements for safeguarding are effective.
+
+### What is it like to be a learner here / What does the provider do well
 
 > What is it like to be a learner with this provider?
 >
@@ -85,84 +109,13 @@ Direct quotes from the latest published report. Use these in outreach without pa
 >
 > All learners feel safe while learning. Teachers and tutors have created friendly,
 > supportive and calm learning environments which adults and young people
-> welcome. Most younger learners value the small clas…
-
-### What this school needs to improve
-
-> What does the provider need to do to improve?
+> welcome. Most younger learners value the small class sizes. This makes them feel
+> comfortable and confident to engage in lessons and ask staff for help. On adult
+> courses, teachers follow correct health and safety practices effectively during their
+> course. This ensures they work safely in their salons or workplaces.
 >
->  Implement a fully individualised programme of work experience and work-related
-> activity to ensure that young learners and those with high needs build their skills
-> for, and gain a good understanding of, the world of work.
->  Personalise all young learners’ programmes by capturing what they already know
-> and can do so their learning can build on that existing knowledge.
->  Substantially improve the achievement of qualifications by young learners and
-> learners with high needs.
->  Further improve the consistency and quality of teaching practice.
->  Plan learning for learners with high needs so that it supports their achievement of
-> the specific outcomes in their EHC plan.
->
->
->
->
->
->
->
-> Inspection report: Green Labyrinth
-> 5 to 8 November 2024
-> 6
->
->
->
-> Provider details
->
-> Unique reference number 59222
->
-> Address 1 Milton Road
-> Swindon
-> Wiltshire
-> SN1 5JE
->
-> Contact number 01793 236245
->
-> Website www.greenlabyrinth.co.uk/
->
-> Principal, CEO or equivalent Stephanie Davis
->
-> Provider type Independent Training Provider
->
-> Date of previous inspection 8 to 10 June 2022
->
-> Main subcontractors Not applicable
->
->
->
->
->
->
->
-> Inspection report: Green Labyrinth
-> 5 to 8 November 2024
-> 7
->
->
->
->
-> Information about this inspection
->
-> The inspection team was assisted by the operations director as nominee. Inspectors
-> took account of the provider’s most recent self-assessment report and development
-> plans, and the previous inspection report. The inspection was carried out using the
-> further education and skills inspection handbook and took into account all relevant
-> provision at the provider. Inspectors collected a wide range of evidence to inform
-> judgements including visiting learning sessions, scrutinising learners’ work, seeking
-> the views of learners, staff and other stakeholders, and examining the provider’s
-> documentation and records.
->
-> Inspection team
->
-> Nick Crombie, lead inspector His Majesty’s Inspector
-> Paul James His Maj…
+> Learners rarely experience bullying or harassment. They know how to report any
+> concerns and are rightly confident that concerns …
 
 ## Compliance signals
 
@@ -176,23 +129,23 @@ _No high-trigger news matched in the last extraction pass._
 
 Quotes you can drop directly into outreach. Severity drives the score.
 
-- **emp.careers_guidance** (severity 4.0, what_school_needs_to_improve)
+- **emp.work_experience** (severity 4.0, what_provider_needs_to_improve)
+  >  Opportunities for continuing professional development are good, with several tutors pursuing additional qualifications.  Staff organise work-related activities for all learners. Many have real work experience or take part in voluntary work. The minority who are not yet ready for work experience are actively involved in running open days which enhance thei
+
+- **emp.careers_guidance** (severity 4.0, what_provider_needs_to_improve)
   >  Leaders must implement a curriculum that meets the needs of learners aged 16 to 18 and learners who have high needs so that they make the progress expected of them from clearly identified starting points and are prepared well to progress to employment or further education.  Leaders must provide learners aged 16 to 18 with high-quality, challenging and amb
 
-- **emp.work_experience** (severity 4.0, what_school_needs_to_improve)
+- **emp.work_experience** (severity 4.0, what_provider_needs_to_improve)
   > What does the provider need to do to improve?  Implement a fully individualised programme of work experience and work-related activity to ensure that young learners and those with high needs build their skills for, and gain a good understanding of, the world of work.  Personalise all young learners’ programmes by capturing what they already know and can do
 
-- **cr.personal_development_strengthen** (severity 3.0, personal_development)
-  > Personal development Requires improvement Leadership and management Requires improvement Education programmes for young people Requires improvement Adult learning programmes Good Apprenticeships Requires improvement Provision for learners with high needs Requires improvement Overall effectiveness at previous inspection Good
+- **os.extremism** (severity 3.0, areas_for_improvement)
+  > Many potential safeguarding issues have been Inspection Report: Green Labyrinth, 15–17 March 2016 Page 4 of 8 identified and the few actual incidents have been managed appropriately. Staff have made reasonable progress to promote learners’ and staff members’ awareness of the risks of extremism and radicalisation through training in the government’s ‘Prevent’
 
-- **cr.personal_development_strengthen** (severity 3.0, personal_development)
-  > Personal development Requires improvement Leadership and management Requires improvement Education programmes for young people Inadequate Adult learning programmes Good Apprenticeships Requires improvement Provision for learners with high needs Inadequate Overall effectiveness at previous inspection Requires improvement
+- **os.radicalisation** (severity 3.0, areas_for_improvement)
+  > Many potential safeguarding issues have been Inspection Report: Green Labyrinth, 15–17 March 2016 Page 4 of 8 identified and the few actual incidents have been managed appropriately. Staff have made reasonable progress to promote learners’ and staff members’ awareness of the risks of extremism and radicalisation through training in the government’s ‘Prevent’
 
-- **cr.personal_development_strengthen** (severity 3.0, personal_development)
-  > Personal development Requires improvement Leadership and management Requires improvement Education programmes for young people Requires improvement Adult learning programmes Good Provision for learners with high needs Requires improvement Overall effectiveness at previous inspection Requires improvement
-
-- **os.extremism** (severity 2.0, main_findings)
-  > Teachers and trainers provide useful information to learners about the risks associated with using the internet, potential threats posed by local gangs, drugrelated activities, radicalisation and extremism. Learners value the chance they have to discuss and learn about these matters. Even so, young learners do not remember what they have been taught about ra
+- **emp.work_experience** (severity 3.0, areas_for_improvement)
+  > Success rates for the learners on English and mathematics functional skills courses are very good.  Nearly all learners who complete their qualification progress into some form of further training with about a third progressing into employment. Those learners who are not yet ready for work experience or further training progress into a bespoke summer school
 
 ---
 

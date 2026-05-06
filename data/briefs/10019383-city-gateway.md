@@ -18,7 +18,7 @@
 - Financial Literacy: 55
 - Employability Skills: 70
 - Confidence & Resilience: 65
-- Online Safety: 55
+- Online Safety: 63
 
 ## Why this is on the list
 
@@ -48,11 +48,51 @@
 
 _+ 2 earlier inspections in the database._
 
-## Verbatim from the inspector
+## Verbatim from the latest inspection report
 
-Direct quotes from the latest published report. Use these in outreach without paraphrasing.
+Inspection of City Gateway · 2023-04-05 · grade: **🟠 requires improvement**.
+[Full report](https://files.ofsted.gov.uk/v1/file/50213460)
 
-### Main findings
+Direct quotes from the report. Use these in outreach without paraphrasing — they're exactly what the inspector wrote.
+
+### What this provider needs to improve
+
+> What does the provider need to do to improve?
+>
+>  Leaders and managers should ensure that all trainees have access to and take
+> part in work experience placements.
+>  Leaders and managers should ensure that trainees and apprentices have access
+> to effective careers advice and guidance.
+>  Leaders and managers should ensure that apprentices are in job roles that are
+> closely related to their apprenticeship so that they can put into practice the
+> knowledge and skills they learn.
+>  Leaders and managers should ensure that they track learners’ attendance
+> accurately and put in place appropriate actions to improve attendance.
+>  Leaders and managers should ensure they develop a comprehensive personal
+> development curriculum so that learners and apprentices can develop their talents
+> and interests.
+
+### Safeguarding
+
+> Safeguarding
+>
+> The arrangements for safeguarding are effective.
+>
+> Leaders and trustees ensure that City Gateway has a strong culture of safeguarding.
+> They have good oversight of safeguarding concerns through a comprehensive
+> tracking and monitoring system. Leaders frequently review safeguarding cases and
+> present these to the safeguarding board, which includes their trained safeguarding
+> trustee.
+>
+> Leaders and managers have implemented effective safeguarding policies and
+> procedures to keep staff, apprentices and learners safe. They have strong links with
+> local and national safeguarding partnerships, which helps leaders to stay up to date
+> with emerging risks across the country.
+>
+> Leaders follow safe recruitment practices to ensure all new staff are suitable for their
+> roles.
+
+### What is it like to be a learner here / What does the provider do well
 
 > What is it like to be a learner with this provider?
 >
@@ -85,134 +125,16 @@ Direct quotes from the latest published report. Use these in outreach without pa
 >
 > Learners and apprentices feel safe. They trust the safeguarding process and say the
 > team is easy to contact and talk to if needed. Learners have gained an
-> understanding of the dangers of …
-
-### What this school needs to improve
-
-> What does the provider need to do to improve?
->
->  Leaders and managers should ensure that all trainees have access to and take
-> part in work experience placements.
->  Leaders and managers should ensure that trainees and apprentices have access
-> to effective careers advice and guidance.
->  Leaders and managers should ensure that apprentices are in job roles that are
-> closely related to their apprenticeship so that they can put into practice the
-> knowledge and skills they learn.
->  Leaders and managers should ensure that they track learners’ attendance
-> accurately and put in place appropriate actions to improve attendance.
->  Leaders and managers should ensure they develop a comprehensive personal
-> development curriculum so that learners and apprentices can develop their talents
-> and interests.
+> understanding of the dangers of radicalisation and extremism through presentations
+> from the local authority, local police, and drama groups. However, apprentices do
+> not have a secure understanding of the specific dangers they may face in the areas
+> in which they live and work.
 >
 >
+> What does the provider do well and what does it need to do
+> better?
 >
->
->
->
->
->
->
->
->
->
->
-> Inspection report: City Gateway
-> 17 to 19 January 2023
-> 5
->
->
->
->
->
->
->
-> Provider details
->
-> Unique reference number 58841
->
-> Address The Pavilion Import Building
-> 2 Clove Crescent, Poplar
-> London
-> E14 2BE
->
-> Contact number 020 3727 6310
->
-> Website www.citygateway.org.uk
->
-> Principal, CEO or equivalent Diane Betts
->
-> Provider type Independent training provider
->
-> Date of previous inspection 25 to 27 February 2020
->
-> Main subcontractors None
->
->
->
->
->
->
->
-> Inspection report: City Gateway
-> 17 to 19 January 2023
-> 6
->
->
->
->
-> Information about this inspection
->
-> The inspection team was assisted by the head of education and inclusion, as
-> nominee. Inspectors took account of the provider’s most recent self-assessment
-> report and development plans, and the previous inspection report. The inspection
-> was carried out using the further education and skills inspection handbook and took
-> into account all relevant provision at the provider. Inspectors collected a wide range
-> of evidence to inform judgements, including visiting learning sessions, scrutinising
-> learners’ work, seeking the views of learners, staff and other stakeholders, and
-> examining the provider’…
-
-### Areas for improvement
-
-> areas for improvement. Managers do not use the
-> findings of observations to inform staff development sufficiently.
->  Performance management of staff has not improved the quality of learning or learners’
-> achievements significantly. While managers are now implementing a broad range of
-> improvement actions, inspectors did not see a positive impact on the progress of current
-> learners.
->  Managers’ strategies to improve the attendance of learners have had limited impact. While
-> the proportion of learners who stay on employment programmes has improved,
-> attendance remains too low. Class times on women’s programmes often conflict with
-> learners’ religious observance.
->  Learners benefit from the organisation’s good partnership arrangements with multinational
-> corporations that make a significant contribution to learning. For example, employers
-> provide volunteers to mentor and coach women learners returning to work, and provide
-> high-quality work placements for learners on employment programmes. Through this,
-> learners broaden their understanding of the world of work.
->  Curriculum development is effective. Senior leaders and managers take positive action
-> with their corporate partners to develop and implement a curriculum to meet the needs of
-> local employers. The newly introduced range of level 1 courses in personal training, digital
-> media, business administration, information technology and event management are a
-> direct result of this collaborative work. Partners provide challenge to senior leaders
-> regarding the impact CGT’s training has on local learners.
->
->
->
->
->
->
->
-> Inspection report: City Gateway, 3–6 October 2017
->
-> Page 4 of 11
->
->
->
-> The governance of the provider
->
->  Governance arrangements are not fully effective. While trustees ensure that the chief
-> executive officer and senior staff are accountable to the board, they do not focus
-> sufficiently on the key areas for improvement, such as learners’ low achievement in ESOL,
-> English and mathematics qualif…
+> Leaders and managers sequence the English curriculum effectively so that lea…
 
 ## Compliance signals
 
@@ -229,20 +151,20 @@ Quotes you can drop directly into outreach. Severity drives the score.
 - **cr.attendance_poor** (severity 4.5, areas_for_improvement)
   > While managers are now implementing a broad range of improvement actions, inspectors did not see a positive impact on the progress of current learners.  Managers’ strategies to improve the attendance of learners have had limited impact. While the proportion of learners who stay on employment programmes has improved, attendance remains too low. Class times o
 
-- **emp.careers_guidance** (severity 4.0, what_school_needs_to_improve)
-  >  Leaders and managers need to ensure that learners make swift progress in completing their qualifications and continue into further training or employment by: – implementing a comprehensive analysis of the educational starting points of individual learners to inform the level of course they study and to provide good-quality learning – tutors using informati
+- **cr.self_esteem** (severity 4.0, what_provider_needs_to_improve)
+  > Many of these learners progress rapidly through several levels and then into vocational qualifications in, for example, childcare and beauty. The wider benefits to these learners in relation to building their confidence and self-esteem are outstanding. The contribution that this project makes to local community cohesion is excellent.  The progression rate o
 
-- **emp.work_experience** (severity 4.0, what_school_needs_to_improve)
-  > What does the provider need to do to improve?  Leaders and managers should ensure that all trainees have access to and take part in work experience placements.  Leaders and managers should ensure that trainees and apprentices have access to effective careers advice and guidance.  Leaders and managers should ensure that apprentices are in job roles that ar
+- **cr.self_esteem** (severity 4.0, what_provider_needs_to_improve)
+  > Most learners have had poor experiences of education and have low levels of prior attainment. For the vast majority of these learners, the rapid steps that they make in gaining high levels of confidence and self-esteem are equally as important and significant as the qualifications that they achieve. Learners attend well and arrive on time. The large majority
 
-- **emp.careers_guidance** (severity 4.0, what_school_needs_to_improve)
-  >  Leaders and managers should ensure that all trainees have access to and take part in work experience placements.  Leaders and managers should ensure that trainees and apprentices have access to effective careers advice and guidance.  Leaders and managers should ensure that apprentices are in job roles that are closely related to their apprenticeship so t
+- **cr.resilience** (severity 4.0, what_provider_needs_to_improve)
+  > External partners value how the highly effective and knowledgeable City Gateway staff contribute to the local multi-agency joint work, and are instrumental in getting the most disaffected young people in the locality to use services, develop employability and social skills, build resilience and learn to make positive decisions to transform their lives.  Mos
 
-- **fin_lit.personal_finance** (severity 3.0, safeguarding)
-  > They often escape social isolation and feel more integrated within their own communities. Staff refer learners effectively to external agencies for specialist advice that helps them to manage their personal finances, access better accommodation, and gain support when dealing with domestic abuse and violence. Apprenticeships Requires improvement  Thirty-five
+- **cr.resilience** (severity 4.0, what_provider_needs_to_improve)
+  > As a result, outcomes for learners are good.  Tutors and assessors act as positive role models for learners and have a very good understanding of the complex barriers to education that many of them face. They help learners to develop resilience and self-belief, ensuring that they take full responsibility for their learning goals and are able to achieve well
 
-- **emp.itp_apprentices_progress_slow** (severity 3.0, safeguarding)
-  > Apprenticeships Requires improvement  Thirty-five apprentices, mostly at intermediate level, are working towards completing qualifications in business administration. The majority of apprentices work within the financial sector of large multinational institutions in London.  Current apprentices do not make good progress in their learning because assessors 
+- **cr.resilience** (severity 4.0, what_provider_needs_to_improve)
+  > Learners develop all the skills that they need to research jobs, submit high-quality applications and prepare themselves for interviews. Alongside this, learners secure outstanding skills development, for example in leadership and resilience. Through a step-by-step progression, learners develop these skills very well and are able to give good examples, when 
 
 ---
 

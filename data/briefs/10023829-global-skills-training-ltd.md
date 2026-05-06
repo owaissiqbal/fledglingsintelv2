@@ -37,11 +37,48 @@
 
 - [Report](https://files.ofsted.gov.uk/v1/file/50219262)
 
-## Verbatim from the inspector
+## Verbatim from the latest inspection report
 
-Direct quotes from the latest published report. Use these in outreach without paraphrasing.
+Inspection of Global Skills Training Ltd · 2023-06-07 · grade: **🟠 requires improvement**.
+[Full report](https://files.ofsted.gov.uk/v1/file/50219262)
 
-### Main findings
+Direct quotes from the report. Use these in outreach without paraphrasing — they're exactly what the inspector wrote.
+
+### What this provider needs to improve
+
+> What does the provider need to do to improve?
+>
+>  Leaders should ensure trainers work with employers to ensure that the off-the-job
+> training links with the training provided in apprentices’ work settings.
+>  Leaders should work further with employers to ensure that all apprentices are
+> able to attend training sessions.
+>  Leaders and trainers need to make sure that employers attend progress reviews.
+> During reviews, trainers should set apprentices challenging targets that help them
+> to understand the knowledge and skills they need to develop further to achieve
+> their apprenticeship.
+>  Trainers should provide feedback on apprentices’ written work that helps them to
+> understand misconceptions and guide them to make improvements.
+
+### Safeguarding
+
+> Safeguarding
+>
+> The arrangements for safeguarding are effective.
+>
+> Leaders and managers ensure that safeguarding practice stems from a
+> comprehensive safeguarding policy which is frequently updated. Leaders have a
+> suitable ‘Prevent’ duty risk assessment.
+>
+> Leaders ensure that assessors and designated safeguarding leads (DSLs) have
+> completed the necessary training in order to be effective in their roles. Where
+> safeguarding concerns are reported, leaders and managers work effectively to
+> ensure that these are dealt with appropriately.
+>
+> DSLs bring good experience to their role. When they need to take action to support
+> apprentices’ welfare, they do so very effectively. They are vigilant in their support of
+> apprentices and secure external support for them if needed.
+
+### What is it like to be a learner here / What does the provider do well
 
 > What is it like to be a learner with this provider?
 >
@@ -78,91 +115,14 @@ Direct quotes from the latest published report. Use these in outreach without pa
 > use specific resources and support that helps them with their course.
 >
 >
-> What does the provider do well and wha…
-
-### What this school needs to improve
-
-> What does the provider need to do to improve?
+> What does the provider do well and what does it need to do
+> better?
 >
->  Leaders should ensure trainers work with employers to ensure that the off-the-job
-> training links with the training provided in apprentices’ work settings.
->  Leaders should work further with employers to ensure that all apprentices are
-> able to attend training sessions.
->  Leaders and trainers need to make sure that employers attend progress reviews.
-> During reviews, trainers should set apprentices challenging targets that help them
-> to understand the knowledge and skills they need to develop further to achieve
-> their apprenticeship.
->  Trainers should provide feedback on apprentices’ written work that helps them to
-> understand misconceptions and guide them to make improvements.
->
->
->
->
->
->
-> Inspection report: Global Skills Training Ltd
-> 30 November to 2 December 2022 and 19 and 20 April 2023
-> 5
->
->
->  Leaders must ensure that apprentices benefit from opportunities that support
-> their personal development beyond the requirements of completing the
-> qualification components of their apprenticeship.
->
->
->
->
->
->
->
-> Inspection report: Global Skills Training Ltd
-> 30 November to 2 December 2022 and 19 and 20 April 2023
-> 6
->
->
->
-> Provider details
->
-> Unique reference number 58950
->
-> Address Old Acton Library
-> 1st Floor
-> High Street
-> Acton
-> London
-> W3 6NA
->
-> Contact number 020 8896 2889
->
-> Website www.global-skills.com
->
-> Principal, CEO or equivalent Nasir Warsama
->
-> Provider type Independent Learning Provider
->
-> Date of previous inspection Not previously inspected
->
-> Main subcontractors none
->
->
->
->
->
->
->
-> Inspection report: Global Skills Training Ltd
-> 30 November to 2 December 2022 and 19 and 20 April 2023
-> 7
->
->
->
->
-> Information about this inspection
->
-> The inspection team was assisted by the director, as nominee. Inspectors took
-> account of the provider’s most recent self-assessment report and development plans,
-> and the previous inspection report. The inspection was carried out using the further
-> education and skills …
+> Over the past 18 months, leaders have continued to feel the impact of COVID-19 on
+> their business. Within the employers with whom they work, and in their own
+> organisation, staffing levels have mostly stabilised. Apprentices, who are close to
+> completing their apprenticeship, experienced changes in trainers and assessors
+> which resulted in disruption to their train…
 
 ## Compliance signals
 
@@ -176,16 +136,10 @@ _No high-trigger news matched in the last extraction pass._
 
 Quotes you can drop directly into outreach. Severity drives the score.
 
-- **emp.itp_off_the_job** (severity 4.0, what_school_needs_to_improve)
+- **emp.itp_off_the_job** (severity 4.0, what_provider_needs_to_improve)
   > What does the provider need to do to improve?  Leaders should ensure trainers work with employers to ensure that the off-the-job training links with the training provided in apprentices’ work settings.  Leaders should work further with employers to ensure that all apprentices are able to attend training sessions.  Leaders and trainers need to make sure th
 
-- **cr.personal_development_strengthen** (severity 3.0, personal_development)
-  > Personal development Requires improvement Leadership and management Requires improvement Apprenticeships Requires improvement Overall effectiveness at previous inspection Not previously inspected
-
-- **cr.behaviour_attitudes_concern** (severity 3.0, behaviour_attitudes)
-  > Behaviour and attitudes Requires improvement
-
-- **cr.personal_development** (severity 2.0, what_school_needs_to_improve)
+- **cr.personal_development** (severity 2.0, what_provider_needs_to_improve)
   > Inspection report: Global Skills Training Ltd 30 November to 2 December 2022 and 19 and 20 April 2023 5  Leaders must ensure that apprentices benefit from opportunities that support their personal development beyond the requirements of completing the qualification components of their apprenticeship. Inspection report: Global Skills Training Ltd 30 November 
 
 - **emp.itp_off_the_job** (severity 2.0, main_findings)
@@ -193,6 +147,12 @@ Quotes you can drop directly into outreach. Severity drives the score.
 
 - **emp.careers_guidance** (severity 2.0, main_findings)
   > For example, they provide only limited resources for apprentices on the importance of maintaining a physically healthy lifestyle. Trainers do provide suitable resources for apprentices to help them understand how to stay mentally healthy. The majority of apprentices benefit from suitable careers advice throughout their apprenticeship. They are informed of ca
+
+- **emp.careers_guidance** (severity 2.0, main_findings)
+  > The extent to which apprentices have an opportunity to learn about such topics, including those related to British values, depends on the tutor they have and is not a consistent part of each apprentice’s programme. The majority of apprentices receive the careers advice and guidance they need to help them plan their next steps in training or at work. This has
+
+- **shared.rshe_curriculum** (severity 1.0, main_findings)
+  > For example, they give early years apprentices effective guidance on, and supervision in carrying out observations and assessments on children of different ages. They teach apprentices the requirements for different rooms in the nursery. They make sure apprentices are competent in tasks such as changing nappies and preparing food safely and hygienically. The
 
 ---
 

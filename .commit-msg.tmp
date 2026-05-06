@@ -1,0 +1,44 @@
+Cleaner section parser, richer narrative, 1,090 reports total
+
+Pulled the remaining ITP / FE / university Ofsted reports and tightened
+the section parser so verbatim quotes don't trail into PDF page-footer
+boilerplate. Three concrete improvements:
+
+1. Reports coverage: 295 → 1,090 inspections with report_text.
+   - fetch-itp-reports.ts ran with cap=800 after the cleaner parser was
+     in place; an additional 795 reports parsed.
+   - Findings extracted: 34,972 verbatim phrase matches across 2,815
+     inspections (cleaner now — counts down from 55k because the parser
+     stops cleanly at end-markers, no junk-text false positives).
+
+2. Section parser is end-marker aware.
+   - sections.ts now has an END_MARKERS list (Provider details / School
+     details / Information about this inspection / Annex / page footers
+     like "Inspection report: <name>") that terminate the current
+     section without becoming a section themselves.
+   - All occurrences are tracked via matchAll, so repeated page footers
+     truncate every section that touches them.
+   - Stricter min-length per key — F&S grade-table headers
+     (Apprenticeships, Adult learning, Behaviour, Leadership, ...) need
+     250+ chars of body to count as a real narrative section, otherwise
+     they're suppressed (a 1-line grade snippet adds nothing the
+     inspections columns don't already have).
+   - Section keys for ITP / FE reports now use `what_provider_needs_to_improve`
+     when the matched pattern was the provider-flavoured one.
+
+3. Brief and detail page render the full narrative.
+   - generate-itp-briefs.ts pulls 15 section keys per latest inspection,
+     ordered actionable first: what to improve, areas for action,
+     recommendations, then framework narrative (apprenticeships, adult
+     learning, young people's provision, high needs, quality of
+     education, behaviour, personal development, leadership,
+     safeguarding) and finishes with the main-findings narrative.
+   - /opportunities/[id] panel matches the brief's section list.
+   - 328 briefs regenerated.
+
+Sample improvement on a typical RI ITP brief: previously 50 lines of
+"identity / pipeline signals / report URL". Now ~150 lines with the
+inspector's verbatim "what does the provider need to do to improve"
+bullets, the "areas for improvement" narrative, the safeguarding
+finding, and the main "what is it like to be a learner" narrative —
+all directly quotable in outreach.

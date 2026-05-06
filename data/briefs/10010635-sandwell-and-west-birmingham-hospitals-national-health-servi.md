@@ -53,9 +53,12 @@
 
 _+ 1 earlier inspection in the database._
 
-## Verbatim from the inspector
+## Verbatim from the latest inspection report
 
-Direct quotes from the latest published report. Use these in outreach without paraphrasing.
+Inspection of Sandwell and West Birmingham Hospitals National Health Service Trust · 2025-11-18 · grade: **🟠 requires improvement**.
+[Full report](https://files.ofsted.gov.uk/v1/file/50293443)
+
+Direct quotes from the report. Use these in outreach without paraphrasing — they're exactly what the inspector wrote.
 
 ### Areas for improvement
 
@@ -83,9 +86,79 @@ Direct quotes from the latest published report. Use these in outreach without pa
 > Leaders have not ensured that tutors have access to specialist training and expertise to help
 > them support disadvantaged apprentices better, such as those with special educational
 > needs and/or disabilities (SEND). Tutors research learning disabilities and difficulties and
-> mental health conditions, but do not have enough understanding of the specific adaptations
-> needed for apprentices with specific learning support needs, such as dyslexia or for
-> apprentices who speak English as an ad…
+> mental health …
+
+### Apprenticeships
+
+> Apprenticeships
+> 76
+> Percentage of learning aims successfully achieved
+> Apprenticeships overall achievement rate
+> YearThis providerNational averageCompared with
+> national average
+> 2023/246961Close to average
+> 2022/236055Close to average
+> 2021/225253Close to average
+> Apprenticeships pass rate
+> YearThis providerNational average
+> 2023/2410098
+> 2022/2310097
+> 2021/2210098
+>
+> Our grades explained
+> Exceptional
+> Practice is exceptional: of the highest standard nationally. Other providers can learn from it.
+> Strong standard
+> The provider reaches a strong standard. Leaders are working above the standards expected
+> of them.
+> Expected standard
+> The provider is fulfilling the expected standard of education and/or care. This means they
+> are following the standards set out in statutory and non-statutory legislation and the
+> professional standards expected of them.
+> Needs attention
+> The expected standards are not met but leaders are likely able to make the necessary
+> improvements.
+> Urgent improvement
+> The provider needs to make urgent improvements to provide the expected standard of
+> education and/or care.
+> The Office for Standards in Education, Children's Services and Skills (Ofsted) inspects
+> services providing education and skills for children and learners of all ages, and inspects
+> and regulates services that care for children and young people.
+> If you would like a copy of this document in a different format, such as large print or Braille,
+> please telephone 0300 123 1231, or email enquiries@ofsted.gov.uk.
+> You may reuse this information (not including logos) free of charge in any format or medium,
+> under the terms of the Open Government Licence. To view this licence, visit
+> www.nationalarchives.gov.uk/doc/open-government-licence, write to the Information Policy
+> Team, The National Archives, Kew, London TW9 4DU, or emai…
+
+### Safeguarding
+
+> Safeguarding standards met
+> The safeguarding standards are met. This means that leaders and/or those responsible for
+> governance and oversight fulfil their specific responsibilities and have established an open
+> culture in which safeguarding is everyone's responsibility and concerns are actively
+> identified, acted upon and managed. As a result, learners are made safer and feel safe.
+> How we evaluate safeguarding
+> When we inspect providers for safeguarding, they can have the following outcomes:
+> Met: The provider has an open and positive culture of safeguarding.
+> Not met: The provider has not created an open and positive culture of safeguarding. Not
+> all legal requirements are met.
+>
+> 1. Inclusion, and leadership and governance
+> Expected standard
+> Needs attention
+> Expected standard
+> Needs attention
+> Leadership and governance
+> Expected standard
+> Leaders and governors have a clear vision and strategy for the curriculums that they
+> provide. They prioritise sector needs and hard-to-fill roles, such as healthcare support and
+> business functions. Healthcare support worker apprenticeships provide apprentices with
+> progression opportunities into careers, including nursing associate, nursing and
+> physiotherapy support. Leaders aim to widen participation by providing opportunities for
+> local residents to gain an education and develop their careers in healthcare.
+> Leaders have suitable systems in place to monitor the quality of teaching and training that
+> apprentices receive. Where
 
 ## Compliance signals
 

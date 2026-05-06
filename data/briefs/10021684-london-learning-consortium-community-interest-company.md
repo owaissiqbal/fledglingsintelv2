@@ -13,10 +13,10 @@
 
 ## Lead-with curriculum
 
-**Confidence & Resilience** (sub-score 55)
+**Employability Skills** (sub-score 55)
 
 - Financial Literacy: 0
-- Employability Skills: 27
+- Employability Skills: 55
 - Confidence & Resilience: 55
 - Online Safety: 55
 
@@ -47,40 +47,94 @@
 
 _+ 2 earlier inspections in the database._
 
-## Verbatim from the inspector
+## Verbatim from the latest inspection report
 
-Direct quotes from the latest published report. Use these in outreach without paraphrasing.
+Inspection of London Learning Consortium Community Interest Company · 2024-02-08 · grade: **🔵 good**.
+[Full report](https://files.ofsted.gov.uk/v1/file/50239369)
 
-### What this school needs to improve
+Direct quotes from the report. Use these in outreach without paraphrasing — they're exactly what the inspector wrote.
 
-> What does the provider need to do to improve further?
->  Ensure that such things as observations of teaching and learning, quality meetings, proper use
-> of learner tracking systems and specialist oversight of courses are used more effectively to drive
-> up success rates consistently across the provision.
->  Use the experience of particularly high performing subcontractors, along with LLC specialist
-> staff, to assist the poorer performing areas to adopt better practice, particularly in the
-> classroom.
->  Encourage more, and better, staff development in subcontractors so that standards in the
-> classroom are raised, including better planning of sessions, more learner involvement, more
-> appropriate pace and improved questioning and assessment.
->  Improve the availability and use of data so that underperformance in courses, groups of learners
-> and subcontractors is more readily identified allowing for prompt intervention and improvement.
+### What this provider needs to improve
+
+> What does the provider need to do to improve?
 >
-> Inspection judgements
-> Outcomes for learners
-> Requires improvement
->  The proportion of learners successfully achieving their planned qualification requires
-> improvement to a consistent standard across the LLC and its many subcontractors, bringing it at
-> least to a level seen in similar providers. Success rates vary too much across the provision, from
-> outstanding performance in several locations and courses to, in 2011/12, inadequate results for
-> two subcontractors; those poorer performing subcontractors are no longer working with LLC.
-> The performance in 2012/13 appears to be improving in most aspects and is close to an
-> acceptable level.
->  The majority of learners attend short courses, and, in these, achievement of qualifications is at
-> too low a rate. This is particularly the case in employability and in health and social care
-> programmes. However, in both areas, mature, unemployed learners understandably leave
-> courses early if they find a job; this has had a significant impact on results in health and social
-> care. The achieveme…
+>  Make sure that a high proportion of apprentices achieve their qualifications in the
+> planned time, and that a high proportion of learners and apprentices achieve a
+> grade 4 or higher in GCSE English and mathematics.
+>  Provide vocational and SEND training and development opportunities for staff to
+> enhance their skills and expertise.
+>  Provide opportunities for learners and apprentices to explore their talents and
+> interests outside of their core curriculum.
+
+### Safeguarding
+
+> safeguarding topics.
+>
+> Most teachers and assessors use effective teaching strategies in lessons. They
+> explain topics clearly by linking new information to concepts with which learners are
+> already familiar. For example, in level 3 games, tutors effectively explain theoretical
+> concepts of freelance, commissioned work and subscription-based services by
+> linking it to learners’ understanding of popular online streaming services and video
+> channels. Tutors use demonstrations and practical activities well to teach new topics.
+> As a result, learners and apprentices develop their knowledge securely and
+> remember what they have been taught.
+>
+> Staff manage the transition of learners who have EHC plans into college well.
+> Learners visit the college a few times before starting to participate in activities to
+> spark their interest. Staff make sure that learners are familiar with and feel settled
+> at college before they start to have lessons with other learners. This helps learners
+> to settle into college well. Learners like the induction process as it makes them feel
+> well supported during a period of significant change.
+>
+> Staff provide good opportunities within the core curriculum for young learners with
+> EHC plans to work towards achieving their EHC plan outcomes. Learners receive
+> regular feedback from tutors and support staff on how well they make progress
+> towards their outcomes. They receive helpful support if they fall behind, to help
+> them keep on track with their studies. Most learners who have EHC plans make
+> good progress towards achieving their outcomes.
+>
+> Tutors and assessors use assessment effectively to check learners’ and apprentices’
+> understanding, and to identify any gaps or misconceptions they have. For example,
+
+### What is it like to be a learner here / What does the provider do well
+
+> What is it like to be a learner with this provider?
+>
+> Young learners, including those who have SEND, learn in welcoming, supportive and
+> inclusive learning environments. Learners who have SEND integrate well with their
+> peers in all aspects of their education at each centre. Staff and managers set high
+> expectations of learners’ behaviour and conduct from the start of programmes. Most
+> young learners, including those who have SEND, attend well and develop good
+> vocational knowledge, skills and behaviours which prepare them well to work in the
+> creative industries. Most young learners achieve their core academic goals. However,
+> too few students achieve a grade 4 or higher in their English and mathematics
+> qualifications.
+>
+> Most apprentices develop good knowledge, skills and behaviours that they use
+> effectively in their jobs. Their well-planned training helps them to build their
+> professional standing in the workplace, where they take pride in their roles.
+> Employers say apprentices make positive contributions to their organisations as a
+> result of their apprenticeships. However, a few apprentices have fallen behind with
+> their studies, particularly with English and mathematics. These apprentices are
+> supported well by their coaches to get back on track through extra reviews and
+> catch-up sessions.
+>
+> Adult learners have a positive attitude to learning and make good progress with their
+> studies. Most learners cope well with self-study and completing independent
+> research. They like the flexibility their programme gives them because the
+> programme meets their needs and supports them to get into employment in areas
+> of local demand. For example, distance learning programmes in nursing or midwifery
+> offer adult learners a flexible study option that they can fit around their work or
+> family commitments.
+>
+> Learners and apprentices receive helpful support and guidance from staff to
+> understand what they need to do to reach their career goals. Staff support learners
+> and apprentices well in the early stages of their programme on their journey to
+> higher education or employment. As a result, the majority of learners and
+> apprentices move to positive destinations when they complete their studies.
+>
+> Learners and apprentices feel safe. This is because staff promote a positive culture
+> to safeguard and protect them when they are in centres and when learning online. …
 
 ## Compliance signals
 
@@ -94,23 +148,23 @@ _No high-trigger news matched in the last extraction pass._
 
 Quotes you can drop directly into outreach. Severity drives the score.
 
-- **emp.itp_assessment_weak** (severity 4.0, what_school_needs_to_improve)
+- **emp.itp_skills_knowledge_gaps** (severity 4.5, areas_for_improvement)
+  > In addition, the quality improvement plans, including those of subcontractors, do not sufficiently focus on the impact on the learner and learning when setting actions.  Managers have very effective links with local partners and have a good awareness of local skills gaps to plan and manage the curriculum. Managers participate well in the local skills and em
+
+- **emp.itp_assessment_weak** (severity 4.0, what_provider_needs_to_improve)
   >  Learners receive good pre-course information and guidance ensuring they are on the most suitable programme to meet their aspirations. Learners also receive good pastoral support from their tutors. Whilst initial assessment accurately identifies learners’ additional support needs, learners currently on programme do not receive additional help to develop the
 
-- **cr.self_esteem** (severity 4.0, what_school_needs_to_improve)
+- **cr.self_esteem** (severity 4.0, what_provider_needs_to_improve)
   > Tutors carefully plan opportunities that allow learners to develop skills at their own pace.  Staff have high expectations of their learners and encourage them to develop confidence, motivate them to remain on their courses and improve their self-esteem. Tutors provide adequate support to learners to help them achieve their goals. Attendance monitoring is e
 
-- **shared.diversity** (severity 2.0, what_school_needs_to_improve)
-  > Management action has not sufficiently improved current learners’ success rates. Overall inspection judgements have not improved since the 2009 inspection Inspection report: London Learning Consortium, 24-28 June 2013 9 of 14  Equality and diversity policies and procedures are appropriate to the needs of a large consortium. Managers remain passionate and de
+- **emp.cv_interview_skills** (severity 4.0, what_provider_needs_to_improve)
+  > Learners improve their self-esteem through the qualifications that they achieve and enjoy returning to education or training. By working collaboratively, presenting their work to tutors and other learners, preparing curriculum vitae and practising interview skills, learners gain the confidence to apply successfully for jobs.  Managers have ensured that the 
 
-- **shared.diversity** (severity 2.0, what_school_needs_to_improve)
-  >  Learners have a good understanding of equality and diversity and this is often reinforced as a part of their job role, especially for those learners working in community settings and those with a customer service role. Discussions around equality and diversity are helpfully included at all reviews. The effectiveness of leadership and management Requires im
+- **cr.self_esteem** (severity 4.0, what_provider_needs_to_improve)
+  > They safely used a range of products to clean repaired bicycles to industry standards, overcoming many of their complex barriers to learning. They valued their training and recognised the contribution it made towards improving their self-esteem and preparing them for work.  Tutors use the virtual learning environment (VLE) and other learning technologies we
 
-- **shared.diversity** (severity 2.0, what_school_needs_to_improve)
-  > In one instance, however, two learners had a delayed start to their training following confusion over funding eligibility. On-programme advice and guidance are adequate and some is good.  Learners have a good understanding of equality and diversity and this is often reinforced as a part of their job role, especially for those learners working in community s
-
-- **shared.diversity** (severity 2.0, what_school_needs_to_improve)
-  >  Learners from a wide range of cultural backgrounds take courses in employability and work well together with high levels of mutual respect. In most lessons tutors take great care to plan to meet individual needs and promote diversity in respect of cultural differences and origins. Tutors help learners identify their strengths to support their job hunting, 
+- **cr.self_esteem** (severity 4.0, what_provider_needs_to_improve)
+  > The discipline of attending regularly and on time prepares learners very well for future employment.  The capacity for learners to gain wider skills through their learning is outstanding. Learners improve their self-esteem through the qualifications that they achieve and enjoy returning to education or training. By working collaboratively, presenting their 
 
 ---
 

@@ -1,6 +1,6 @@
 # Skills Edge Training Ltd
 
-**🟠 HIGH** · score **95** · urgency 67 · pipeline 100
+**🔴 CRITICAL** · score **95** · urgency 70 · pipeline 100
 
 ## Identity
 
@@ -13,10 +13,10 @@
 
 ## Lead-with curriculum
 
-**Employability Skills** (sub-score 67)
+**Employability Skills** (sub-score 70)
 
 - Financial Literacy: 55
-- Employability Skills: 67
+- Employability Skills: 70
 - Confidence & Resilience: 65
 - Online Safety: 63
 
@@ -49,11 +49,32 @@
 
 _+ 1 earlier inspection in the database._
 
-## Verbatim from the inspector
+## Verbatim from the latest inspection report
 
-Direct quotes from the latest published report. Use these in outreach without paraphrasing.
+Inspection of Skills Edge Training Ltd · 2024-08-23 · grade: **🟠 requires improvement**.
+[Full report](https://files.ofsted.gov.uk/v1/file/50255538)
 
-### Main findings
+Direct quotes from the report. Use these in outreach without paraphrasing — they're exactly what the inspector wrote.
+
+### What this provider needs to improve
+
+> What does the provider need to do to improve?
+>
+>  Ensure that apprentices studying the insurance practitioner apprenticeship stay on
+> track with their studies and complete their apprenticeship in planned time scales.
+>  Ensure that apprentices receive prompt developmental feedback identifying how
+> to improve their work.
+>  Ensure that apprentices receive ongoing careers information, advice and guidance
+> so that apprentices are aware of the wide range of possible careers routes and
+> the transferable skills they have developed as part of their studies.
+
+### Safeguarding
+
+> Safeguarding
+>
+> The arrangements for safeguarding are effective.
+
+### What is it like to be a learner here / What does the provider do well
 
 > What is it like to be a learner with this provider?
 >
@@ -90,85 +111,12 @@ Direct quotes from the latest published report. Use these in outreach without pa
 > complete their apprenticeship by their planned end date.
 >
 > Since the previous inspection, leaders have made several improvements to reduce
-> the proportion of apprentic…
-
-### What this school needs to improve
-
-> What does the provider need to do to improve?
->
->  Ensure that apprentices studying the insurance practitioner apprenticeship stay on
-> track with their studies and complete their apprenticeship in planned time scales.
->  Ensure that apprentices receive prompt developmental feedback identifying how
-> to improve their work.
->  Ensure that apprentices receive ongoing careers information, advice and guidance
-> so that apprentices are aware of the wide range of possible careers routes and
-> the transferable skills they have developed as part of their studies.
->
->
->
->
->
->
->
-> Inspection report: Skills Edge Training Ltd
-> 9 to 12 July 2024
-> 5
->
->
->
-> Provider details
->
-> Unique reference number 59147
->
-> Address The Union Building, 4th Floor,
-> 51–59 Rose Lane
-> Norwich
-> NR1 1BY
->
-> Contact number 01603 577 960
->
-> Website www.skillsedge.co.uk
->
-> Principal, CEO or equivalent James Miller
->
-> Provider type Independent learning provider
->
-> Dates of previous inspection 4 to 7 June 2019
->
-> Main subcontractors None
->
->
->
->
->
->
->
-> Inspection report: Skills Edge Training Ltd
-> 9 to 12 July 2024
-> 6
->
->
->
->
-> Information about this inspection
->
-> The inspection team was assisted by the managing director, as nominee. Inspectors
-> took account of the provider’s most recent self-assessment report and development
-> plans, and the previous inspection report. The inspection was carried out using the
-> further education and skills inspection handbook and took into account all relevant
-> provision at the provider. Inspectors collected a wide range of evidence to inform
-> judgements, including visiting learning sessions, scrutinising learners’ work, seeking
-> the views of learners, staff and other stakeholders, and examining the provider’s
-> documentation and records.
->
-> Inspection team
->
-> Georgina Ager, lead inspector His Majesty’s Inspector
-> Mark Care His Majesty’s Inspector
-> Alison Davies Ofsted Inspector
-> Angela Twelvetree Ofsted Inspector
-> Sarah Seaman His Majesty’s Inspector
-> Steve Lambert His Majesty’s In…
+> the proportion of apprentices who leave their courses early. Leaders have improved
+> how they recruit new apprentices. Leaders now ensure that apprentices have
+> suitable job roles. Managers have put in place measures to improve rates of
+> attendance. Leaders have remodelled the curriculum. On the paraplanner course,
+> leaders have introduced additional workshops to ensure that apprentices gain the
+> technical skills they need t…
 
 ## Compliance signals
 
@@ -182,23 +130,23 @@ _No high-trigger news matched in the last extraction pass._
 
 Quotes you can drop directly into outreach. Severity drives the score.
 
-- **os.radicalisation** (severity 4.0, what_school_needs_to_improve)
-  >  Urgently ensure that centre managers plan apprentices’ programmes effectively to enable apprentices to make good progress and to achieve within their allocated timescales.  Deepen learners’ understanding of life and work in modern Britain and the risks of radicalisation.  Improve the quality of teaching, learning and assessment and outcomes for learners 
-
-- **emp.itp_apprentices_progress_slow** (severity 3.0, personal_development)
+- **emp.itp_apprentices_progress_slow** (severity 4.5, adult_learning)
   >  Learners make slow progress in developing their theoretical knowledge because too many trainers and assessors do not plan and deploy effective teaching methods to deepen and extend their understanding of theoretical concepts.  Too many learners and apprentices make slow progress in developing the English and mathematical skills pertinent for their future 
 
-- **cr.personal_development_strengthen** (severity 3.0, personal_development)
-  > Personal development Requires improvement Leadership and management Requires improvement Apprenticeships Requires improvement Overall effectiveness at previous inspection Good
+- **emp.work_experience** (severity 4.0, what_provider_needs_to_improve)
+  > In such sessions, trainers rely too much on slides to present information rather than interactions and learning. This does not inspire apprentices.  Initial advice, guidance and periods of extended work experience prior to their enrolment ensure that apprentices experience the hairdressing industry, explore careers within it and understand the commitment re
 
-- **cr.behaviour_attitudes_concern** (severity 3.0, behaviour_attitudes)
-  > Behaviour and attitudes Requires improvement
+- **cr.resilience** (severity 4.0, what_provider_needs_to_improve)
+  > Having raised their aspirations, a good percentage of them progress from intermediate to advanced apprenticeship programmes. Apprentices progress to higher levels to develop both their skills and employability.  Success rates are excellent for apprentices aged 19 years or over. They develop high resilience and are enthusiastic about their choice of career a
 
-- **os.extremism** (severity 2.0, safeguarding)
-  > The vast majority of employers value the contributions that apprentices make to their organisations.  Apprentices are safe and feel safe in their work environments. They also have a good understanding of how to stay safe online, but the vast majority have little understanding of the risks of extremism and radicalisation.  The great majority of apprentices 
+- **os.radicalisation** (severity 4.0, what_provider_needs_to_improve)
+  >  Urgently ensure that centre managers plan apprentices’ programmes effectively to enable apprentices to make good progress and to achieve within their allocated timescales.  Deepen learners’ understanding of life and work in modern Britain and the risks of radicalisation.  Improve the quality of teaching, learning and assessment and outcomes for learners 
 
-- **os.extremism** (severity 2.0, safeguarding)
-  > A beauty therapist has taken an advanced make-up course and now has the skills to offer wedding and photographic make-up services.  Most adult learners have a limited understanding of the risks of radicalisation and extremism and how these may relate to them and their work. Most learners feel safe and are aware of whom to contact should they feel concerned 
+- **os.extremism** (severity 4.0, what_provider_needs_to_improve)
+  > Leaders have also introduced a range of teaching materials and activities to help apprentices develop their understanding of safeguarding and related subjects. As a result, apprentices have a good awareness of safeguarding, including when working online, and how to protect themselves from the risks associated with radicalisation and extremism. Quality of tea
+
+- **os.radicalisation** (severity 4.0, what_provider_needs_to_improve)
+  > Leaders have also introduced a range of teaching materials and activities to help apprentices develop their understanding of safeguarding and related subjects. As a result, apprentices have a good awareness of safeguarding, including when working online, and how to protect themselves from the risks associated with radicalisation and extremism. Quality of tea
 
 ---
 

@@ -49,11 +49,59 @@
 
 _+ 3 earlier inspections in the database._
 
-## Verbatim from the inspector
+## Verbatim from the latest inspection report
 
-Direct quotes from the latest published report. Use these in outreach without paraphrasing.
+Inspection of Aspiration Training Limited · 2023-08-25 · grade: **🟠 requires improvement**.
+[Full report](https://files.ofsted.gov.uk/v1/file/50226735)
 
-### Main findings
+Direct quotes from the report. Use these in outreach without paraphrasing — they're exactly what the inspector wrote.
+
+### What this provider needs to improve
+
+> What does the provider need to do to improve?
+>
+>  Leaders and managers should reduce the number of apprentices and adult
+> learners who leave early or fall behind and those who do not complete their
+> apprenticeship or qualification on time.
+>  Leaders should ensure that all apprentices routinely get the time they need away
+> from work to study. Line managers should attend progress review meetings to
+> ensure that apprentices receive the support they need to do well.
+>  Leaders should ensure that coaches use information about what adult learners
+> already know and can do to plan their learning.
+>  Leaders and coaches should ensure that learners and apprentices know what they
+> need to do to achieve the highest grades.
+>  Leaders should ensure that young apprentices learn about healthy relationships,
+> including topics such as sexual harassment, consent and misogyny.
+>  Leaders should ensure that all apprentices and adult learners develop their
+> understanding of the risks associated with radicalisation and extremism, including
+> the potential risks in their local area.
+>  Leaders and managers should ensure that all learners and apprentices develop
+> the English and mathematical skills needed for their next steps in education or
+> employment.
+>  Leaders should ensure that apprentices and learners benefit from a clear and
+> well-planned careers education, advice and guidance programme.
+
+### Safeguarding
+
+> Safeguarding
+>
+> The arrangements for safeguarding are effective.
+>
+> Leaders and staff receive regular safeguarding training and updates. Safeguarding is
+> discussed frequently in team and governance meetings to ensure it remains a high
+> priority for all.
+>
+> Leaders have ensured that appropriate policies and procedures are in place. They
+> follow these procedures with care.
+>
+> Leaders do not ensure that young apprentices learn about healthy relationships
+> outside of work and topics such as sexual harassment, banter, consent, misogyny
+> and child-on-child abuse.
+>
+> Too few apprentices and learners are aware of the risks associated with
+> radicalisation and extremism, including the local risks where they live and work.
+
+### What is it like to be a learner here / What does the provider do well
 
 > What is it like to be a learner with this provider?
 >
@@ -92,118 +140,13 @@ Direct quotes from the latest published report. Use these in outreach without pa
 > Leaders and managers have developed a range of apprenticeship and adult learning
 > courses for adult care, early years and dental nursing. These sectors have significant
 > staff and skills shortages and high rates of staff turnover. The curriculums provided
-> develop…
-
-### What this school needs to improve
-
-> What does the provider need to do to improve?
+> develop the knowledge and skills required by employers in these sectors. However,
+> too many apprentices choose to leave the sector in which they work and do not
+> achieve their apprenticeship.
 >
->  Leaders and managers should reduce the number of apprentices and adult
-> learners who leave early or fall behind and those who do not complete their
-> apprenticeship or qualification on time.
->  Leaders should ensure that all apprentices routinely get the time they need away
-> from work to study. Line managers should attend progress review meetings to
-> ensure that apprentices receive the support they need to do well.
->  Leaders should ensure that coaches use information about what adult learners
-> already know and can do to plan their learning.
->  Leaders and coaches should ensure that learners and apprentices know what they
-> need to do to achieve the highest grades.
->  Leaders should ensure that young apprentices learn about healthy relationships,
-> including topics such as sexual harassment, consent and misogyny.
->  Leaders should ensure that all apprentices and adult learners develop their
-> understanding of the risks associated with radicalisation and extremism, including
-> the potential risks in their local area.
->  Leaders and managers should ensure that all learners and apprentices develop
-> the English and mathematical skills needed for their next steps in education or
-> employment.
->  Leaders should ensure that apprentices and learners benefit from a clear and
-> well-planned careers education, advice and guidance programme.
->
->
->
->
->
->
->
->
-> Inspection report: Aspiration Training Limited
-> 4 to 7 July 2023
-> 6
->
->
->
-> Provider details
->
-> Unique reference number 57680
->
-> Address Grosvenor House
-> Prospect Hill
-> Redditch
-> B97 4DL
->
-> Contact number 01527 359646
->
-> Website www.aspirationtraining.com
->
-> Principal, CEO or equivalent Iain Salisbury
->
-> Provider type Independent learning provider
->
-> Date of previous inspection 29 November to 2 December 2016
->
-> Main subcontractors Not applicable
->
->
->
->
->
->
->
-> Inspection report: Aspiration Training Limited
-> 4 to 7 July 2023
-> 7
->
->
->
->
-> Information about this inspection
->
-> The insp…
-
-### Areas for improvement
-
-> areas for improvement based on a systematic collection and analysis of
-> evidence of the quality of all aspects of the provider’s work and, in particular, the standard
-> of teaching, learning and assessment
-> - leads to the identification of effective actions and measures to improve all areas swiftly
-> - enables managers to monitor the impact of planned improvements.
->  Increase the effectiveness of the observation of teaching, learning and assessment by focusing
-> on the impact of teaching on learners’ progress rather than the activities of staff.
->
->
-> Inspection judgements
-> Outcomes for learners
-> Requires improvement
->
->  Too few apprentices achieve their qualifications. The proportion of learners that successfully
-> completed in 2011/12 declined from the previous year to significantly below the average for
-> similar providers.
->  The provider’s own data indicates that the overall success rate on the apprenticeship
-> programme in the current year has improved significantly. However, it is still below the national
-> average for learners aged 25 and above who form the largest cohort. On the intermediate
-> programme, the success rate is now high, but it remains too low on the advanced programme.
-> The proportion of the learners who achieved their qualifications within the planned duration of
-> their programmes was low in 2011/12 but has improved significantly during the current year.
->  The great majority of learners on short preparation for work courses achieve their qualifications.
-> The success rate in 2011/12 and so far in the current year is similar to the rate among similar
-> providers.
->
-> Inspection report: Aspiration Training Limited, 22–26 July 2013 3 of 10
->
->  There are significant gaps in the rate of achievement among different groups of learners. Male
-> learners perform much less well than females. Just over half of the male learners in 2011/12
-> successfully completed their apprenticeship framework compared with a much higher success
-> rate among female learners. The pr…
+> Leaders rightly recognise the need to take action to reduce the number of
+> apprentices who fall behind or leave their apprenticeship early. They have revised
+> their apprentice recruitment process and monitor and …
 
 ## Compliance signals
 
@@ -216,9 +159,6 @@ _No high-trigger news matched in the last extraction pass._
 ## Verbatim inspection findings
 
 Quotes you can drop directly into outreach. Severity drives the score.
-
-- **emp.preparation_for_work** (severity 4.5, areas_for_improvement)
-  > com/ Provider information at the time of the inspection Main course or learning programme level Level 1 or below Level 2 Level 3 Level 4 and above Total number of learners (excluding apprenticeships) 16-18 19+ 16-18 19+ 16-18 19+ 16-18 19+ Full-time 0 0 0 0 0 15 0 0 Part-time 0 0 0 0 0 0 0 0 Number of apprentices by Apprenticeship level and age Intermediate 
 
 - **emp.preparation_for_work** (severity 4.5, areas_for_improvement)
   >  The provider has strong relationships with employers which results in flexible arrangements for training and assessment that suit the needs of the learners and businesses. The creation of an employer engagement team has significantly improved the range of work taster opportunities for learners on employability related programmes.  The preparation for work
@@ -234,6 +174,9 @@ Quotes you can drop directly into outreach. Severity drives the score.
 
 - **emp.preparation_for_work** (severity 4.5, areas_for_improvement)
   > They make little use of on-line resources in their teaching and rarely encourage or support learners to use the internet to research relevant topics. Managers have recently developed a virtual learning environment but most learners do not yet use it.  On the preparation for work programme, teachers successfully develop learners’ ability to gain sustainable 
+
+- **emp.preparation_for_work** (severity 4.5, areas_for_improvement)
+  > For example, almost half of the learners recruited in 2012/13 on the advanced-level childcare programme progressed from the intermediate level, and a significant proportion of the learners on the higher-level health and social care programme progressed from the advanced programme. Progression into sustained employment is good among learners on the preparatio
 
 ---
 

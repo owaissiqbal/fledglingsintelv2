@@ -11,10 +11,10 @@
 
 ## Lead-with curriculum
 
-**Confidence & Resilience** (sub-score 55)
+**Employability Skills** (sub-score 55)
 
 - Financial Literacy: 0
-- Employability Skills: 54
+- Employability Skills: 55
 - Confidence & Resilience: 55
 - Online Safety: 55
 
@@ -41,59 +41,56 @@
 
 _+ 4 earlier inspections in the database._
 
-## Verbatim from the inspector
+## Verbatim from the latest inspection report
 
-Direct quotes from the latest published report. Use these in outreach without paraphrasing.
+Inspection of Brighter Futures Merseyside Limited · 2024-10-17 · grade: **🔵 good**.
+[Full report](https://files.ofsted.gov.uk/v1/file/50259530)
 
-### What this school needs to improve
+Direct quotes from the report. Use these in outreach without paraphrasing — they're exactly what the inspector wrote.
 
-> What does the provider need to do to improve further?
+### What this provider needs to improve
+
+> What does the provider need to do to improve?
 >
->  Improve the quality of teaching, training, learning and assessment so that learners
-> maximise their potential and achieve their qualifications by ensuring that tutors, including
-> those in subcontractors, by:
-> – using individual learners’ starting points to plan and implement appropriate learning
-> – setting learners detailed and challenging short-term targets so that they know what
-> they need to do next
-> – monitoring and reviewing learners’ knowledge and skills development
-> – improving learners’ written English and mathematics skills.
->  Improve the quality improvement arrangements, including those in subcontractors, by:
-> – identifying accurately the strengths and weaknesses in teaching, training, learning
-> and assessment, and use these to provide training that improves tutors’ practices
-> – evaluating thoroughly the quality of work placements and the skills that learners
-> develop as a result of their work experience
-> – ensuring that the self-assessment report uses reliable evidence to make accurate
-> judgements, and that these inform specific actions to raise the quality of learners’
-> experiences
-> – sharing good practice.
->  Improve attendance to lessons so that all learners attend regularly.
->  Ensure that board members receive accurate information about learners’ achievements
-> and the quality of the provision, so that they can support and challenge senior managers.
->  Ensure that tutors working in subcontractors are skilful in improving learners’ depth of
-> understanding of the risks associated with radicalisation and extremism.
+>  Continue to improve the achievement and attendance at GCSE English and
+> mathematics.
+>  Continue to ensure that all sports students receive developmental feedback on
+> their written work so that they know how to improve the quality of their work.
+
+### Education programmes for young people
+
+> education programmes for
+> young people. Of the 906 learners, 794 study level 3 sport, 67 study level 3
+> performing arts, 45 study level 2 animal care and less than five study level 1
+> vocational programmes. There are no students in receipt of high-needs funding.
+
+### Safeguarding
+
+> Safeguarding
 >
+> The arrangements for safeguarding are effective.
+
+### What is it like to be a learner here / What does the provider do well
+
+> What is it like to be a learner with this provider?
 >
+> Students thoroughly enjoy their learning and take pride in their work; they have a
+> great sense of achievement in their accomplishments. Students provide strong support
+> for each other and celebrate the achievements of their peers. They are motivated to
+> learn and understand the importance of attendance and punctually to lessons. They
+> develop their confidence, resilience and character. Performing arts students learn to
+> manage their performance nerves and occasional disappointment following
+> auditions.
 >
+> Tutors and students share very calm, focused classroom environments. Students are
+> respectful, polite and considerate to their tutors and peers. They demonstrate
+> teamwork and clear communication when working on activities. For example, sports
+> students debate confidently and articulately why women’s and men’s football should
+> be treated equally.
 >
->
->
->
->
->
-> Inspection report: Brighter Futures Merseyside Limited, 20–23 June 2017
->
-> Page 3 of 10
->
->
->
->
-> Inspection judgements
->
-> Effectiveness of leadership and management Requires improvement
->
->  Leaders and managers do not have an accurate understanding of the quality of the
-> provision, including that of their subcontractors. The information that they use does not
-> provi…
+> Students feel very well supported by staff to make informed choices about their next
+> steps. They receive a wide range of additional information to support them with their
+> career aspirations. Most students progress to employment or apprenticeships, and
 
 ## Compliance signals
 
@@ -107,23 +104,23 @@ _No high-trigger news matched in the last extraction pass._
 
 Quotes you can drop directly into outreach. Severity drives the score.
 
-- **os.extremism** (severity 4.0, what_school_needs_to_improve)
+- **os.extremism** (severity 4.0, what_provider_needs_to_improve)
   >  Ensure that board members receive accurate information about learners’ achievements and the quality of the provision, so that they can support and challenge senior managers.  Ensure that tutors working in subcontractors are skilful in improving learners’ depth of understanding of the risks associated with radicalisation and extremism. Inspection report: B
 
-- **os.radicalisation** (severity 4.0, what_school_needs_to_improve)
+- **os.radicalisation** (severity 4.0, what_provider_needs_to_improve)
   >  Ensure that board members receive accurate information about learners’ achievements and the quality of the provision, so that they can support and challenge senior managers.  Ensure that tutors working in subcontractors are skilful in improving learners’ depth of understanding of the risks associated with radicalisation and extremism. Inspection report: B
 
-- **emp.work_experience** (severity 4.0, what_school_needs_to_improve)
+- **emp.work_experience** (severity 4.0, what_provider_needs_to_improve)
   > For example, despite checks, regular visits and performance monitoring visits within the last two years, too many learners in subcontractors have not performed well. The performance of the largest subcontractor is not good enough. Managers do not ensure that subcontractors plan learners’ work experience well and prepare all learners thoroughly for their work
 
-- **emp.work_experience** (severity 4.0, what_school_needs_to_improve)
+- **emp.work_experience** (severity 4.0, what_provider_needs_to_improve)
   >  Improve the quality improvement arrangements, including those in subcontractors, by: – identifying accurately the strengths and weaknesses in teaching, training, learning and assessment, and use these to provide training that improves tutors’ practices – evaluating thoroughly the quality of work placements and the skills that learners develop as a result o
 
-- **os.extremism** (severity 2.0, safeguarding)
-  >  Learners have a good general awareness of the risks associated with radicalisation and extremism. However, most learners in subcontractors do not have a sufficient understanding of how radicalisation and extremism can affect their lives.  Learners develop good vocationally relevant skills. For example, learners on performing arts courses develop a high le
+- **cr.mental_health** (severity 4.0, what_provider_needs_to_improve)
+  > Board members are ambitious for learners and are passionate about raising their aspirations. They have implemented new initiatives and resources to help learners to achieve and to ensure that their wider needs are met. For example, they have supported the training of staff to become mental health first aiders.  Board members have a good understanding of the
 
-- **os.extremism** (severity 2.0, safeguarding)
-  >  Too few learners on subcontracted provision benefit from careers guidance to help them make informed choices about further learning or employment after completing their study programmes.  Learners have a good general awareness of the risks associated with radicalisation and extremism. However, most learners in subcontractors do not have a sufficient under
+- **emp.itp_skills_knowledge_gaps** (severity 3.0, leadership_management)
+  > Leadership and management Good: Grade 2 Work-based learning Contributory grade: Good: Grade 2 Train to Gain Contributory grade: Good: Grade 2 Equality of opportunity Contributory grade: Good: Grade 2 14. Leadership and management are good. Sysco has clear strategic direction to fill a regional skills gap. It uses national, regional and local intelligence wel
 
 ---
 

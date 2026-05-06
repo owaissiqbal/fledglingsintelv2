@@ -13,12 +13,12 @@
 
 ## Lead-with curriculum
 
-**Confidence & Resilience** (sub-score 55)
+**Employability Skills** (sub-score 55)
 
 - Financial Literacy: 0
-- Employability Skills: 29
+- Employability Skills: 55
 - Confidence & Resilience: 55
-- Online Safety: 33
+- Online Safety: 55
 
 ## Why this is on the list
 
@@ -47,68 +47,92 @@
 
 _+ 3 earlier inspections in the database._
 
-## Verbatim from the inspector
+## Verbatim from the latest inspection report
 
-Direct quotes from the latest published report. Use these in outreach without paraphrasing.
+Inspection of QDOS Training Limited · 2023-04-24 · grade: **🔵 good**.
+[Full report](https://files.ofsted.gov.uk/v1/file/50214602)
 
-### What this school needs to improve
+Direct quotes from the report. Use these in outreach without paraphrasing — they're exactly what the inspector wrote.
 
-> What does the provider need to do to improve further?
->  Ensure, as a matter of the highest priority, that learners are safe by carrying out appropriate
-> disclosure checks on all staff who work unsupervised with learners aged 16 to 18. Systematically
-> train staff in order to develop their understanding of safeguarding in order to keep learners safe.
->  Implement planned formal observations of teaching, learning and assessment and ensure that
-> through performance management and support, trainers and assessors improve their practice so
-> that all learners experience provision of high quality.
->  Ensure that trainers and assessors have access to the results of initial assessment so that they
-> plan lessons that take account of learners’ different abilities.
->  Develop self-assessment and a full range of quality assurance processes and use these to
-> evaluate effectively all aspects of teaching, learning and assessment. Make full use of this
-> information to produce detailed action plans to secure improvements for learners.
->  Ensure that trainers and assessors create opportunities to develop learners’ skills in English and
-> mathematics in the classroom and in the workplace.
->  Ensure that trainers and assessors promote equality and diversity themes that take into account
-> learners’ work and vocational contexts.
+### What this provider needs to improve
+
+> What does the provider need to do to improve?
 >
-> Inspection judgements
-> Outcomes for learners
-> Good
+>  Leaders and managers should ensure that they have a detailed understanding of
+> the strengths and weaknesses of the provision, including variations in the quality
+> of different apprenticeships and levels, so that they can target improvements
+> specifically towards those areas that require this.
+>  Leaders must ensure that apprentices and employers on level 5 adult care have a
+> sound understanding of their entitlement to off-the-job training and that
+> apprentices routinely use that time effectively to extend and broaden their
+> knowledge and skills on their apprenticeship programme.
+>  Leaders must ensure that trainer assessors support apprentices to develop their
+> English skills beyond the level required by the qualification, so that they are well
+> prepared for further study and higher level employment.
+>  Leaders must ensure that apprentices have a detailed understanding of the broad
+> range of career opportunities that are available to them on completion of their
+> apprenticeship.
+
+### Safeguarding
+
+> Safeguarding
 >
->  Qdos provides apprenticeships, classroom-based programmes and traineeships. The majority of
-> learners are intermediate apprenticeships on administration and customer service programmes,
-> and information and communication technology (ICT) learners, mostly aged over 19, on
-> classroom-based programmes. A small proportion of learners are on traineeship programmes;
-> around half of are aged 16 to 18.
->  Outcomes for learners are good. Apprenticeship framework success rates increased significantly
-> in 2013/14 and are high. The success rate for apprentices completing within planned timescales
-> also improved signific…
+> The arrangements for safeguarding are effective.
+>
+> Leaders have established a strong culture of safeguarding. They have put in place a
+> wide range of policies and procedures that they use effectively to keep apprentices
+> and trainees safe. Safeguarding leaders, including a governor who is responsible for
+> safeguarding, are appropriately trained and qualified.
+>
+> Leaders liaise frequently with external bodies to ensure that their knowledge of
+> safeguarding is up to date, including their understanding of local risks in the broad
+> geographical areas that they teach. Apprentices and trainees understand and
+> employ safe working practices in their workplaces.
+>
+> Leaders have detailed recruitment policies in place to ensure that employees are
+> safe to work with young people and vulnerable adults.
 
-### Areas for improvement
+### What is it like to be a learner here / What does the provider do well
 
-> areas for improvement across all aspects of teaching, learning
-> and assessment or about the key areas they need to work on to secure improvements in the
-> quality of their work with learners. Consequently, action planning to secure timely improvements
-> for learners is not sufficiently effective.
->  Staff maintain a strong focus on the achievement of learners. They make good use of bespoke
-> databases and the careful auditing of learners’ files to ensure full compliance with funding and
-> awarding body requirements. Internal verification processes are appropriate.
->  Leaders and managers have a clear strategic vision and plan well for the future development of
-> the organisation. This is strongly focused on business development and on realigning the
-> strategic objectives and programmes for learners with local and national priorities. The majority
-> of staff understand and fully support this strategy. However, the strategic objectives do not take
-> sufficient account of the key national priority relating to the development of learners’ skills in
-> English and mathematics.
->  Managers make good use of a wide range of local networks and partnerships and their links with
-> employers to secure work opportunities for learners and to develop programmes that meet local
-> and national priorities. Managers are implementing well-considered plans to engage parents in
-> the recruitment of young people to traineeships and in the development of traineeships. This
-> includes the provision of impartial information, advice and guidance.
->  All staff work to clearly defined performance objectives that managers review regularly. An
-> annual appraisal process is in place, but it is not fully complete and up-to-date for all staff.
-> Improvement actions arising from appraisals are not always sufficiently measureable. Managers
-> have not prioritised the need for further improvements in trainers’ skills to enable them to
-> develop effectively learners’ English and mathematics skills.
->  Learners and staff …
+> What is it like to be a learner with this provider?
+>
+> Apprentices and trainees are supported well to improve the knowledge and skills
+> that are relevant to their work and future careers. Waste resources operative
+> apprentices find their course demanding but highly beneficial to their aspirations to
+> progress to positions of responsibility in their workplaces. Trainees progress to
+> apprenticeships in hair, beauty and business administration at the end of their
+> studies. Apprentices and trainees are more confident in their everyday lives and
+> carry out their roles professionally in the workplace.
+>
+> Apprentices and trainees work in a positive and supportive culture. Their behaviour
+> is exemplary. They are attentive in taught sessions and enjoy the work that they do
+> in the workplace. Apprentices feel, and inspectors agree, that trainer assessors
+> support them well with their work. Apprentices value the positive feedback that
+> trainer assessors provide them with and are motivated by the enthusiasm of the
+> teaching staff.
+>
+> Apprentices and trainees feel respected in the workplace and believe that their views
+> and opinions are valued. They feel able to talk to staff and know that they will
+> receive support with their personal lives if they need it. Apprentices and trainees
+> feel, and are, safe in their studies and at work.
+>
+> What does the provider do well and what does it need to do
+> better?
+>
+> Leaders have established a relevant and ambitious curriculum that meets the needs
+> of their learners and the skills gaps identified by employers locally, regionally and
+> nationally. Leaders have high aspirations for apprentices and trainees to achieve
+> very good standards in their work and to progress to further learning or gain
+> promotion at work.
+>
+> Managers work effectively with employers to consider the sequencing of topics in
+> the apprenticeships. Apprentices learn new knowledge and skills in a meaningful
+> way. For example, level 3 safety, health and environment technician apprentices
+> learn about the moral and legal obligations for safe working practices. Apprentices
+> then use this knowledge competently to inform the risk assessments that they carry
+> out in their workplaces. Trainer assessors swiftly adapt the curriculum to meet
+> individual apprentices’ needs. Trainer assessors of level 5 leader in adult care
+> apprenticeships changed the order of units to support …
 
 ## Compliance signals
 
@@ -122,23 +146,23 @@ _No high-trigger news matched in the last extraction pass._
 
 Quotes you can drop directly into outreach. Severity drives the score.
 
-- **emp.cv_interview_skills** (severity 4.0, what_school_needs_to_improve)
+- **emp.cv_interview_skills** (severity 4.0, what_provider_needs_to_improve)
   > The success rate for apprentices completing within planned timescales also improved significantly from a low base and are now high. The high classroom-based learning success rates have been sustained over two years.  Trainees develop good interview techniques, team working, communication and office skills that prepare them well for their high quality work p
 
-- **emp.employer_engagement** (severity 3.0, areas_for_improvement)
-  > She receives support from the general manager and a manager with specific responsibility for training programmes. The company employs three information technology trainers, two functional skills and employability trainers, three administration and customer service assessors, five employer engagement executives and three administrators. Apprentices work in sm
+- **emp.cv_interview_skills** (severity 4.0, what_provider_needs_to_improve)
+  > Apprentices are coached well in preparation for interviews and gain relevant skills related to potential employment. Trainers assist learners in producing a tailored curriculum vitae and in honing their interview skills; apprentices speak highly of this service. All apprentices supported between May and July 2015 successfully gained sustainable employment. 
 
-- **shared.diversity** (severity 2.0, what_school_needs_to_improve)
-  > Teaching, learning and assessment in administration are not yet outstanding because:  initial assessment outcomes are not used systematically to plan learning to meet individual needs; a small minority of trainees are not sufficiently challenged and are not encouraged to work independently  trainers do not sufficiently promote equality and diversity or int
+- **emp.cv_interview_skills** (severity 4.0, what_provider_needs_to_improve)
+  >  The number of classroom-based learners has increased significantly over the last three years and the proportion that achieve their qualification outcomes is high. Most learners pass their qualification at the first attempt.  Prospective apprentices develop good interview techniques, and communication and office skills that prepare them well for interviews
 
-- **shared.diversity** (severity 2.0, what_school_needs_to_improve)
-  > Inspection report: Qdos Training Limited, 9 – 13 February 2015 4 of 11 ICT for users 19+ learning programmes Apprenticeships Requires improvement Teaching, learning and assessment in ICT require improvement because:  not all learners make sufficiently good progress  tutors do not use learners’ initial assessment information to plan learning and as a result
+- **emp.itp_off_the_job** (severity 4.0, what_provider_needs_to_improve)
+  >  Leaders and managers should ensure that they have a detailed understanding of the strengths and weaknesses of the provision, including variations in the quality of different apprenticeships and levels, so that they can target improvements specifically towards those areas that require this.  Leaders must ensure that apprentices and employers on level 5 adu
 
-- **shared.diversity** (severity 2.0, what_school_needs_to_improve)
-  > Trainers discuss equality and diversity briefly at induction but they do not always develop this further in teaching and learning sessions. Apprentices’ progress reviews make reference to equality and diversity but assessors do not promote these themes systematically in the context of the workplace. Inspection report: Qdos Training Limited, 9 – 13 February 2
+- **os.extremism** (severity 3.0, areas_for_improvement)
+  > Procedures for ensuring the health and safety of staff and learners on the main site are comprehensive and adhered to well.  All staff have received training that has improved their skills in identifying signs of abuse and neglect and raised their awareness of radicalisation and extremism. They use this information very effectively during learners’ inductio
 
-- **shared.diversity** (severity 2.0, what_school_needs_to_improve)
-  >  The planning, promotion and development of equality and diversity requires improvement. Few trainers and assessors plan and integrate equality and diversity well within the curriculum. Trainers discuss equality and diversity briefly at induction but they do not always develop this further in teaching and learning sessions. Apprentices’ progress reviews mak
+- **os.extremism** (severity 3.0, areas_for_improvement)
+  >  Following their own professional development, the majority of assessors skilfully lead discussions on equality, diversity and safeguarding during reviews in the workplace, including reference to the dangers of radicalisation and extremism. However, on occasion a very small minority of discussions overly focus on health and safety and do not sufficiently pr
 
 ---
 

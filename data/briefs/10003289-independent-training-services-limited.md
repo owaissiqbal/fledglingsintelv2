@@ -13,12 +13,12 @@
 
 ## Lead-with curriculum
 
-**Confidence & Resilience** (sub-score 55)
+**Employability Skills** (sub-score 55)
 
-- Financial Literacy: 0
-- Employability Skills: 41
+- Financial Literacy: 13
+- Employability Skills: 55
 - Confidence & Resilience: 55
-- Online Safety: 42
+- Online Safety: 55
 
 ## Why this is on the list
 
@@ -47,68 +47,85 @@
 
 _+ 6 earlier inspections in the database._
 
-## Verbatim from the inspector
+## Verbatim from the latest inspection report
 
-Direct quotes from the latest published report. Use these in outreach without paraphrasing.
+Inspection of Independent Training Services Limited · 2023-07-18 · grade: **🔵 good**.
+[Full report](https://files.ofsted.gov.uk/v1/file/50223539)
 
-### Areas for improvement
+Direct quotes from the report. Use these in outreach without paraphrasing — they're exactly what the inspector wrote.
 
-> areas for improvement.
->
->
->
->
-> Inspection dates 25 February – 1 March 2013
-> Overall effectiveness
-> This inspection:
-> Requires improvement-3
-> Previous inspection:
-> Good-2
-> Outcomes for learners
-> Requires improvement-3
-> Quality of teaching, learning and assessment
-> Requires improvement-3
-> Effectiveness of leadership and management
-> Requires improvement-3
-> This provider requires improvement because:
-> This provider has the following strengths:
->
-> Inspection report: Independent Training Services Ltd, 25 February–1 March 2013 2 of 13
->
-> Full report
+### What this provider needs to improve
 
-### What this school needs to improve
-
-> What does the provider need to do to improve further?
->  Focus teaching and learning observations on learners and what they are learning and ensure
-> that the observation process successfully improves teaching, learning and assessment through
-> the identification and sharing of good practice.
->  Ensure written feedback following assessment fully reflects the detailed oral feedback given to
-> aid learners’ progress.
->  Improve apprenticeship success rates by regularly monitoring the progress of all learners,
-> including those who are subcontracted to other training providers, and ensure that slow
-> progress is rapidly reversed.
->  Improve Foundation Learning progression to employment, education or training by providing
-> high-quality information, advice and guidance during the programme and ensuring all learners
-> have appropriate periods of work experience.
->  Improve the self-assessment process so that it is fully inclusive of stakeholder views and that
-> the report accurately identifies strengths and aspects that require improvement.
->  Improve the analysis and use of data for managing, monitoring and quality improving the
-> provision.
->  Provide the board with sufficient and timely information to enable the trustees to support and
-> rigorously challenge the senior management.
+> What does the provider need to do to improve?
 >
-> Inspection judgements
-> Outcomes for learners
-> Requires improvement
->  The outcomes for learners require improvement and are reflected in the quality of teaching,
-> learning and assessment and the effectiveness of leadership and management which also
-> require improvement.
->  The proportion of apprentices who successfully complete their apprenticeships is broadly in line
-> with national averages while the proportion of those who achieve within their planned
-> timescales is good and considerably above national averages. However, there is too much
-> variation between the different subjects. Learners on retailing and wholesaling apprenticeships
-> and those on health and social care apprenticeships have good …
+>  Ensure that all apprentices have a thorough understanding of the requirements
+> for end-point assessment from the beginning of their programme.
+>  Ensure that action to reduce the number of apprentices who go beyond their
+> planned end date is sustained.
+
+### Safeguarding
+
+> Safeguarding
+>
+> The arrangements for safeguarding are effective.
+>
+> Leaders ensure that staff are well trained in safeguarding. Staff undertake
+> comprehensive safeguarding training so that they know how to keep learners and
+> apprentices safe, including how to make referrals to those responsible for
+> safeguarding. Leaders work closely with the local authority, police and other
+> agencies so they have up-to-date knowledge of the risks that learners and
+> apprentices may face.
+>
+> Leaders deal appropriately with safeguarding concerns when they are raised. They
+> have a low threshold to help early identification of potential safeguarding concerns,
+> including slow progress and low attendance.
+>
+> Leaders undertake appropriate checks to ensure that staff are suitable to be
+> employed at the provider. They have a single central record that clearly identifies the
+> dates that identity, right to work in the United Kingdom and security clearance
+> checks take place.
+
+### What is it like to be a learner here / What does the provider do well
+
+> What is it like to be a learner with this provider?
+>
+> Apprentices and learners have positive attitudes towards their learning. They value
+> the support that they receive to help them to develop new knowledge, skills and
+> behaviours. They are motivated to do well and achieve the best possible grades.
+> Apprentices understand that employers value qualifications and that having these
+> will help them to develop or advance their career more swiftly.
+>
+> Learning coaches encourage apprentices to take on additional activities at work that
+> enhance their ability to cope with new or uncertain situations. This helps apprentices
+> to develop their confidence and resilience when tackling more demanding roles. For
+> example, level 5 operations management apprentices are encouraged by their coach
+> to lead complex activities at work and now feel able to prepare effectively for
+> external quality audits, manage budgets and control medical supplies.
+>
+> Apprentices and learners attend their training sessions well and are motivated to
+> succeed. If they cannot attend a learning session, they contact their teachers and
+> learning coaches to let them know. Staff provide apprentices and learners with
+> sufficient opportunities to catch up on their missed work by, for example, arranging
+> additional training sessions for them.
+>
+> Staff provide apprentices and learners with useful information about being respectful
+> and responsible citizens. Apprentices in care settings, for example, understand the
+> importance of being discreet and sensitive when working with older, vulnerable
+> clients. Adult learners studying gym and fitness qualifications know that it is
+> important to be mindful of those from different cultures and of different genders
+> who may have a range of expectations of what constitutes close, personal space.
+>
+> Apprentices understand how to stay safe in the workplace. They learn early in their
+> apprenticeship about how to deal with vulnerable clients in care settings and the
+> signs that their clients may be at risk of abuse, such as bruising that cannot be
+> accounted for. Adult learners are taught about being safe at night when leaving gym
+> premises and the risks associated with working on quiet business parks.
+>
+> What does the provider do well and what does it need to do
+> better?
+>
+> Leaders have a clear curriculum intent to provide apprenticeship and adult skills
+> training for loc…
 
 ## Compliance signals
 
@@ -122,23 +139,23 @@ _No high-trigger news matched in the last extraction pass._
 
 Quotes you can drop directly into outreach. Severity drives the score.
 
-- **emp.itp_assessment_weak** (severity 4.0, what_school_needs_to_improve)
+- **emp.itp_apprentices_progress_slow** (severity 4.5, areas_for_improvement)
+  > They develop good skills and confidence that improve their effectiveness in the workplace. Learners are able to apply learning to their role that increases their opportunities for employability. Most learners make good progress. However, the small number of intermediate childcare apprentices make slow progress.  Learners feel safe in the workplace. The prom
+
+- **emp.itp_assessment_weak** (severity 4.0, what_provider_needs_to_improve)
   > Some individual learning plans and reviews are insufficiently comprehensive and do not focus on the specific training and learning that are required. New processes have recently been introduced to standardise the use of documentation across all provision but it is too soon to measure their impact.  Initial assessment is effective. All learners undertake app
 
-- **emp.work_experience** (severity 4.0, what_school_needs_to_improve)
+- **emp.work_experience** (severity 4.0, what_provider_needs_to_improve)
   > Inconsistencies in the quality of training between ITS and subcontractors impacts on learners’ ongoing progress and successful completion of their programmes. Foundation learners have too few opportunities for work shadowing and work experience on employers’ premises.  Trainers and assessors are appropriately qualified and have relevant occupational experie
 
-- **emp.work_experience** (severity 4.0, what_school_needs_to_improve)
+- **emp.work_experience** (severity 4.0, what_provider_needs_to_improve)
   >  Improve Foundation Learning progression to employment, education or training by providing high-quality information, advice and guidance during the programme and ensuring all learners have appropriate periods of work experience.  Improve the self-assessment process so that it is fully inclusive of stakeholder views and that the report accurately identifies
 
-- **shared.diversity** (severity 2.0, what_school_needs_to_improve)
-  >  Learners are good at working together and showing respect and understanding for each other and their tutors. Staff understand the needs of learners from diverse and often very disadvantaged backgrounds. Equality and diversity are usually promoted satisfactorily. However, in some lessons and progress reviews opportunities for increasing learners’ knowledge 
+- **emp.itp_assessment_weak** (severity 4.0, what_provider_needs_to_improve)
+  > Learners are encouraged to use their own mobile phones from which they can access their portfolio and progress records. Insufficient computers in a few study programme classes hinder development of independent learning and research skills.  Initial assessment is effective and encompasses a broad range of skills to help ensure a good match of learner to prog
 
-- **shared.diversity** (severity 2.0, what_school_needs_to_improve)
-  > They benefit considerably from in-house training by their employers which provides them with a wealth of information and resources that they use as evidence towards their NVQ. They have a good understanding of how equality and diversity relate to their work in the stores. Foundation Learning Foundation Learning Requires improvement  The quality of teaching,
-
-- **shared.diversity** (severity 2.0, what_school_needs_to_improve)
-  >  Assessors give good information, advice and guidance to learners to help them plan their careers. Learners are encouraged to progress to higher-level qualifications and they receive appropriate support to develop their job roles where appropriate.  Learners’ knowledge of equality and diversity is good. They benefit considerably from in-house training by t
+- **emp.work_experience** (severity 4.0, what_provider_needs_to_improve)
+  > Apprentices in care programmes demonstrate good skills and attitudes in supporting clients to maintain daily living and in showing empathy and giving respect.  Learners enjoy their programmes and many in the study programme value particularly the opportunity for work experience and to have a second chance at gaining qualifications after not achieving anythi
 
 ---
 

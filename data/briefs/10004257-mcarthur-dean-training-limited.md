@@ -1,6 +1,6 @@
 # McArthur Dean Training Limited
 
-**🟠 HIGH** · score **95** · urgency 55 · pipeline 100
+**🟠 HIGH** · score **95** · urgency 65 · pipeline 100
 
 ## Identity
 
@@ -13,12 +13,12 @@
 
 ## Lead-with curriculum
 
-**Financial Literacy** (sub-score 55)
+**Confidence & Resilience** (sub-score 65)
 
 - Financial Literacy: 55
 - Employability Skills: 55
-- Confidence & Resilience: 55
-- Online Safety: 55
+- Confidence & Resilience: 65
+- Online Safety: 63
 
 ## Why this is on the list
 
@@ -49,11 +49,43 @@
 
 _+ 4 earlier inspections in the database._
 
-## Verbatim from the inspector
+## Verbatim from the latest inspection report
 
-Direct quotes from the latest published report. Use these in outreach without paraphrasing.
+Inspection of McArthur Dean Training Limited · 2023-10-06 · grade: **🟠 requires improvement**.
+[Full report](https://files.ofsted.gov.uk/v1/file/50230098)
 
-### Main findings
+Direct quotes from the report. Use these in outreach without paraphrasing — they're exactly what the inspector wrote.
+
+### Safeguarding
+
+> Safeguarding
+>
+> The arrangements for safeguarding are effective.
+>
+> Leaders have appropriate safeguarding arrangements and reporting procedures in
+> place. They hold detailed records of any incidents that occur.
+>
+> Staff are appropriately trained in safeguarding. They hold qualifications in
+> safeguarding and complete annual update training to ensure they have up-to-date
+> knowledge of how to keep apprentices and trainees safe.
+>
+> Leaders conduct appropriate checks when they recruit staff. They request
+> employment references and carry out identity checks to determine staff suitability to
+> work at the provider.
+>
+> What does provider need to do to improve?
+>
+>  Ensure that all groups of learners receive effective initial advice and guidance so
+> that they are enrolled to the appropriate course and their learning is not delayed.
+>  Ensure that all groups of learners receive sufficient teaching and that teaching is
+> demanding and of a high quality.
+>  Ensure that all groups of learners receive advice and guidance that will support
+> them to pursue their future careers.
+>  Ensure that leaders fully and accurately evaluate all aspects of their provision so
+> that they are able to understand all the strengths and areas for development and
+> take action to remedy weaknesses.
+
+### What is it like to be a learner here / What does the provider do well
 
 > What is it like to be a learner with this provider?
 >
@@ -85,7 +117,16 @@ Direct quotes from the latest published report. Use these in outreach without pa
 > Apprentices and trainees feel safe. They know how to report issues or concerns to
 > those responsible for safeguarding and are confident that staff would act swiftly if
 > necessary. Apprentices and trainees learn about a range of topics related to
-> extremism and terrorism. However, a few are not informed well enough …
+> extremism and terrorism. However, a few are not informed well enough of the local
+> risks where they live, work and study. Leaders have recently introduced more
+> teaching for apprentices and trainees on these topics, but it is too early to see the
+> impact of this.
+>
+> What does the provider do well and what does it need to do
+> better?
+>
+> Leaders have not done enough to ensure that trainees receive good initial advice
+> and guidance. Too many trainees, when recruited, …
 
 ## Compliance signals
 
@@ -99,23 +140,23 @@ _No high-trigger news matched in the last extraction pass._
 
 Quotes you can drop directly into outreach. Severity drives the score.
 
-- **cr.personal_development_strengthen** (severity 3.0, personal_development)
-  > Personal development Requires improvement Leadership and management Requires improvement Education programmes for young people Requires improvement Apprenticeships Good Overall effectiveness at previous inspection Good
+- **emp.itp_off_the_job** (severity 4.0, what_provider_needs_to_improve)
+  > The process is inclusive of staff, learners and employers and uses data accurately to reflect the provision. Quality-improvement actions are successful at improving learners’ performance and take account of both learners’ and employers’ feedback.  Management of the training programmes is good. Off-the-job training is well structured and flexible and meets t
 
-- **os.extremism** (severity 2.0, main_findings)
-  > They know how to report issues or concerns to those responsible for safeguarding and are confident that staff would act swiftly if necessary. Apprentices and trainees learn about a range of topics related to extremism and terrorism. However, a few are not informed well enough of the local risks where they live, work and study. Leaders have recently introduce
+- **shared.diversity** (severity 2.0, what_provider_needs_to_improve)
+  >  Staff receive regular training and assessment on equality and diversity from an external online provider. Learners have a satisfactory awareness of issues related to equality and diversity. McArthur Dean supports equality and diversity actively through successful initiatives to widen participation of under-represented groups in apprenticeship programmes. T
 
-- **emp.careers_guidance** (severity 2.0, main_findings)
-  > Too many trainees already have the knowledge that the curriculum covers, and this impedes their progress. Inspection report: McArthur Dean Training Limited 22 to 25 August 2023 and 20 September 2023 3 Staff do not provide apprentices and trainees with enough impartial careers advice and guidance to equip them with an understanding of the range of opportuniti
+- **shared.diversity** (severity 2.0, what_provider_needs_to_improve)
+  > Strengthening of the activities of the recruitment team has provided additional support to learners at risk of either leaving the programme or requiring further employment.  Staff receive regular training and assessment on equality and diversity from an external online provider. Learners have a satisfactory awareness of issues related to equality and divers
 
-- **shared.rshe_curriculum** (severity 1.0, safeguarding)
-  > They request employment references and carry out identity checks to determine staff suitability to work at the provider. What does provider need to do to improve?  Ensure that all groups of learners receive effective initial advice and guidance so that they are enrolled to the appropriate course and their learning is not delayed.  Ensure that all groups of
+- **shared.diversity** (severity 2.0, what_provider_needs_to_improve)
+  > Strengthening of the activities of the recruitment team has provided additional support to learners at risk of either leaving the programme or requiring further employment.  Staff receive regular training and assessment on equality and diversity from an external online provider. Learners have a satisfactory awareness of issues related to equality and divers
 
-- **emp.future_aspirations** (severity 1.0, safeguarding)
-  >  Ensure that all groups of learners receive sufficient teaching and that teaching is demanding and of a high quality.  Ensure that all groups of learners receive advice and guidance that will support them to pursue their future careers.  Ensure that leaders fully and accurately evaluate all aspects of their provision so that they are able to understand al
+- **shared.diversity** (severity 2.0, what_provider_needs_to_improve)
+  > Assessors work carefully with learners and employers to identify appropriate on-the-job training opportunities and progression routes. Learners are supported with additional information to progress to higher qualifications.  Learners have an adequate awareness of equality and diversity. They develop respect for others’ diverse needs and cultures and behave 
 
-- **shared.diversity** (severity 1.0, main_findings)
-  > Tutors coach apprentices and trainees effectively to enable them to understand the principles of equality and appreciate the benefits of a diverse society. For example, level 3 business administration apprentices can describe the legal implications of not abiding by legislation related to the protected characteristics of staff, such as their sexuality. Inspe
+- **shared.diversity** (severity 2.0, what_provider_needs_to_improve)
+  >  Increase the number of learners achieving the full framework within the planned timescale by improving monitoring and tracking.  Increase the effectiveness of the online learning tool by supporting all assessors to improve their confidence in using it.  Deepen learners’ understanding of equality and diversity issues by improving questioning and discussio
 
 ---
 
