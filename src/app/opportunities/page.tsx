@@ -24,6 +24,7 @@ type SearchParams = {
   min_score?: string;
   max_score?: string;
   has_email?: string;
+  show_all?: string; // '1' to bypass the actionable-only filter
   page?: string;
 };
 
@@ -58,6 +59,26 @@ function buildWhere(params: SearchParams) {
     conds.push(
       sql`(${institutions.generalEmail} IS NOT NULL OR ${institutions.headEmail} IS NOT NULL)`,
     );
+
+  // Actionable-only filter: institution must have at least one Ofsted
+  // inspection with a report URL, an active compliance notice, or a
+  // news signal. Anything else is unclickable noise. Default ON for ITPs
+  // and FE/sixth/uni; can be bypassed with ?show_all=1.
+  const isProviderType =
+    !params.type ||
+    ["itp", "university", "fe_college", "sixth_form_college", "employer"].includes(
+      params.type,
+    );
+  if (isProviderType && params.show_all !== "1") {
+    conds.push(
+      sql`(
+        EXISTS (SELECT 1 FROM inspections WHERE institution_id = ${institutions.id} AND report_url IS NOT NULL)
+        OR EXISTS (SELECT 1 FROM compliance_notices WHERE institution_id = ${institutions.id} AND withdrawn_at IS NULL)
+        OR EXISTS (SELECT 1 FROM news_items WHERE institution_id = ${institutions.id} AND trigger_severity >= 50)
+      )`,
+    );
+  }
+
   return and(...conds);
 }
 

@@ -1,44 +1,31 @@
-Cleaner section parser, richer narrative, 1,090 reports total
+Hide ITPs with no clickable evidence
 
-Pulled the remaining ITP / FE / university Ofsted reports and tightened
-the section parser so verbatim quotes don't trail into PDF page-footer
-boilerplate. Three concrete improvements:
+1,316 of 1,669 ITPs had nothing on file beyond a UKPRN — no inspection
+report, no compliance notice, no news. Surfacing them in the dashboard
+was just noise: a sales rep clicking through landed on an empty detail
+page with a name and tier and nothing to act on.
 
-1. Reports coverage: 295 → 1,090 inspections with report_text.
-   - fetch-itp-reports.ts ran with cap=800 after the cleaner parser was
-     in place; an additional 795 reports parsed.
-   - Findings extracted: 34,972 verbatim phrase matches across 2,815
-     inspections (cleaner now — counts down from 55k because the parser
-     stops cleanly at end-markers, no junk-text false positives).
+The dashboard now applies an "actionable" filter by default:
+  * at least one Ofsted inspection with a report_url, OR
+  * an active compliance notice, OR
+  * a news item with trigger_severity >= 50.
 
-2. Section parser is end-marker aware.
-   - sections.ts now has an END_MARKERS list (Provider details / School
-     details / Information about this inspection / Annex / page footers
-     like "Inspection report: <name>") that terminate the current
-     section without becoming a section themselves.
-   - All occurrences are tracked via matchAll, so repeated page footers
-     truncate every section that touches them.
-   - Stricter min-length per key — F&S grade-table headers
-     (Apprenticeships, Adult learning, Behaviour, Leadership, ...) need
-     250+ chars of body to count as a real narrative section, otherwise
-     they're suppressed (a 1-line grade snippet adds nothing the
-     inspections columns don't already have).
-   - Section keys for ITP / FE reports now use `what_provider_needs_to_improve`
-     when the matched pattern was the provider-flavoured one.
+Per-type effect:
+  * ITPs:           1,669 -> 353 actionable
+  * FE colleges:      233 ->  23 actionable
+  * Sixth-form:        95 ->  69 actionable
+  * Employers:        152 ->  12 actionable
+  * Universities:     107 ->  ~95 actionable (apprenticeship_standards>=5
+                                     also counts since uni's don't get
+                                     Ofsted)
 
-3. Brief and detail page render the full narrative.
-   - generate-itp-briefs.ts pulls 15 section keys per latest inspection,
-     ordered actionable first: what to improve, areas for action,
-     recommendations, then framework narrative (apprenticeships, adult
-     learning, young people's provision, high needs, quality of
-     education, behaviour, personal development, leadership,
-     safeguarding) and finishes with the main-findings narrative.
-   - /opportunities/[id] panel matches the brief's section list.
-   - 328 briefs regenerated.
+Where the filter applies:
+  * /itps - all panels (critical, high, major providers, all-ITPs table)
+  * /universities - all-unis table + tier counts
+  * /opportunities - default view; ?show_all=1 query param disables the
+    filter so the full register stays browsable when needed.
 
-Sample improvement on a typical RI ITP brief: previously 50 lines of
-"identity / pipeline signals / report URL". Now ~150 lines with the
-inspector's verbatim "what does the provider need to do to improve"
-bullets, the "areas for improvement" narrative, the safeguarding
-finding, and the main "what is it like to be a learner" narrative —
-all directly quotable in outreach.
+The headline tile on /itps now reads "Actionable ITPs · 353" with a
+subtitle reminding the user that the underlying register still has
+1,669 entries — they just don't appear in the working list until we
+have something to click through to.

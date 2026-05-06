@@ -41,15 +41,31 @@ type ItpRow = {
 
 type CountRow = { n: number };
 
+// "Actionable" = there's evidence a sales rep can click through to:
+// at least one Ofsted inspection with a report URL, an active compliance
+// notice, or a meaningful news signal. ITPs with none of these are just
+// names + UKPRNs and add noise to the dashboard.
+const ACTIONABLE_CLAUSE = `(
+  EXISTS (SELECT 1 FROM inspections WHERE institution_id=i.id AND report_url IS NOT NULL)
+  OR EXISTS (SELECT 1 FROM compliance_notices WHERE institution_id=i.id AND withdrawn_at IS NULL)
+  OR EXISTS (SELECT 1 FROM news_items WHERE institution_id=i.id AND trigger_severity >= 50)
+)`;
+
 async function loadHeadline() {
+  // Show two counts: total in the universe AND the actionable subset
+  // (the one we actually display in the tables).
   const universe = await client.execute(
     `SELECT COUNT(*) AS n FROM institutions WHERE type='itp' AND in_scope=1`,
+  );
+  const actionable = await client.execute(
+    `SELECT COUNT(*) AS n FROM institutions i
+     WHERE i.type='itp' AND i.in_scope=1 AND ${ACTIONABLE_CLAUSE}`,
   );
   const tiers = await client.execute(`
     SELECT os.tier, COUNT(*) AS n
     FROM institutions i
     JOIN opportunity_scores os ON os.institution_id = i.id
-    WHERE i.type='itp' AND i.in_scope=1
+    WHERE i.type='itp' AND i.in_scope=1 AND ${ACTIONABLE_CLAUSE}
     GROUP BY os.tier
   `);
   const tierMap: Record<string, number> = {
@@ -88,6 +104,7 @@ async function loadHeadline() {
   `);
   return {
     total: (universe.rows[0] as unknown as CountRow).n,
+    actionable: (actionable.rows[0] as unknown as CountRow).n,
     tiers: tierMap,
     activeCompliance: (compliance.rows[0] as unknown as CountRow).n,
     recentRiInadequate: (recentInsp.rows[0] as unknown as CountRow).n,
@@ -111,7 +128,7 @@ async function loadCriticalItps(): Promise<ItpRow[]> {
              ROW_NUMBER() OVER (PARTITION BY institution_id ORDER BY inspection_start_date DESC) AS rn
       FROM inspections
     ) latest ON latest.institution_id = i.id AND latest.rn = 1
-    WHERE i.type='itp' AND i.in_scope=1 AND os.tier='critical'
+    WHERE i.type='itp' AND i.in_scope=1 AND os.tier='critical' AND ${ACTIONABLE_CLAUSE}
     ORDER BY os.urgency_score DESC, os.score DESC
   `);
   return r.rows as unknown as ItpRow[];
@@ -132,7 +149,7 @@ async function loadTopHighItps(limit = 30): Promise<ItpRow[]> {
                    ROW_NUMBER() OVER (PARTITION BY institution_id ORDER BY inspection_start_date DESC) AS rn
             FROM inspections
           ) latest ON latest.institution_id = i.id AND latest.rn = 1
-          WHERE i.type='itp' AND i.in_scope=1 AND os.tier='high'
+          WHERE i.type='itp' AND i.in_scope=1 AND os.tier='high' AND ${ACTIONABLE_CLAUSE}
           ORDER BY os.urgency_score DESC, os.score DESC
           LIMIT ?`,
     args: [limit],
@@ -183,7 +200,7 @@ async function loadAllItps(): Promise<ItpRow[]> {
              ROW_NUMBER() OVER (PARTITION BY institution_id ORDER BY inspection_start_date DESC) AS rn
       FROM inspections
     ) latest ON latest.institution_id = i.id AND latest.rn = 1
-    WHERE i.type='itp' AND i.in_scope=1
+    WHERE i.type='itp' AND i.in_scope=1 AND ${ACTIONABLE_CLAUSE}
     ORDER BY
       CASE WHEN os.tier = 'critical' THEN 0
            WHEN os.tier = 'high' THEN 1
@@ -216,7 +233,7 @@ async function loadMajorProviders(limit = 25): Promise<ItpRow[]> {
                    ROW_NUMBER() OVER (PARTITION BY institution_id ORDER BY inspection_start_date DESC) AS rn
             FROM inspections
           ) latest ON latest.institution_id = i.id AND latest.rn = 1
-          WHERE i.type='itp' AND i.in_scope=1
+          WHERE i.type='itp' AND i.in_scope=1 AND ${ACTIONABLE_CLAUSE}
           ORDER BY i.apprenticeship_standards DESC NULLS LAST
           LIMIT ?`,
     args: [limit],
@@ -388,9 +405,9 @@ export default async function ItpsDashboard() {
 
         <section className="mb-10 grid grid-cols-2 gap-4 md:grid-cols-3 lg:grid-cols-6">
           <StatTile
-            label="ITPs in universe"
-            value={headline.total.toLocaleString()}
-            sub={`${headline.withEmail.toLocaleString()} with contact email`}
+            label="Actionable ITPs"
+            value={headline.actionable.toLocaleString()}
+            sub={`of ${headline.total.toLocaleString()} on register · with Ofsted, compliance or news`}
             href="/opportunities?type=itp"
             accent="bg-fl-navy"
           />
@@ -863,11 +880,13 @@ export default async function ItpsDashboard() {
           <div className="mb-4 flex items-end justify-between gap-4">
             <div>
               <h2 className="text-lg font-semibold text-slate-900">
-                All ITPs · {allItps.length.toLocaleString()}
+                Actionable ITPs · {allItps.length.toLocaleString()}
               </h2>
               <p className="mt-1 text-sm text-slate-600">
-                Every in-scope ITP. Sorted by tier (critical → skip), then
-                urgency, then size. Use Ctrl+F to find a specific provider.
+                Every in-scope ITP that has at least one Ofsted inspection,
+                an active compliance notice, or a news signal — clickable
+                evidence is on file for each row. Sorted by tier, then
+                urgency, then size. Hidden: {(headline.total - headline.actionable).toLocaleString()} ITPs with no evidence on record yet.
               </p>
             </div>
             <form action="/opportunities" method="get" className="flex items-center gap-2">

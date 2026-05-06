@@ -45,6 +45,12 @@ async function loadHeadline() {
     FROM institutions i
     JOIN opportunity_scores os ON os.institution_id = i.id
     WHERE i.type='university' AND i.in_scope=1
+      AND (
+        EXISTS (SELECT 1 FROM inspections WHERE institution_id=i.id AND report_url IS NOT NULL)
+        OR EXISTS (SELECT 1 FROM compliance_notices WHERE institution_id=i.id AND withdrawn_at IS NULL)
+        OR EXISTS (SELECT 1 FROM news_items WHERE institution_id=i.id AND trigger_severity >= 50)
+        OR i.apprenticeship_standards >= 5
+      )
     GROUP BY os.tier
   `);
   const tierMap: Record<string, number> = {
@@ -95,6 +101,12 @@ async function loadAllUniversities(): Promise<UniRow[]> {
     FROM institutions i
     LEFT JOIN opportunity_scores os ON os.institution_id = i.id
     WHERE i.type='university' AND i.in_scope=1
+      AND (
+        EXISTS (SELECT 1 FROM inspections WHERE institution_id=i.id AND report_url IS NOT NULL)
+        OR EXISTS (SELECT 1 FROM compliance_notices WHERE institution_id=i.id AND withdrawn_at IS NULL)
+        OR EXISTS (SELECT 1 FROM news_items WHERE institution_id=i.id AND trigger_severity >= 50)
+        OR i.apprenticeship_standards >= 5
+      )
     ORDER BY i.apprenticeship_standards DESC NULLS LAST, i.name
   `);
   return r.rows as unknown as UniRow[];
