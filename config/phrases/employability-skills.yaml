@@ -1,0 +1,113 @@
+# Employability Skills phrase library — v0 seed
+# Maps to weaknesses around careers education, employer engagement, work
+# readiness, transition into work, and the Gatsby Benchmarks.
+# Note: the acronym for careers education and guidance is never used in
+# user-facing strings (per project conventions); spell it out.
+
+phrases:
+  - id: emp.careers_provision_weak
+    pattern: "careers\\s+(?:advice|guidance|education|provision|programme)\\s+is\\s+(?:not|insufficient|inconsistent|under-developed|underdeveloped|weak|limited)"
+    regex: true
+    severity: 3
+    curricula: [employability_skills]
+
+  - id: emp.gatsby_benchmarks
+    pattern: "Gatsby\\s+Benchmarks?"
+    regex: true
+    severity: 3
+    curricula: [employability_skills]
+    guards:
+      - "meets all 8 Gatsby"
+      - "meets all of the Gatsby"
+      - "meets all the Gatsby"
+      - "achieves all Gatsby"
+      - "achieves all 8 Gatsby"
+      - "exceeds the Gatsby"
+      - "fully meets the Gatsby"
+      - "all Gatsby Benchmarks are met"
+      - "Gatsby Benchmarks are achieved"
+      - "Gatsby Benchmarks are embedded"
+
+  - id: emp.careers_education
+    pattern: "careers\\s+education"
+    regex: true
+    severity: 2
+    curricula: [employability_skills]
+
+  - id: emp.careers_guidance
+    pattern: "careers\\s+(?:advice\\s+and\\s+guidance|guidance|advice)"
+    regex: true
+    severity: 2
+    curricula: [employability_skills]
+
+  - id: emp.careers_information
+    pattern: "careers\\s+information"
+    regex: true
+    severity: 1
+    curricula: [employability_skills]
+
+  - id: emp.preparation_for_work
+    pattern: "preparation\\s+for\\s+(?:employment|work|the\\s+(?:world\\s+of\\s+)?work)"
+    regex: true
+    severity: 3
+    curricula: [employability_skills]
+
+  - id: emp.work_experience
+    pattern: "work\\s+experience"
+    regex: true
+    severity: 2
+    curricula: [employability_skills]
+
+  - id: emp.employer_engagement
+    pattern: "employer\\s+(?:engagement|encounters|visits|interactions)"
+    regex: true
+    severity: 2
+    curricula: [employability_skills]
+
+  - id: emp.engage_with_employers
+    pattern: "(?:opportunities?\\s+to\\s+)?engage\\s+with\\s+employers"
+    regex: true
+    severity: 2
+    curricula: [employability_skills]
+
+  - id: emp.destinations_data
+    pattern: "destinations?\\s+data"
+    regex: true
+    severity: 2
+    curricula: [employability_skills]
+
+  - id: emp.transition_to_work
+    pattern: "transition\\s+(?:into|to)\\s+(?:work|employment|the\\s+workplace|further\\s+study)"
+    regex: true
+    severity: 2
+    curricula: [employability_skills]
+
+  - id: emp.cv_interview_skills
+    pattern: "(?:CV|curriculum\\s+vitae|interview)\\s+(?:writing|skills|preparation|techniques)"
+    regex: true
+    severity: 2
+    curricula: [employability_skills]
+
+  - id: emp.future_aspirations
+    pattern: "future\\s+(?:career|aspirations?)"
+    regex: true
+    severity: 1
+    curricula: [employability_skills]
+
+  - id: emp.next_steps
+    pattern: "next\\s+steps\\s+(?:in|after|beyond)"
+    regex: true
+    severity: 1
+    curricula: [employability_skills]
+
+  - id: emp.world_of_work
+    pattern: "world\\s+of\\s+work"
+    regex: true
+    severity: 1
+    curricula: [employability_skills]
+
+  - id: emp.apprenticeships_awareness
+    pattern: "apprenticeships?\\s+(?:opportunities?|awareness|pathways?)"
+    regex: true
+    severity: 1
+    curricula: [employability_skills]

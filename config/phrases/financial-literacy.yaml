@@ -1,0 +1,71 @@
+# Financial Literacy phrase library — v0 seed
+# Phrases that, when found in inspection reports, indicate gaps the
+# Fledglings Financial Literacy curriculum addresses.
+#
+# Schema:
+#   id          : stable identifier, never reused
+#   pattern     : literal string OR regex source if regex: true
+#   regex       : optional, defaults false
+#   severity    : 1..3 base weight, multiplied by section multiplier
+#   curricula   : list of curricula this phrase maps to
+#   guards      : optional list of phrases that, if found in the same
+#                 sentence, suppress this match (negation guards)
+
+phrases:
+  - id: fin_lit.financial_education
+    pattern: "financial education"
+    severity: 3
+    curricula: [financial_literacy]
+
+  - id: fin_lit.financial_literacy
+    pattern: "financial literacy"
+    severity: 3
+    curricula: [financial_literacy]
+
+  - id: fin_lit.personal_finance
+    pattern: "personal finance"
+    severity: 3
+    curricula: [financial_literacy]
+
+  - id: fin_lit.preparation_for_adult_life
+    pattern: "preparation for adult life"
+    severity: 2
+    curricula: [financial_literacy, confidence_resilience]
+    guards:
+      - "strong preparation for adult life"
+      - "outstanding preparation for adult life"
+
+  - id: fin_lit.managing_money
+    pattern: "managing\\s+(?:their\\s+)?(?:own\\s+)?money|managing\\s+finances"
+    regex: true
+    severity: 2
+    curricula: [financial_literacy]
+
+  - id: fin_lit.economic_understanding
+    pattern: "economic\\s+(?:awareness|wellbeing|understanding|education)"
+    regex: true
+    severity: 2
+    curricula: [financial_literacy]
+
+  - id: fin_lit.budgeting
+    pattern: "budgeting"
+    severity: 2
+    curricula: [financial_literacy]
+
+  - id: fin_lit.money_skills
+    pattern: "money\\s+skills"
+    regex: true
+    severity: 2
+    curricula: [financial_literacy]
+
+  - id: fin_lit.financial_decisions
+    pattern: "financial\\s+decisions"
+    regex: true
+    severity: 2
+    curricula: [financial_literacy]
+
+  - id: fin_lit.economic_education
+    pattern: "(?:enterprise|economic)\\s+education"
+    regex: true
+    severity: 1
+    curricula: [financial_literacy]

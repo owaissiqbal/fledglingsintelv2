@@ -1,0 +1,1 @@
+ALTER TABLE `institutions` ADD `apprenticeship_standards` integer DEFAULT 0;

@@ -1,0 +1,113 @@
+# Online Safety phrase library — v0 seed
+# Maps to weaknesses around digital literacy, KCSiE Annex C, Prevent online
+# radicalisation, and digital safeguarding.
+
+phrases:
+  - id: os.online_safety_not_embedded
+    pattern: "online\\s+safety\\s+is\\s+(?:not|insufficient|inconsistent|under-developed|underdeveloped)"
+    regex: true
+    severity: 3
+    curricula: [online_safety]
+
+  - id: os.online_safety
+    pattern: "online\\s+safety"
+    regex: true
+    severity: 1
+    curricula: [online_safety]
+    guards:
+      - "strong online safety"
+      - "embedded online safety"
+      - "effective online safety"
+      - "outstanding online safety"
+      - "robust online safety"
+      - "comprehensive online safety"
+      - "online safety is well embedded"
+      - "online safety is a strength"
+      - "well-developed online safety"
+      - "exemplary online safety"
+      - "online safety is good"
+
+  - id: os.online_risks
+    pattern: "online\\s+(?:risks?|harm|dangers?|threats?)"
+    regex: true
+    severity: 2
+    curricula: [online_safety]
+
+  - id: os.digital_literacy
+    pattern: "digital\\s+literacy"
+    regex: true
+    severity: 2
+    curricula: [online_safety]
+
+  - id: os.kcsie_failure
+    pattern: "(?:does not (?:meet|comply)|fails to (?:meet|comply)|breach(?:es)? of)\\s+(?:KCSi[Ee]|Keeping\\s+Children\\s+Safe)"
+    regex: true
+    severity: 3
+    curricula: [online_safety]
+
+  - id: os.prevent_duty
+    pattern: "Prevent\\s+duty"
+    regex: true
+    severity: 2
+    curricula: [online_safety]
+
+  - id: os.radicalisation
+    pattern: "radicalisation|radicalization"
+    regex: true
+    severity: 2
+    curricula: [online_safety]
+
+  - id: os.extremism
+    pattern: "extremism"
+    regex: true
+    severity: 2
+    curricula: [online_safety]
+
+  - id: os.cyber_bullying
+    pattern: "cyber.bullying|cyber.bully"
+    regex: true
+    severity: 2
+    curricula: [online_safety]
+
+  - id: os.sexting
+    pattern: "sexting|harmful\\s+sexual\\s+behaviour|sharing\\s+nudes"
+    regex: true
+    severity: 2
+    curricula: [online_safety]
+
+  - id: os.social_media
+    pattern: "social\\s+media"
+    regex: true
+    severity: 1
+    curricula: [online_safety]
+
+  - id: os.digital_safeguarding
+    pattern: "digital\\s+safeguarding|safeguarding\\s+(?:in\\s+the\\s+)?digital"
+    regex: true
+    severity: 2
+    curricula: [online_safety]
+
+  - id: os.online_grooming
+    pattern: "online\\s+grooming|grooming\\s+(?:online|by\\s+(?:adults|strangers|predators))"
+    regex: true
+    severity: 2
+    curricula: [online_safety]
+    guards:
+      - "horse grooming"
+      - "animal grooming"
+      - "grooming course"
+      - "grooming qualification"
+      - "equine grooming"
+      - "grooming and welfare"
+
+  - id: os.understanding_online
+    pattern: "(?:pupils?|students?|learners?)['’]?\\s+understanding\\s+of\\s+(?:online|digital)"
+    regex: true
+    severity: 2
+    curricula: [online_safety]
+
+  - id: os.misinformation
+    pattern: "misinformation|disinformation|fake\\s+news"
+    regex: true
+    severity: 1
+    curricula: [online_safety]

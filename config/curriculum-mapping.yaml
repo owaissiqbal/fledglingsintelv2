@@ -1,0 +1,35 @@
+# Curriculum mapping weights — v0
+#
+# Each curriculum row defines a base weight for findings tagged with that
+# curriculum, plus optional per-phrase overrides. The Opportunity Score
+# combines (final_severity * curriculum_weight) across the institution's
+# findings, then we pick the curriculum with the highest aggregate as the
+# lead-with angle for outreach.
+#
+# Edit this file to amplify or dampen specific phrases. Re-run `pnpm score`
+# to apply changes without re-fetching reports.
+
+curricula:
+  financial_literacy:
+    base_weight: 1.0
+    overrides: {}
+
+  employability_skills:
+    base_weight: 1.0
+    overrides:
+      emp.gatsby_benchmarks: 1.5
+      emp.careers_provision_weak: 1.5
+      emp.preparation_for_work: 1.3
+
+  confidence_resilience:
+    base_weight: 1.0
+    overrides:
+      cr.personal_development_weak: 1.5
+      cr.attendance_poor: 1.3
+      cr.persistent_absence: 1.3
+
+  online_safety:
+    base_weight: 1.0
+    overrides:
+      os.online_safety_not_embedded: 1.5
+      os.kcsie: 1.2

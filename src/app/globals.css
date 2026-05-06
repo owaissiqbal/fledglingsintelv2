@@ -1,0 +1,106 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    /* Fledglings palette as raw HSL triplets so shadcn-style hsl(var(--x)) works */
+    --background: 0 0% 100%;            /* White */
+    --foreground: 209 85% 13%;          /* Navy #05253C */
+
+    --card: 0 0% 100%;
+    --card-foreground: 209 85% 13%;
+
+    --primary: 9 70% 51%;               /* Orange #D9452B */
+    --primary-foreground: 0 0% 100%;
+
+    --secondary: 10 14% 91%;            /* Off-White #ECE7E6 */
+    --secondary-foreground: 209 85% 13%;
+
+    --muted: 10 14% 95%;
+    --muted-foreground: 209 25% 35%;    /* Navy desaturated for body sub-copy */
+
+    --accent: 27 82% 61%;               /* Mango #ED9249 */
+    --accent-foreground: 209 85% 13%;
+
+    --destructive: 0 75% 48%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 209 30% 88%;              /* Navy-tinted border */
+    --input: 209 30% 88%;
+    --ring: 9 70% 51%;                  /* Orange focus ring */
+
+    --radius: 0.625rem;
+
+    /* Brand colour quick-references — match the brand guidelines verbatim */
+    --fl-navy: #05253C;
+    --fl-orange: #D9452B;
+    --fl-mango: #ED9249;
+    --fl-blue: #13507F;
+    --fl-off-white: #ECE7E6;
+    --fl-white: #FFFFFF;
+  }
+
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground antialiased;
+    font-family: "Outfit", ui-sans-serif, system-ui, -apple-system, "Segoe UI",
+      Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-feature-settings: "ss01", "rlig" 1, "calt" 1;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: "Outfit", ui-sans-serif, sans-serif;
+    font-weight: 600;
+    letter-spacing: -0.01em;
+  }
+
+  /* Custom selection highlight in brand orange */
+  ::selection {
+    background-color: var(--fl-orange);
+    color: var(--fl-white);
+  }
+}
+
+@layer components {
+  .fl-hero {
+    background-color: var(--fl-navy);
+    color: var(--fl-white);
+    background-image:
+      radial-gradient(circle at 88% 10%, rgba(217, 69, 43, 0.22), transparent 42%),
+      radial-gradient(circle at 8% 90%, rgba(19, 80, 127, 0.45), transparent 50%);
+  }
+
+  .fl-cta {
+    background-color: var(--fl-orange);
+    color: var(--fl-white);
+    transition: transform 120ms ease, background-color 120ms ease;
+  }
+  .fl-cta:hover {
+    background-color: #c33d25;
+  }
+  .fl-cta:active {
+    transform: translateY(1px);
+  }
+
+  .fl-card {
+    background-color: var(--fl-white);
+    border: 1px solid hsl(var(--border));
+    border-radius: var(--radius);
+    box-shadow: 0 1px 3px rgba(5, 37, 60, 0.06);
+  }
+
+  .fl-link {
+    color: var(--fl-blue);
+    text-decoration: underline;
+    text-decoration-color: rgba(19, 80, 127, 0.4);
+    text-underline-offset: 3px;
+    transition: text-decoration-color 120ms ease;
+  }
+  .fl-link:hover {
+    text-decoration-color: var(--fl-blue);
+  }
+}

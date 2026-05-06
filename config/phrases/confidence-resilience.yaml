@@ -1,0 +1,161 @@
+# Confidence & Resilience phrase library — v0 seed
+# Maps to weaknesses around personal development, mental wellbeing, character,
+# behaviour & attitudes, and attendance.
+
+phrases:
+  - id: cr.personal_development_weak
+    pattern: "personal\\s+development\\s+is\\s+(?:not|limited|under-developed|underdeveloped|inconsistent|narrow)"
+    regex: true
+    severity: 3
+    curricula: [confidence_resilience]
+
+  - id: cr.personal_development_strengthen
+    pattern: "personal\\s+development\\s+(?:requires|needs)\\s+(?:strengthening|further\\s+development|improvement)"
+    regex: true
+    severity: 3
+    curricula: [confidence_resilience]
+
+  - id: cr.personal_development
+    pattern: "personal\\s+development"
+    regex: true
+    severity: 1
+    curricula: [confidence_resilience]
+    guards:
+      - "strong personal development"
+      - "outstanding personal development"
+      - "exceptional personal development"
+      - "exemplary personal development"
+
+  - id: cr.character_education
+    pattern: "character\\s+(?:education|development|building)"
+    regex: true
+    severity: 2
+    curricula: [confidence_resilience]
+
+  - id: cr.mental_health
+    pattern: "mental\\s+health"
+    regex: true
+    severity: 2
+    curricula: [confidence_resilience]
+    guards:
+      - "mental health support is excellent"
+      - "strong mental health support"
+      - "outstanding mental health"
+      - "exemplary mental health"
+      - "comprehensive mental health"
+      - "well-developed mental health"
+      - "embedded mental health support"
+      - "robust mental health"
+
+  - id: cr.mental_wellbeing
+    pattern: "mental\\s+wellbeing"
+    regex: true
+    severity: 2
+    curricula: [confidence_resilience]
+    guards:
+      - "strong mental wellbeing"
+      - "excellent mental wellbeing"
+      - "outstanding mental wellbeing"
+
+  - id: cr.pupils_wellbeing
+    pattern: "(?:pupils?|students?|learners?)['’]?\\s+wellbeing"
+    regex: true
+    severity: 2
+    curricula: [confidence_resilience]
+    guards:
+      - "strong pupils' wellbeing"
+      - "excellent pupil wellbeing"
+      - "pupils' wellbeing is a strength"
+      - "pupils' wellbeing is high"
+      - "students' wellbeing is excellent"
+      - "outstanding pupil wellbeing"
+      - "good wellbeing"
+
+  - id: cr.resilience
+    pattern: "(?<![A-Za-z])resilience"
+    regex: true
+    severity: 2
+    curricula: [confidence_resilience]
+    guards:
+      - "shows great resilience"
+      - "considerable resilience"
+      - "strong resilience"
+
+  - id: cr.confidence
+    pattern: "(?:lack\\s+of\\s+confidence|build(?:ing)?\\s+confidence|low\\s+confidence)"
+    regex: true
+    severity: 2
+    curricula: [confidence_resilience]
+
+  - id: cr.behaviour_attitudes_concern
+    pattern: "behaviour\\s+(?:and|&)\\s+attitudes\\s+(?:requires|need|is\\s+inconsistent)"
+    regex: true
+    severity: 3
+    curricula: [confidence_resilience]
+
+  - id: cr.attendance_poor
+    pattern: "attendance\\s+(?:is|remains)\\s+(?:poor|low|below|too\\s+low|a\\s+concern)"
+    regex: true
+    severity: 3
+    curricula: [confidence_resilience]
+
+  - id: cr.persistent_absence
+    pattern: "persistent(?:ly)?\\s+absen[ct]"
+    regex: true
+    severity: 3
+    curricula: [confidence_resilience]
+
+  - id: cr.anxiety
+    pattern: "(?<![A-Za-z])anxiety|anxious"
+    regex: true
+    severity: 2
+    curricula: [confidence_resilience]
+    guards:
+      - "manage anxiety"
+      - "support to reduce anxiety"
+      - "address anxiety"
+      - "tackle anxiety"
+      - "no longer anxious"
+      - "less anxious"
+      - "exam anxiety support"
+
+  - id: cr.self_esteem
+    pattern: "self.esteem"
+    regex: true
+    severity: 2
+    curricula: [confidence_resilience]
+    guards:
+      - "improves self-esteem"
+      - "build self-esteem"
+      - "high self-esteem"
+      - "strong self-esteem"
+      - "boost self-esteem"
+      - "develops self-esteem"
+
+  - id: cr.wider_curriculum
+    pattern: "wider\\s+curriculum"
+    regex: true
+    severity: 1
+    curricula: [confidence_resilience]
+    guards:
+      - "rich wider curriculum"
+      - "broad wider curriculum"
+      - "outstanding wider curriculum"
+
+  - id: cr.smsc
+    pattern: "spiritual,?\\s+moral,?\\s+social\\s+and\\s+cultural"
+    regex: true
+    severity: 1
+    curricula: [confidence_resilience]
+
+  - id: cr.disengaged
+    pattern: "disengag(?:ed|ement)"
+    regex: true
+    severity: 2
+    curricula: [confidence_resilience]
+
+  - id: cr.peer_on_peer
+    pattern: "peer.on.peer\\s+abuse|child.on.child\\s+abuse"
+    regex: true
+    severity: 2
+    curricula: [confidence_resilience]

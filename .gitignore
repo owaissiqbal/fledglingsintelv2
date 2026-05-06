@@ -1,0 +1,51 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Build output
+.next/
+out/
+build/
+dist/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# SQLite database (local data, not committed)
+data/*.db
+data/*.db-journal
+data/*.db-shm
+data/*.db-wal
+
+# Cached raw documents (large, regenerable from public sources)
+data/raw/
+
+# Logs
+*.log
+npm-debug.log*
+pnpm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# TypeScript
+*.tsbuildinfo
+next-env.d.ts
+
+# Playwright
+test-results/
+playwright-report/
+playwright/.cache/
+
+# Drizzle migration meta is committed; only the generated SQL stays

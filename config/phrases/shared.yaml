@@ -1,0 +1,82 @@
+# Shared phrase library — v0 seed
+# Phrases that flag general red flags applying to multiple curricula.
+# A single match here can populate findings for several curricula at once.
+
+phrases:
+  - id: shared.pshe_inconsistent
+    pattern: "PSHE\\s+(?:is\\s+)?(?:not\\s+(?:consistently|fully|effectively)|inconsistent|under.developed|narrow)"
+    regex: true
+    severity: 3
+    curricula: [confidence_resilience, financial_literacy, online_safety]
+
+  - id: shared.pshe_curriculum
+    pattern: "PSHE\\s+(?:curriculum|programme|provision)"
+    regex: true
+    severity: 1
+    curricula: [confidence_resilience, financial_literacy, online_safety]
+
+  - id: shared.rshe_gap
+    pattern: "(?:RSHE|RSE)\\s+(?:is\\s+)?(?:not\\s+(?:consistently|fully|effectively)|inconsistent|under.developed)"
+    regex: true
+    severity: 3
+    curricula: [confidence_resilience, online_safety]
+
+  - id: shared.rshe_curriculum
+    pattern: "(?:RSHE|RSE|relationships\\s+(?:and\\s+sex\\s+)?education)"
+    regex: true
+    severity: 1
+    curricula: [confidence_resilience, online_safety]
+
+  - id: shared.healthy_relationships
+    pattern: "healthy\\s+relationships"
+    regex: true
+    severity: 1
+    curricula: [confidence_resilience]
+
+  - id: shared.preparation_for_life_beyond
+    pattern: "prepar(?:ed|ation|ing)\\s+(?:them\\s+)?for\\s+life\\s+beyond"
+    regex: true
+    severity: 2
+    curricula: [confidence_resilience, employability_skills, financial_literacy]
+
+  - id: shared.life_skills
+    pattern: "life\\s+skills"
+    regex: true
+    severity: 1
+    curricula: [confidence_resilience, financial_literacy, employability_skills]
+
+  - id: shared.wider_personal_development
+    pattern: "wider\\s+personal\\s+development|wider\\s+development"
+    regex: true
+    severity: 2
+    curricula: [confidence_resilience]
+
+  - id: shared.british_values_weak
+    pattern: "British\\s+(?:V|v)alues\\s+(?:are|is)\\s+(?:not|insufficient|inconsistent|under-?developed|narrow|poorly|limited)"
+    regex: true
+    severity: 3
+    curricula: [confidence_resilience]
+
+  - id: shared.cultural_capital
+    pattern: "cultural\\s+capital"
+    regex: true
+    severity: 1
+    curricula: [confidence_resilience]
+
+  - id: shared.curriculum_narrow
+    pattern: "(?:curriculum|provision)\\s+is\\s+(?:narrow|limited|too\\s+narrow)"
+    regex: true
+    severity: 2
+    curricula: [confidence_resilience]
+
+  - id: shared.opportunities_limited
+    pattern: "(?:few|limited)\\s+opportunities"
+    regex: true
+    severity: 1
+    curricula: [confidence_resilience, employability_skills]
+
+  - id: shared.diversity
+    pattern: "(?:diversity|protected\\s+characteristics|equality\\s+act)"
+    regex: true
+    severity: 1
+    curricula: [confidence_resilience]
