@@ -1,6 +1,6 @@
 # Channicool Training Services Limited
 
-**🟠 HIGH** · score **95** · urgency 55 · pipeline 96
+**🔴 CRITICAL** · score **95** · urgency 87 · pipeline 96
 
 ## Identity
 
@@ -13,12 +13,12 @@
 
 ## Lead-with curriculum
 
-**Financial Literacy** (sub-score 55)
+**Confidence & Resilience** (sub-score 87)
 
 - Financial Literacy: 55
-- Employability Skills: 55
-- Confidence & Resilience: 55
-- Online Safety: 55
+- Employability Skills: 80
+- Confidence & Resilience: 87
+- Online Safety: 57
 
 ## Why this is on the list
 
@@ -48,6 +48,28 @@ _No public regulatory or financial-health notices on file._
 ## News signals
 
 _No high-trigger news matched in the last extraction pass._
+
+## Verbatim inspection findings
+
+Quotes you can drop directly into outreach. Severity drives the score.
+
+- **emp.itp_curriculum_not_ambitious** (severity 3.0, safeguarding)
+  > Those who achieve their qualifications remain in employment and take on more responsibility as an air conditioning engineer or refrigeration technician. Needs attention Curriculum and teaching Needs attention Leaders do not have a close enough overview of the training that they provide. Consequently, the apprenticeship curriculum is not ambitious enough beca
+
+- **shared.wider_personal_development** (severity 2.0, safeguarding)
+  > They do not ensure that apprentices receive sufficient guidance to make decisions about their next steps throughout the three-year training period. This means that apprentices are aware of only a very limited number of options that exist for them. Leaders do not ensure that apprentices receive a broad enough curriculum that supports their wider development. 
+
+- **os.radicalisation** (severity 2.0, safeguarding)
+  > Where appropriate, staff take swift and effective action to support apprentices to make the necessary improvements. Tutors provide useful information to apprentices on a range of topics. They ensure that young apprentices know about healthy relationships. Apprentices learn about British values and the risks of radicalisation. Although, staff do not ensure th
+
+- **emp.itp_off_the_job** (severity 2.0, safeguarding)
+  > • Leaders should ensure that apprentices without level 2 English and/or mathematics, and those with special educational needs and/or disabilities are provided with effective support in order to meet their learning needs. • Leaders should ensure that staff and employers co-plan and implement on- and off-the-job training with employers so that apprentices can 
+
+- **emp.itp_off_the_job** (severity 2.0, safeguarding)
+  > What it's like to be a learner and/or an apprentice at this provider Leaders do not have sufficient oversight of the quality of the curriculum and the training that they provide. They do not work closely enough with employers to align their apprentices onand off-the-job training so that they can apply and practise newly taught knowledge, skills and behaviour
+
+- **emp.itp_off_the_job** (severity 2.0, safeguarding)
+  > This means that some apprentices repeat content of which they already have an awareness. These apprentices make slower progress than they could. Staff do not work effectively with employers to co-plan their apprentices' on- and off-the-job training. They do not ensure close alignment between the training received by apprentices and what they practise in the 
 
 ---
 

@@ -142,6 +142,31 @@ async function loadFindings(institutionId: number) {
   return r.rows as unknown as Record<string, unknown>[];
 }
 
+// Pull the verbatim "what the provider/school needs to improve" section
+// (and "areas for action" / "areas for improvement" — Ofsted's language
+// varies by framework) for the LATEST inspection. This is the single
+// most useful piece of report text for sales — it tells us in the
+// inspector's own words what the institution is being told to fix.
+async function loadKeyReportSections(institutionId: number) {
+  const r = await client.execute({
+    sql: `SELECT rs.section_key, rs.section_title, rs.section_text, rs.order_index
+          FROM inspections insp
+          JOIN report_sections rs ON rs.inspection_id = insp.id
+          WHERE insp.institution_id = ?
+            AND rs.section_key IN (
+              'what_provider_needs_to_improve',
+              'what_school_needs_to_improve',
+              'areas_for_action',
+              'areas_for_improvement',
+              'recommendations',
+              'main_findings'
+            )
+          ORDER BY insp.inspection_start_date DESC, rs.order_index ASC`,
+    args: [institutionId],
+  });
+  return r.rows as unknown as Record<string, unknown>[];
+}
+
 async function loadCompliance(institutionId: number) {
   const r = await client.execute({
     sql: `SELECT notice_body, notice_type, severity, subject, details,
@@ -169,12 +194,22 @@ async function loadNews(institutionId: number) {
   return r.rows as unknown as Record<string, unknown>[];
 }
 
+const SECTION_LABEL: Record<string, string> = {
+  what_provider_needs_to_improve: "What this provider needs to improve",
+  what_school_needs_to_improve: "What this school needs to improve",
+  areas_for_action: "Areas for action",
+  areas_for_improvement: "Areas for improvement",
+  recommendations: "Recommendations",
+  main_findings: "Main findings",
+};
+
 function renderBrief(
   inst: Record<string, unknown>,
   insps: Record<string, unknown>[],
   finds: Record<string, unknown>[],
   comp: Record<string, unknown>[],
   news: Record<string, unknown>[],
+  sections: Record<string, unknown>[],
 ): string {
   const out: string[] = [];
   const name = inst.name as string;
@@ -268,6 +303,40 @@ function renderBrief(
     }
   }
 
+  // Verbatim "what this provider needs to improve" / "areas for action"
+  // section from the latest report. This is the inspector's own words —
+  // the gold for outreach. We dedup by section_key (in case two latest-
+  // tied inspections each have one).
+  if (sections.length > 0) {
+    out.push("## Verbatim from the inspector");
+    out.push("");
+    out.push("Direct quotes from the latest published report. Use these in outreach without paraphrasing.");
+    out.push("");
+    const seen = new Set<string>();
+    for (const s of sections) {
+      const key = s.section_key as string;
+      if (seen.has(key)) continue;
+      seen.add(key);
+      const label = SECTION_LABEL[key] ?? key;
+      const text = ((s.section_text as string) ?? "").trim();
+      if (!text || text.length < 30) continue;
+      out.push(`### ${label}`);
+      out.push("");
+      // Render as a quote block, line by line so the markdown stays clean.
+      // Cap each section to 2,000 chars so a brief is readable.
+      const trimmed = text.length > 2000 ? text.slice(0, 2000) + "…" : text;
+      for (const line of trimmed.split(/\r?\n/)) {
+        const t = line.trim();
+        if (!t) {
+          out.push(">");
+        } else {
+          out.push(`> ${t}`);
+        }
+      }
+      out.push("");
+    }
+  }
+
   out.push("## Compliance signals");
   out.push("");
   const active = comp.filter((c) => !c.withdrawn_at);
@@ -346,13 +415,14 @@ async function main() {
   let written = 0;
   for (const inst of cohort) {
     const id = inst.id as number;
-    const [insps, finds, comp, news] = await Promise.all([
+    const [insps, finds, comp, news, sections] = await Promise.all([
       loadInspectionHistory(id),
       loadFindings(id),
       loadCompliance(id),
       loadNews(id),
+      loadKeyReportSections(id),
     ]);
-    const md = renderBrief(inst, insps, finds, comp, news);
+    const md = renderBrief(inst, insps, finds, comp, news, sections);
     const slug = slugify(inst.name as string);
     const ukprn = (inst.ukprn as string) || `id${id}`;
     const filename = `${ukprn}-${slug}.md`;

@@ -17,7 +17,7 @@
 
 - Financial Literacy: 55
 - Employability Skills: 72
-- Confidence & Resilience: 55
+- Confidence & Resilience: 61
 - Online Safety: 55
 
 ## Why this is on the list
@@ -42,6 +42,21 @@
 - Safeguarding: Met
 - [Report](https://reports.ofsted.gov.uk/provider/33/2539229)
 
+## Verbatim from the inspector
+
+Direct quotes from the latest published report. Use these in outreach without paraphrasing.
+
+### Areas for improvement
+
+> areas for improvement of the provision. Board members provide effective support and
+> challenge to managers to improve the provision and have the best interests of apprentices
+> at heart.
+>
+> Leaders have effective processes in place to improve the quality of the provision. Through
+> frequent monitoring, they have a secure oversight of the small proportion of provision that is
+> taught by one specialist subcontractor. Leaders have a sound track record of making
+> improvements. For example, they have improved the
+
 ## Compliance signals
 
 _No public regulatory or financial-health notices on file._
@@ -49,6 +64,28 @@ _No public regulatory or financial-health notices on file._
 ## News signals
 
 _No high-trigger news matched in the last extraction pass._
+
+## Verbatim inspection findings
+
+Quotes you can drop directly into outreach. Severity drives the score.
+
+- **os.extremism** (severity 2.0, personal_development)
+  > They receive guidance on their personal safety and online security, such as how to identify phishing emails. Leaders provide well-tailored training on risks to apprentices, such as the dangers of radicalisation and extremism. Lead inspector: Jon Bowman, His Majesty's Inspector Team inspectors: Jane Hughes, His Majesty's Inspector Alison Humphreys, His Majest
+
+- **os.radicalisation** (severity 2.0, personal_development)
+  > Apprentices feel safe and understand who to contact if they have any concerns. They receive guidance on their personal safety and online security, such as how to identify phishing emails. Leaders provide well-tailored training on risks to apprentices, such as the dangers of radicalisation and extremism. Lead inspector: Jon Bowman, His Majesty's Inspector Tea
+
+- **emp.cv_interview_skills** (severity 2.0, personal_development)
+  > For example, apprentices attend sessions on business writing and presentation techniques. These skills increase apprentices’ value to employers. Apprentices benefit from effective careers advice and guidance. Skills coaches provide helpful workshops on CV writing and how to create a professional online profile. Some apprentices attend networking events to ex
+
+- **emp.careers_guidance** (severity 2.0, personal_development)
+  > Skills coaches provide helpful workshops on CV writing and how to create a professional online profile. Some apprentices attend networking events to explore their career opportunities. Leaders recognise the need for broader impartial careers advice and have advanced plans in place to provide this. Apprentices value the frequent discussions on topics, such as
+
+- **emp.careers_guidance** (severity 2.0, personal_development)
+  > Leaders provide valuable opportunities for apprentices to develop additional skills. For example, apprentices attend sessions on business writing and presentation techniques. These skills increase apprentices’ value to employers. Apprentices benefit from effective careers advice and guidance. Skills coaches provide helpful workshops on CV writing and how to 
+
+- **cr.resilience** (severity 2.0, personal_development)
+  > They appreciate the frequent opportunities to meet them to discuss any worries or queries that they have. Apprentices study on a range of demanding apprenticeships and balance their study and work responsibilities well. Most are motivated and show resilience at work and in their studies. They enjoy the self-directed learning and manage their time well. Skill
 
 ---
 

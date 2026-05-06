@@ -154,8 +154,37 @@ function cleanPdfText(text: string): string {
 export async function ingestOfstedReports(opts: {
   refresh?: boolean;
   cap?: number;
+  types?: string[];          // restrict to certain institution types
+  prioritiseGrades?: string[]; // grade values to fetch first (e.g. ['inadequate','requires_improvement'])
 } = {}): Promise<RunResult> {
   const cap = opts.cap ?? REPORTS_CAP;
+
+  // Build a prioritised queue: high-urgency grades first within the type
+  // filter, then everything else by recency. The original ordering
+  // (recency only) gets crowded out by the 5,000 state schools and
+  // leaves ITPs starved.
+  const conds = [
+    isNotNull(inspections.reportUrl),
+    ne(inspections.reportUrl, ""),
+  ];
+  if (!opts.refresh) conds.push(isNull(inspections.reportText));
+  if (opts.types && opts.types.length > 0) {
+    conds.push(sql`${institutions.type} IN (${sql.join(
+      opts.types.map((t) => sql`${t}`),
+      sql`,`,
+    )})`);
+  }
+
+  const priorityGrades = opts.prioritiseGrades ?? [];
+  // Use a CASE expression to put RI/Inadequate first, then by recency.
+  const priorityOrder = priorityGrades.length
+    ? sql`CASE ${inspections.overallGrade}
+            ${sql.join(
+              priorityGrades.map((g, i) => sql`WHEN ${g} THEN ${i}`),
+              sql` `,
+            )}
+            ELSE ${priorityGrades.length} END ASC,`
+    : sql``;
 
   const candidates = await db
     .select({
@@ -166,14 +195,8 @@ export async function ingestOfstedReports(opts: {
     })
     .from(inspections)
     .innerJoin(institutions, eq(institutions.id, inspections.institutionId))
-    .where(
-      and(
-        isNotNull(inspections.reportUrl),
-        ne(inspections.reportUrl, ""),
-        opts.refresh ? sql`1=1` : isNull(inspections.reportText),
-      ),
-    )
-    .orderBy(desc(inspections.inspectionStartDate))
+    .where(and(...conds))
+    .orderBy(sql`${priorityOrder} ${inspections.inspectionStartDate} DESC`)
     .limit(cap);
 
   log.info(

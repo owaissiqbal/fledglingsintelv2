@@ -2,6 +2,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { desc, eq } from "drizzle-orm";
 import {
+  client,
   complianceNotices,
   curriculumMatches,
   db,
@@ -89,6 +90,35 @@ async function loadDetail(id: number) {
     .where(eq(newsItems.institutionId, id))
     .orderBy(desc(newsItems.triggerSeverity), desc(newsItems.publishedAt));
 
+  // Verbatim "what this provider needs to improve" / "areas for action"
+  // sections from the latest report. The single most useful piece of
+  // text on this page — the inspector's own words.
+  const latestInspectionId = allInspections[0]?.id;
+  const reportSectionRows = latestInspectionId
+    ? (
+        await client.execute({
+          sql: `SELECT section_key, section_title, section_text, order_index
+                FROM report_sections
+                WHERE inspection_id = ?
+                  AND section_key IN (
+                    'what_provider_needs_to_improve',
+                    'what_school_needs_to_improve',
+                    'areas_for_action',
+                    'areas_for_improvement',
+                    'recommendations',
+                    'main_findings'
+                  )
+                ORDER BY order_index ASC`,
+          args: [latestInspectionId],
+        })
+      ).rows as unknown as {
+        section_key: string;
+        section_title: string | null;
+        section_text: string;
+        order_index: number;
+      }[]
+    : [];
+
   return {
     institution: inst[0],
     score: score[0] ?? null,
@@ -96,6 +126,7 @@ async function loadDetail(id: number) {
     findings: inspectionFindings,
     compliance,
     news,
+    reportSections: reportSectionRows,
   };
 }
 
@@ -383,6 +414,47 @@ export default async function OpportunityDetailPage({
           </div>
         </section>
       ) : null}
+
+      {detail.reportSections && detail.reportSections.length > 0 && (
+        <section className="mt-8 overflow-hidden rounded-xl border-2 border-fl-orange/40 bg-gradient-to-br from-orange-50/60 to-amber-50/40 shadow-fl-card">
+          <div className="border-b border-fl-orange/30 bg-fl-orange/10 px-5 py-3">
+            <h2 className="text-sm font-semibold uppercase tracking-[0.14em] text-fl-navy">
+              Verbatim from the inspector
+            </h2>
+            <p className="mt-1 text-xs text-fl-navy/70">
+              Direct quotes from the latest published report. Use these in
+              outreach without paraphrasing.
+            </p>
+          </div>
+          <div className="divide-y divide-fl-orange/20">
+            {(() => {
+              const seen = new Set<string>();
+              return detail.reportSections
+                .filter((s) => {
+                  if (seen.has(s.section_key)) return false;
+                  seen.add(s.section_key);
+                  return s.section_text && s.section_text.trim().length >= 30;
+                })
+                .map((s) => {
+                  const label =
+                    SECTION_LABELS[s.section_key] ?? s.section_key.replaceAll("_", " ");
+                  const text = s.section_text.trim();
+                  const trimmed = text.length > 1800 ? text.slice(0, 1800) + "…" : text;
+                  return (
+                    <div key={s.section_key} className="px-5 py-4">
+                      <h3 className="mb-2 text-xs font-semibold uppercase tracking-wide text-fl-navy/70">
+                        {label}
+                      </h3>
+                      <blockquote className="border-l-4 border-fl-orange/60 pl-4 text-sm leading-relaxed text-fl-navy/90 whitespace-pre-line">
+                        {trimmed}
+                      </blockquote>
+                    </div>
+                  );
+                });
+            })()}
+          </div>
+        </section>
+      )}
 
       {(activeCompliance.length > 0 || significantNews.length > 0) && (
         <div className="mt-8 grid gap-6 lg:grid-cols-2">

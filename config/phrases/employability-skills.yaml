@@ -111,3 +111,88 @@ phrases:
     regex: true
     severity: 1
     curricula: [employability_skills]
+
+  # ITP / FE-specific weaknesses — the language Ofsted uses for training
+  # providers differs from school reports. These patterns target the
+  # "apprentices don't / can't / haven't" structure and weak off-the-job
+  # learning that shows up as findings in ITP reports.
+  - id: emp.itp_apprentices_progress_slow
+    pattern: "apprentices(?:'\\s+|\\s+)(?:do\\s+not\\s+make|are\\s+not\\s+making|make\\s+slow|do\\s+not\\s+always\\s+make)\\s+(?:good\\s+)?progress"
+    regex: true
+    severity: 3
+    curricula: [employability_skills, confidence_resilience]
+
+  - id: emp.itp_off_the_job
+    pattern: "(?:off-?the-?job|off\\s+the\\s+job)\\s+(?:training|learning|hours?)"
+    regex: true
+    severity: 2
+    curricula: [employability_skills]
+    guards:
+      - "off-the-job training is well-planned"
+      - "outstanding off-the-job"
+
+  - id: emp.itp_evidence_behind
+    pattern: "apprentices(?:\\s+are)?\\s+behind\\s+(?:on|with)\\s+(?:their\\s+)?(?:evidence|portfolio|coursework)"
+    regex: true
+    severity: 3
+    curricula: [employability_skills]
+
+  - id: emp.itp_employer_communication
+    pattern: "communication\\s+(?:with|between)\\s+employers\\s+is\\s+(?:not|poor|weak|inconsistent|limited)"
+    regex: true
+    severity: 3
+    curricula: [employability_skills]
+
+  - id: emp.itp_curriculum_not_ambitious
+    pattern: "curriculum\\s+is\\s+not\\s+(?:sufficiently\\s+)?ambitious"
+    regex: true
+    severity: 3
+    curricula: [employability_skills, confidence_resilience]
+
+  - id: emp.itp_skills_knowledge_gaps
+    pattern: "(?:knowledge|skills?)\\s+(?:gaps?|are\\s+not\\s+(?:fully\\s+)?developed|do\\s+not\\s+develop)"
+    regex: true
+    severity: 3
+    curricula: [employability_skills]
+
+  - id: emp.itp_english_maths
+    pattern: "English\\s+and\\s+(?:m|M)aths\\s+(?:provision|support|teaching)\\s+(?:is\\s+)?(?:weak|insufficient|inconsistent|limited|not\\s+(?:strong|effective))"
+    regex: true
+    severity: 3
+    curricula: [employability_skills, financial_literacy]
+
+  - id: emp.itp_assessment_weak
+    pattern: "assessment\\s+(?:is\\s+)?(?:not\\s+)?(?:effective|robust|consistent|accurate)"
+    regex: true
+    severity: 2
+    curricula: [employability_skills]
+
+  - id: emp.itp_initial_assessment
+    pattern: "initial\\s+assessment\\s+(?:is\\s+)?(?:not|inconsistent|weak|insufficient)"
+    regex: true
+    severity: 3
+    curricula: [employability_skills]
+
+  - id: emp.itp_progression_routes
+    pattern: "progression\\s+(?:routes|opportunities|options)\\s+(?:are\\s+)?(?:not|limited|unclear|inconsistent)"
+    regex: true
+    severity: 3
+    curricula: [employability_skills]
+
+  - id: emp.itp_attendance_low
+    pattern: "attendance\\s+(?:at|to)\\s+(?:off-?the-?job|workshops|sessions|college)\\s+(?:is\\s+)?(?:low|poor|inconsistent)"
+    regex: true
+    severity: 3
+    curricula: [employability_skills, confidence_resilience]
+
+  - id: emp.itp_completion_below_target
+    pattern: "(?:achievement|completion|achievement\\s+rate)\\s+(?:rates?\\s+)?(?:are\\s+|is\\s+)?(?:below|low|too\\s+low|not\\s+high\\s+enough)"
+    regex: true
+    severity: 3
+    curricula: [employability_skills]
+
+  - id: emp.itp_workplace_visits
+    pattern: "(?:tutor|trainer|assessor)\\s+visits?\\s+(?:to\\s+the\\s+workplace|are\\s+(?:not|inconsistent|infrequent|insufficient))"
+    regex: true
+    severity: 2
+    curricula: [employability_skills]

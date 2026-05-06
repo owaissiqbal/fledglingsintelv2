@@ -1,6 +1,6 @@
 # HTFT Partnership Limited
 
-**🟠 HIGH** · score **95** · urgency 55 · pipeline 100
+**🔴 CRITICAL** · score **95** · urgency 71 · pipeline 100
 
 ## Identity
 
@@ -13,11 +13,11 @@
 
 ## Lead-with curriculum
 
-**Financial Literacy** (sub-score 55)
+**Confidence & Resilience** (sub-score 71)
 
 - Financial Literacy: 55
-- Employability Skills: 55
-- Confidence & Resilience: 55
+- Employability Skills: 56
+- Confidence & Resilience: 71
 - Online Safety: 55
 
 ## Why this is on the list
@@ -49,6 +49,28 @@ _No public regulatory or financial-health notices on file._
 ## News signals
 
 _No high-trigger news matched in the last extraction pass._
+
+## Verbatim inspection findings
+
+Quotes you can drop directly into outreach. Severity drives the score.
+
+- **emp.itp_off_the_job** (severity 2.0, safeguarding)
+  > They have been swift to rectify most weaknesses. For example, English is now embedded into the curriculums, and they have improved their communication with employers so that there is greater cohesion between on- and off-the-job training. However, there is still work to be done to rectify other weaknesses, such as reducing the number of withdrawals from the l
+
+- **cr.mental_health** (severity 2.0, safeguarding)
+  > Leaders monitor the performance of all apprentices in their regular academic assessments. Where apprentices are not achieving well, leaders swiftly provide opportunities for them to discuss their progress with their mentor. Where apprentices disclose difficulties with their mental health, challenging personal circumstances, or financial concerns, leaders put
+
+- **shared.healthy_relationships** (severity 1.0, safeguarding)
+  > • Leaders should work with employers to ensure that level 7 apprentices are fully supported with appropriate time to complete their studies so that they remain on the apprenticeship and achieve. • Leaders should swiftly implement their revised curriculum for healthy relationships for younger apprentices so that these apprentices have a clearer understanding 
+
+- **shared.healthy_relationships** (severity 1.0, safeguarding)
+  > Most apprentices develop an understanding of topics such as fundamental British values, and mentors discuss topics linked to social and local risks during progress reviews. Leaders are implementing a revised curriculum to ensure younger apprentices have a clearer understanding of healthy relationships beyond the workplace. What it's like to be a learner and/
+
+- **shared.rshe_curriculum** (severity 1.0, safeguarding)
+  > Most apprentices on the level 3 apprenticeship achieve merit grades in their final examinations. Apprentices who remain on the level 7 apprenticeship pass the final examination, but too many apprentices leave this course before the end. Apprentices deepen their understanding of fundamental British values. Apprentices consider topics such as the rule of law i
+
+- **shared.rshe_curriculum** (severity 1.0, safeguarding)
+  > Apprenticeships Expected standard Expected standard Achievement Expected standard Most apprentices who stay to the end of their training achieve their qualifications. At level 3, apprentices achieve highly and most apprentices achieve a merit grade. At level 7, too many apprentices leave the course before completion. Apprentices’ work is at the expected stan
 
 ---
 

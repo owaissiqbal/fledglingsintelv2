@@ -1,6 +1,6 @@
 # Estio Training Limited
 
-**🟠 HIGH** · score **95** · urgency 55 · pipeline 100
+**🟠 HIGH** · score **95** · urgency 67 · pipeline 100
 
 ## Identity
 
@@ -13,11 +13,11 @@
 
 ## Lead-with curriculum
 
-**Financial Literacy** (sub-score 55)
+**Employability Skills** (sub-score 67)
 
 - Financial Literacy: 55
-- Employability Skills: 55
-- Confidence & Resilience: 55
+- Employability Skills: 67
+- Confidence & Resilience: 65
 - Online Safety: 55
 
 ## Why this is on the list
@@ -49,6 +49,28 @@ _No public regulatory or financial-health notices on file._
 ## News signals
 
 _No high-trigger news matched in the last extraction pass._
+
+## Verbatim inspection findings
+
+Quotes you can drop directly into outreach. Severity drives the score.
+
+- **os.online_risks** (severity 2.0, personal_development)
+  > Leaders create a supportive and respectful culture where apprentices feel safe. Female apprentices who work in male dominated environments are treated equitably and with respect. Apprentices have a good understanding of online risks such as hacking and how to manage suspicious content. Lead inspector: Sarah Lonsdale, His Majesty's Inspector Team inspectors: 
+
+- **emp.careers_guidance** (severity 2.0, personal_development)
+  > Coaches set precise targets that clearly identify the knowledge, skills and behaviours apprentices need to develop in training and work. Employers offer helpful opportunities for apprentices to practise and apply their skills at work. Leaders do not ensure that apprentices consistently receive careers guidance throughout their programme. Too many apprentices
+
+- **cr.confidence** (severity 2.0, personal_development)
+  > Trainers ensure that learning is planned to meet apprentices’ individual needs and is closely aligned to workplace projects. Apprentices are proud of their professional knowledge and skills. They produce work of a respectable industry standard which supports them to build confidence in their job roles. Apprentices with special educational needs and/or disabi
+
+- **emp.itp_assessment_weak** (severity 2.0, safeguarding)
+  > Apprentices discuss how their organisations identify risks and apply legislation in practice. However, a few trainers present too much information to apprentices without providing sufficient opportunity for consolidation of their learning. Most trainers use assessment effectively through questioning and observing group activities. They encourage apprentices 
+
+- **emp.cv_interview_skills** (severity 2.0, safeguarding)
+  > Most apprentices develop communication and presentation skills, which are important for their career development. Most apprentices who are looking for work are supported to develop their CV and attend sessions on interview techniques. Leaders have implemented a meaningful curriculum that extends beyond the apprenticeship standard. They provide a range of use
+
+- **emp.careers_guidance** (severity 2.0, safeguarding)
+  > They work with employers to ensure that apprentices have access to the right support and appropriate adjustments in the workplace, such as reading software. Participation and development Needs attention Leaders do not ensure that apprentices consistently benefit from high-quality careers guidance. Too many apprentices are not provided with sufficient informa
 
 ---
 
